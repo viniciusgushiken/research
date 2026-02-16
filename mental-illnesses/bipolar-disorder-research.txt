@@ -1,0 +1,2308 @@
+================================================================================
+     BIPOLAR DISORDER: A COMPREHENSIVE RESEARCH REVIEW
+     Focus on Mania (Bipolar I) -- State-of-the-Art Science
+================================================================================
+
+     Compiled: February 2026
+     Sources: Peer-reviewed literature, DSM-5-TR, ICD-11, CANMAT/ISBD,
+              APA, BAP, and NICE guidelines, GWAS consortia data
+
+================================================================================
+                         TABLE OF CONTENTS
+================================================================================
+
+  CHAPTER 1 -- HISTORICAL EVOLUTION
+    1.1  Antiquity: The Earliest Descriptions (400 BCE -- 200 CE)
+    1.2  The Medieval Period and the Islamic Golden Age
+    1.3  The Renaissance and Early Modern Period (1400--1700)
+    1.4  The 18th Century: Toward a Medical Framework
+    1.5  The 19th Century: Birth of Bipolar Disorder as a Concept
+    1.6  Emil Kraepelin and Manic-Depressive Insanity (1899)
+    1.7  The Early-to-Mid 20th Century
+    1.8  Karl Leonhard and the Unipolar-Bipolar Distinction (1957)
+    1.9  The DSM Evolution (1952--2022)
+    1.10 The ICD Classification History
+    1.11 Modern Subtypes and the Bipolar Spectrum
+    1.12 Historical Timeline Summary
+
+  CHAPTER 2 -- KEY SCIENTISTS AND RESEARCHERS
+    2.1  Historical Figures
+    2.2  Modern and Contemporary Researchers
+    2.3  Key Research Institutions and Centers
+
+  CHAPTER 3 -- CLINICAL PRESENTATION OF MANIA
+    3.1  DSM-5-TR Diagnostic Criteria for a Manic Episode
+    3.2  Symptoms of Mania in Detail
+    3.3  Mania vs. Hypomania vs. Mixed States
+    3.4  The Subjective Experience of Mania
+    3.5  Consequences of Untreated Mania
+
+  CHAPTER 4 -- NEUROBIOLOGY OF MANIA
+    4.1  Neurotransmitter Systems
+    4.2  Brain Regions Implicated
+    4.3  Neural Circuitry Disruptions
+    4.4  Neuroimaging Findings
+    4.5  Neuroinflammation and Oxidative Stress
+    4.6  Mitochondrial Dysfunction
+    4.7  Circadian Rhythm Disruptions
+
+  CHAPTER 5 -- GENETICS OF BIPOLAR DISORDER
+    5.1  Heritability Estimates
+    5.2  Key Genes Identified
+    5.3  Genome-Wide Association Studies (GWAS)
+    5.4  Polygenic Risk Scores
+    5.5  Epigenetics
+    5.6  Gene-Environment Interactions
+
+  CHAPTER 6 -- WHY BIPOLAR DISORDER IS CONSIDERED INCURABLE
+    6.1  The Neuroprogression Model
+    6.2  The Kindling Model
+    6.3  Why Current Treatments Manage but Don't Cure
+    6.4  The Fundamental Biological Barriers to a Cure
+
+  CHAPTER 7 -- STATE-OF-THE-ART TREATMENTS
+    7.1  Mood Stabilizers
+    7.2  Atypical Antipsychotics
+    7.3  Combination Therapies
+    7.4  ECT for Treatment-Resistant Mania
+    7.5  Chronotherapy and Light Therapy
+
+  CHAPTER 8 -- EMERGING AND EXPERIMENTAL THERAPIES
+    8.1  Novel Drug Targets
+    8.2  Ketamine and Psychedelic Research
+    8.3  Anti-Inflammatory Approaches
+    8.4  Neuromodulation (TMS, tDCS, DBS)
+    8.5  Precision Medicine and Pharmacogenomics
+    8.6  Digital Phenotyping and AI-Based Prediction
+
+  CHAPTER 9 -- EPIDEMIOLOGY
+    9.1  Worldwide Prevalence
+    9.2  Sex and Gender Differences
+    9.3  Age of Onset
+    9.4  Disease Burden and Disability
+    9.5  Mortality and Life Expectancy
+    9.6  Comorbidity
+    9.7  Suicide Risk
+    9.8  Socioeconomic Impact
+
+  CHAPTER 10 -- PROGNOSIS AND LONG-TERM OUTCOMES
+    10.1 Cognitive Decline Over Time
+    10.2 Functional Outcomes
+    10.3 Predictors of Better Outcomes
+
+  REFERENCES
+
+================================================================================
+
+
+================================================================================
+CHAPTER 1 -- HISTORICAL EVOLUTION
+================================================================================
+
+The conceptual history of bipolar disorder spans approximately 2,400 years,
+from the humoral medicine of ancient Greece to the molecular psychiatry of
+the 21st century. Understanding this history is essential for appreciating
+why the illness remains so challenging to treat and why current diagnostic
+categories exist.
+
+
+1.1 ANTIQUITY: THE EARLIEST DESCRIPTIONS (c. 400 BCE -- 200 CE)
+------------------------------------------------------------------------
+
+HIPPOCRATES OF KOS (c. 460--370 BCE)
+
+Hippocrates, widely considered the father of Western medicine, described
+two distinct pathological mood states: melancholia (prolonged sadness,
+aversion to food, sleeplessness, irritability, restlessness) and mania
+(states of euphoria, grandiosity, agitation, and psychotic excitement).
+He attributed both to imbalances in the four bodily humors:
+
+  - Melancholia was caused by an excess of black bile (Greek: melas =
+    black, khole = bile).
+  - Mania was attributed to an excess of yellow bile.
+
+Hippocrates did not explicitly link the two states as manifestations of a
+single illness. However, his framework established the medical -- rather
+than supernatural -- understanding of mood disturbances. In "On the Sacred
+Disease," he argued that mental illness arose from natural causes, not
+divine punishment, a revolutionary concept for his era.
+
+
+ARETAEUS OF CAPPADOCIA (c. 150 CE)
+
+The most consequential ancient contribution came from Aretaeus of
+Cappadocia, a Greek physician practicing in Rome and Alexandria around the
+1st-2nd century CE. In his treatise "On the Causes and Symptoms of Chronic
+Diseases," Aretaeus made the groundbreaking observation that melancholia
+and mania were TWO MANIFESTATIONS OF THE SAME DISEASE. He wrote:
+
+    "It appears to me that melancholy is the commencement and a part of
+    mania... The development of mania is really a worsening of the
+    disease [melancholia] rather than a change into another disease."
+
+Key observations by Aretaeus:
+  - He described cyclical patterns of mood disturbance.
+  - He noted that some patients exhibited mania without preceding
+    melancholia, while others experienced both in alternation.
+  - He described patients who were "dull or stern, dejected or unreasonably
+    torpid" who would then become "furious, or gay, or laugh."
+  - He documented the lucid intervals between episodes.
+  - He observed that the illness could recur over a lifetime.
+
+Aretaeus is widely credited as the first physician to recognize what would,
+nearly 2,000 years later, be classified as bipolar disorder. His unifying
+concept linking mania and melancholia was remarkably modern but would not
+be widely embraced for centuries.
+
+
+GALEN OF PERGAMON (129--c. 216 CE)
+
+Galen extended Hippocratic humoral theory and systematized it further. He
+confirmed the distinction between melancholia and mania and reinforced the
+biological (humoral) basis of both conditions. However, Galen did not
+follow Aretaeus in linking the two as aspects of one disease. His emphasis
+on the humoral model would dominate Western medical thinking for over a
+millennium.
+
+
+SORANUS OF EPHESUS (c. 98--138 CE)
+
+Soranus described mania and melancholia in considerable clinical detail. He
+distinguished mania from febrile delirium and advocated for humane treatment
+of the mentally ill -- placing patients in well-lit, warm rooms and
+discouraging physical restraint. Some of his descriptions of cycling between
+mood states echo Aretaeus's observations.
+
+
+1.2 THE MEDIEVAL PERIOD AND THE ISLAMIC GOLDEN AGE
+------------------------------------------------------------------------
+
+During the European medieval period, supernatural explanations for mental
+illness (demonic possession, witchcraft, divine punishment) largely
+supplanted the Hippocratic tradition. Individuals exhibiting mania or
+melancholia were frequently subjected to exorcism, confinement, or worse.
+
+However, the Islamic Golden Age (c. 8th--14th centuries) preserved and
+advanced Greek medical knowledge:
+
+  - ISHAQ IBN IMRAN (d. c. 903) wrote a treatise on melancholia ("Maqala
+    fi al-Malikhuliya") that was influential in both the Islamic world and
+    medieval Europe (through Constantine the African's Latin translation).
+
+  - AVICENNA (IBN SINA) (980--1037), in "The Canon of Medicine," described
+    melancholia in detail and noted its relationship to mania, preserving
+    the Hippocratic and Galenic tradition.
+
+  - HALY ABBAS (ALI IBN AL-ABBAS AL-MAJUSI) (c. 930--994) also described
+    mood disorders in his "Complete Book of the Medical Art."
+
+These scholars maintained the concept that mania and melancholia were
+medical conditions with biological causes, preserving the intellectual
+bridge between antiquity and the modern era.
+
+
+1.3 THE RENAISSANCE AND EARLY MODERN PERIOD (c. 1400--1700)
+------------------------------------------------------------------------
+
+The Renaissance saw a gradual return to classical medical texts.
+
+THEOPHILUS BONET (1620--1689), a Swiss physician, used the term
+"manico-melancolicus" in 1686, explicitly linking mania and melancholia in
+a single clinical description -- one of the earliest uses of a compound
+term for what we now call bipolar disorder.
+
+ROBERT BURTON (1577--1640) published "The Anatomy of Melancholy" in 1621,
+a sprawling work that examined melancholia from medical, psychological,
+philosophical, and literary perspectives.
+
+THOMAS WILLIS (1621--1675), the English physician, is among the first to
+describe the alternation between mania and melancholia in the same patient
+with clinical precision. In 1672, in his work "De Anima Brutorum" ("Two
+Discourses Concerning the Soul of Brutes"), Willis wrote:
+
+    "After the Melancholy has long struggled... it at length passes into
+    Mania, with which it shares many affinities."
+
+Willis described how melancholia could transform into mania and vice versa
+in the same individual, and he proposed neurological rather than purely
+humoral explanations.
+
+
+1.4 THE 18TH CENTURY: TOWARD A MEDICAL FRAMEWORK
+------------------------------------------------------------------------
+
+PHILIPPE PINEL (1745--1826), a founder of modern psychiatry, classified
+mental illnesses systematically and advocated for humanitarian treatment
+of the mentally ill. He described "manie sans delire" (mania without
+delirium) and categorized various forms of insanity.
+
+His student JEAN-ETIENNE DOMINIQUE ESQUIROL (1772--1840) further refined
+the classification of mental disorders and described "lypemania" as a form
+of melancholia, noting the transitions between depressive and manic states
+in some patients.
+
+
+1.5 THE 19TH CENTURY: BIRTH OF BIPOLAR DISORDER AS A CONCEPT
+------------------------------------------------------------------------
+
+This century witnessed the crucial conceptual consolidation of bipolar
+disorder as a unified clinical entity.
+
+
+JEAN-PIERRE FALRET (1794--1870) AND "FOLIE CIRCULAIRE"
+
+In 1851, the French alienist Jean-Pierre Falret presented to the Academie
+de Medicine in Paris his concept of "la folie circulaire" (circular
+insanity). This was a landmark moment in psychiatric history. Falret
+described:
+
+  - A condition characterized by CONTINUOUS CYCLES of mania, melancholia,
+    and lucid intervals.
+  - The cyclical nature was an inherent feature of the illness, not
+    coincidental co-occurrence.
+  - He observed that the condition was HEREDITARY -- among the first to
+    note familial transmission.
+  - He argued this was a DISTINCT DISEASE ENTITY, not merely a combination
+    of separate disorders.
+  - He documented that the cycles could vary in duration and intensity.
+
+
+JULES BAILLARGER (1809--1890) AND "FOLIE A DOUBLE FORME"
+
+Just weeks after Falret's presentation, Jules Baillarger independently
+described an almost identical concept to the same academy, which he called
+"la folie a double forme" (dual-form insanity). Baillarger emphasized the
+alternation between manic and depressive episodes as a defining feature.
+
+A bitter priority dispute erupted between Falret and Baillarger. Modern
+historians generally credit Falret with the clearer and more complete
+formulation, but both made essential contributions.
+
+
+WILHELM GRIESINGER (1817--1868)
+
+The German psychiatrist Wilhelm Griesinger proposed in his influential
+textbook "Mental Pathology and Therapeutics" (1845) that mental illness was
+brain disease ("Geisteskrankheiten sind Gehirnkrankheiten"). He recognized
+a single unitary psychosis (Einheitspsychose) that could manifest as
+various forms, including alternating melancholia and mania.
+
+
+KARL LUDWIG KAHLBAUM (1828--1899)
+
+Kahlbaum introduced the concept of CYCLOTHYMIA in 1882, describing a
+milder form of cyclical mood disturbance that did not reach the full
+severity of mania or melancholia. This concept would later become a
+recognized subtype in modern classification systems.
+
+
+1.6 EMIL KRAEPELIN AND MANIC-DEPRESSIVE INSANITY (1899)
+------------------------------------------------------------------------
+
+Emil Kraepelin (1856--1926) is the single most influential figure in the
+history of bipolar disorder's classification. Working at the University
+of Munich, Kraepelin developed a comprehensive nosological system for
+mental illness that fundamentally shaped modern psychiatry.
+
+In the 6th edition of his textbook "Psychiatrie" (1899), Kraepelin
+introduced the concept of "manisch-depressives Irresein" (manic-depressive
+insanity). His key contributions:
+
+1. UNIFICATION UNDER ONE DIAGNOSIS: Kraepelin grouped together under
+   "manic-depressive insanity" all forms of simple mania, most cases of
+   simple melancholia, circular insanity (Falret's folie circulaire),
+   cyclothymia (Kahlbaum's concept), various forms of "periodic insanity,"
+   and mixed states.
+
+2. DISTINCTION FROM DEMENTIA PRAECOX: Kraepelin's most famous contribution
+   was the dichotomous classification of the major psychoses:
+     - Manic-depressive insanity: episodic course, full inter-episode
+       recovery, mood-congruent symptoms, favorable prognosis.
+     - Dementia praecox (later renamed schizophrenia by Bleuler): chronic
+       deteriorating course, cognitive decline, poor prognosis.
+
+3. LONGITUDINAL OBSERVATION: Kraepelin pioneered following patients over
+   years and decades, tracking episode patterns. He used "Zaehlkarten"
+   (counting cards) to systematically record patient data -- an early form
+   of clinical data collection.
+
+4. MIXED STATES: Kraepelin described mixed affective states where manic
+   and depressive symptoms co-occurred, identifying six subtypes.
+
+5. BROAD DEFINITION: His concept included patients who experienced only
+   depressive episodes, only manic episodes, alternating episodes, and
+   mixed states.
+
+Kraepelin's 8th edition (1913) further refined the concept across hundreds
+of pages. His classification dominated international psychiatry for much
+of the 20th century.
+
+
+1.7 THE EARLY-TO-MID 20TH CENTURY
+------------------------------------------------------------------------
+
+EUGEN BLEULER (1857--1939) coined the term "schizophrenia" and introduced
+the term "affective illnesses," generally endorsing Kraepelin's dichotomy
+while recognizing boundary cases (later termed schizoaffective disorder).
+
+ADOLF MEYER (1866--1950), the Swiss-born American psychiatrist at Johns
+Hopkins, opposed rigid classification systems and preferred a
+psychobiological approach. Meyer disliked the term "manic-depressive
+insanity" and favored viewing mood disturbances as "reactions" to life
+events. His approach shifted American psychiatry away from Kraepelinian
+nosology for several decades.
+
+
+JOHN CADE (1912--1980) AND THE LITHIUM REVOLUTION
+
+In 1949, Australian psychiatrist John Cade published his landmark paper
+reporting the efficacy of lithium carbonate in the treatment of mania.
+Working at the Bundoora Repatriation Mental Hospital in Melbourne, Cade had
+injected lithium urate into guinea pigs and noticed it made them docile. He
+then trialed lithium on 10 manic patients with dramatic results. This was
+the first effective pharmacological treatment for any psychiatric condition.
+
+MOGENS SCHOU (1918--2005), Danish psychiatrist, conducted the rigorous
+clinical trials that established lithium as a standard treatment. His 1954
+double-blind study was among the first controlled trials in psychiatry.
+Schou subsequently demonstrated lithium's prophylactic efficacy against
+recurrent episodes. He is often called "the father of lithium therapy."
+
+
+1.8 KARL LEONHARD AND THE UNIPOLAR-BIPOLAR DISTINCTION (1957)
+------------------------------------------------------------------------
+
+In 1957, German psychiatrist Karl Leonhard (1904--1988) published
+"Aufteilung der endogenen Psychosen" ("The Classification of Endogenous
+Psychoses"), proposing a fundamental distinction:
+
+  - BIPOLAR affective disorder: patients experiencing both manic/hypomanic
+    and depressive episodes.
+  - MONOPOLAR (unipolar) affective disorder: patients experiencing only
+    depressive or only manic episodes.
+
+Leonhard argued these were DISTINCT DISEASE ENTITIES with different genetic
+profiles, clinical courses, and prognoses. This was a radical departure
+from Kraepelin's broad unitary concept.
+
+Leonhard's distinction received powerful independent support from two
+researchers who published simultaneously in 1966:
+
+  - JULES ANGST (University of Zurich) -- a study of 326 patients
+    demonstrating that bipolar and unipolar depression differed in family
+    history, age of onset, episode frequency, and clinical features.
+
+  - CARLO PERRIS (University of Umea, Sweden) -- a parallel study of 278
+    patients reaching similar conclusions.
+
+Both found that bipolar patients had higher rates of mood disorder in
+relatives, earlier onset, more frequent episodes, and different sex ratios.
+By the 1970s, the unipolar-bipolar distinction was widely accepted.
+
+
+1.9 THE DSM EVOLUTION (1952--2022)
+------------------------------------------------------------------------
+
+DSM-I (1952):
+  - Used the term "manic depressive reaction" under "Affective Reactions."
+  - Reflected Adolf Meyer's "reaction" terminology.
+  - No unipolar-bipolar distinction.
+
+DSM-II (1968):
+  - Used "manic-depressive illness" with subtypes: manic type, depressive
+    type, circular type, and other.
+  - Still maintained the broad Kraepelinian concept.
+
+DSM-III (1980) -- THE PARADIGM SHIFT:
+  Under the leadership of Robert Spitzer:
+  - THE TERM "BIPOLAR DISORDER" WAS OFFICIALLY INTRODUCED for the first
+    time.
+  - The UNIPOLAR-BIPOLAR DISTINCTION WAS FORMALLY ADOPTED.
+  - "Major depressive disorder" was separated from bipolar disorder.
+  - Bipolar disorder was defined by the occurrence of at least one manic
+    episode.
+  - Cyclothymic disorder introduced as a separate diagnosis.
+  - The DSM-III used operationalized diagnostic criteria -- a fundamental
+    methodological advance.
+
+DSM-III-R (1987):
+  - Refined manic episode criteria.
+  - Introduced "Bipolar Disorder Not Otherwise Specified" (NOS).
+
+DSM-IV (1994) AND DSM-IV-TR (2000):
+  Under Allen Frances:
+  - BIPOLAR I DISORDER: At least one full manic episode.
+  - BIPOLAR II DISORDER: At least one hypomanic episode and at least one
+    major depressive episode, but NO full manic episodes. This was a newly
+    recognized official subtype.
+  - Cyclothymic Disorder retained.
+  - Bipolar Disorder NOS for borderline cases.
+
+  The recognition of Bipolar II was largely influenced by David Dunner and
+  Ronald Fieve (who described Bipolar II in 1976) and Hagop Akiskal (who
+  championed softer bipolar presentations).
+
+DSM-5 (2013):
+  Under David Kupfer:
+  1. Bipolar disorders were given THEIR OWN CHAPTER, placed between
+     schizophrenia and depressive disorders as a conceptual "bridge."
+  2. Mixed episodes were eliminated as a separate category; replaced by a
+     "with mixed features" specifier.
+  3. "Increased activity or energy" was added to Criterion A for manic and
+     hypomanic episodes.
+  4. New specifiers added: "with anxious distress," "with rapid cycling,"
+     "with peripartum onset," etc.
+  5. "Other Specified" and "Unspecified" replaced NOS.
+
+DSM-5-TR (2022):
+  - Updated prevalence data and text clarifications without changing
+    fundamental criteria.
+
+
+1.10 THE ICD CLASSIFICATION HISTORY
+------------------------------------------------------------------------
+
+  ICD-6  (1949): "Manic-depressive reaction" under psychoses.
+  ICD-8  (1967): "Manic-depressive psychosis."
+  ICD-9  (1977): Maintained "manic-depressive psychosis."
+  ICD-10 (1992): Introduced "Bipolar Affective Disorder" (F31) with
+                 detailed subcategories. Cyclothymia classified under F34.0.
+  ICD-11 (2019, effective 2022): Code block 6A60--6A6Z. Formally
+                 recognizes Bipolar Type I (6A60) and Bipolar Type II
+                 (6A61) as separate entities. Includes Cyclothymic Disorder
+                 (6A62). Introduces dimensional severity specifiers. Aligns
+                 more closely with DSM-5 than any prior ICD edition.
+
+
+1.11 MODERN SUBTYPES AND THE BIPOLAR SPECTRUM
+------------------------------------------------------------------------
+
+CURRENT DIAGNOSTIC SUBTYPES:
+
+  1. BIPOLAR I DISORDER: At least one lifetime manic episode (7+ days, or
+     any duration if hospitalization required). Depressive episodes common
+     but not required for diagnosis.
+
+  2. BIPOLAR II DISORDER: At least one hypomanic episode (4+ consecutive
+     days) AND at least one major depressive episode. No history of full
+     manic episodes.
+
+  3. CYCLOTHYMIC DISORDER: Chronic (2+ years in adults; 1 year in
+     children) fluctuating mood with hypomanic and depressive symptoms not
+     meeting full criteria.
+
+  4. OTHER SPECIFIED / UNSPECIFIED BIPOLAR DISORDER: Clinically significant
+     presentations not meeting full criteria.
+
+
+THE BIPOLAR SPECTRUM CONCEPT:
+
+Hagop Akiskal (1944--2021) was the foremost proponent of the "bipolar
+spectrum" concept, arguing it exists on a continuum:
+
+  - Bipolar 1/2: schizobipolar disorder
+  - Bipolar I: classic mania with depression
+  - Bipolar I 1/2: protracted hypomania with depression
+  - Bipolar II: hypomania with depression
+  - Bipolar II 1/2: cyclothymic depression
+  - Bipolar III: antidepressant-induced hypomania
+  - Bipolar III 1/2: bipolarity masked by substance abuse
+  - Bipolar IV: hyperthymic temperament with depression
+
+While not all adopted into official classification, the spectrum concept
+has had enormous influence on clinical thinking.
+
+
+1.12 HISTORICAL TIMELINE SUMMARY
+------------------------------------------------------------------------
+
+  c. 400 BCE   Hippocrates describes melancholia and mania as medical
+               conditions
+  c. 150 CE    Aretaeus of Cappadocia links mania and melancholia as one
+               illness
+  c. 200 CE    Galen systematizes humoral theory
+  980--1037    Avicenna preserves classical concepts in Canon of Medicine
+  1621         Robert Burton publishes "The Anatomy of Melancholy"
+  1672         Thomas Willis describes mania-melancholia alternation
+  1686         Theophilus Bonet uses "manico-melancolicus"
+  1809--1822   Pinel and Esquirol classify mood disorders
+  1851         Falret describes "folie circulaire"; Baillarger describes
+               "folie a double forme"
+  1861         Griesinger proposes unitary psychosis
+  1882         Kahlbaum introduces cyclothymia
+  1899         Kraepelin defines "manic-depressive insanity" (6th edition)
+  1913         Kraepelin's 8th edition provides definitive description
+  1949         Cade discovers lithium treatment for mania
+  1952         DSM-I: "manic depressive reaction"
+  1954         Schou conducts first controlled lithium trial
+  1957         Leonhard proposes unipolar-bipolar distinction
+  1966         Angst and Perris independently validate the distinction
+  1968         DSM-II: "manic-depressive illness"
+  1972         Feighner criteria published
+  1976         Dunner and Fieve describe "Bipolar II"
+  1980         DSM-III: "Bipolar disorder" term introduced
+  1992         ICD-10: "Bipolar affective disorder"
+  1994         DSM-IV: Bipolar I and Bipolar II formally distinguished
+  2007         Merikangas et al. publish NCS-R prevalence data
+  2013         DSM-5: Mixed features specifier, energy criterion added
+  2019         ICD-11: Formal Bipolar Type I and Type II recognition
+  2022         DSM-5-TR published
+
+
+
+================================================================================
+CHAPTER 2 -- KEY SCIENTISTS AND RESEARCHERS
+================================================================================
+
+
+2.1 HISTORICAL FIGURES
+------------------------------------------------------------------------
+
+  HIPPOCRATES (c. 460--370 BCE)
+    Described melancholia and mania as medical (humoral) conditions.
+
+  ARETAEUS OF CAPPADOCIA (c. 150 CE)
+    First to link mania and melancholia as one disease.
+
+  GALEN OF PERGAMON (129--c. 216 CE)
+    Systematized humoral theory of mental illness.
+
+  AVICENNA / IBN SINA (980--1037)
+    Preserved classical concepts in Canon of Medicine.
+
+  THOMAS WILLIS (1621--1675)
+    Described mania-melancholia alternation; neurological approach.
+
+  THEOPHILUS BONET (1620--1689)
+    Used term "manico-melancolicus" (1686).
+
+  PHILIPPE PINEL (1745--1826)
+    Systematic classification; humanitarian reform.
+
+  JEAN-ETIENNE DOMINIQUE ESQUIROL (1772--1840)
+    Refined mood disorder classification.
+
+  JEAN-PIERRE FALRET (1794--1870)
+    "Folie circulaire" (1851).
+
+  JULES BAILLARGER (1809--1890)
+    "Folie a double forme."
+
+  KARL LUDWIG KAHLBAUM (1828--1899)
+    Introduced cyclothymia (1882).
+
+  WILHELM GRIESINGER (1817--1868)
+    "Mental illness is brain illness"; unitary psychosis concept.
+
+  EMIL KRAEPELIN (1856--1926)
+    "Manic-depressive insanity" -- definitive nosological consolidation.
+
+  EUGEN BLEULER (1857--1939)
+    Coined "schizophrenia"; recognized boundary with affective illness.
+
+  ADOLF MEYER (1866--1950)
+    Psychobiological approach; "reaction" concept.
+
+  KARL LEONHARD (1904--1988)
+    Unipolar-bipolar distinction (1957).
+
+  JOHN CADE (1912--1980)
+    Discovery of lithium for mania (1949).
+
+  MOGENS SCHOU (1918--2005)
+    Established lithium through rigorous clinical trials.
+
+  JULES ANGST (b. 1926)
+    Validated unipolar-bipolar distinction (1966); Zurich Cohort Study.
+
+  CARLO PERRIS (1928--2000)
+    Independent validation of unipolar-bipolar distinction (1966).
+
+  GEORGE WINOKUR (1925--1996)
+    Family/genetic studies validating bipolar as distinct entity.
+
+
+2.2 MODERN AND CONTEMPORARY RESEARCHERS
+------------------------------------------------------------------------
+
+KAY REDFIELD JAMISON (b. 1946)
+  Affiliation: Professor of Psychiatry, Johns Hopkins University School of
+  Medicine; Honorary Professor of English, University of St. Andrews.
+  Major contributions:
+    - "An Unquiet Mind" (1995): Groundbreaking memoir of her own bipolar
+      disorder that fundamentally changed public understanding and reduced
+      stigma.
+    - "Touched with Fire: Manic-Depressive Illness and the Artistic
+      Temperament" (1993): Explored the link between bipolar disorder and
+      creativity.
+    - "Manic-Depressive Illness" (with Frederick Goodwin, 1st ed. 1990;
+      2nd ed. 2007): Widely considered the definitive medical textbook
+      (1,200+ pages).
+    - "Night Falls Fast: Understanding Suicide" (1999).
+  Awards: MacArthur Fellowship (2001); elected to the American Academy of
+  Arts and Sciences, the Royal College of Psychiatrists.
+
+FREDERICK K. GOODWIN (1936--2020)
+  George Washington University; formerly Director of NIMH (1992--1994).
+  Co-author of "Manic-Depressive Illness"; led major NIMH research
+  programs on mood disorder biology and pharmacology.
+
+HAGOP AKISKAL (1944--2021)
+  University of California, San Diego; Director of the International
+  Mood Center; Editor of the Journal of Affective Disorders.
+  Major contributions:
+    - The BIPOLAR SPECTRUM CONCEPT -- argued bipolar disorder was far more
+      prevalent than recognized, existing on a continuum.
+    - Extensively described Bipolar II disorder and championed its
+      recognition.
+    - Research on temperamental subtypes (cyclothymic, hyperthymic,
+      depressive, irritable) as precursors of mood disorders.
+    - Over 600 publications.
+  Awards: Jean Delay Prize from the World Psychiatric Association.
+
+EDUARD VIETA (b. 1963)
+  Head of the Bipolar and Depressive Disorders Unit, Hospital Clinic of
+  Barcelona, University of Barcelona.
+  Major contributions:
+    - Research on COGNITIVE IMPAIRMENT in bipolar disorder -- demonstrated
+      neurocognitive deficits persist between episodes.
+    - Studies on functional remediation therapy.
+    - Research on mixed states and treatment implications.
+    - Over 1,000 peer-reviewed publications.
+    - Former President of ECNP.
+
+KATHLEEN MERIKANGAS (b. 1955)
+  Senior Investigator and Chief, Genetic Epidemiology Research Branch,
+  NIMH.
+  Major contributions:
+    - Led the National Comorbidity Survey Replication (NCS-R) bipolar
+      disorder analyses -- the most authoritative US prevalence data.
+    - Landmark 2007 paper establishing lifetime prevalence of bipolar
+      spectrum disorders at approximately 4.4%.
+    - Research on comorbidity patterns and genetic epidemiology.
+
+ROBERT POST (b. 1942)
+  George Washington University; formerly Chief, Biological Psychiatry
+  Branch, NIMH.
+  Major contributions:
+    - KINDLING HYPOTHESIS -- proposed that initial episodes may be stress-
+      triggered but recurrent episodes become increasingly autonomous.
+    - Research on anticonvulsants (carbamazepine, valproate) as mood
+      stabilizers.
+    - Stanley Foundation Bipolar Network studies.
+
+HUSSEINI MANJI
+  Formerly NIMH; later Johnson & Johnson / Janssen.
+  Pioneered research on intracellular signaling pathways; demonstrated
+  lithium and valproate have neuroprotective and neurotrophic effects
+  (increasing BDNF and gray matter volume); research on mitochondrial
+  dysfunction and neuroplasticity.
+
+MICHAEL BERK
+  Deakin University, Australia; IMPACT Strategic Research Centre.
+  Research on NEUROPROGRESSION in bipolar disorder; staging model proposing
+  early intervention prevents progression; studies on N-acetylcysteine
+  (NAC) and novel approaches targeting oxidative stress and inflammation.
+
+SOPHIA FRANGOU
+  Icahn School of Medicine at Mount Sinai, New York.
+  Led the ENIGMA Bipolar Disorder Working Group -- the largest
+  neuroimaging consortium for bipolar disorder; identified consistent
+  patterns of cortical thinning and subcortical volume changes.
+
+LARS VEDEL KESSING
+  University of Copenhagen, Rigshospitalet.
+  Danish national registry research on long-term course and epidemiology;
+  studies on progressive nature of bipolar disorder; research on lithium's
+  neuroprotective effects at population level.
+
+TRISHA SUPPES
+  Stanford University School of Medicine; VA Palo Alto.
+  NIMH STEP-BD study; research on rapid cycling bipolar disorder.
+
+ANDREW NIERENBERG
+  Massachusetts General Hospital; Harvard Medical School; Director, Dauten
+  Family Center for Bipolar Treatment Innovation.
+  Treatment research on bipolar depression; measurement-based care.
+
+GARY SACHS
+  Formerly Harvard / Massachusetts General Hospital.
+  Principal investigator of the STEP-BD study (over 4,000 participants) --
+  demonstrated that adding antidepressants to mood stabilizers was no more
+  effective than placebo for bipolar depression, reshaping treatment
+  guidelines.
+
+MARK FRYE
+  Mayo Clinic; Chair of Psychiatry and Psychology.
+  Pharmacogenomics of bipolar treatment; research on lithium response
+  genetic predictors.
+
+OLE A. ANDREASSEN
+  University of Oslo, Norway.
+  Large-scale GWAS of bipolar disorder; Psychiatric Genomics Consortium,
+  identifying 60+ genetic loci; research on shared genetic architecture
+  with schizophrenia.
+
+
+2.3 KEY RESEARCH INSTITUTIONS AND CENTERS
+------------------------------------------------------------------------
+
+  Johns Hopkins University (Baltimore, MD)
+    Mood disorders (Jamison, DePaulo); genetics
+
+  NIMH (Bethesda, MD)
+    Epidemiology (Merikangas); neurobiology; pharmacology
+
+  Stanley Center, Broad Institute (Cambridge, MA)
+    Genomics of bipolar disorder
+
+  Hospital Clinic / University of Barcelona (Spain)
+    Clinical research, cognition (Vieta)
+
+  University of Zurich (Switzerland)
+    Longitudinal studies, epidemiology (Angst)
+
+  University of Copenhagen / Rigshospitalet (Denmark)
+    Registry-based research, lithium (Kessing)
+
+  UCSD / International Mood Center (San Diego, CA)
+    Bipolar spectrum, temperament (Akiskal)
+
+  Massachusetts General Hospital / Harvard (Boston, MA)
+    Treatment studies, STEP-BD
+
+  Stanford University (Palo Alto, CA)
+    Bipolar treatment, creativity (Ketter, Suppes)
+
+  Mayo Clinic (Rochester, MN)
+    Pharmacogenomics (Frye)
+
+  Deakin University / IMPACT Centre (Geelong, Australia)
+    Neuroprogression, novel therapeutics (Berk)
+
+  Karolinska Institute (Stockholm, Sweden)
+    Genetic epidemiology, registry studies
+
+  King's College London / Maudsley Hospital (London, UK)
+    Neuroimaging, clinical trials
+
+  University of Pittsburgh (Pittsburgh, PA)
+    IPSRT development (Ellen Frank); bipolar research
+
+  Mount Sinai / Icahn School of Medicine (New York, NY)
+    Neuroimaging (Frangou); ENIGMA
+
+  University of Oslo / NORMENT (Oslo, Norway)
+    Genomics, neuroimaging (Andreassen)
+
+
+
+================================================================================
+CHAPTER 3 -- CLINICAL PRESENTATION OF MANIA
+================================================================================
+
+
+3.1 DSM-5-TR DIAGNOSTIC CRITERIA FOR A MANIC EPISODE
+------------------------------------------------------------------------
+
+CRITERION A:
+A distinct period of ABNORMALLY AND PERSISTENTLY ELEVATED, EXPANSIVE, OR
+IRRITABLE MOOD and ABNORMALLY AND PERSISTENTLY INCREASED GOAL-DIRECTED
+ACTIVITY OR ENERGY, lasting at least 7 CONSECUTIVE DAYS (or any duration
+if hospitalization is required).
+
+Note: The DSM-5 added the requirement of increased energy/activity as a
+gate criterion alongside mood disturbance, increasing diagnostic
+specificity.
+
+CRITERION B:
+During the period of mood disturbance and increased energy/activity, THREE
+OR MORE of the following symptoms are present to a significant degree (FOUR
+if the mood is only irritable):
+
+  The classic mnemonic is DIG FAST:
+
+  D - Distractibility -- attention too easily drawn to irrelevant stimuli
+  I - Increase in goal-directed activity or psychomotor agitation
+  G - Grandiosity or inflated self-esteem
+  F - Flight of ideas or subjective racing thoughts
+  A - Activities with high potential for painful consequences (risky
+      behavior)
+  S - Sleep -- decreased need (feels rested after only 3 hours)
+  T - Talkativeness or pressured speech
+
+CRITERION C:
+The mood disturbance is sufficiently severe to cause MARKED IMPAIRMENT in
+social or occupational functioning, necessitate HOSPITALIZATION to prevent
+harm, or include PSYCHOTIC FEATURES.
+
+CRITERION D:
+Not attributable to the physiological effects of a substance or another
+medical condition.
+
+IMPORTANT SPECIFIERS:
+  - With anxious distress
+  - With mixed features (full manic criteria plus 3+ depressive symptoms)
+  - With rapid cycling (4+ mood episodes in the preceding 12 months)
+  - With psychotic features (mood-congruent or mood-incongruent)
+  - With catatonia
+  - With peripartum onset
+  - With seasonal pattern
+
+
+3.2 SYMPTOMS OF MANIA IN DETAIL
+------------------------------------------------------------------------
+
+GRANDIOSITY AND INFLATED SELF-ESTEEM
+
+Grandiosity exists on a spectrum:
+
+  Mild: Unrealistic overconfidence, feeling exceptionally talented or
+  destined for success, beginning ambitious projects far beyond capacity.
+
+  Moderate: Belief in special connections, unique abilities, or an
+  important mission. May claim relationships with prominent figures.
+
+  Severe/Psychotic: Frank delusions of grandeur -- believing one is a
+  deity, world leader, or has supernatural powers. These are mood-
+  congruent psychotic features.
+
+Grandiosity is ego-syntonic (the person does not recognize it as
+pathological) and is often the most diagnostically specific symptom of
+mania, helping distinguish it from agitated depression or ADHD.
+
+
+DECREASED NEED FOR SLEEP
+
+This is one of the most reliable early warning signs of an impending manic
+episode:
+
+  - The individual sleeps markedly fewer hours (commonly 2-4 hours or none
+    for days) yet reports FEELING FULLY RESTED AND ENERGIZED.
+  - Qualitatively different from insomnia, where the person wants to sleep
+    but cannot and feels fatigued.
+  - Sleep deprivation may itself perpetuate and worsen mania through a
+    positive feedback loop involving circadian rhythm disruption.
+  - Research shows sleep loss is both a PRODROMAL SYMPTOM and a TRIGGER
+    for manic episodes.
+
+
+PRESSURED SPEECH
+
+  - Speech becomes rapid, loud, difficult to interrupt, and may be
+    continuous.
+  - The individual talks excessively regardless of social context.
+  - Speech may become tangential and eventually incoherent in severe mania.
+  - Puns, word play, and CLANGING (association by sound rather than
+    meaning) may appear.
+  - Rate can exceed 150-200 words per minute (normal: ~120-150).
+
+
+FLIGHT OF IDEAS AND RACING THOUGHTS
+
+  - Racing thoughts (subjective): Thoughts moving at overwhelming speed,
+    faster than the person can articulate.
+  - Flight of ideas (objective): A nearly continuous flow of accelerated
+    speech with abrupt topic changes. Connections between topics may be
+    understandable but grow increasingly tangential.
+  - In severe mania, flight of ideas can degrade into incoherence.
+
+
+DISTRACTIBILITY
+
+  - Attention is drawn to irrelevant external stimuli.
+  - Cannot maintain focus on a single task or conversation.
+  - Key distinction from ADHD: in mania, distractibility is episodic and
+    represents a change from baseline; in ADHD, it is chronic and trait-
+    like.
+
+
+INCREASED GOAL-DIRECTED ACTIVITY AND PSYCHOMOTOR AGITATION
+
+  - Goal-directed hyperactivity: Simultaneously taking on multiple new
+    projects, making elaborate plans, excessive writing, cleaning, social
+    engagement, or sexual activity. There is a driven, purposeful quality.
+  - Psychomotor agitation: Pacing, hand-wringing, inability to sit still
+    -- purposeless motor activity reflecting inner tension.
+
+
+RISKY AND IMPULSIVE BEHAVIOR
+
+  Financial: Spending sprees, maxing out credit cards, foolish investments,
+  giving away money, gambling.
+
+  Sexual: Hypersexuality, promiscuity, unprotected sex, infidelity,
+  inappropriate sexual advances.
+
+  Substance use: Dramatic increase in alcohol or drug consumption.
+
+  Legal: Reckless driving, confrontations with authorities.
+
+  Occupational: Quitting jobs impulsively, rash business decisions.
+
+
+PSYCHOTIC FEATURES IN MANIA
+
+Psychotic features occur in approximately 50-70% of individuals
+experiencing a full manic episode at some point:
+
+  Mood-congruent psychotic features:
+    - Delusions of grandeur (being god, royalty, a famous person)
+    - Delusions of special abilities or missions
+    - Paranoid delusions (others impeding grandiose plans)
+    - Auditory hallucinations affirming special status
+
+  Mood-incongruent psychotic features:
+    - Delusions/hallucinations not clearly related to grandiose themes
+    - Carry a worse prognosis
+    - Make differential diagnosis from schizoaffective disorder difficult
+
+
+3.3 MANIA VS. HYPOMANIA VS. MIXED STATES
+------------------------------------------------------------------------
+
+MANIA:
+  - Duration: 7 or more days (or any if hospitalized)
+  - Causes MARKED functional impairment
+  - Psychotic features may be present
+  - Frequently requires hospitalization
+  - Defines Bipolar I Disorder
+
+HYPOMANIA:
+  - Duration: 4 or more consecutive days
+  - Observable change but does NOT cause marked impairment
+  - Psychotic features are NEVER present (by definition)
+  - Hospitalization not required (by definition)
+  - Defines Bipolar II Disorder (with depressive episodes)
+
+MIXED STATE ("with mixed features" specifier in DSM-5):
+  - Full manic criteria plus 3+ depressive symptoms simultaneously
+  - Deeply distressing: simultaneous activation and despair
+  - HIGHEST SUICIDE RISK of all mood states (combining depressive
+    hopelessness with manic energy/impulsivity)
+  - Associated with poorer treatment response and worse overall prognosis
+
+  IMPORTANT: Hypomania is NOT simply "mild mania" -- it is categorically
+  defined by the absence of marked functional impairment, psychotic
+  features, and need for hospitalization.
+
+
+3.4 THE SUBJECTIVE EXPERIENCE OF MANIA
+------------------------------------------------------------------------
+
+EARLY/ASCENDING PHASE (often indistinguishable from hypomania):
+  - Extraordinary sense of well-being, confidence, and clarity
+  - Feeling "switched on" -- heightened creativity, productivity
+  - Colors appear brighter, music sounds more beautiful
+  - Profound sense of connectedness to people and the universe
+  - Dramatically reduced sleep need without fatigue
+
+  Kay Redfield Jamison described it: "When you're high it's tremendous.
+  Ideas are fast... like shooting stars you follow until brighter ones
+  appear."
+
+  This phase is the primary reason for medication non-adherence -- patients
+  grieve the loss of this state.
+
+ESCALATING/PEAK PHASE:
+  - Increasing irritability -- euphoria may flip to rage
+  - Thoughts racing uncontrollably -- from exhilarating to overwhelming
+  - Paranoia -- others perceived as obstacles or conspirators
+  - Increasing disorganization -- multiple grand projects begun, none
+    completed
+  - Loss of insight -- inability to recognize illness
+  - Possible psychotic experiences
+  - Extreme impulsivity with devastating consequences
+
+DYSPHORIC/AGITATED MANIA:
+  - A significant percentage (40-70%) involves prominent dysphoric features
+  - Simultaneous activation, agitation, irritability, anxiety, and misery
+  - Extremely dangerous: combines manic energy with hopelessness
+  - Patients describe feeling "wired but terrible"
+
+POST-EPISODE EXPERIENCE:
+  - Profound shame, guilt, and embarrassment over actions during mania
+  - Financial devastation (debt, bankruptcy)
+  - Relationship destruction
+  - Professional and legal consequences
+  - Depression frequently follows mania
+  - Grief over the loss of the hypomanic state
+
+
+3.5 CONSEQUENCES OF UNTREATED MANIA
+------------------------------------------------------------------------
+
+ACUTE CONSEQUENCES:
+  - Most first manic episodes result in psychiatric hospitalization
+  - Massive debt accumulation
+  - Divorce rates 2-3x the general population
+  - Legal problems
+  - 40-60% comorbid substance use disorders
+  - STIs, unplanned pregnancies
+  - Physical injury or death from reckless behavior
+  - Suicide, especially in dysphoric/mixed mania
+
+LONG-TERM CONSEQUENCES OF REPEATED UNTREATED EPISODES:
+  - Kindling phenomenon: Each successive episode lowers the threshold for
+    future episodes
+  - Progressive neurocognitive decline
+  - Progressive gray matter loss (MRI-confirmed)
+  - Treatment resistance
+  - Persistent functional impairment (30-60% even between episodes)
+  - Accelerated medical comorbidity
+
+
+
+================================================================================
+CHAPTER 4 -- NEUROBIOLOGY OF MANIA
+================================================================================
+
+
+4.1 NEUROTRANSMITTER SYSTEMS
+------------------------------------------------------------------------
+
+DOPAMINE -- THE CENTRAL PLAYER IN MANIA
+
+The dopaminergic hypothesis remains the most robust neurochemical model:
+
+  - ELEVATED DOPAMINERGIC TRANSMISSION is the most consistently replicated
+    finding. PET studies demonstrate increased dopamine release in the
+    striatum during manic episodes.
+  - AMPHETAMINE-INDUCED MANIA: Dopamine agonists (amphetamines, L-DOPA)
+    reliably precipitate manic episodes in bipolar patients, whereas
+    dopamine antagonists (antipsychotics) are the fastest-acting antimanic
+    agents. This constitutes the strongest pharmacological proof.
+  - DAT (Dopamine Transporter) DYSREGULATION: Reduced DAT density leads
+    to elevated synaptic dopamine.
+  - D2 RECEPTOR HYPERSENSITIVITY in the mesolimbic pathway underlies
+    reward-seeking, grandiosity, and psychomotor activation.
+  - VTA (Ventral Tegmental Area) HYPERACTIVITY correlates with euphoria,
+    increased goal-directed activity, and reduced need for sleep.
+  - MESOCORTICAL DOPAMINE DEFICIT: Paradoxically, prefrontal dopamine may
+    be REDUCED during mania, contributing to poor judgment, impaired
+    executive function, and disinhibition -- creating a subcortical-
+    excess / cortical-deficit dopamine imbalance.
+
+
+SEROTONIN (5-HT) -- THE PERMISSIVE HYPOTHESIS
+
+The permissive hypothesis (Prange, Wilson, & Lynn, 1974) posits that low
+serotonergic tone is a TRAIT feature of bipolar disorder that PERMITS mood
+states to swing in either direction:
+
+  - Reduced 5-HT function is found in BOTH manic and depressive phases,
+    suggesting a vulnerability marker rather than a state marker.
+  - Decreased 5-HIAA in CSF across mood states.
+  - Tryptophan depletion can trigger mood episodes in remitted patients.
+  - SSRIs can trigger mania ("switch" phenomenon) in approximately 15-40%
+    of bipolar patients.
+
+
+NOREPINEPHRINE (NE)
+
+  - Elevated noradrenergic activity during mania is well-documented.
+  - CSF norepinephrine and its metabolite MHPG are elevated during mania
+    and decrease during depression.
+  - Locus coeruleus hyperactivity drives hyperarousal, insomnia,
+    agitation, and heightened sensory awareness.
+  - Norepinephrine potentiates dopaminergic activity in the prefrontal
+    cortex and mesolimbic system, creating a synergistic excitatory
+    cascade.
+
+
+GLUTAMATE -- THE EXCITOTOXICITY MODEL
+
+Glutamate has emerged as perhaps the most important neurotransmitter system
+since the 2010s:
+
+  - Elevated glutamate levels in the frontal cortex, basal ganglia, and
+    hippocampus during mania demonstrated via magnetic resonance
+    spectroscopy (MRS).
+  - Chronic glutamate excess leads to calcium influx through NMDA
+    receptors, activating apoptotic cascades, generating reactive oxygen
+    species, and causing progressive neuronal damage -- potentially
+    explaining neuroprogression.
+  - LITHIUM'S GLUTAMATE MECHANISM: Lithium reduces glutamate release,
+    increases glutamate reuptake by astrocytes, and inhibits NMDA
+    receptor-mediated calcium influx.
+
+
+GABA -- THE INHIBITORY DEFICIT
+
+  - MRS studies show reduced GABA levels in the occipital cortex and ACC.
+  - Reduced GABAergic interneuron density and reduced expression of GAD67
+    (the GABA-synthesizing enzyme) in cortical interneurons.
+  - The GLUTAMATE/GABA IMBALANCE shifts the excitatory/inhibitory (E/I)
+    ratio toward excitation during mania, resulting in cortical
+    disinhibition, racing thoughts, and psychomotor agitation.
+
+
+INTEGRATED NEUROTRANSMITTER MODEL OF MANIA:
+
+  System               Direction          Functional Effect
+  -----------------------------------------------------------------------
+  Dopamine (mesolimbic) Elevated          Euphoria, reward-seeking,
+                                          grandiosity, psychomotor
+                                          activation
+  Dopamine (mesocortical) Reduced         Poor judgment, disinhibition
+  Serotonin             Low (trait)       Permissive of mood instability
+  Norepinephrine        Elevated          Hyperarousal, insomnia
+  Glutamate             Elevated          Racing thoughts, excitotoxicity
+  GABA                  Reduced           Cortical disinhibition
+  Acetylcholine         Reduced           Adrenergic dominance
+
+
+4.2 BRAIN REGIONS IMPLICATED
+------------------------------------------------------------------------
+
+PREFRONTAL CORTEX (PFC):
+
+  DLPFC: Shows HYPOACTIVATION during mania. Reduced gray matter volume
+  that progresses over illness duration. DLPFC hypoactivity correlates
+  with impaired decision-making and poor impulse control. The DLPFC
+  normally exerts "top-down" inhibitory control over limbic structures;
+  its failure during mania releases subcortical emotional and motivational
+  systems from cortical regulation.
+
+  VLPFC: Hypoactive during emotional regulation tasks. Critical for
+  response inhibition; its failure explains impulsivity.
+
+  OFC: Reduced volume is one of the most replicated structural findings.
+  Dysregulated activity correlates with impaired reward valuation.
+
+  ACC: Dorsal ACC shows hypoactivation during cognitive control tasks
+  while rostral/subgenual ACC shows hyperactivation during emotional
+  processing. This dorsal-hypo / ventral-hyper dissociation is a hallmark.
+
+
+AMYGDALA:
+
+  - HYPERACTIVATION is one of the most robust neuroimaging findings:
+    exaggerated response to emotional faces.
+  - AMYGDALA-PFC CONNECTIVITY is disrupted: reduced functional
+    connectivity between amygdala and DLPFC/VLPFC (the regulatory
+    pathway); increased connectivity between amygdala and ventral striatum
+    (amplifying reward-seeking).
+  - Enlarged in lithium-treated patients (neuroprotective effect);
+    reduced in unmedicated patients.
+
+
+HIPPOCAMPUS:
+
+  - Reduced volume (~4% bilateral reduction in meta-analysis), correlating
+    with number of manic episodes (supporting neuroprogression).
+  - Reduced neurogenesis in the dentate gyrus.
+  - Lithium uniquely INCREASES hippocampal volume by 2-3%.
+
+
+BASAL GANGLIA (STRIATUM):
+
+  - Ventral striatum / nucleus accumbens: Exaggerated response to reward
+    anticipation during mania.
+  - Caudate nucleus: Increased volume, possibly reflecting elevated
+    dopaminergic innervation.
+
+
+4.3 NEURAL CIRCUITRY DISRUPTIONS
+------------------------------------------------------------------------
+
+THE CORTICO-LIMBIC DYSREGULATION MODEL:
+
+  Normal state: PFC (DLPFC, VLPFC) exerts inhibitory control over
+  amygdala and ventral striatum.
+
+  Manic state: PFC is hypoactive, amygdala and ventral striatum are
+  hyperactive, and the regulatory circuit fails.
+
+KEY CIRCUIT DISRUPTIONS:
+
+  1. Prefrontal-Amygdala Circuit: Reduced white matter integrity in the
+     uncinate fasciculus. This is the "brake line" that fails during mania.
+
+  2. Cortico-Striato-Thalamo-Cortical (CSTC) loops: Hyperactive reward
+     loop creates positive feedback of reward-seeking behavior.
+
+  3. Default Mode Network (DMN): Hyperconnectivity correlates with
+     grandiosity and self-referential ideation.
+
+  4. Salience Network: Hyperactive anterior insula and dACC drive
+     excessive attribution of salience to stimuli (distractibility).
+
+  5. Central Executive Network: Hypoactive DLPFC and posterior parietal
+     cortex reduce working memory and cognitive control.
+
+
+4.4 NEUROIMAGING FINDINGS
+------------------------------------------------------------------------
+
+STRUCTURAL MRI (ENIGMA Bipolar Disorder Working Group, 2017-2022):
+
+  - Cortical thickness: Widespread thinning, most pronounced in left pars
+    opercularis, left fusiform gyrus, left rostral middle frontal gyrus.
+  - Subcortical volumes: Enlarged lateral ventricles (indicating tissue
+    loss), reduced thalamus, reduced hippocampus (more in BD-I than BD-II).
+  - Progressive changes: Accelerated gray matter loss with each manic
+    episode (approximately 1-3% additional PFC volume loss per episode).
+
+FUNCTIONAL MRI:
+  - Emotional face processing: Amygdala hyperactivation + VLPFC
+    hypoactivation.
+  - Reward tasks: NAcc hyperactivation to reward cues.
+  - Cognitive control tasks: DLPFC and dACC hypoactivation.
+
+PET:
+  - Increased metabolism in amygdala, thalamus, basal ganglia; decreased
+    in DLPFC during mania.
+  - Increased dopamine synthesis capacity.
+  - Increased microglial activation in hippocampus and PFC.
+
+
+4.5 NEUROINFLAMMATION AND OXIDATIVE STRESS
+------------------------------------------------------------------------
+
+PERIPHERAL INFLAMMATORY MARKERS CONSISTENTLY ELEVATED IN MANIA:
+  - TNF-alpha (effect size d~0.6)
+  - IL-6 (correlates with episode severity)
+  - IL-1beta
+  - CRP (elevated in 30-50% of patients)
+
+CENTRAL NEUROINFLAMMATION:
+  - Activated microglia in hippocampus, ACC, DLPFC (post-mortem and
+    TSPO-PET).
+  - Blood-brain barrier disruption.
+
+MECHANISMS:
+  1. Pro-inflammatory cytokines shunt tryptophan toward kynurenine rather
+     than serotonin.
+  2. Kynurenine pathway produces quinolinic acid (neurotoxin), driving
+     glutamate excitotoxicity.
+  3. Inflammatory mediators directly increase dopamine synthesis in the
+     mesolimbic pathway.
+  4. Neuroinflammation impairs astrocytic glutamate reuptake.
+
+OXIDATIVE STRESS:
+  - Elevated lipid peroxidation, protein carbonylation, DNA damage markers.
+  - Reduced glutathione, SOD, catalase, total antioxidant capacity.
+  - Most severe during mania.
+  - Contributes to mitochondrial dysfunction and progressive gray matter
+    loss.
+
+
+4.6 MITOCHONDRIAL DYSFUNCTION
+------------------------------------------------------------------------
+
+A CORE PATHOLOGICAL MECHANISM:
+
+  1. Reduced complex I activity in PFC and hippocampus.
+  2. Higher rates of mtDNA mutations and deletions.
+  3. Reduced ATP production (31P-MRS shows reduced phosphocreatine).
+  4. Altered mitochondrial morphology (smaller, disrupted cristae).
+  5. Impaired calcium buffering leading to elevated intracellular calcium.
+  6. Elevated lactate indicating shift to glycolysis.
+
+CONNECTION TO MANIA:
+  Mitochondrial failure impairs energy-demanding GABAergic interneurons
+  preferentially, shifting the E/I balance toward excitation. Calcium
+  dysregulation amplifies dopaminergic and glutamatergic signaling.
+  Lithium and valproate both have mitochondrial protective effects.
+
+
+4.7 CIRCADIAN RHYTHM DISRUPTIONS
+------------------------------------------------------------------------
+
+Circadian disruption is not merely a symptom -- it is a CAUSAL MECHANISM:
+
+  - SLEEP DEPRIVATION TRIGGERS MANIA -- one of the most reliable
+    experimental precipitants. Even one night of sleep loss can trigger
+    an episode in vulnerable individuals.
+  - Phase advance of circadian rhythms in manic patients.
+  - Supersensitivity to light: Bipolar patients show exaggerated melatonin
+    suppression in response to light at night.
+  - Social rhythm disruption (jet lag, shift work, childbirth) are potent
+    episode triggers.
+
+CLOCK GENE ABNORMALITIES:
+  - CLOCK 3111T/C SNP: Associated with bipolar disorder, evening
+    chronotype, insomnia, reduced need for sleep during mania.
+  - CLOCK MUTANT MICE (Roybal et al., 2007): Behavioral phenotype
+    remarkably similar to human mania -- hyperactivity, reduced sleep,
+    increased reward-seeking, response to lithium. One of the best animal
+    models of mania.
+  - Other implicated genes: ARNTL/BMAL1, PER3, CRY1, CRY2, REV-ERBalpha.
+  - GSK-3BETA: Critical regulator of the circadian clock. LITHIUM DIRECTLY
+    INHIBITS GSK-3BETA, now considered one of its primary therapeutic
+    mechanisms.
+  - CLOCK/BMAL1 directly regulate tyrosine hydroxylase expression in the
+    VTA, linking circadian disruption directly to dopamine dysregulation.
+
+THERAPEUTIC IMPLICATIONS:
+  - Dark therapy (enforced darkness or blue-light-blocking glasses) has
+    demonstrated antimanic effects in RCTs.
+  - Interpersonal and Social Rhythm Therapy (IPSRT) reduces manic
+    relapses by targeting circadian stabilization.
+
+
+
+================================================================================
+CHAPTER 5 -- GENETICS OF BIPOLAR DISORDER
+================================================================================
+
+
+5.1 HERITABILITY ESTIMATES
+------------------------------------------------------------------------
+
+TWIN STUDIES:
+
+Bipolar disorder is one of the MOST HERITABLE psychiatric conditions:
+
+  MZ twin concordance:         40-70%
+  DZ twin concordance:         5-10%
+  Heritability (twin model):   70-90%
+
+Key studies:
+  - McGuffin et al. (2003): 85% heritability for BD-I.
+  - Kieseppa et al. (2004): 93% heritability for BP-I (Finnish cohort).
+  - The high MZ-DZ concordance ratio (~7:1) strongly implicates genetic
+    factors. MZ concordance below 100% demonstrates non-genetic factors
+    also play critical roles.
+
+FAMILY STUDIES:
+  - First-degree relatives have 7-10x increased risk.
+  - Adoption studies confirm genetic transmission.
+  - Cross-disorder familial risk: relatives also have elevated rates of
+    MDD (2-3x), schizoaffective disorder (3-5x), and schizophrenia (~1.5x).
+
+SNP-BASED HERITABILITY:
+  - h2_SNP from GWAS: 20-30%, much lower than twin-heritability (70-90%).
+  - The "missing heritability" gap is attributed to: rare variants,
+    structural variants, epistasis, gene-environment interactions,
+    epigenetic variation, and non-additive genetic effects.
+
+
+5.2 KEY GENES IDENTIFIED
+------------------------------------------------------------------------
+
+CACNA1C (Calcium Voltage-Gated Channel Subunit Alpha1 C)
+  The MOST ROBUSTLY ASSOCIATED common variant gene. Encodes the alpha-1C
+  subunit of L-type calcium channel (Cav1.2).
+  - Lead SNP rs1006737: Genome-wide significant in multiple GWAS.
+  - Functional effects: Increased CACNA1C expression in PFC; enhanced
+    amygdala activation to emotional stimuli.
+  - Pleiotropic: Also associated with schizophrenia, MDD, autism, ADHD.
+  - Therapeutic relevance: L-type calcium channel blockers show antimanic
+    properties in small trials.
+
+ANK3 (Ankyrin-G)
+  - Critical for assembly of the axon initial segment (AIS), clustering
+    of voltage-gated sodium and potassium channels.
+  - Risk variants may alter neuronal excitability.
+  - ANK3 knockdown mice produce mania-like phenotype responsive to lithium.
+
+BDNF (Brain-Derived Neurotrophic Factor)
+  - Val66Met polymorphism: Met allele reduces activity-dependent BDNF
+    secretion by ~25%.
+  - Serum BDNF levels reduced during mania and depression.
+  - Progressive BDNF decline with increasing episode count supports
+    neuroprogression.
+  - LITHIUM UPREGULATES BDNF -- a key neuroprotective mechanism.
+
+CLOCK GENES
+  - CLOCK 3111T/C: Associated with BD, evening chronotype.
+  - GSK3beta rs334558: Affects expression; associated with lithium
+    response.
+
+OTHER GENOME-WIDE SIGNIFICANT GENES:
+  ODZ4/TENM4  -- Neuronal connectivity, axon guidance
+  TRANK1      -- Scaffolding protein; brain-expressed
+  NCAN        -- Extracellular matrix; synaptic plasticity
+  SYNE1       -- Nuclear envelope; synaptic function
+  ADCY2       -- Adenylyl cyclase; cAMP signaling
+  ITIH3/ITIH4 -- Inflammation pathways
+  FADS1/FADS2 -- Fatty acid metabolism
+  GRIN2A      -- NMDA receptor subunit
+
+
+5.3 GENOME-WIDE ASSOCIATION STUDIES (GWAS)
+------------------------------------------------------------------------
+
+PGC BIPOLAR DISORDER GWAS PROGRESSION:
+
+  Wave 1 (2011): ~7,000 cases, ~9,000 controls.
+    2 genome-wide significant loci (CACNA1C, ANK3).
+
+  Wave 2 (Stahl et al., 2019): 20,352 cases, 31,358 controls.
+    30 genome-wide significant loci.
+    Significant genetic correlation with schizophrenia (rg=0.70),
+    MDD (rg=0.35).
+
+  Wave 3 (Mullins et al., 2021): 41,917 cases, 371,549 controls.
+    64 GENOME-WIDE SIGNIFICANT LOCI (doubling Wave 2).
+    Enrichment for genes expressed in neurons.
+    Confirmed convergence on calcium signaling, glutamate signaling,
+    and ion channels.
+    Gene-set enrichment for targets of existing mood stabilizers
+    (pharmacological validation).
+
+PATHWAY ANALYSIS CONSISTENTLY HIGHLIGHTS:
+  1. Calcium signaling
+  2. Glutamatergic synaptic transmission
+  3. MAPK/ERK signaling
+  4. Phosphoinositide signaling (lithium's target)
+  5. Circadian rhythm regulation
+  6. HPA axis regulation
+  7. Immune/inflammatory pathways
+  8. Histone modification
+
+CROSS-DISORDER GENETIC OVERLAP:
+  Schizophrenia:  rg = 0.68-0.70 (extensive overlap)
+  MDD:            rg = 0.30-0.44
+  ADHD:           rg = 0.20-0.30
+  BD-I correlates more with schizophrenia; BD-II more with MDD.
+
+AKAP11 RARE VARIANT DISCOVERY (Palmer et al., Science, 2022):
+  AKAP11 rare protein-truncating variants are a strong risk factor for
+  both BD and schizophrenia. AKAP11 interacts directly with GSK-3BETA
+  (LITHIUM'S TARGET), providing the first genetic validation that
+  lithium's mechanism is relevant to disease biology. This is arguably
+  the most important genetic finding for bipolar disorder therapeutics.
+
+
+5.4 POLYGENIC RISK SCORES
+------------------------------------------------------------------------
+
+  - Bipolar PRS explains approximately 4-8% of variance in BD liability.
+  - PRS predicts: age of onset, number of manic episodes, psychotic
+    features, treatment response.
+  - Cross-disorder PRS: SCZ-PRS elevated in BD-I (especially
+    schizoaffective); MDD-PRS elevated in BD-II.
+  - Limitations: No clinical diagnostic utility yet, poor cross-ancestry
+    transferability.
+
+
+5.5 EPIGENETICS
+------------------------------------------------------------------------
+
+DNA METHYLATION:
+  - Differentially methylated positions in: HLA region, SLC6A4 (serotonin
+    transporter), BDNF promoter, COMT, GAD1, OXTR.
+  - ACCELERATED EPIGENETIC AGING: Bipolar patients show 2-4 years of
+    accelerated DNA methylation age (Horvath clock).
+
+HISTONE MODIFICATIONS:
+  - VALPROATE IS A DIRECT HDAC INHIBITOR (Class I/IIa). This epigenetic
+    mechanism may be central to its mood-stabilizing effects.
+  - HDAC inhibition increases histone acetylation, opening chromatin and
+    increasing expression of neuroprotective genes (BDNF, BCL-2, HSP70).
+
+NON-CODING RNA:
+  - miR-134: Reduced in plasma of manic patients.
+  - miR-34a: Elevated in bipolar PFC.
+  - BDNF-AS antisense lncRNA: Elevated, represses BDNF expression.
+
+
+5.6 GENE-ENVIRONMENT INTERACTIONS
+------------------------------------------------------------------------
+
+CHILDHOOD ADVERSITY x GENETIC RISK:
+  Childhood trauma (OR~2.5-3.0) interacts with genetic vulnerability to
+  increase BD risk, cause earlier onset, increase episode frequency, worsen
+  cognition, increase suicide risk. FKBP5 polymorphisms and BDNF Val66Met
+  moderate these effects.
+
+SUBSTANCE USE x GENETIC RISK:
+  Cannabis use during adolescence in genetically susceptible individuals
+  increases manic episode risk 2-3 fold. AKT1 and COMT polymorphisms
+  moderate cannabis sensitivity.
+
+CIRCADIAN DISRUPTION x CLOCK GENE VARIANTS:
+  CLOCK risk alleles + shift work/jet lag = significantly higher mood
+  episode onset rates.
+
+EPIGENETIC MEDIATION:
+  Many G*E interactions work through epigenetic changes -- childhood
+  adversity alters DNA methylation at stress-response genes that persist
+  into adulthood and may be partially transmitted intergenerationally.
+
+
+
+================================================================================
+CHAPTER 6 -- WHY BIPOLAR DISORDER IS CONSIDERED INCURABLE
+================================================================================
+
+
+6.1 THE NEUROPROGRESSION MODEL
+------------------------------------------------------------------------
+
+CLINICAL EVIDENCE:
+
+  - EPISODE SENSITIZATION: Each episode increases subsequent recurrence
+    risk. After first manic episode, 80-90% probability of recurrence
+    within 5 years.
+  - SHORTENING CYCLE LENGTH: Inter-episode intervals progressively shorten.
+  - TREATMENT RESISTANCE INCREASES: Lithium response decreases with each
+    successive untreated episode.
+  - PROGRESSIVE COGNITIVE DECLINE: Meta-analyses show worsening attention,
+    memory, and executive function with each episode.
+  - FUNCTIONAL DETERIORATION: Each episode reduces probability of full
+    functional recovery.
+
+NEUROBIOLOGICAL EVIDENCE:
+
+  - Progressive gray matter loss (~2% additional loss per year vs.
+    controls; rate correlates with number of manic episodes).
+  - Progressive hippocampal volume loss correlating with illness duration.
+  - Progressive BDNF decline with increasing episode count.
+  - Progressive inflammatory activation in later-stage patients.
+
+STAGING MODEL (Kapczinski et al., 2009; Berk et al., 2017):
+
+  Stage     Features                         Biomarkers
+  -----------------------------------------------------------------------
+  Latent    At-risk; subsyndromal             Elevated PRS; subtle
+                                              cognitive changes
+  Stage I   First episode; full inter-        BDNF normalizes;
+            episode recovery                  inflammation resolves
+  Stage II  Recurrent; incomplete remission   BDNF partially reduced;
+                                              mild persistent inflammation
+  Stage III Marked cognitive/functional       BDNF persistently low;
+            decline                           chronic inflammation;
+                                              gray matter loss
+  Stage IV  Unable to live independently      Severe neurodegeneration;
+                                              treatment refractoriness
+
+
+6.2 THE KINDLING MODEL
+------------------------------------------------------------------------
+
+Theory (Robert Post, 1992):
+
+  Initial episodes are triggered by major stressors (~60-70% of first
+  episodes). Each episode sensitizes neural circuits, lowering the
+  threshold. Later episodes occur with progressively less provocation,
+  eventually becoming SPONTANEOUS. Analogous to electrical kindling in
+  epilepsy.
+
+MOLECULAR MECHANISMS:
+  - Altered gene expression via immediate early genes and epigenetic
+    modifications.
+  - DeltaFosB accumulation in nucleus accumbens, permanently altering
+    reward circuit function.
+  - Glucocorticoid receptor downregulation, impairing HPA axis negative
+    feedback.
+  - Synaptic remodeling: dendritic spine loss in PFC, dendritic
+    hypertrophy in amygdala -- creating structural "scars."
+
+
+6.3 WHY CURRENT TREATMENTS MANAGE BUT DON'T CURE
+------------------------------------------------------------------------
+
+LITHIUM -- the best treatment available:
+
+  Inhibits GSK-3beta, modulates glutamate, upregulates BDNF/Bcl-2,
+  stabilizes circadian rhythms. But: does not correct 64+ genetic risk
+  loci; cannot reverse established structural damage; reduces relapse
+  only ~40-50%; requires lifelong administration; narrow therapeutic
+  window.
+
+All current medications work DOWNSTREAM of the root causes. They
+compensate for dysfunctional neurotransmission and modulate symptoms,
+but they do not repair the underlying genetic architecture, reverse
+cumulative brain damage, or restore normal developmental trajectories.
+
+
+6.4 THE FUNDAMENTAL BIOLOGICAL BARRIERS TO A CURE
+------------------------------------------------------------------------
+
+  1. MASSIVE POLYGENICITY: 64+ common risk loci (hundreds more
+     undiscovered). Gene therapy or CRISPR approaches would need to
+     simultaneously address dozens to hundreds of variants, most with
+     tiny individual effects.
+
+  2. PLEIOTROPY: Most risk genes serve essential functions in normal brain
+     development and function. Modifying them risks catastrophic off-
+     target effects.
+
+  3. NEURODEVELOPMENTAL ORIGINS: Circuit abnormalities are structurally
+     embedded during brain development, before clinical onset. By the
+     time of diagnosis, the die is partially cast.
+
+  4. SELF-REINFORCING PATHOLOGY: Each episode creates a vicious cycle:
+     Episode -> neuroinflammation -> oxidative stress -> mitochondrial
+     damage -> E/I imbalance -> lower threshold -> next episode.
+
+  5. EPIGENETIC EMBEDDING: Episode-related epigenetic changes are stable
+     and self-perpetuating. Each episode writes lasting molecular marks.
+
+  6. STRUCTURAL BRAIN DAMAGE: Gray matter loss and white matter
+     deterioration are largely irreversible with current technology.
+
+  7. CIRCUIT-LEVEL COMPLEXITY: Pathology spans multiple brain regions and
+     neurotransmitter systems simultaneously. There is no single "switch"
+     to flip.
+
+  8. HETEROGENEITY: "Bipolar disorder" likely comprises multiple distinct
+     biological subtypes, each potentially requiring different approaches.
+
+A THEORETICAL CURE WOULD REQUIRE SIMULTANEOUSLY:
+  - Correcting multiple genetic variants (or their downstream effects)
+  - Reversing epigenetic changes
+  - Restoring lost gray and white matter
+  - Normalizing excitatory/inhibitory balance
+  - Repairing mitochondria
+  - Resetting the inflammatory milieu
+  - Restoring circadian architecture
+  - Reversing kindling-induced sensitization
+
+No technology on the current horizon can accomplish all of this. However,
+early aggressive treatment -- particularly with lithium -- may slow or
+prevent neuroprogression, making the case for "prevention of progression"
+as the most realistic near-term goal.
+
+
+
+================================================================================
+CHAPTER 7 -- STATE-OF-THE-ART TREATMENTS
+================================================================================
+
+
+7.1 MOOD STABILIZERS
+------------------------------------------------------------------------
+
+LITHIUM (GOLD STANDARD)
+
+  Mechanism of Action (complex and incompletely understood):
+
+  1. Inositol monophosphatase (IMPase) inhibition: Depletes intracellular
+     inositol, reducing phosphatidylinositol signaling. Neurons with
+     overactive PI signaling are preferentially affected.
+
+  2. GSK-3beta inhibition: Considered the MOST IMPORTANT mechanism.
+     GSK-3beta is involved in circadian rhythm regulation, neuroplasticity,
+     apoptosis regulation, Wnt signaling, and inflammatory response.
+
+  3. Neuroprotective effects: Increases BDNF, increases Bcl-2 (anti-
+     apoptotic), increases gray matter volume, promotes hippocampal
+     neurogenesis. ONE OF THE VERY FEW PSYCHIATRIC MEDICATIONS SHOWN TO
+     INCREASE GRAY MATTER VOLUME.
+
+  4. Glutamatergic modulation: Reduces excitatory glutamate signaling.
+
+  5. Circadian rhythm stabilization through GSK-3beta effects.
+
+  Efficacy:
+  - Acute mania: Effective (NNT ~5-6), onset slower than antipsychotics
+  - Maintenance: Strongest evidence of any mood stabilizer
+  - ANTI-SUICIDAL PROPERTIES: The ONLY psychiatric medication with robust,
+    replicated evidence of reducing suicide risk (~60% reduction). This
+    effect appears partially independent of mood stabilization.
+  - Particularly effective for: Classic euphoric mania, non-rapid-cycling
+    course, family history of lithium response.
+
+  Therapeutic Drug Monitoring:
+    Acute mania:  0.8-1.2 mEq/L
+    Maintenance:  0.6-0.8 mEq/L
+    Elderly:      0.4-0.6 mEq/L
+    Toxicity:     ~1.5 mEq/L; levels >2.0 can be fatal
+
+  Side Effects:
+    Fine tremor (27-50%)
+    Polyuria/polydipsia (30-50%)
+    Weight gain (average 4-10 kg)
+    Cognitive dulling -- major non-adherence driver
+    Hypothyroidism (20-30% subclinical; 5-15% clinical)
+    Nephrotoxicity (~1% develop ESRD with long-term use)
+    Teratogenicity: Ebstein's anomaly risk (absolute ~1 in 1000)
+
+
+VALPROATE (VALPROIC ACID / DIVALPROEX SODIUM)
+
+  Mechanism: Increases GABAergic transmission, blocks voltage-gated sodium
+  channels, inhibits HDACs (epigenetic mechanism), modulates PKC, inhibits
+  GSK-3beta.
+
+  Efficacy:
+  - Acute mania: Well-established, comparable to lithium. Particularly
+    effective for MIXED STATES, RAPID CYCLING, and IRRITABLE/DYSPHORIC
+    MANIA.
+  - Maintenance: Less robust than lithium.
+
+  Therapeutic levels: 50-125 mcg/mL
+
+  MAJOR TERATOGEN: Neural tube defects risk 1-2% (10x general population),
+  decreased IQ in exposed children. CONTRAINDICATED IN WOMEN OF
+  CHILDBEARING POTENTIAL unless no alternative exists.
+
+
+LAMOTRIGINE
+
+  Mechanism: Blocks voltage-gated sodium channels, inhibits glutamate
+  release.
+
+  Efficacy:
+  - Acute mania: NOT effective.
+  - Bipolar depression: Moderate efficacy; first-line in guidelines.
+  - Maintenance: Strong evidence for PREVENTING DEPRESSIVE RELAPSE.
+  - Often described as a "mood stabilizer from below."
+
+  Key advantage: Weight-neutral, cognitive-friendly.
+  Key risk: Stevens-Johnson Syndrome (~0.1%); mitigated by slow titration.
+
+
+CARBAMAZEPINE
+
+  Established for acute mania. Often third-line due to drug interactions
+  (potent CYP3A4 inducer) and blood dyscrasias risk. HLA-B*1502 testing
+  required before prescribing to patients of Asian descent (SJS/TEN risk).
+
+
+7.2 ATYPICAL ANTIPSYCHOTICS
+------------------------------------------------------------------------
+
+These have become FIRST-LINE for acute mania due to rapid onset of action.
+
+QUETIAPINE (Seroquel):
+  - FDA-approved for acute mania, bipolar depression, maintenance.
+  - The MOST VERSATILE agent -- effective across ALL phases.
+  - One of only a few with robust monotherapy evidence for bipolar
+    depression.
+  - Side effects: Significant sedation, weight gain, metabolic syndrome.
+
+OLANZAPINE (Zyprexa):
+  - Among the most effective for acute mania.
+  - Side effects: THE MOST SEVERE WEIGHT GAIN of all antipsychotics.
+    Metabolic syndrome, type 2 diabetes risk.
+
+ARIPIPRAZOLE (Abilify):
+  - Partial agonist at D2 and 5-HT1A ("dopamine stabilizer").
+  - NOT effective for bipolar depression.
+  - Side effects: Akathisia (10-25%), insomnia. Metabolically favorable.
+
+LURASIDONE (Latuda):
+  - FDA-approved for BIPOLAR DEPRESSION only (not mania).
+  - Minimal weight gain, low metabolic risk.
+
+CARIPRAZINE (Vraylar):
+  - FDA-approved for BOTH acute mania AND bipolar depression.
+  - One of the few agents with approval for both poles.
+  - Unique preferential D3 partial agonism.
+
+LUMATEPERONE (Caplyta):
+  - FDA-approved 2021 for bipolar depression (adjunct).
+  - Novel simultaneous serotonin/dopamine/glutamate modulation.
+
+
+7.3 COMBINATION THERAPIES
+------------------------------------------------------------------------
+
+Monotherapy is often insufficient:
+
+  ACUTE MANIA: Lithium or valproate PLUS an atypical antipsychotic is
+  the most common combination. Response rates: monotherapy ~40-50%;
+  combination ~55-70%.
+
+  MAINTENANCE: Lithium + lamotrigine (complementary protection).
+  Lithium + valproate for inadequate monotherapy response.
+
+  BIPOLAR DEPRESSION: Lithium/valproate + lurasidone/quetiapine/
+  lumateperone. Olanzapine + fluoxetine (FDA-approved as OFC/Symbyax).
+
+  ANTIDEPRESSANT CONTROVERSY: Antidepressants should ONLY be used with
+  mood stabilizer coverage, NEVER as monotherapy. The STEP-BD study
+  found adding an antidepressant to a mood stabilizer did not improve
+  outcomes vs. mood stabilizer alone.
+
+
+7.4 ECT FOR TREATMENT-RESISTANT MANIA
+------------------------------------------------------------------------
+
+  Indications: Treatment-resistant mania, severe/life-threatening mania,
+  manic catatonia, mania in pregnancy.
+
+  Efficacy: Response rates ~80% in case series. Often produces rapid
+  response within 3-5 treatments. Dramatically effective but remains
+  underutilized due to stigma.
+
+
+7.5 CHRONOTHERAPY AND LIGHT THERAPY
+------------------------------------------------------------------------
+
+BRIGHT LIGHT THERAPY FOR BIPOLAR DEPRESSION:
+  - Sit et al. (2018): MIDDAY bright light therapy (7,000 lux) produced
+    remission in 68.2% vs. 22.2% for dim placebo light.
+  - MIDDAY TIMING IS CRITICAL: Morning bright light carries manic switch
+    risk in bipolar patients.
+  - Low-cost, low-side-effect adjunctive treatment.
+
+DARK THERAPY FOR MANIA:
+  - Blue-light-blocking glasses simulate darkness for the circadian system.
+  - Henriksen et al. (2016): RCT showed significant reduction in manic
+    symptoms with large effect size.
+  - Extremely low-cost, low-risk intervention.
+
+TRIPLE CHRONOTHERAPY:
+  - Sleep deprivation + phase advance + bright light therapy over 1 week.
+  - Shows sustained antidepressant effects in bipolar depression.
+
+
+
+================================================================================
+CHAPTER 8 -- EMERGING AND EXPERIMENTAL THERAPIES
+================================================================================
+
+
+8.1 NOVEL DRUG TARGETS
+------------------------------------------------------------------------
+
+GLUTAMATERGIC SYSTEM:
+  - AMPA receptor modulators for sustained antidepressant effects.
+  - mGluR2/3 agonists and mGluR5 negative allosteric modulators.
+  - Riluzole Phase II/III trials for bipolar depression (2023-2025).
+
+NEUROINFLAMMATORY TARGETS:
+  - NLRP3 inflammasome inhibitors.
+  - Kynurenine pathway modulators (IDO/KMO enzyme inhibitors).
+  - P2X7 receptor antagonists.
+
+CIRCADIAN/CHRONOBIOLOGICAL TARGETS:
+  - REV-ERB agonists for circadian stabilization.
+  - CK1delta/epsilon inhibitors.
+
+AKAP11-GSK3BETA PATHWAY:
+  More selective GSK-3beta inhibitors in preclinical/Phase I development,
+  inspired by the AKAP11 genetic discovery.
+
+TAAR1 AGONISTS:
+  - Ulotaront (SEP-363856): Acts via TAAR1 and 5-HT1A (not a D2 blocker).
+    Originally for schizophrenia, potential mood-stabilizing applications.
+
+MUSCARINIC RECEPTOR AGONISTS:
+  - Xanomeline-trospium (KarXT/Cobenfy): FDA-approved for schizophrenia
+    in 2024. Completely new antipsychotic mechanism. Bipolar applications
+    being explored.
+
+
+8.2 KETAMINE AND PSYCHEDELIC RESEARCH
+------------------------------------------------------------------------
+
+KETAMINE:
+  - Multiple studies show rapid antidepressant effects (hours to days) in
+    bipolar depression when used with mood stabilizer coverage.
+  - Grunebaum et al. (2017): Reduced suicidal ideation within 40 minutes.
+  - Duration of effect is short (days to ~2 weeks).
+  - NOT yet FDA-approved for bipolar disorder.
+
+PSILOCYBIN:
+  - Patients with bipolar disorder are TYPICALLY EXCLUDED from psychedelic
+    trials due to manic switch concerns.
+  - Consensus as of 2025: Remains EXPERIMENTAL AND POTENTIALLY DANGEROUS
+    for bipolar patients. Should NOT be used outside controlled research.
+
+
+8.3 ANTI-INFLAMMATORY APPROACHES
+------------------------------------------------------------------------
+
+  - Celecoxib: Modest benefit for bipolar depression in RCTs.
+  - N-acetylcysteine (NAC): Mixed results; large RCT was negative.
+  - Minocycline: Small RCTs show some promise.
+  - Omega-3 fatty acids: Small but significant effect for depression.
+  - Monoclonal antibodies (anti-TNF, anti-IL-6): Very early stage.
+
+
+8.4 NEUROMODULATION (TMS, tDCS, DBS)
+------------------------------------------------------------------------
+
+TMS (Transcranial Magnetic Stimulation):
+  - Not FDA-approved for bipolar but used off-label.
+  - STANFORD NEUROMODULATION THERAPY (SNT/SAINT): Accelerated iTBS -- ~80%
+    remission in treatment-resistant unipolar depression. Being studied in
+    bipolar depression.
+  - 2023 meta-analysis found moderate effect sizes for bipolar depression.
+
+tDCS:
+  - Small trials show mixed results. Manic switch reported in ~5-10%.
+
+DBS (Deep Brain Stimulation):
+  - Experimental. Targets include subcallosal cingulate cortex, nucleus
+    accumbens.
+  - Very limited bipolar-specific data.
+
+
+8.5 PRECISION MEDICINE AND PHARMACOGENOMICS
+------------------------------------------------------------------------
+
+CURRENT CLINICAL APPLICATIONS:
+  - HLA-B*1502 testing for carbamazepine (Southeast/South Asian)
+  - CYP2D6 genotyping for aripiprazole dosing
+  - CYP2C19 for certain antidepressants
+
+EMERGING:
+  - Polygenic risk scores may predict lithium response (ConLiGen).
+  - Multi-omics integration (genomics, transcriptomics, proteomics,
+    metabolomics) with ML algorithms.
+  - 3-6 biological subtypes identified via multimodal clustering.
+  - "Lithium-responsive BD" emerging as a distinct biological entity.
+
+
+8.6 DIGITAL PHENOTYPING AND AI-BASED PREDICTION
+------------------------------------------------------------------------
+
+DATA STREAMS:
+  - Activity/mobility via GPS and accelerometer
+  - Sleep duration and timing via actigraphy
+  - Social behavior via call/text patterns
+  - Voice/speech pitch, rate, variability
+  - Typing patterns and speed
+
+KEY FINDINGS:
+  - Studies show 65-80% ACCURACY in detecting impending mood episodes
+    1-4 WEEKS before clinical threshold.
+  - BiAffect study: Keyboard dynamics predict mood states.
+  - MONARCA project: Voice features and activity patterns predicted
+    episodes weeks in advance.
+
+EMERGING APPLICATIONS:
+  - NLP analysis of language patterns
+  - Predictive modeling for treatment response
+  - Relapse prediction algorithms
+  - AI-powered adjunctive therapy delivery
+
+
+
+================================================================================
+CHAPTER 9 -- EPIDEMIOLOGY
+================================================================================
+
+
+9.1 WORLDWIDE PREVALENCE
+------------------------------------------------------------------------
+
+  Bipolar I Disorder:
+    Worldwide:            ~0.6-1.0%
+    US (NCS-R):           1.0%
+
+  Bipolar II Disorder:
+    Worldwide:            ~0.4-1.1%
+    US (NCS-R):           1.1%
+    (Often underdiagnosed)
+
+  Sub-threshold Bipolar:
+    US (NCS-R):           2.4%
+
+  Bipolar Spectrum (combined):
+    US (NCS-R):           ~4.4% (Merikangas et al., 2007)
+    Cross-national WHO:   2.4% aggregate
+
+  Cyclothymic Disorder:
+    Estimated:            0.4-1.0%
+
+
+9.2 SEX AND GENDER DIFFERENCES
+------------------------------------------------------------------------
+
+  Bipolar I: Approximately EQUAL in males and females (~1:1).
+  Bipolar II: Slightly more common in females (~1.2-1.5:1).
+  Rapid cycling: More common in women (70-80% of cases).
+
+  Clinical differences:
+    Women: More depressive episodes, more mixed episodes, more rapid
+    cycling, higher comorbid anxiety/eating disorders.
+    Men: More manic-predominant, higher comorbid substance use.
+    Peripartum risk: Postpartum psychosis in 25-50% of pregnancies in
+    women with Bipolar I (if untreated).
+
+
+9.3 AGE OF ONSET
+------------------------------------------------------------------------
+
+  Mean age of onset:     ~25 years
+  Peak onset periods:    15-19 years (most common), 20-24, and 40s-50s
+  Before age 21:         50-66%
+  Before age 13:         15-28% (controversial)
+  After age 50:          5-10%
+
+  DELAY TO CORRECT DIAGNOSIS: On average 5-10 YEARS from symptom onset.
+  Patients frequently misdiagnosed initially with major depressive
+  disorder.
+
+
+9.4 DISEASE BURDEN AND DISABILITY
+------------------------------------------------------------------------
+
+  - Among the TOP 20 CAUSES OF DISABILITY worldwide.
+  - WHO ranked bipolar disorder as the 6TH LEADING CAUSE OF DALYs in the
+    15-44 age group.
+  - Patients spend ~30-50% of their lives symptomatic (depression
+    predominates ~3:1 time in depression versus mania for Bipolar I).
+
+
+9.5 MORTALITY AND LIFE EXPECTANCY
+------------------------------------------------------------------------
+
+  - Life expectancy reduced by approximately 10-20 YEARS.
+  - The mortality gap has NOT narrowed over recent decades.
+
+  NATURAL CAUSES (60-70% of excess mortality):
+    Cardiovascular disease: 2-3x increased risk (LEADING cause of death)
+    Diabetes mellitus: 2-3x increased prevalence
+    Respiratory disease: 2x increased risk
+
+  UNNATURAL CAUSES (30-40%):
+    Suicide, accidents, substance-related deaths
+
+
+9.6 COMORBIDITY
+------------------------------------------------------------------------
+
+  Anxiety disorders:       50-75% lifetime
+  Substance use disorders: 40-60% (alcohol ~40%; drugs ~20-30%)
+  ADHD:                    10-20%
+  Eating disorders:        Elevated (especially bulimia)
+  Metabolic syndrome:      30-40%
+  Obesity:                 40-60%
+  Cardiovascular disease:  2-3x risk
+  Type 2 diabetes:         2-3x risk
+
+
+9.7 SUICIDE RISK
+------------------------------------------------------------------------
+
+  Lifetime attempt rate:     25-50% (vs. ~4.6% general population)
+  Completed suicide rate:    ~6-7% with treatment (10-15% pre-treatment)
+  Standardized mortality:    ~20-30x general population
+  Bipolar disorder has the HIGHEST SUICIDE RATE of any psychiatric
+  condition in most analyses.
+
+  HIGHEST RISK PERIODS:
+    - Mixed states (depressive hopelessness + manic energy/impulsivity)
+    - Depressive episodes (majority of suicides)
+    - First 1-5 years after diagnosis
+    - First 1-4 weeks after hospital discharge
+
+  PROTECTIVE FACTORS:
+    - LITHIUM: ~60% reduction in suicide risk (Cipriani et al., 2013).
+      Effect partially independent of mood stabilization.
+    - Psychotherapy (CBT, DBT)
+    - Continuity of care
+    - Social connectedness
+    - Means restriction
+
+
+9.8 SOCIOECONOMIC IMPACT
+------------------------------------------------------------------------
+
+  Unemployment:      40-60%
+  Divorce rates:     2-3x general population
+  Healthcare costs:  US annual >$195 billion total economic burden
+  Course:            ~90% who have a manic episode will have more
+  Average episodes:  8-12 major lifetime episodes
+  Rapid cycling:     10-20% of patients
+
+
+
+================================================================================
+CHAPTER 10 -- PROGNOSIS AND LONG-TERM OUTCOMES
+================================================================================
+
+
+10.1 COGNITIVE DECLINE OVER TIME
+------------------------------------------------------------------------
+
+NATURE OF IMPAIRMENT:
+
+Cognitive impairment is now recognized as a CORE FEATURE of bipolar
+disorder, not merely a residual symptom:
+
+  Verbal learning and memory:  Most impaired (effect sizes 0.5-1.0)
+  Executive function:          Effect sizes 0.3-0.8
+  Processing speed:            Effect sizes 0.3-0.6
+  Attention:                   Effect sizes 0.3-0.7
+  Social cognition:            Theory of mind deficits
+
+TRAJECTORY:
+  - During episodes: Most severe impairment.
+  - Euthymic: Significant impairment PERSISTS in 40-60% of patients.
+  - Progressive: Deteriorates with increasing number of episodes.
+  - ~15-30% develop impairment meeting criteria for mild neurocognitive
+    disorder.
+
+
+10.2 FUNCTIONAL OUTCOMES
+------------------------------------------------------------------------
+
+  Unemployment:     40-60% (vs. ~5% general population)
+  Disability:       Among top 10 causes worldwide (WHO)
+  Economic burden:  ~$195-200 billion annually in the US
+  Divorce rates:    60-90% in some studies
+  Quality of life:  Significantly reduced even during euthymia; comparable
+                    to or worse than heart failure, diabetes, chronic pain
+
+
+10.3 PREDICTORS OF BETTER OUTCOMES
+------------------------------------------------------------------------
+
+  - Early treatment initiation
+  - Lithium responsiveness
+  - Treatment adherence
+  - Absence of psychotic features
+  - Higher premorbid functioning
+  - Strong social support
+  - Absence of comorbid substance use
+  - Fewer total lifetime episodes
+  - Adjunctive psychotherapy (CBT, IPSRT, psychoeducation)
+
+The strongest message from the research: EARLY, AGGRESSIVE, SUSTAINED
+TREATMENT -- particularly with lithium -- offers the best chance of
+mitigating neuroprogression and preserving long-term function.
+
+
+
+================================================================================
+CHAPTER 11 -- LATEST RESEARCH BREAKTHROUGHS (2023-2025)
+================================================================================
+
+
+GENOMICS:
+
+  - PGC-BD Wave 3 extended analyses: Fine-mapping of 64 loci; single-cell
+    RNA-seq showed enrichment in cortical excitatory neurons (layers 2/3
+    and 5) and medium spiny neurons of the striatum.
+
+  - AKAP11 discovery replicated and extended: First genetic validation
+    that lithium's GSK-3beta target is disease-relevant.
+
+  - Multi-ancestry GWAS expanded to East Asian populations; confirmed
+    trans-ancestry signals at core loci.
+
+
+NEUROIMAGING:
+
+  - ENIGMA consortium (>6,000 patients, 60+ sites) demonstrated lithium-
+    specific neuroprotective effects on brain structure.
+  - 7-Tesla MRI revealed layer-specific cortical abnormalities and
+    hippocampal subfield vulnerability.
+
+
+CELLULAR NEUROSCIENCE:
+
+  - iPSC neurons from bipolar patients confirmed hyperexcitability and
+    can distinguish lithium-responsive from non-responsive cells in vitro.
+  - Single-cell transcriptomics of bipolar brain tissue revealed cell-
+    type-specific changes, with excitatory neurons and SST+ interneurons
+    most affected.
+  - Excessive complement-mediated synaptic pruning (C4A) implicated.
+
+
+NOVEL THERAPEUTICS:
+
+  - Blue-light-blocking glasses replicated as low-cost antimanic adjunct.
+  - Muscarinic agonists (KarXT/Cobenfy) FDA-approved for schizophrenia;
+    bipolar applications under investigation.
+  - Digital phenotyping achieving 65-80% accuracy in predicting episodes
+    1-4 weeks in advance.
+
+
+BIOMARKERS:
+
+  - Blood-based multi-analyte panels (CRP, IL-6, BDNF, miRNA) achieving
+    AUC 0.80-0.85 for distinguishing bipolar from unipolar depression.
+  - Neuroimaging ML classifiers achieving AUC 0.75-0.80 for BD diagnosis.
+
+
+
+================================================================================
+EVIDENCE SUMMARY: TREATMENT EFFICACY BY PHASE
+================================================================================
+
+  Treatment        Acute   Bipolar  Maint.  Maint.
+                   Mania   Depress. (Mania) (Depress.)
+  -------------------------------------------------------
+  Lithium           ++      +        +++     ++
+  Valproate         +++     +/-      ++      +
+  Lamotrigine       --      ++       +       +++
+  Carbamazepine     ++      +/-      +       +/-
+  Quetiapine        +++     +++      ++      ++
+  Olanzapine        +++     + (OFC)  ++      +
+  Aripiprazole      +++     --       ++      --
+  Lurasidone        --      +++      ?       ?
+  Cariprazine       ++      ++       +       +
+  Lumateperone      --      ++ (adj) ?       ?
+  ECT               +++     +++      +       +
+  Light (midday)    --      ++       ?       +
+  Dark therapy      ++      --       ?       --
+
+  Legend: +++ strong; ++ moderate; + some; +/- weak; -- not effective; ? insufficient data
+
+
+
+================================================================================
+REFERENCES
+================================================================================
+
+HISTORICAL AND CLINICAL:
+  Aretaeus of Cappadocia. On the Causes and Symptoms of Chronic Diseases
+    (c. 150 CE).
+  Kraepelin E. Psychiatrie. 6th edition. Leipzig: Barth; 1899.
+  Leonhard K. Aufteilung der endogenen Psychosen. Berlin: Akademie-Verlag;
+    1957.
+  Angst J. Zur Atiologie und Nosologie endogener depressiver Psychosen.
+    Berlin: Springer; 1966.
+  Perris C. Acta Psychiatrica Scandinavica. 1966;42(Suppl 194):1-189.
+  Cade JFJ. Medical Journal of Australia. 1949;2(10):349-352.
+  Schou M et al. J Neurol Neurosurg Psychiatry. 1954;17(4):250-260.
+  Goodwin FK, Jamison KR. Manic-Depressive Illness. 2nd ed. Oxford
+    University Press; 2007.
+  Jamison KR. An Unquiet Mind. Knopf; 1995.
+
+EPIDEMIOLOGY:
+  Merikangas KR et al. Arch Gen Psychiatry. 2007;64(5):543-552.
+  Merikangas KR et al. Arch Gen Psychiatry. 2011;68(3):241-251.
+
+NEUROSCIENCE:
+  Ashok AH et al. Molecular Psychiatry. 2017 (dopamine).
+  Phillips ML, Swartz HA. Am J Psychiatry. 2014 (neural circuits).
+  Strakowski SM et al. Bipolar Disorders. 2012 (functional neuroanatomy).
+  Konradi C et al. Arch Gen Psychiatry. 2004 (mitochondria).
+  Roybal K et al. PNAS. 2007 (CLOCK mutant mice).
+
+GENETICS:
+  Mullins N et al. Nature Genetics. 2021;53:817-29 (64 loci).
+  Stahl EA et al. Nature Genetics. 2019 (30 loci).
+  Palmer DS et al. Nature Genetics / Science. 2022 (AKAP11).
+  Hibar DP et al. Molecular Psychiatry. 2018 (ENIGMA).
+
+NEUROPROGRESSION:
+  Berk M et al. Neuroscience & Biobehavioral Reviews. 2013.
+  Post RM. Neurosci Biobehav Rev. 2007 (kindling model).
+  Kapczinski F et al. 2009 (staging model).
+
+TREATMENT:
+  Yatham LN et al. Bipolar Disorders. 2018; 2024 update (CANMAT/ISBD).
+  Vieta E et al. Nat Rev Dis Primers. 2018;4:18008.
+  Grande I et al. Lancet. 2016;387:1561-72.
+  Cipriani A et al. BMJ. 2013;346:f3646 (lithium and suicide).
+  Sit DK et al. Am J Psychiatry. 2018;175:131-39 (light therapy).
+  Henriksen TEG et al. Bipolar Disorders. 2016;18:221-32.
+  Cole EJ et al. Am J Psychiatry. 2020;177:716-26 (Stanford TMS).
+
+PROGNOSIS:
+  Nordentoft M et al. JAMA Psychiatry. 2013 (mortality).
+  Bora E et al. 2009 (cognitive decline meta-analysis).
+
+GUIDELINES:
+  DSM-5-TR. American Psychiatric Association. 2022.
+  ICD-11. World Health Organization. 2019/2022.
+  NICE Guidelines NG185. 2014, updated 2023.
+  BAP Guidelines (Goodwin et al.). 2016.
+
+
+================================================================================
+END OF DOCUMENT
+================================================================================
+
+NOTE: This document was compiled from peer-reviewed literature, major
+textbooks, diagnostic manuals, and treatment guidelines. The scientific
+knowledge represented here reflects the state of the field through early
+2025. For the most recent findings (late 2025 through 2026), consult
+current issues of JAMA Psychiatry, The Lancet Psychiatry, Molecular
+Psychiatry, Nature Neuroscience, Bipolar Disorders, and the Journal of
+Affective Disorders.
