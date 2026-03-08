@@ -1,0 +1,1162 @@
+================================================================================
+     TRANSTORNOS MENTAIS E CRIMES NO BRASIL: PESQUISA APROFUNDADA
+     Prevalencia, Correlacoes e Analise Critica
+================================================================================
+
+     Compilado: Marco 2026
+     Fontes: Artigos academicos (SciELO, PubMed, PLOS ONE), dados oficiais
+             (DATASUS, CNJ, DEPEN/SISDEPEN, IBGE/PNS, INFOPEN), Anuario
+             Brasileiro de Seguranca Publica (FBSP), OMS/OPAS, pesquisas
+             epidemiologicas (Sao Paulo Megacity Mental Health Survey)
+
+================================================================================
+                         SUMARIO EXECUTIVO
+================================================================================
+
+  Esta pesquisa investiga a hipotese de que grande parte dos crimes
+  violentos no Brasil (feminicidios, violencia contra a mulher,
+  perseguicoes, injuria racial) pode ser atribuida a pessoas com
+  transtornos mentais. Os dados mostram uma realidade mais complexa:
+
+  ACHADOS PRINCIPAIS:
+
+  1. Transtornos mentais sao altamente prevalentes no Brasil (~30% da
+     populacao adulta tem ao menos um transtorno ativo em 12 meses).
+
+  2. No sistema prisional, apenas 0,41% dos encarcerados tem diagnostico
+     formal de transtorno mental, embora estudos clinicos mostrem que
+     61,7% desenvolvem algum transtorno ao longo da vida no carcere.
+
+  3. Transtornos de personalidade (especialmente antissocial) sao
+     desproporcionalmente prevalentes em populacoes carcerarias (45-80%)
+     vs. populacao geral (0,5-3%).
+
+  4. A maioria dos agressores de violencia domestica NAO tem diagnostico
+     psiquiatrico -- os principais fatores associados sao: ciume (88,2%
+     dos feminicidios), alcool (38,4%), fatores socioculturais e
+     patriarcais.
+
+  5. Stalking e o tipo de crime com maior associacao com transtornos
+     mentais: 30-50% dos stalkers tem transtornos de personalidade.
+
+  6. A "psiquiatrizacao" do agressor e uma tendencia preocupante nos
+     tribunais, onde diagnosticos sao usados como tese de defesa.
+
+================================================================================
+                         INDICE
+================================================================================
+
+  PARTE I   -- PREVALENCIA DE TRANSTORNOS MENTAIS NO BRASIL
+    Cap. 1  -- Panorama Geral
+    Cap. 2  -- Prevalencia por Transtorno Especifico
+    Cap. 3  -- Dados da Pesquisa Sao Paulo Megacity
+    Cap. 4  -- Dados Oficiais (SUS, DATASUS, OMS, PNS/IBGE)
+
+  PARTE II  -- TRANSTORNOS MENTAIS E CRIMINALIDADE
+    Cap. 5  -- Proporcao de Crimes por Pessoas com Transtornos Mentais
+    Cap. 6  -- Prevalencia de Transtornos no Sistema Prisional
+    Cap. 7  -- Medidas de Seguranca e Inimputabilidade
+    Cap. 8  -- Hospitais de Custodia e Tratamento Psiquiatrico (HCTP)
+
+  PARTE III -- TIPOS ESPECIFICOS DE CRIME
+    Cap. 9  -- Feminicidio e Transtornos Mentais
+    Cap. 10 -- Violencia Domestica e Perfil dos Agressores
+    Cap. 11 -- Stalking/Perseguicao e Transtornos Mentais
+    Cap. 12 -- Injuria Racial e Transtornos Mentais
+
+  PARTE IV  -- ANALISE E DISCUSSAO
+    Cap. 13 -- Avaliacao da Hipotese
+    Cap. 14 -- Artigos Academicos de Referencia
+    Cap. 15 -- Fontes e Referencias Completas
+
+
+================================================================================
+================================================================================
+                    PARTE I -- PREVALENCIA DE TRANSTORNOS
+                           MENTAIS NO BRASIL
+================================================================================
+================================================================================
+
+
+================================================================================
+          CAPITULO 1 -- PANORAMA GERAL
+================================================================================
+
+  O Brasil apresenta uma das mais altas prevalencias de transtornos
+  mentais do mundo. Os principais dados epidemiologicos sao:
+
+  -- Sao Paulo Megacity Mental Health Survey (Andrade et al., 2012):
+     29,6% dos residentes da regiao metropolitana de SP tinham pelo
+     menos um transtorno mental ativo nos 12 meses anteriores.
+     Prevalencia ao longo da vida: 44,8%.
+     Risco estimado ate 75 anos: 57,7%.
+
+  -- Pesquisa Covitel 2024: 56 milhoes de brasileiros (26,8% da
+     populacao) convivem com algum grau de transtorno de ansiedade.
+
+  -- Revisoes sistematicas da literatura brasileira (SciELO, 1997-2009):
+     indices de prevalencia de transtornos mentais na populacao adulta
+     variaram entre 20% e 56%, dependendo da metodologia.
+
+  -- OMS (2017): Brasil e o pais com MAIOR prevalencia de ansiedade
+     do mundo (18,6 milhoes / 9,3% da populacao) e MAIOR prevalencia
+     de depressao da America Latina (12 milhoes / 5,8%).
+
+  -- OMS estimativa geral: 23 milhoes de brasileiros (12%) apresentam
+     sintomas de transtornos mentais; 5 milhoes (3%) sofrem com
+     transtornos mentais graves e persistentes.
+
+  -- Pesquisa Datafolha (setembro 2024): 7% dos adultos avaliam sua
+     saude mental como ruim/pessima; 31% convivem com ansiedade
+     recorrente.
+
+  -- PNS 2019 (IBGE): 10,2% das pessoas com 18+ anos receberam
+     diagnostico de depressao (aprox. 16 milhoes de pessoas).
+
+
+================================================================================
+          CAPITULO 2 -- PREVALENCIA POR TRANSTORNO ESPECIFICO
+================================================================================
+
+------------------------------------------------------------------------
+2.1  TRANSTORNO BIPOLAR
+------------------------------------------------------------------------
+
+  PREVALENCIA NO BRASIL:
+    -- Espectro Bipolar total: 2,4% da populacao
+       (Bipolar I: 0,6% | Bipolar II: 0,4% | Sublimiar: 1,4%)
+    -- Estimativa absoluta (ABTB): 6 a 8 milhoes de pessoas
+    -- Transtornos de humor (inclui bipolar): 11% prevalencia 12 meses
+       (SP Megacity)
+    -- 65,4% dos casos de bipolar sao classificados como "graves"
+
+  PERFIL DEMOGRAFICO:
+    -- Idade de inicio: 15-25 anos (pico principal); segundo pico 45-55
+    -- Sem diferenca significativa de genero para Bipolar I ou II
+
+  FONTES: Andrade et al., J Affect Disord 2005; PLOS ONE 2012; ABTB;
+          SciELO/Rev Psiq Clin
+
+------------------------------------------------------------------------
+2.2  TRANSTORNO DE PERSONALIDADE ANTISSOCIAL (Psicopatia/Sociopatia)
+------------------------------------------------------------------------
+
+  PREVALENCIA NO BRASIL:
+    -- Populacao geral: 1-2% (= 2 a 4 milhoes de brasileiros)
+    -- Estimativa alternativa: ~6 milhoes (3% homens, 1% mulheres)
+    -- Cluster B total (SP Megacity): 2,7% (vs. 1,5% media global)
+       -- NOTA: Cluster B inclui antissocial, borderline, histrionico
+          e narcisista. SP apresenta quase o DOBRO da media mundial.
+
+  PREVALENCIA EM CONTEXTOS ESPECIFICOS:
+    -- Sistema penitenciario: ~20% dos presos
+    -- Populacao carceraria (estudos clinicos): 45% a 66%
+    -- Algumas amostras prisionais: ate 80%
+    -- Populacao carceraria feminina brasileira: 82,22% com tracos
+       sugestivos de transtornos de personalidade
+
+  DIFERENCA DE GENERO:
+    -- Proporcao homens:mulheres = 3:1
+
+  NOTA IMPORTANTE:
+    -- "Psicopatia" (medida pela PCL-R de Robert Hare) NAO e sinonimo
+       exato de TPAS do DSM-5
+    -- Nem todo diagnosticado com TPAS e psicopata, e vice-versa
+    -- A prevalencia de "psicopatia stricto sensu" (PCL-R >= 30) e
+       menor que a de TPAS
+
+  FONTES: Jornal da USP; Senado Federal; MSD Manual; Santana et al.,
+          PLOS ONE 2018
+
+------------------------------------------------------------------------
+2.3  TRANSTORNO DE PERSONALIDADE BORDERLINE (TPB)
+------------------------------------------------------------------------
+
+  PREVALENCIA NO BRASIL:
+    -- 1-3% da populacao geral (~2 milhoes de brasileiros)
+    -- 10% dos pacientes psiquiatricos ambulatoriais
+    -- 15-20% dos pacientes psiquiatricos internados
+    -- ~75% dos diagnosticados sao mulheres
+
+  FONTES: CNN Brasil (Dr. Kalil); Sinopsys Editora; PLOS ONE 2018
+
+------------------------------------------------------------------------
+2.4  ESQUIZOFRENIA
+------------------------------------------------------------------------
+
+  PREVALENCIA NO BRASIL:
+    -- PNS 2019 (IBGE): 0,34% da populacao adulta (~547 mil pessoas)
+    -- Estudos com outras metodologias: proximas a 1%
+    -- Internacoes 2010-2023 (DATASUS): 1.082.576 internacoes
+    -- Custo total das internacoes: R$ 2.514.383.318,52
+
+  PERFIL: Maior prevalencia em homens, faixa 20-39 anos
+
+  FONTES: UNIFESP; SciELO/Rev Bras Psiquiatr; PNS 2019
+
+------------------------------------------------------------------------
+2.5  DEPRESSAO GRAVE (Transtorno Depressivo Maior)
+------------------------------------------------------------------------
+
+  PREVALENCIA NO BRASIL:
+    -- Prevalencia ao longo da vida: ~15,5%
+    -- PNS 2019: 10,2% (18+ anos) = ~16 milhoes de pessoas
+    -- OMS 2017: 12 milhoes / 5,8% da populacao
+    -- Covitel 2023: 12,7%
+    -- SP Megacity: 9,4% (12 meses)
+
+  LACUNA DE TRATAMENTO:
+    -- 78,8% dos brasileiros com depressao NAO recebem tratamento
+    -- Apenas 9% recebem atendimento minimamente adequado
+
+  Brasil tem a MAIOR prevalencia de depressao da America Latina (OMS).
+
+  FONTES: IBGE/PNS 2019; OMS; IEPS; Covitel; PLOS ONE 2012
+
+------------------------------------------------------------------------
+2.6  TRANSTORNO EXPLOSIVO INTERMITENTE (TEI)
+------------------------------------------------------------------------
+
+  PREVALENCIA NO BRASIL:
+    -- 3,1% (acima da media global de 2,7%)
+    -- Homens: 1,4x mais propensos
+    -- Solteiros: 1,5x mais chances
+    -- Desempregados: 2,39x mais propensos
+    -- Comorbidade com ansiedade/depressao: 4x mais prevalencia
+
+  FONTES: Rev Bras Neuropsiquiatria (RBNP); SP Megacity
+
+------------------------------------------------------------------------
+2.7  TABELA-RESUMO DE PREVALENCIAS
+------------------------------------------------------------------------
+
+  +-------------------------------------------+-------------------+----------+
+  | TRANSTORNO                                | PREVALENCIA (%)   | FONTE    |
+  +-------------------------------------------+-------------------+----------+
+  | Qualquer transtorno mental (12 meses)     | 29,6%             | SP Mega  |
+  | Qualquer transtorno mental (vida)         | 44,8%             | SP Mega  |
+  +-------------------------------------------+-------------------+----------+
+  | Ansiedade (qualquer)                      | 9,3% - 26,8%      | OMS/Cov  |
+  | Depressao (diagnostico)                   | 5,8% - 15,5%      | OMS/PNS  |
+  | Transtorno Bipolar (espectro)             | 2,4%              | SP ECA   |
+  | Bipolar I                                 | 0,6%              | SP ECA   |
+  | Bipolar II                                | 0,4%              | SP ECA   |
+  +-------------------------------------------+-------------------+----------+
+  | T. Personalidade Antissocial              | 1-2% pop geral    | USP/MSD  |
+  |   Cluster B total (SP Megacity)           | 2,7%              | SP Mega  |
+  |   Sistema penitenciario                   | ~20%              | Senado   |
+  | T. Personalidade Borderline               | 1-3% pop geral    | CNN/lit  |
+  | Esquizofrenia                             | 0,34% - 1%        | PNS/lit  |
+  | Transtorno Explosivo Intermitente         | 3,1%              | RBNP     |
+  | Qualquer T. Personalidade                 | 6,8%              | SP Mega  |
+  +-------------------------------------------+-------------------+----------+
+
+  NOTAS:
+  -- "SP Mega" = Sao Paulo Megacity Mental Health Survey
+  -- "SP ECA" = Sao Paulo Epidemiologic Catchment Area Study
+  -- Variacoes refletem diferentes metodologias e periodos
+
+
+================================================================================
+          CAPITULO 3 -- DADOS DA PESQUISA SAO PAULO MEGACITY
+================================================================================
+
+  Maior e mais rigoroso estudo epidemiologico de saude mental do Brasil.
+  Parte do World Mental Health Survey Initiative da OMS.
+
+  METODOLOGIA:
+    -- Amostra: 5.037 adultos (regiao metropolitana de SP)
+    -- Entrevistas presenciais (face a face)
+    -- Instrumento: WHO Composite International Diagnostic Interview (CIDI)
+    -- Diagnosticos: DSM-IV
+    -- Publicacao: Andrade et al., PLOS ONE, 2012
+
+  PREVALENCIA 12 MESES (qualquer transtorno): 29,6%
+    -- Transtornos de ansiedade: 19,9%
+    -- Transtornos de humor: 11,0%
+    -- Transtornos de controle de impulsos: 4,3%
+    -- Transtornos por uso de substancias: 3,6%
+
+  PREVALENCIA AO LONGO DA VIDA: 44,8%
+    -- Risco estimado ate 75 anos: 57,7%
+
+  COMORBIDADE:
+    -- 5,9% tinham 2 transtornos ativos simultaneos
+    -- 5,8% tinham 3 ou mais transtornos ativos
+
+  GRAVIDADE:
+    -- ~10% de casos graves = mais de 1 milhao de adultos na Grande SP
+       com comprometimento indicando necessidade especial de cuidados
+
+  TRANSTORNOS DE PERSONALIDADE (Santana et al., PLOS ONE, 2018):
+    -- Amostra: 2.942 adultos (IPDE-SQ)
+    -- Qualquer TP: 6,8%
+    -- Cluster A (paranoide, esquizoide, esquizotipico): 4,3%
+    -- Cluster B (antissocial, borderline, histrionico, narcisista): 2,7%
+    -- Cluster C (evitativo, dependente, obsessivo-compulsivo): 4,6%
+
+    DESTAQUE: Cluster B em SP (2,7%) e significativamente MAIOR que a
+    media multinacional (1,5%).
+
+
+================================================================================
+          CAPITULO 4 -- DADOS OFICIAIS
+================================================================================
+
+------------------------------------------------------------------------
+4.1  SUS E DATASUS
+------------------------------------------------------------------------
+
+  INTERNACOES PSIQUIATRICAS:
+    -- 2000-2014: 1.549.298 pacientes internados por transtornos mentais
+    -- Diagnosticos mais frequentes: uso de substancias psicoativas,
+       esquizofrenia, transtornos de humor
+    -- 2023-2025 (jan/23 a nov/25): 91.697 internacoes na faixa 25-29 anos
+
+  ATENDIMENTOS:
+    -- Atendimentos psicossociais no SUS: de 13,1 milhoes (2013) a
+       26,4 milhoes (2023) -- crescimento de ~101%
+    -- CAPS (2021-2025): 92.937.080 atendimentos
+    -- 2024: 27,9 milhoes de atendimentos psicologicos no SUS (+23%)
+    -- Consultas psiquiatricas: cresceram 44,5% em 5 anos (3,4M -> 4,9M)
+
+------------------------------------------------------------------------
+4.2  REDE CAPS
+------------------------------------------------------------------------
+
+  -- 3.019 CAPS em funcionamento (nov/2024)
+  -- Total da rede: mais de 6.200 servicos em todos os estados
+  -- 99 novas unidades habilitadas no 1o semestre de 2025
+  -- Investimento RAPS: de R$ 1,6 bi (2022) para R$ 2,25 bi (2024)
+
+------------------------------------------------------------------------
+4.3  PNS (IBGE) E OMS
+------------------------------------------------------------------------
+
+  PNS 2019 -- DEPRESSAO:
+    -- 10,2% (18+ anos) = ~16 milhoes de pessoas
+    -- Jovens 18-24: de 5,6% (2013) para 10,9% (2019) -- quase dobrou
+    -- Mulheres jovens: de 8,3% para 15,6%
+
+  OMS -- BRASIL:
+    -- Ansiedade: MAIOR do mundo (9,3%)
+    -- Depressao: MAIOR da America Latina (5,8%)
+
+  PESQUISA NACIONAL DE SAUDE MENTAL (PNSM-Brasil):
+    -- Lancada em janeiro de 2026
+    -- Primeira pesquisa de base populacional especifica para saude mental
+
+------------------------------------------------------------------------
+4.4  AFASTAMENTOS DO TRABALHO (INSS)
+------------------------------------------------------------------------
+
+  -- 2024: 472.328 afastamentos por transtornos mentais (+68% vs. 2023)
+  -- Aumento de 134% em relacao a 2022
+  -- Maior numero em 10 anos
+  -- Principais causas: ansiedade (141.414), depressao (113.604)
+  -- 64% dos afastados sao mulheres
+  -- Impacto financeiro: ~R$ 3 bilhoes em 2024
+
+
+================================================================================
+================================================================================
+               PARTE II -- TRANSTORNOS MENTAIS E CRIMINALIDADE
+================================================================================
+================================================================================
+
+
+================================================================================
+          CAPITULO 5 -- PROPORCAO DE CRIMES POR PESSOAS COM
+                        TRANSTORNOS MENTAIS
+================================================================================
+
+  DADOS DO SISTEMA CARCERARIO (INFOPEN 2015):
+    -- 99,59% dos encarcerados (607.731 pessoas) NAO possuiam
+       transtorno mental diagnosticado
+    -- 0,41% (2.500 pessoas) possuiam transtorno mental diagnosticado
+
+  NOTA CRITICA: Este dado (0,41%) refere-se a diagnosticos FORMAIS
+  registrados no sistema prisional. Estudos clinicos mostram prevalencia
+  MUITO maior quando avaliacao psiquiatrica e aplicada:
+    -- 61,7% dos presos tiveram ao menos um transtorno ao longo da vida
+    -- 25% preenchiam criterios diagnosticos no ano anterior
+    -- A discrepancia indica SUBDIAGNOSTICO massivo no sistema prisional
+
+  REINCIDENCIA:
+    -- Populacao prisional geral: ate 80%
+    -- Individuos com transtornos mentais: 59%
+    -- Em programas de tratamento: 5,3%
+    -- Censo nacional: 25%
+
+  CONCLUSAO DA TESE FAMERP (Castiglioni, 2015-2019):
+    "O crime ocorre independentemente de questoes patologicas, sendo os
+    fatores sociais, prisionais, economicos, assistenciais, educacionais
+    e politicos os de maior impacto direto na criminalidade."
+
+  FONTES: Psychiatry Online Brazil (FAMERP); INFOPEN 2015
+
+
+================================================================================
+          CAPITULO 6 -- PREVALENCIA DE TRANSTORNOS NO SISTEMA PRISIONAL
+================================================================================
+
+  POPULACAO CARCERARIA TOTAL (2o semestre 2024 - SISDEPEN):
+    -- 909.067 pessoas em cumprimento de pena
+    -- 94,13% do sexo masculino; 5,9% mulheres
+    -- Deficit de mais de 174 mil vagas
+
+  DADOS DE PREVALENCIA ENTRE PRESOS:
+    -- 61,7% tiveram ao menos um transtorno mental ao longo da vida
+    -- 25% preenchiam criterios no ano anterior ao estudo
+    -- 11,2% dos homens: transtornos mentais graves
+    -- 25,5% das mulheres: transtornos mentais graves
+    -- Projecao nacional: ~60.000 prisioneiros com transtornos graves
+    -- Prevalencia 5 a 10 vezes maior que na populacao geral (UNIFESP)
+
+  MULHERES PRESAS EM SAO PAULO:
+    -- 68,9% apresentaram algum transtorno mental ao longo da vida
+    -- 38,4% desenvolveram no ultimo ano
+
+  HOMENS PRESOS EM SAO PAULO:
+    -- 54% apresentaram algum transtorno mental ao longo da vida
+    -- 19% no ultimo ano
+
+  TRANSTORNOS DE PERSONALIDADE EM PRESOS:
+    -- Populacao geral: 0,5% a 3%
+    -- Presidiarios: 45% a 66%
+    -- Algumas amostras: ate 80%
+    -- Carceraria feminina brasileira: 82,22% com tracos sugestivos
+
+  TRANSTORNOS MAIS FREQUENTES:
+    -- Sintomas depressivos
+    -- Abuso de substancias psicoativas
+    -- Transtorno de estresse pos-traumatico
+
+  63% das unidades prisionais NAO possuem modulo de saude.
+
+  FONTES: SENAPPEN; SISDEPEN; SciELO (Ciencia & Saude Coletiva);
+          AzMina; UNIFESP
+
+
+================================================================================
+          CAPITULO 7 -- MEDIDAS DE SEGURANCA E INIMPUTABILIDADE
+================================================================================
+
+  BASE LEGAL:
+    Art. 26 do Codigo Penal: isenta de pena o agente que, por doenca
+    mental ou desenvolvimento mental incompleto ou retardado, era
+    inteiramente incapaz de entender o carater ilicito do fato.
+    Resultado: "absolvicao impropria" -- internacao em hospital
+    psiquiatrico.
+
+  DADOS CNJ/CEBRAP (2024):
+    -- 2.736 pessoas cumpriam medida de seguranca no Brasil
+    -- Representa MENOS DE 1% da populacao privada de liberdade
+    -- 22 hospitais de custodia em funcionamento
+    -- ~260 pessoas viviam em HCTPs por perda de vinculo familiar
+
+  PERFIL DOS INTERNADOS (CNJ 2024):
+    -- Majoritariamente homens
+    -- Transtornos mentais por uso de alcool/drogas
+    -- Entre 30 e 49 anos
+    -- Pouca escolaridade, solteiros, pardos, sem filhos
+    -- Confinamento resulta frequentemente de PEQUENOS DELITOS URBANOS
+       (usuarios de drogas, pessoas em situacao de rua)
+
+  DADOS DO IPF MAURICIO CARDOSO (617 internos):
+    -- 91,3% homens
+    -- 83,2% sem companheiras/os
+    -- 62,1% cometeram crimes contra a pessoa
+    -- 58,3% tinham antecedentes criminais
+    -- 61,4% diagnosticados com esquizofrenia
+    -- Tempo medio de internacao: 9,33 anos
+
+  RESOLUCAO CNJ 487/2023:
+    -- Institui Politica Antimanicomial do Poder Judiciario
+    -- Data-limite para fechamento de HCTPs: agosto/2024
+    -- Ao menos 16 estados interditaram total ou parcialmente
+
+  FONTES: CNJ; CNJ/Cebrap 2024; SciELO (Rev Psiquiatria RS); STJ
+
+
+================================================================================
+          CAPITULO 8 -- HOSPITAIS DE CUSTODIA (HCTP) -- CENSO 2011
+================================================================================
+
+  POPULACAO: 3.989 internados em 26 estabelecimentos
+  (Primeiro censo nacional desde a criacao do 1o manicomio judiciario
+  em 1921 -- pesquisa de Debora Diniz/UnB)
+
+  PERFIL SOCIODEMOGRAFICO:
+    -- Homens: 93% | Mulheres: 7%
+    -- Escolaridade: 18% analfabetos; 41% fund. incompleto
+    -- 83,3% sem relacionamento estavel
+    -- 75%+ nao ultrapassaram 8 anos de estudo
+    -- Populacao predominantemente negra e pobre
+
+  DIAGNOSTICOS PSIQUIATRICOS:
+    -- 67% transtornos psicoticos (esquizofrenia e outros)
+    -- 15,2% retardo mental
+    -- 7,3% transtornos por uso de substancias psicoativas
+    -- 4,5% transtornos de personalidade
+    -- 6,2% outros
+
+  CRIMES COMETIDOS (Censo 2011):
+    -- Homicidio: 44%
+    -- Crimes contra o patrimonio: 26%
+    -- Crimes sexuais: 11%
+    -- Crimes relacionados a drogas: 11%
+    -- Outros: 8%
+
+  DADOS COMPLEMENTARES:
+    -- 52,3% haviam cometido crimes violentos
+    -- 74,5% eram reincidentes criminais
+    -- Maioria das infracoes contra familiares ou conhecidos proximos
+
+  TEMPO DE INTERNACAO -- DADOS ALARMANTES:
+    -- 21% cumpriam penas alem do tempo estabelecido
+    -- 217 internados ha mais de 15 anos
+    -- 18 internados ha mais de 30 anos (limite maximo de pena)
+    -- 606 internados por periodo maior que a pena maxima em abstrato
+
+  ESTUDO ESPECIFICO (ESQUIZOFRENIA + MEDIDA DE SEGURANCA):
+    -- 285 pacientes esquizofrenicos
+    -- 35,1% internados por homicidio
+    -- 64,9% por outros delitos
+
+  CONCLUSAO DE DEBORA DINIZ:
+    "O diagnostico psiquiatrico NAO e determinante para a infracao
+    penal cometida pelo doente mental."
+
+  FONTES: SciELO; Livros UnB (Censo 2011); CNJ; UnB Ciencia
+
+
+================================================================================
+================================================================================
+               PARTE III -- TIPOS ESPECIFICOS DE CRIME
+================================================================================
+================================================================================
+
+
+================================================================================
+          CAPITULO 9 -- FEMINICIDIO E TRANSTORNOS MENTAIS
+================================================================================
+
+  DADOS GERAIS DE FEMINICIDIO NO BRASIL:
+    -- 2025: 1.568 mulheres assassinadas (+4,7% vs. 2024)
+    -- 2024: 1.492 feminicidios (recorde da serie historica desde 2011)
+    -- Desde marco/2015 (tipificacao): ao menos 13.703 mulheres mortas
+    -- Crescimento de 316% em uma decada
+    -- 2025: 3.702 tentativas de feminicidio (+16,3%)
+
+  PERFIL DAS VITIMAS:
+    -- 63,6% eram mulheres negras
+    -- 70,5% tinham entre 18 e 44 anos
+    -- 80% foram mortas por parceiros ou ex-parceiros
+    -- 64,3% dos crimes ocorreram dentro de casa
+    -- Quase metade com arma branca
+
+  PERFIL DO AGRESSOR FEMINICIDA:
+    -- Ciume excessivo: presente em 88,2% dos casos (PRINCIPAL FATOR)
+    -- 73,5% haviam ameacado ou tentado matar anteriormente
+    -- 64,7% possuiam historico criminal
+    -- 38,4% faziam uso abusivo de alcool
+    -- 61% estudaram apenas ate o ensino fundamental
+    -- Faixa etaria predominante: 19 a 30 anos
+    -- 37,8% viviam em uniao estavel
+
+  TRANSTORNOS MENTAIS EM FEMINICIDAS:
+    -- Transtornos mais observados: sintomatologia psicotica, transtorno
+       bipolar e transtorno delirante
+    -- Em muitos casos, assassinatos foram consequencia de crises agudas
+    -- POREM: a raiz da violencia contra a mulher NAO esta,
+       majoritariamente, em quadros psiquiatricos, e sim em uma
+       ESTRUTURA SOCIAL PATRIARCAL
+
+  DADO DO FORUM BRASILEIRO DE SEGURANCA PUBLICA:
+    "Em sua maioria, [os agressores] NAO apresentam transtornos
+    psicologicos ou psiquiatricos."
+    (Revista Brasileira de Seguranca Publica)
+
+  FONTES: Anuario Brasileiro de Seguranca Publica 2025; Agencia Brasil;
+          MPDFT; Revista FT; ConJur
+
+
+================================================================================
+          CAPITULO 10 -- VIOLENCIA DOMESTICA E PERFIL DOS AGRESSORES
+================================================================================
+
+  DADOS GERAIS (FBSP, dados 2024):
+    -- 37,5% das mulheres brasileiras sofreram ao menos um tipo de
+       violencia por parceiro intimo (fev/2024-fev/2025) = ~27,6 milhoes
+    -- Ao menos 2 ligacoes por minuto por violencia domestica
+    -- 555.001 medidas protetivas concedidas em 2024
+    -- 101.656 registros de descumprimento de medidas protetivas (+10,8%)
+    -- 121 mortes com vitima sob medida protetiva de urgencia
+    -- 87.545 vitimas de estupro em 2024 (recorde; 1 a cada 6 min)
+    -- 3 em cada 4 vitimas de estupro tinham ate 14 anos
+
+  PERFIL PSICOLOGICO DO AGRESSOR:
+    -- Baixa autoestima, sentimentos de rejeicao
+    -- Ciume irracional, controle, autoritarismo
+    -- Chantagem emocional, culpabilizacao da vitima
+    -- Condutas paranoides, conduta suicida
+    -- Abuso de alcool e substancias psicoativas
+    -- Antecedentes criminais, irritabilidade
+
+  PRINCIPAIS AGRESSORES:
+    -- Parceiros/ex-parceiros: ~40% dos casos
+    -- 38,4% faziam uso abusivo de alcool
+    -- 31,2% motivados por ciumes
+    -- Agressores sexuais: 64% familiares; 22,4% conhecidos
+
+  ESTUDO ESCOLA ANNA NERY (130 autos de prisao):
+    -- Homens jovens adultos, casados, baixa escolaridade, com emprego
+    -- Predominantemente parceiros intimos sob influencia de alcool
+    -- 89,3% liberados com pagamento de fianca
+    -- 84,6% cometeram violencia na residencia
+    -- 65,4% das vitimas eram financeiramente dependentes do agressor
+
+  PSICOPATIA E VIOLENCIA DOMESTICA:
+    -- 2017: 388.286 casos de violencia domestica registrados
+    -- Com base no PCL-R: ~97.000 agressores teriam alguma forma de
+       psicopatia (~25% dos casos)
+    -- Psicopatas constituem proporcao significativa de abusadores
+       reincidentes
+
+  PERFIL DOS PARCEIROS INTIMOS (SciELO, Servico Social e Sociedade):
+    -- Estudo em Canoas/RS (2017)
+    -- 55,8% dos agressores estudaram ate o ensino fundamental
+    -- Idade media: 22-32 anos
+    -- Bebidas alcoolicas e ciume: principais fatores associados
+
+  ESTUDO CAMPINAS (38 casos de homicidio feminino, 2018-2019):
+    -- 63,2% corresponderam a feminicidios
+    -- Os homens "geralmente tinham ocupacoes variadas, SEM TRANSTORNOS
+       MENTAIS, e facil acesso a objetos cortantes e armas de fogo"
+    -- Mortes ocorreram predominantemente em ambiente domestico
+
+  FONTES: FBSP; Anuario 2025; SciELO; Escola Anna Nery; Jusbrasil
+
+
+================================================================================
+          CAPITULO 11 -- STALKING/PERSEGUICAO E TRANSTORNOS MENTAIS
+================================================================================
+
+  DADOS ESTATISTICOS (BRASIL):
+    -- 2024: 95.026 mulheres vitimas (+18,2%) = 10 mulheres/hora
+    -- 2023: 77.083 registros (+34,5% vs. 2022)
+    -- 2022: 57.294 registros
+    -- Total desde tipificacao (Lei 14.132/2021): 256.810 denuncias
+    -- DADO CRITICO: 80% dos feminicidios comecam com perseguicao
+
+  CLASSIFICACAO DOS STALKERS (5 TIPOS):
+
+    1. STALKER REJEITADO:
+       -- Reacao a rejeicao em relacionamento (ex-parceiros)
+       -- Motivacao: tentativa de reconciliacao ou vinganca
+
+    2. STALKER RESSENTIDO/RANCOROSO:
+       -- Transtorno de personalidade paranoide ou narcisista
+       -- Persiste por vinganca; sente-se injusticado
+
+    3. STALKER CARENTE (EROTOMANIA):
+       -- Transtorno delirante de erotomania
+       -- Acredita estar sendo correspondido amorosamente
+
+    4. STALKER CORTEJADOR INCOMPETENTE:
+       -- Baixa competencia social
+       -- Geralmente sem transtorno diagnosticavel
+
+    5. STALKER PREDADOR:
+       -- Transtorno de sadismo sexual coercitivo ou TPAS
+       -- Espiona a vitima para preparar ataque sexual
+
+  PREVALENCIA DE TRANSTORNOS EM STALKERS:
+    -- 30% a 50% em amostras clinicas tem transtornos de personalidade
+    -- Mais comuns: esquizofrenia, TP paranoide, narcisista e antissocial
+
+  CONCLUSAO: O stalking e o tipo de crime com MAIOR associacao
+  documentada com transtornos mentais entre os analisados nesta
+  pesquisa. Ainda assim, pelo menos metade dos stalkers NAO tem
+  transtorno diagnosticavel.
+
+  FONTES: TJPB; IPq HC; Jusbrasil; Anuario Seguranca Publica;
+          Rev Avante (Policia Civil MG)
+
+
+================================================================================
+          CAPITULO 12 -- INJURIA RACIAL E TRANSTORNOS MENTAIS
+================================================================================
+
+  RELACAO NA JURISPRUDENCIA:
+    -- Caso notavel: re com transtorno borderline, depressivo recorrente
+       e transtornos por uso de cannabis absolvida de injuria racial
+    -- Tribunais entendem que bipolaridade, por exemplo, NAO torna o
+       agente inimputavel automaticamente
+    -- Lei brasileira usa criterio BIOPSICOLOGICO: o transtorno so
+       afeta a responsabilidade se interferir na capacidade de
+       discernimento no momento do fato
+
+  EFEITOS DO RACISMO NA SAUDE MENTAL DAS VITIMAS:
+    -- Depressao, baixa autoestima, agressividade
+    -- Ansiedade, fobia, estresse
+    -- Pode resultar em "Race-Based Traumatic Stress Injury" (RBTS)
+
+  LEGISLACAO:
+    -- Lei 14.532/23: injuria racial equiparada ao racismo
+       (imprescritivel e inafiancavel)
+
+  NOTA: Nao foram encontrados estudos epidemiologicos especificos
+  sobre prevalencia de transtornos mentais em autores de injuria racial
+  no Brasil. Esta e uma lacuna significativa na literatura.
+
+  FONTES: CUT; SciELO (Psicologia: Ciencia e Profissao); Senado;
+          UNINTER
+
+
+================================================================================
+================================================================================
+                   PARTE IV -- ANALISE E DISCUSSAO
+================================================================================
+================================================================================
+
+
+================================================================================
+          CAPITULO 13 -- AVALIACAO DA HIPOTESE
+================================================================================
+
+  HIPOTESE INVESTIGADA:
+  "Grande parte dos casos de violencia contra a mulher, feminicidio,
+  perseguicao e injuria racial podem ser atribuidos a pessoas com
+  transtornos mentais."
+
+------------------------------------------------------------------------
+13.1  O QUE OS DADOS MOSTRAM
+------------------------------------------------------------------------
+
+  A. EVIDENCIAS QUE PARCIALMENTE SUPORTAM A HIPOTESE:
+
+     1. Transtornos de personalidade (especialmente TPAS) sao
+        desproporcionalmente prevalentes em populacoes carcerarias
+        (45-80% vs. 0,5-3% na pop. geral). Isso sugere que esses
+        transtornos estao associados a comportamento criminoso.
+
+     2. ~25% dos agressores de violencia domestica podem ter alguma
+        forma de psicopatia (estimativa baseada no PCL-R).
+
+     3. 30-50% dos stalkers tem transtornos de personalidade
+        diagnosticados.
+
+     4. Cluster B (antissocial, borderline, histrionico, narcisista)
+        tem prevalencia quase o dobro da media mundial em SP (2,7%).
+
+     5. O Transtorno Explosivo Intermitente afeta 3,1% da populacao
+        brasileira e esta diretamente ligado a episodios de violencia.
+
+     6. Em hospitais de custodia, 44% dos internados cometeram
+        homicidio (maioria contra familiares).
+
+     7. TPAS presente em 96% dos HOMICIDAS e 84% dos ESTUPRADORES
+        em amostra forense (SciELO/J Bras Psiquiatr).
+
+     8. Bipolares em episodio maniaco tem risco 2,6x maior de
+        violencia; com abuso de alcool, risco triplica.
+
+     9. Consumo DIARIO de alcool multiplica por 37x o risco de
+        agressao domestica (OR=37,33; Fonseca et al., Rev Saude
+        Publica, n=7.939 domicilios).
+
+    10. 35% dos homicidas apresentavam transtornos mentais graves
+        vs. 21% de outros criminosos (Rev Bras Psiquiatr, 2006).
+
+  B. EVIDENCIAS QUE REFUTAM OU NUANCAM A HIPOTESE:
+
+     1. Apenas 0,41% dos encarcerados tem diagnostico formal de
+        transtorno mental (INFOPEN 2015).
+
+     2. Medidas de seguranca (inimputaveis) representam MENOS DE 1%
+        da populacao privada de liberdade (2.736 de 909.067).
+
+     3. O Forum Brasileiro de Seguranca Publica afirma que agressores
+        de violencia domestica "em sua maioria, NAO apresentam
+        transtornos psicologicos ou psiquiatricos."
+
+     4. Estudo em Campinas mostrou que feminicidas "geralmente NAO
+        tinham transtornos mentais."
+
+     5. A pesquisadora Debora Diniz (Censo 2011) concluiu que "o
+        diagnostico psiquiatrico NAO e determinante para a infracao
+        penal cometida."
+
+     6. A tese da FAMERP (5 anos de pesquisa) concluiu que "o crime
+        ocorre independentemente de questoes patologicas."
+
+     7. Os principais fatores associados ao feminicidio sao CIUME
+        (88,2%) e ALCOOL (38,4%), nao transtornos mentais.
+
+     8. O perfil de internados em HCTPs e marcado por PEQUENOS DELITOS
+        de usuarios de drogas e moradores de rua, nao crimes graves.
+
+     9. A reincidencia e MENOR entre pessoas com transtornos mentais
+        (59%) do que na populacao carceraria geral (80%).
+
+    10. Artigo da Rev Bras Psiquiatria: "A associacao entre doenca
+        mental e violencia NAO tem base real na intensidade relatada.
+        Muito mais crimes sao cometidos por pessoas SEM qualquer
+        doenca mental."
+
+    11. Pessoas com doencas mentais sao mais propensas a serem
+        VITIMAS de violencia do que perpetradoras.
+
+    12. Delirios que causam amedrontamento podem INIBIR violencia
+        (achado contraintuitivo -- Dalgalarrondo/UNICAMP).
+
+------------------------------------------------------------------------
+13.2  NUANCES IMPORTANTES
+------------------------------------------------------------------------
+
+  1. SUBDIAGNOSTICO: Os dados oficiais (0,41%) subestimam massivamente
+     a prevalencia real. Quando avaliacao clinica e aplicada, 61,7%
+     dos presos apresentam algum transtorno. Porem, grande parte
+     desses transtornos se DESENVOLVE no carcere, nao e preexistente.
+
+  2. CONFUSAO ENTRE CORRELACAO E CAUSALIDADE: Transtornos de
+     personalidade sao mais prevalentes em presos, mas isso nao
+     significa que o transtorno CAUSOU o crime. Fatores socioeconomicos
+     (pobreza, baixa escolaridade, vulnerabilidade) sao confundidores.
+
+  3. ALCOOL > TRANSTORNOS MENTAIS: O alcool e o fator mais
+     consistentemente associado a violencia em todas as pesquisas
+     analisadas (38,4% dos agressores fazem uso abusivo).
+
+  4. TRANSTORNOS DE PERSONALIDADE =/= TRANSTORNOS MENTAIS CLASSICOS:
+     TPAS, borderline, narcisismo nao sao "doencas" no sentido
+     classico (como esquizofrenia ou bipolar). Sao padroes persistentes
+     de comportamento. A distincao e crucial para esta analise.
+
+  5. "PSIQUIATRIZACAO" DO AGRESSOR: Ha uma tendencia preocupante nos
+     tribunais de usar diagnosticos como tese de defesa para reduzir
+     culpabilidade, especialmente em crimes contra mulheres.
+
+  6. FATORES ESTRUTURAIS: A literatura brasileira e consistente em
+     apontar fatores socioculturais (patriarcado, machismo, controle,
+     desigualdade de genero) como determinantes primarios da violencia
+     contra a mulher.
+
+------------------------------------------------------------------------
+13.3  CONCLUSAO
+------------------------------------------------------------------------
+
+  A hipotese de que "grande parte" da violencia contra mulheres e
+  outros crimes pode ser atribuida a transtornos mentais NAO e
+  sustentada pela evidencia disponivel, com as seguintes ressalvas:
+
+  -- Para STALKING: a hipotese tem suporte parcial (30-50% dos
+     stalkers tem transtornos de personalidade).
+
+  -- Para TRANSTORNOS DE PERSONALIDADE especificamente (que sao
+     distintos de transtornos mentais classicos): ha associacao
+     significativa com comportamento criminoso, especialmente
+     reincidente.
+
+  -- Para FEMINICIDIO e VIOLENCIA DOMESTICA em geral: os dados
+     indicam que fatores socioculturais, ciume patologico e alcool
+     sao muito mais determinantes que diagnosticos psiquiatricos.
+
+  -- Para INJURIA RACIAL: nao ha dados suficientes para avaliar.
+
+  A questao e mais complexa do que uma dicotomia "transtorno mental
+  = crime". Os dados sugerem um modelo MULTIFATORIAL onde transtornos
+  de personalidade (especialmente Cluster B), abuso de substancias,
+  fatores socioeconomicos e culturais interagem de formas complexas.
+
+  RECOMENDACAO PARA APROFUNDAMENTO:
+  -- Aguardar resultados da Pesquisa Nacional de Saude Mental
+     (PNSM-Brasil), lancada em janeiro de 2026, que sera a primeira
+     pesquisa de base populacional especifica no pais.
+
+
+================================================================================
+          CAPITULO 14 -- ARTIGOS ACADEMICOS DE REFERENCIA
+================================================================================
+
+  EPIDEMIOLOGIA:
+
+  [1] Andrade LH, Wang YP, Andreoni S, et al.
+      "Mental disorders in megacities: findings from the Sao Paulo
+      Megacity Mental Health Survey, Brazil."
+      PLOS ONE. 2012;7(2):e31879.
+      DOI: 10.1371/journal.pone.0031879
+      -- Amostra: 5.037 adultos; prevalencia 12 meses: 29,6%
+
+  [2] Viana MC, Andrade LH.
+      "Lifetime prevalence, age and gender distribution and age-of-onset
+      of psychiatric disorders in the Sao Paulo Metropolitan Area."
+      Rev Bras Psiquiatr. 2012.
+      -- Prevalencia ao longo da vida: 44,8%
+
+  [3] Santana GL, et al.
+      "The epidemiology of personality disorders in the Sao Paulo
+      Megacity general population."
+      PLOS ONE. 2018. DOI: 10.1371/journal.pone.0195581
+      -- Cluster B: 2,7% (quase o dobro da media global)
+
+  [4] Andrade LH, et al.
+      "The lifetime prevalence, health services utilization and risk
+      of suicide of bipolar spectrum subjects."
+      J Affect Disord. 2005.
+      -- Espectro bipolar: 2,4%
+
+  [5] "Prevalencia dos transtornos mentais na populacao adulta
+      brasileira: uma revisao sistematica de 1997 a 2009."
+      J Bras Psiquiatr. SciELO.
+      -- Prevalencia: 20-56%
+
+  CRIMINALIDADE E SAUDE MENTAL:
+
+  [6] Castiglioni, Luciane.
+      "Transtornos mentais na criminalidade: analise quantitativa do
+      sistema carcerario e de custodia no Brasil."
+      Tese de doutorado, FAMERP. 2019.
+      -- 0,41% com diagnostico; crime independe de patologia
+
+  [7] Diniz, Debora.
+      "A custodia e o tratamento psiquiatrico no Brasil: censo 2011."
+      Cadernos de Saude Publica, SciELO.
+      -- 3.989 internados; 67% com transtornos psicoticos
+
+  [8] CNJ/Cebrap.
+      "Pessoas com Transtorno Mental em Conflito com a Lei no Brasil."
+      6a Edicao Justica Pesquisa. 2024.
+      -- 2.736 em medida de seguranca; <1% da pop. privada de liberdade
+
+  [9] "Impacto da prisao na saude mental."
+      Ciencia & Saude Coletiva, SciELO. Estudo Rio de Janeiro.
+      -- 61,7% com transtorno ao longo da vida; 25% no ano anterior
+
+  VIOLENCIA CONTRA A MULHER:
+
+  [10] "Perfil de homens autores de violencia contra mulheres detidos
+       em flagrante: contribuicoes para o enfrentamento."
+       Escola Anna Nery Rev. Enferm. 18(4):600-606, 2014.
+       -- 130 autos de prisao; agressores jovens, baixa escolaridade
+
+  [11] "Perfil dos parceiros intimos de violencia domestica: uma
+       expressao da questao social brasileira."
+       Servico Social e Sociedade, SP, n.138, p.342-358, 2020.
+       -- Alcool e ciume como principais fatores associados
+
+  [12] Estudo Campinas (38 casos homicidio feminino, 2018-2019).
+       SciELO. 63,2% = feminicidios; agressores sem transtornos mentais.
+
+  [13] "Preditores do Comportamento Antissocial em Adolescentes."
+       Psicologia: Teoria e Pesquisa, SciELO.
+       -- Sexo, ambiente estressor, violencia intra/extrafamiliar
+
+  ALCOOL, DROGAS E VIOLENCIA:
+
+  [14] Fonseca AM, Galduróz JCF, Tondowski CS, Noto AN.
+       "Padroes de violencia domiciliar associada ao uso de alcool
+       no Brasil."
+       Rev Saude Publica, v.43, n.5, p.743-749, 2009.
+       -- n=7.939 domicilios, 108 cidades; OR=37,33 para consumo diario
+
+  [15] "Violencia contra a mulher, coesao familiar e drogas."
+       Rev Saude Publica, SciELO.
+       -- Mulheres agredidas: risco mental alto 43,1%
+
+  [16] "Violence, drugs, and psychiatric disorders: news from the
+       Brazilian press." PubMed, 2020.
+       -- 68% das materias jornalisticas sugeriam relacao causal
+          entre doenca mental e violencia (viés midiático)
+
+  TRANSTORNO BIPOLAR E VIOLENCIA:
+
+  [17] "Criminalmente bipolar: revisao sistematica sobre mania bipolar
+       e comportamento criminal."
+       Perspectivas em Medicina Legal e Pericia Medica, 2024.
+       -- Agressao em 10,6% dos bipolares
+       -- Risco 4,9x com tentativa de suicidio recente
+       -- Risco 3x+ com abuso de alcool
+       -- Risco 2,6x em episodio maniaco
+       -- 5,6% dos maniacos condenados por crimes violentos
+
+  [18] "Matricidio e transtorno bipolar."
+       Rev Psiquiatria Clinica, SciELO.
+       -- Matricidio = 1-4% de todos os homicidios
+
+  PSICOPATIA E CRIME:
+
+  [19] "Psicopatia e Crime: Sao Todos os Homicidas Psicopatas?"
+       Avaliacao Psicologica (PePSIC), 2022.
+       -- 45 detentos homicidas avaliados com PCL-R
+
+  [20] Morana, Arboleda-Florez, Camara.
+       "Identifying the cutoff score for the PCL-R in a Brazilian
+       forensic population."
+       Forensic Science International, 2005.
+       -- Ponto de corte brasileiro: 23 (vs. 30 internacionalmente)
+       -- Sensibilidade: 84,8%; Especificidade: 100%
+
+  [21] "Personalidade psicopatica em adolescentes infratores."
+       Rev Psiquiatria Clinica, SciELO.
+       -- Crimes contra a vida: psicopatia 2,86x maior (RP=2,86)
+
+  [22] "Indicadores comportamentais de propensao ao homicidio em
+       agressores sexuais."
+       J Bras Psiquiatr, SciELO.
+       -- TPAS em 96% dos homicidas e 84% dos estupradores
+
+  VIOLENCIA E DOENCA MENTAL (REVISOES):
+
+  [23] "Violencia e doenca mental: fato ou ficcao?"
+       Rev Bras Psiquiatria, SciELO.
+       -- Associacao NAO tem base na intensidade relatada
+       -- Doentes mentais sao mais VITIMAS que perpetradores
+
+  [24] Dalgalarrondo P, Teixeira EH. (UNICAMP/PUC-Campinas)
+       "Bases psicopatologicas do crime violento."
+       J Bras Psiquiatr, SciELO.
+       -- Delirios de amedrontamento INIBEM violencia
+
+  [25] "Esquizofrenia, psicopatologia e crime violento: revisao."
+       J Bras Psiquiatr, SciELO.
+       -- Comorbidade com abuso de substancias e o maior fator
+       -- Apenas pequena porcao da violencia social atribuivel
+
+  [26] Tavares GP, Almeida RMM. (UFRGS)
+       "Violencia, dependencia quimica e transtornos mentais em
+       presidiarios."
+       Estudos de Psicologia (Campinas), v.27, n.4, 2010.
+       -- Revisao de 408 artigos; relacao mais complexa que assumida
+
+  DADOS INTERNACIONAIS COM DADOS BRASILEIROS:
+
+  [27] "Personality disorders as predictors of intimate partner
+       violence: A meta-analysis."
+       Clinical Psychology Review, 2021.
+       -- 163 estudos; TPAS e borderline com maiores efeitos
+
+  [28] "Mental illness and crime in Brazil."
+       The Lancet, 2013.
+       -- 23 hospitais forenses, 3 alas psiquiatricas
+
+  [29] "Crime and violence in Brazil: systematic review." PMC, 2013.
+       -- Dependencia substancias: 27,9-35,3% em presos
+       -- TP: 19,7-34,8%; Depressao: 17,6-18,8%
+
+  REFORMA PSIQUIATRICA E IMPACTO:
+
+  [30] AEA (American Economic Association).
+       "Mental health reform Brazil."
+       -- CAPS reduziram internacoes MAS reforma AUMENTOU crimes
+          violentos (Hipotese de Penrose)
+
+  PSIQUIATRIA FORENSE:
+
+  [31] "Inimputabilidade: estudo dos internos do IPF Mauricio Cardoso."
+       Rev Psiquiatria RS, SciELO.
+       -- 617 internos; 61,4% com esquizofrenia
+
+  [15] "Psiquiatria forense." Rev Bras Psiquiatr, SciELO.
+       -- 285 esquizofrenicos; 35,1% por homicidio
+
+  [16] "A psiquiatrizacao do agressor: quando a patologia e de fato
+       uma excludente de culpabilidade ou apenas uma tese de defesa
+       em crimes contra mulheres." ConJur, 2025.
+
+
+================================================================================
+          CAPITULO 15 -- FONTES E REFERENCIAS COMPLETAS
+================================================================================
+
+  PESQUISAS EPIDEMIOLOGICAS:
+  -- Andrade et al., PLOS ONE 2012: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0031879
+  -- Santana et al., PLOS ONE 2018: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0195581
+  -- SciELO/J Bras Psiquiatr (revisao sistematica): http://www.scielo.br/j/jbpsiq/a/FNQ5qZjtSdwznsjZzHTH7jS/?lang=pt
+  -- SciELO/Rev Psiq Clin (epidemiologia bipolar): https://www.scielo.br/j/rpc/a/mGrNFQTn3DLBhv9c3rdggDw/
+  -- RBNP (TEI): https://rbnp.emnuvens.com.br/rbnp/article/download/43/73
+
+  GOVERNO E ORGAOS OFICIAIS:
+  -- CNJ (censo hospitais custodia): https://www.cnj.jus.br/pesquisa-traca-perfil-de-pessoas-com-transtornos-mentais-em-unidades-de-custodia/
+  -- CNJ/Cebrap relatorio completo: https://www.cnj.jus.br/wp-content/uploads/2024/10/6ajp-cebrap-saude-mental-relatorio-completo.pdf
+  -- SENAPPEN (SISDEPEN 2024): https://www.gov.br/senappen/pt-br/assuntos/noticias/senappen-divulga-levantamento-de-informacoes-penitenciarias-referente-ao-segundo-semestre-de-2024
+  -- Ministerio da Saude (bipolar): https://www.gov.br/saude/pt-br/assuntos/noticias/2022/setembro/transtorno-bipolar-afeta-cerca-de-140-milhoes-de-pessoas-no-mundo
+  -- Ministerio da Saude (depressao): https://www.gov.br/saude/pt-br/assuntos/noticias/2022/setembro/na-america-latina-brasil-e-o-pais-com-maior-prevalencia-de-depressao
+  -- Ministerio da Saude (PNSM-Brasil): https://www.gov.br/saude/pt-br/assuntos/noticias/2026/janeiro/ministerio-da-saude-inicia-pesquisa-nacional-de-saude-mental-para-mapear-a-realidade-da-populacao-adulta
+  -- IBGE/PNS 2019: https://biblioteca.ibge.gov.br/visualizacao/livros/liv101764.pdf
+
+  SEGURANCA PUBLICA:
+  -- Anuario Brasileiro de Seguranca Publica: https://forumseguranca.org.br/publicacoes/anuario-brasileiro-de-seguranca-publica/
+  -- 19o Anuario (2025): https://forumseguranca.org.br/wp-content/uploads/2025/07/anuario-2025.pdf
+  -- Perfil homem violencia domestica: https://revista.forumseguranca.org.br/rbsp/article/view/1783
+
+  TESES E ARTIGOS ACADEMICOS:
+  -- FAMERP (Castiglioni): https://bdtd.famerp.br/handle/tede/638
+  -- Psychiatry Online Brazil: https://www.polbr.med.br/2020/02/01/transtornos-mentais-na-criminalidade-analise-quantitativa-do-sistema-carcerario-e-de-custodia-no-brasil-prevalencia-de-doencas-psiquiatricas-e-perfil-destas-populacoes/
+  -- Escola Anna Nery: https://www.scielo.br/j/ean/a/jYG3vKc6tRx8dtGstt3spmB/
+  -- Perfil parceiros intimos VD: https://www.scielo.br/j/sssoc/a/DYRrTKrBg3WjSLjXxGjByzM/?lang=pt
+  -- Censo 2011 (Debora Diniz): https://www.scielo.br/j/csp/a/ZQ4y8QShHTV3csnH3NZppfF/?lang=pt
+  -- Livros UnB (Censo 2011): https://livros.unb.br/index.php/portal/catalog/book/9
+  -- IPF Mauricio Cardoso: https://www.scielo.br/j/rprs/a/mLpJ8YDtPVk3TV7fwqVGnvr/
+  -- Preditores comportamento antissocial: https://www.scielo.br/j/ptp/a/qpH6z5d35Sn3hwTYFFC7jDQ/
+  -- Saude mental e racismo: https://www.scielo.br/j/pcp/a/gPSLSxDcHDhDccZgpk3GNVG/?lang=pt
+
+  UNIVERSIDADES E INSTITUTOS:
+  -- IPq-HC/FMUSP: https://ipqhc.org.br/2024/04/15/saude-mental-no-brasil-dados-e-panorama/
+  -- Jornal da USP (TPAS): https://jornal.usp.br/campus-ribeirao-preto/transtorno-da-personalidade-antissocial-pode-atingir-entre-1-a-2-da-populacao-mundial/
+  -- UNIFESP (esquizofrenia): https://portal.unifesp.br/destaques/mais-de-meio-milhao-de-brasileiros-vivem-com-esquizofrenia
+  -- IEPS (tratamento depressao): https://ieps.org.br/mais-de-70-dos-brasileiros-com-depressao-nao-receberam-nenhum-tratamento-em-2019-aponta-estudo/
+
+  OMS E ORGANISMOS INTERNACIONAIS:
+  -- OMS Informe Mundial Saude Mental: https://bvsms.saude.gov.br/oms-divulga-informe-mundial-de-saude-mental-transformar-a-saude-mental-para-todos/
+  -- OPAS/OMS (pos-pandemia): https://www.paho.org/pt/noticias/2-3-2022-pandemia-covid-19-desencadeia-aumento-25-na-prevalencia-ansiedade-e-depressao-em
+  -- ONU News: https://news.un.org/pt/story/2022/06/1792702
+  -- ONU Brasil (afastamentos): https://brasil.un.org/pt-br/292926
+
+  AFASTAMENTOS TRABALHO:
+  -- ANAMT/INSS: https://www.anamt.org.br/portal/2026/01/27/levantamento-anamt-com-dados-oficiais-do-inss-revela-crescimento-dos-afastamentos-decorrentes-de-problemas-de-saude-mental-entre-2023-e-2025/
+  -- Agencia Brasil: https://agenciabrasil.ebc.com.br/saude/noticia/2025-03/afastamentos-por-transtornos-mentais-dobram-em-dez-anos-chegam-440-mil
+  -- CFF: https://site.cff.org.br/noticia/Noticias-gerais/12/03/2025/brasil-registra-maior-numero-de-afastamentos-por-ansiedade-e-depressao-em-10-anos
+
+  ARTIGOS ACADEMICOS ADICIONAIS (SCIELO, PUBMED, LANCET):
+  -- Violencia e doenca mental fato ou ficcao: https://www.scielo.br/j/rbp/a/rhwCgYyjzLwvYpmx9WyvvdC/
+  -- Relacao homicidio e TM: https://www.scielo.br/j/rbp/a/7v5jJmfdtC7CggBQDCxVc6m/
+  -- Violencia dependencia quimica presidiarios: https://www.scielo.br/j/estpsi/a/rqvFhrd57dLBcfxyQm7GBWQ/
+  -- Bases psicopatologicas crime violento: https://www.scielo.br/j/jbpsiq/a/cHjLGRr43tRwcTq3c79hhZG/
+  -- Esquizofrenia psicopatologia crime: https://www.scielo.br/j/jbpsiq/a/qbtpdgZZVnBFZT8HsMF77Dw/
+  -- Institucionalizacao prolongada TM violencia: https://www.scielo.br/j/sausoc/a/kPmtDt9bYLNwFHFK8PhkntH/
+  -- Andando na contramao TM crimes Brasil: https://www.scielo.br/j/physis/a/VfT4NYvvtTkggFvbSYNRJxc/
+  -- Matricidio e transtorno bipolar: https://www.scielo.br/j/rpc/a/b74MJffVcvQNq6ByNkGW5Lb/
+  -- Responsabilidade penal bipolar: https://www.scielo.br/j/jbpsiq/a/J3Mc3SWPFhV4Cmxrc8DGWzv/
+  -- Criminalmente bipolar revisao: https://www.perspectivas.med.br/2024/11/criminalmente-bipolar-uma-revisao-sistematica-sobre-a-mania-bipolar-e-o-comportamento-criminal/
+  -- Padroes violencia domiciliar alcool: https://www.scielo.br/j/rsp/a/hYZgbvJNsWws3L4hxKnjDCb/
+  -- Violencia mulher coesao familiar drogas: https://www.scielo.br/j/rsp/a/QdVxHbxQwLGCXmGtDTzvvFb/
+  -- Indicadores propensao homicidio: https://www.scielo.br/j/jbpsiq/a/WnrsxyKMcYhkKCqScNdqMqD/
+  -- Psicopatia e Crime PePSIC: https://pepsic.bvsalud.org/scielo.php?script=sci_arttext&pid=S1677-04712022000200007
+  -- PCL-R cutoff Brazil: https://www.sciencedirect.com/science/article/abs/pii/S0379073804001835
+  -- Psicopatia adolescentes infratores: http://www.scielo.br/j/rpc/a/n99QfHQLScbDvnjdt8kFDyd/
+  -- TP psicopatia serial killers: https://www.scielo.br/j/rbp/a/mFz4QLyYLQDpwdcXBM7phzd/
+  -- TP preditores violencia intima meta-analise: https://www.sciencedirect.com/science/article/abs/pii/S0272735821000908
+  -- Mental illness crime Brazil Lancet: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(13)62623-9/fulltext
+  -- Crime violence Brazil systematic review: https://pmc.ncbi.nlm.nih.gov/articles/PMC3763365/
+  -- Violencia drogas TM imprensa: https://pubmed.ncbi.nlm.nih.gov/33243097/
+  -- Reforma psiquiatrica e violencia AEA: https://www.aeaweb.org/research/mental-health-reform-brazil
+  -- Feminicidio Campinas modelo ecologico: https://www.scielo.br/j/csc/a/mRzcdz4kyz4rsFtsf8gQ3RB/
+  -- Atlas Violencia IPEA: https://www.ipea.gov.br/atlasviolencia/publicacoes
+
+  OUTROS:
+  -- MSD Manuals (TPAS): https://www.msdmanuals.com/pt/profissional/transtornos-psiqui%C3%A1tricos/transtornos-de-personalidade/transtorno-de-personalidade-antissocial-tpas
+  -- ConJur (psiquiatrizacao): https://www.conjur.com.br/2025-out-24/psiquiatrizacao-do-agressor-quando-a-patologia-e-de-fato-uma-excludente-de-culpabilidade-ou-apenas-uma-tese-de-defesa-em-crimes-contra-mulheres/
+  -- MPDFT (fatores risco feminicidio): https://www.mpdft.mp.br/portal/index.php/comunicacao-menu/sala-de-imprensa/noticias/noticias-2021/13321-violencia-domestica-pesquisa-identifica-fatores-de-risco-para-feminicidios
+  -- Stalking (IPq HC): https://ipqhc.org.br/2024/06/17/paixao-psicotica-stalking-de-famosos-pode-ter-elo-com-saude-mental-mas-condicao-nao-e-igual-em-todos-os-casos/
+  -- Stalking (Rev Avante - PCMG): https://revistaavante.policiacivil.mg.gov.br/index.php/avante/article/download/112/83/546
+  -- Saude mental prisoes (AzMina): https://azmina.com.br/reportagens/transtornos-mentais-atingem-68-das-mulheres-encarceradas-no-estado-de-sao-paulo/
+
+
+================================================================================
+     FIM DO DOCUMENTO
+     Ultima atualizacao: Marco 2026
+     Total de fontes consultadas: 70+ artigos, relatorios e bases de dados
+================================================================================
