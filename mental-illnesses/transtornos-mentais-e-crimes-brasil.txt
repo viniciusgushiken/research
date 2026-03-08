@@ -375,8 +375,10 @@
        transtorno mental diagnosticado
     -- 0,41% (2.500 pessoas) possuiam transtorno mental diagnosticado
 
-  NOTA CRITICA: Este dado (0,41%) refere-se a diagnosticos FORMAIS
-  registrados no sistema prisional. Estudos clinicos mostram prevalencia
+  NOTA CRITICA: Este dado (0,41%) foi preenchido por GESTORES
+  ADMINISTRATIVOS das unidades prisionais via formulario online,
+  SEM avaliacao clinica dos presos. A Pastoral Carceraria denunciou
+  a invisibilidade de pessoas com TM nesse levantamento. Estudos clinicos mostram prevalencia
   MUITO maior quando avaliacao psiquiatrica e aplicada:
     -- 61,7% dos presos tiveram ao menos um transtorno ao longo da vida
     -- 25% preenchiam criterios diagnosticos no ano anterior
@@ -578,6 +580,19 @@
     psicologicos ou psiquiatricos."
     (Revista Brasileira de Seguranca Publica)
 
+    RESSALVA METODOLOGICA: Este dado e AUTO-DECLARADO. O estudo
+    (natureza quantitativa e descritiva, dez/2021 a fev/2022) foi
+    realizado mediante aplicacao de formulario respondido pelos
+    proprios homens envolvidos em violencia domestica, in loco na
+    Divisao Especializada no Atendimento a Mulher em Belem/PA.
+    NAO houve avaliacao clinica ou psiquiatrica profissional dos
+    agressores. Portanto, a ausencia de transtornos relatada reflete
+    a AUTOPERCEPCAO dos agressores, nao um diagnostico clinico --
+    o que limita significativamente a confiabilidade desse dado,
+    especialmente considerando que muitos transtornos de personalidade
+    (como TPAS e narcisismo) sao caracterizados justamente pela
+    falta de autocritica e reconhecimento da propria condicao.
+
   FONTES: Anuario Brasileiro de Seguranca Publica 2025; Agencia Brasil;
           MPDFT; Revista FT; ConJur
 
@@ -616,6 +631,8 @@
     -- 89,3% liberados com pagamento de fianca
     -- 84,6% cometeram violencia na residencia
     -- 65,4% das vitimas eram financeiramente dependentes do agressor
+    RESSALVA: Dados exclusivamente de DOCUMENTOS POLICIAIS (Autos de
+    Prisao em Flagrante). Sem avaliacao clinica dos agressores.
 
   PSICOPATIA E VIOLENCIA DOMESTICA:
     -- 2017: 388.286 casos de violencia domestica registrados
@@ -635,6 +652,9 @@
     -- Os homens "geralmente tinham ocupacoes variadas, SEM TRANSTORNOS
        MENTAIS, e facil acesso a objetos cortantes e armas de fogo"
     -- Mortes ocorreram predominantemente em ambiente domestico
+    RESSALVA: A informacao sobre TM dos agressores veio de PERCEPCAO
+    DE TERCEIROS LEIGOS (familiares/conhecidos da vitima, via autopsia
+    verbal). Os agressores NAO foram avaliados clinicamente. (N=38)
 
   FONTES: FBSP; Anuario 2025; SciELO; Escola Anna Nery; Jusbrasil
 
@@ -845,7 +865,178 @@
      contra a mulher.
 
 ------------------------------------------------------------------------
-13.3  CONCLUSAO
+13.3  RESSALVAS METODOLOGICAS DAS FONTES (DOUBLE CHECK)
+------------------------------------------------------------------------
+
+  Apos verificacao detalhada da metodologia de cada fonte citada neste
+  documento, segue classificacao por nivel de rigor diagnostico:
+
+  *** FONTES COM BAIXA CONFIABILIDADE PARA SAUDE MENTAL ***
+
+  1. INFOPEN 2015 (dado de 0,41% com TM entre presos):
+     -- Preenchido por GESTOR ADMINISTRATIVO da unidade prisional
+     -- NAO houve avaliacao clinica NEM auto-relato dos presos
+     -- Subnotificacao massiva documentada pela Pastoral Carceraria
+     -- CONCLUSAO: Dado administrativo de MUITO BAIXA confiabilidade
+
+  2. FBSP/Rev Bras Seg Publica (agressores "sem TM"):
+     -- AUTO-DECLARADO pelos proprios agressores na delegacia
+     -- Formulario respondido in loco na DEAM de Belem/PA
+     -- SEM avaliacao clinica profissional
+     -- CONCLUSAO: Autopercepcao do agressor, NAO diagnostico
+     [Ressalva ja incluida no Cap. 9 deste documento]
+
+  3. Estudo Campinas (agressores "sem TM"):
+     -- Informacao veio de PERCEPCAO DE TERCEIROS LEIGOS
+     -- Familiares/conhecidos da VITIMA reportaram via autopsia verbal
+     -- Agressores NAO foram avaliados clinicamente
+     -- Amostra pequena (N=38, dos quais 24 feminicidios)
+     -- CONCLUSAO: Baixa confiabilidade diagnostica
+
+  4. Escola Anna Nery (perfil agressores detidos):
+     -- Fonte: Autos de Prisao em Flagrante (documentos policiais)
+     -- NAO houve entrevista com agressores nem avaliacao clinica
+     -- Dados refletem o que o POLICIAL registrou no momento da prisao
+     -- CONCLUSAO: Dado policial/juridico, NAO clinico
+
+  5. Servico Social e Sociedade (parceiros intimos VD):
+     -- Dados AUTO-DECLARADOS pelos agressores em fichas de atendimento
+     -- Nucleo de atendimento (NAVIV-ULBRA, Canoas/RS)
+     -- SEM instrumento padronizado para saude mental
+     -- CONCLUSAO: Vies de desejabilidade social provavel
+
+  6. Fonseca et al. (alcool e violencia, OR=37,33):
+     -- Dados inteiramente AUTO-REPORTADOS por morador do domicilio
+     -- Qualquer morador adulto podia responder (vitima, agressor, terceiro)
+     -- SEM medicao objetiva de consumo de alcool
+     -- Desenho transversal: NAO estabelece causalidade
+     -- CONCLUSAO: Auto-relato domiciliar, robusto para epidemiologia
+       mas nao para diagnostico individual
+
+  *** FONTES COM RIGOR MODERADO ***
+
+  7. PNS 2019/IBGE (10,2% com depressao):
+     -- AUTO-RELATO de diagnostico medico PREVIO
+     -- Pergunta: "Algum medico ja lhe diagnosticou depressao?"
+     -- O proprio artigo SciELO usa "depressao AUTORREFERIDA" no titulo
+     -- SUBESTIMA prevalencia real (exclui quem nunca acessou medico)
+     -- CONCLUSAO: Moderado, mas captura apenas quem teve acesso + diagnostico
+
+  8. Covitel 2024 (26,8% com ansiedade):
+     -- AUTO-RELATO TELEFONICO de diagnostico medico previo
+     -- Exclui populacoes sem telefone (mais vulneraveis)
+     -- "Ansiedade" e termo de uso coloquial, pode inflar prevalencia
+     -- CONCLUSAO: Moderado-baixo
+
+  9. Estudo RJ (61,7% com TM entre presos):
+     -- Instrumentos padronizados: BDI (Beck) + ISSL (Lipp)
+     -- AUTO-RELATO com instrumento VALIDADO
+     -- Sao ferramentas de RASTREAMENTO (screening), NAO diagnostico
+     -- Contexto prisional pode elevar pontuacoes (vies contextual)
+     -- CONCLUSAO: Moderado-alto para rastreamento, mas NAO e diagnostico
+
+  10. MPDFT (88,2% ciume em feminicidios):
+      -- Analise documental retrospectiva + entrevistas com FAMILIARES
+      -- Fatores de risco identificados a POSTERIORI em 34 processos (DF)
+      -- NAO avalia saude mental do agressor diretamente
+      -- Amostra restrita (N=34, apenas DF, 2016-2017)
+      -- CONCLUSAO: Robusto para fatores de risco documentais, nao clinico
+
+  *** FONTES COM ALTO RIGOR DIAGNOSTICO ***
+
+  11. Sao Paulo Megacity (29,6% com transtorno):
+      -- CIDI (entrevista diagnostica estruturada da OMS)
+      -- Aplicado por entrevistadores LEIGOS treinados
+      -- Algoritmo computadorizado gera diagnosticos DSM-IV
+      -- PADRAO-OURO para epidemiologia psiquiatrica
+      -- POREM: NAO equivale a avaliacao clinica por psiquiatra
+      -- Tende a SUPERESTIMAR alguns transtornos (especialmente ansiedade)
+      -- Kappa de confiabilidade: 0,50 a 1,00
+      -- CONCLUSAO: Alto para epidemiologia, nao substitui diagnostico
+
+  12. Mulheres presas SP (68,9% com TM) -- UNIFESP:
+      -- Mesmo instrumento: CIDI 2.1, criterios CID-10
+      -- Amostra: 1.809 presos (1.192 homens, 617 mulheres)
+      -- Padrao-ouro epidemiologico
+      -- 68,9% refere-se a prevalencia ao longo da VIDA (nao atual)
+      -- NAO distingue TM pre-existente de TM desenvolvido no carcere
+      -- CONCLUSAO: Alto rigor, mas mesmas ressalvas do SP Megacity
+
+  13. CNJ/Cebrap 2024 e Censo 2011 (Diniz):
+      -- Diagnosticos extraidos de LAUDOS PERICIAIS PSIQUIATRICOS
+      -- Peritos psiquiatras forenses fizeram os diagnosticos originais
+      -- Pesquisa acessou indiretamente (analise documental)
+      -- CONCLUSAO: Alto rigor (pericial), mas depende da qualidade
+        da pericia original (variavel entre estados e peritos)
+
+  14. IPF Mauricio Cardoso (617 internos):
+      -- Laudos periciais judiciais + criterios CID-10
+      -- ALTO rigor diagnostico (pericia psiquiatrica forense)
+      -- Estudo retrospectivo (limitacao inerente)
+
+  15. Valenca & Moraes (285 esquizofrenicos):
+      -- Entrevista psiquiatrica + observacao de prontuarios
+      -- Criterios DSM-IV-TR
+      -- ALTO rigor diagnostico
+
+  16. Morana et al. (PCL-R ponto de corte 23):
+      -- Exame psiquiatrico + neurologico + Rorschach + PCL-R
+      -- MUITO ALTO rigor (multiplos instrumentos por profissionais)
+      -- POREM: amostra pequena (n=56)
+
+  17. Psicopatia em adolescentes (RP=2,86):
+      -- PCL-R aplicada por profissional
+      -- RESSALVA: usaram versao ADULTA em adolescentes (nao havia
+        PCL:YV validada em portugues na epoca)
+
+  *** FONTES COM RIGOR VARIAVEL ***
+
+  18. Stalking (30-50% dos stalkers com TP):
+      -- Dados de REVISOES INTERNACIONAIS (EUA, Australia, Europa)
+      -- NAO sao dados brasileiros
+      -- Amostras clinicas/forenses (vies de selecao: capturam apenas
+        stalkers que chegaram ao sistema de justica ou saude)
+      -- CONCLUSAO: Nao generalizavel para o Brasil
+
+  19. "Criminalmente bipolar" (10,6% agressao):
+      -- Revisao sistematica PRISMA (PubMed + BVS, 2014-2024)
+      -- Estudos de 10 paises, metodologias HETEROGENEAS
+      -- Nao especifica uniformemente criterios diagnosticos
+      -- Restricao a artigos gratuitos (vies de publicacao)
+
+  20. Crime and violence Brazil -- systematic review (PMC):
+      -- Predominantemente AUTO-RELATO (questionarios em escolas)
+      -- Variavel "mental health problems" ampla e inespecifica
+      -- NAO detalha instrumentos de saude mental usados
+
+  *** CONCLUSAO DA VERIFICACAO METODOLOGICA ***
+
+  NENHUMA das fontes sobre perfil de agressores de violencia domestica
+  ou feminicidio (fontes 1-6) utilizou avaliacao clinica profissional
+  de saude mental. Isso significa que:
+
+  -- Afirmacoes de que agressores "NAO tem transtornos mentais" sao
+     baseadas em percepcao de terceiros, dados policiais ou auto-relato
+     dos proprios agressores -- metodos inadequados para diagnostico.
+
+  -- Afirmacoes de BAIXA prevalencia de TM em presos (0,41%) refletem
+     falhas do sistema de registro, nao a realidade clinica.
+
+  -- Os dados de ALTA prevalencia (61,7%, 68,9%) usam instrumentos
+     padronizados (CIDI, BDI) com maior rigor, mas sao ferramentas
+     de rastreamento, nao diagnostico clinico formal.
+
+  -- Os unicos dados com diagnostico clinico robusto vem de contextos
+     FORENSES (HCTPs, pericias judiciais) -- populacoes muito
+     especificas que nao representam o universo de agressores.
+
+  LACUNA CRITICA: Nao existe no Brasil um estudo que avalie
+  clinicamente (por psiquiatra, com criterios DSM/CID) uma amostra
+  representativa de agressores de violencia domestica ou feminicidio.
+  Essa lacuna impede conclusoes definitivas sobre a hipotese investigada.
+
+------------------------------------------------------------------------
+13.4  CONCLUSAO
 ------------------------------------------------------------------------
 
   A hipotese de que "grande parte" da violencia contra mulheres e
