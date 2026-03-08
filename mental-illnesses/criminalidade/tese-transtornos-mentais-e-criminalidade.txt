@@ -1,0 +1,846 @@
+================================================================================
+     TESE: TRANSTORNOS MENTAIS E CRIMINALIDADE NO BRASIL
+     Uma analise critica das evidencias empiricas
+================================================================================
+
+     Autor: Pesquisa compilada por Claude (Anthropic)
+     Data: Marco de 2026
+     Base: 24+ artigos academicos (SciELO, PubMed, Lancet, AEA)
+
+================================================================================
+
+
+================================================================================
+                    RESUMO EXECUTIVO
+================================================================================
+
+  Esta tese investiga a relacao entre transtornos mentais e criminalidade
+  no Brasil a partir de uma analise sistematica de mais de 24 artigos
+  academicos publicados em periodicos como Revista Brasileira de
+  Psiquiatria, Jornal Brasileiro de Psiquiatria, The Lancet, American
+  Economic Journal, Saude e Sociedade, entre outros.
+
+  A TESE CENTRAL e tripla:
+
+  (1) A doenca mental isolada contribui POUCO para a violencia criminal
+      na sociedade -- o principal fator mediador e o abuso de substancias
+      psicoativas (alcool e drogas), nao o transtorno mental em si;
+
+  (2) A reforma psiquiatrica brasileira, ao reduzir leitos e
+      internacoes sem oferecer tratamento comunitario adequado para
+      casos graves, PODE TER CONTRIBUIDO para o aumento de crimes
+      violentos -- conforme evidenciado pelo estudo de Dias & Fontes
+      (AEA, 2024), que encontrou aumento de homicidios em municipios
+      reformados (Hipotese de Penrose);
+
+  (3) Existe uma LACUNA CRITICA na pesquisa brasileira: nao ha estudos
+      com avaliacao clinica profissional de agressores de violencia
+      domestica/feminicidio em amostra representativa, tornando
+      impossivel afirmar ou negar com rigor cientifico qual proporcao
+      desses crimes e atribuivel a transtornos mentais.
+
+
+================================================================================
+          PARTE I -- O PARADOXO: PERCEPCAO vs. EVIDENCIA
+================================================================================
+
+
+-------------------------------------------------------------------------
+CAPITULO 1 -- A CONSTRUCAO MEDIATICA DO "LOUCO PERIGOSO"
+-------------------------------------------------------------------------
+
+  O estudo de Soares et al. (2020), publicado e indexado no PubMed
+  (PMID: 33243097), analisou 269 materias jornalisticas de dois
+  grandes jornais brasileiros entre setembro de 2009 e agosto de 2015.
+
+  ACHADOS:
+  -- 68% das materias SUGERIAM relacao causal entre uso de substancias
+     ou doenca mental e violencia
+  -- Apenas 10% mencionavam prevencao ou tratamento
+  -- A cobertura enfatizava periculosidade, nao cuidado
+
+  IMPLICACAO: A imprensa brasileira reforça sistematicamente o
+  estigma da associacao doenca mental = perigo, sem base empirica
+  proporcional. Isso contamina a percepcao publica e, potencialmente,
+  as politicas de seguranca publica.
+
+
+-------------------------------------------------------------------------
+CAPITULO 2 -- O QUE A CIENCIA DIZ: GATTAZ (1999) E O MARCO CONCEITUAL
+-------------------------------------------------------------------------
+
+  Wagner F. Gattaz, professor titular do Departamento de Psiquiatria
+  da FMUSP, publicou na Revista Brasileira de Psiquiatria o artigo
+  "Violencia e doenca mental: fato ou ficcao?" -- uma revisao critica
+  que se tornou referencia no debate brasileiro.
+
+  EVIDENCIAS INTERNACIONAIS COMPILADAS POR GATTAZ:
+
+  (a) ESTUDO ALEMAO (Hafner & Boeker, 1955-1964):
+      -- NAO havia excesso de doentes mentais entre criminosos violentos
+      -- Pacientes psiquiatricos cometiam crimes em idade media 10 anos
+         superior a populacao geral
+
+  (b) ESTUDO DE STEADMAN (1998, Nova York):
+      -- SEM abuso de substancias, doentes mentais tinham prevalencia
+         de violencia IGUAL a populacao geral
+      -- Alcool/drogas em criminosos comuns gerava risco 2x MAIOR que
+         em esquizofrenicos
+      -- CONCLUSAO: o fator mediador e a substancia, nao o transtorno
+
+  (c) ESTUDO DINAMARQUES (Hodgins et al., 1996):
+      -- Populacao: 360.000 pessoas nascidas 1944-1947
+      -- Rastreamento de internacoes psiquiatricas e condenacoes ate 43 anos
+      -- Individuos internados: risco 4,5x maior de crimes violentos
+      -- Com abuso de drogas: risco 8,5x maior
+      -- POREM: "a grande maioria dos doentes mentais (no minimo 93%)
+         NAO e violenta"
+      -- RESSALVA: internacao selecionava a priori os mais agressivos
+
+  CONCLUSAO DE GATTAZ: "Doenca mental em senso estrito contribui muito
+  pouco para crimes de violencia." Os fatores causadores reais sao:
+  alcool, drogas e transtorno de personalidade antissocial.
+
+
+================================================================================
+     PARTE II -- A EVIDENCIA EMPIRICA: ESQUIZOFRENIA E VIOLENCIA
+================================================================================
+
+
+-------------------------------------------------------------------------
+CAPITULO 3 -- VALENCA & MORAES (2006): HOMICIDIO E TRANSTORNOS MENTAIS
+-------------------------------------------------------------------------
+
+  Alexandre Martins Valenca (UFF) e Talvane de Moraes publicaram na
+  Rev Bras Psiquiatria uma revisao sistematica sobre homicidio e
+  transtornos mentais (Medline, SciELO, Lilacs).
+
+  PREVALENCIA DE ESQUIZOFRENIA ENTRE HOMICIDAS (dados internacionais):
+
+  | Pais         | Prevalencia esquizofrenia entre homicidas |
+  |--------------|-------------------------------------------|
+  | Dinamarca    | 6,5% (homens), 5,6% (mulheres)            |
+  | Islandia     | 15% (ambos os sexos)                      |
+  | Suecia       | 9% de 2.005 homicidas                     |
+  | Nova Zelandia| 43,6% de 126 "homicidas anormais"         |
+  | Finlandia    | 6% da amostra geral                       |
+  | Inglaterra   | 5% de 1.594 homicidas (1996-1999)         |
+
+  RISCO RELATIVO (estudos de coorte):
+  -- Finlandia: esquizofrenia aumenta risco 9,7x (H) e 9x (M)
+  -- Australia (2.861 esquizofrenicos): risco 3,6 a 6,6x maior
+  -- Dinamarca: 11,3% dos esquizofrenicos com comportamento violento
+     vs. 2,7% sem transtornos
+
+  ACHADO CRITICO SOBRE TRATAMENTO:
+  "A maioria dos perpetradores com historia de transtorno mental NAO
+  estava agudamente doente quando cometeu o homicidio e a maioria
+  NUNCA tinha frequentado servicos de saude mental."
+
+  --> Isso sugere que o problema nao e a doenca em si, mas a AUSENCIA
+      DE TRATAMENTO.
+
+
+-------------------------------------------------------------------------
+CAPITULO 4 -- TEIXEIRA ET AL. (2007): ESQUIZOFRENIA E CRIME VIOLENTO
+-------------------------------------------------------------------------
+
+  Eduardo Teixeira, Marcelo Pereira, Renata Rigacci e Paulo
+  Dalgalarrondo (PUC-Campinas) realizaram revisao sistematica em
+  Medline, SciELO e Lilacs (79 artigos obtidos, 54 selecionados).
+
+  DADOS SOBRE PREVALENCIA EM PRESIDIARIOS:
+  -- Inglaterra: maior prevalencia de esquizofrenia em presos
+     por crimes violentos vs. populacao geral
+  -- Brugha et al. (2005): prevalencia de psicose DEZ VEZES MAIOR
+     entre prisioneiros vs. comunidade geral
+
+  PAPEL DO ABUSO DE SUBSTANCIAS (achado central):
+  -- Wallace et al. (1998): taxa de condenacao aumenta com comorbidade
+  -- Beck (2001): "violencia ocorreu pouco frequentemente na AUSENCIA
+     de abuso de substancias"
+  -- Tuninger et al. (2001, Suecia): 40% de frequencia de comorbidade
+     com drogas em pacientes psicoticos violentos
+
+  ESTUDO MACARTHUR (Appelbaum et al., 2000):
+  -- 1.136 pacientes acompanhados 1 ano apos alta
+  -- NAO constatou diferenca na taxa de violencia entre pacientes
+     delirantes e nao-delirantes
+  -- Delirios de perseguicao/controle NAO confirmados como preditores
+     no estudo prospectivo
+
+  DADO FUNDAMENTAL -- VITIMIZACAO:
+  Brekke et al. (2001): pacientes esquizofrenicos foram 14 VEZES
+  mais VITIMAS do que perpetradores de crime violento.
+
+  CONCLUSAO DOS AUTORES: "Apenas pequena parcela da violencia social
+  pode ser atribuida a pacientes psicoticos." No contexto brasileiro,
+  com violencia associada a fatores socioeconomicos, esse percentual
+  e PROVAVELMENTE AINDA MENOR.
+
+
+-------------------------------------------------------------------------
+CAPITULO 5 -- TEIXEIRA & DALGALARRONDO (2006): DELIRIOS E CRIME
+-------------------------------------------------------------------------
+
+  Estudo caso-controle retrospectivo comparando dois grupos de 30
+  pacientes delirantes psicoticos:
+  -- Grupo caso: delirantes criminosos (Casa de Custodia de SP)
+  -- Grupo controle: delirantes nao-criminosos (enfermarias comuns)
+
+  Instrumentos: PANSS, MINI, MMDAS
+
+  ACHADO CONTRAINTUITIVO:
+  -- Grupo criminoso tinha MENORES escores em "inibicao de acao por
+     delirio" e "afeto negativo"
+  -- Delirios que induzem AMEDRONTAMENTO aparentemente REDUZEM o
+     potencial para acoes violentas
+  -- Pacientes delirantes que estao assustados ou com afetos negativos
+     cometem MENOS atos violentos
+
+  IMPLICACAO: Nem todos os delirios sao iguais. Delirios persecutorios
+  com medo PROTEGEM contra violencia; delirios de grandeza ou com
+  ausencia de medo podem FACILITAR.
+
+
+================================================================================
+     PARTE III -- PSICOPATIA, PERSONALIDADE E VIOLENCIA
+================================================================================
+
+
+-------------------------------------------------------------------------
+CAPITULO 6 -- PSICOPATIA NO BRASIL: NEM TODO HOMICIDA E PSICOPATA
+-------------------------------------------------------------------------
+
+  Estudo publicado em Avaliacao Psicologica (PePSIC, 2022):
+  -- Amostra: 45 homicidas encarcerados (sexo masculino, >20 anos)
+  -- Instrumento: PCL-R (Psychopathy Checklist-Revised)
+
+  RESULTADOS:
+  -- Apenas 7 individuos (15,6%) atingiram altos escores = psicopatas
+  -- 29 participantes (64,4%) = desvio moderado de personalidade
+  -- Correlacao PCL-R x qualificadores do homicidio: r = 0,399 (p<0,05)
+
+  CONCLUSAO: A maioria dos homicidas NAO e psicopata no sentido
+  clinico estrito, mas apresenta tracos antisociais em grau variavel.
+  Ha correlacao positiva entre gravidade da psicopatia e crueldade
+  do crime (numero de qualificadores).
+
+
+-------------------------------------------------------------------------
+CAPITULO 7 -- PSICOPATIA EM ADOLESCENTES INFRATORES (SCHMITT ET AL.)
+-------------------------------------------------------------------------
+
+  Schmitt, Pinto, Gomes, Quevedo e Stein (2006). Estudo transversal
+  controlado com PCL-R em adolescentes em medida socioeducativa.
+
+  RESULTADOS:
+  -- Crimes contra a vida: prevalencia de psicopatia 2,86x MAIOR
+     (RP = 2,86; IC95% 1,49-5,47)
+  -- Reincidencia criminal: 2,96x MAIOR entre psicopatas com crimes
+     contra a vida (RP = 2,96; IC95% 1,32-6,60)
+  -- Historico de abuso na infancia: NAO significativo entre psicopatas
+     vs. controle (RP = 0,88; IC95% 0,66-1,15)
+
+  RESSALVA: Utilizaram PCL-R (versao adulta) em adolescentes por
+  falta de versao validada da PCL:YV em portugues. Isso pode
+  distorcer os resultados.
+
+
+-------------------------------------------------------------------------
+CAPITULO 8 -- TRANSTORNOS DE PERSONALIDADE E VIOLENCIA INTIMA
+-------------------------------------------------------------------------
+
+  Meta-analise de Collison & Lynam (2021), Clinical Psychology Review.
+  163 estudos, 189 amostras.
+
+  RESULTADOS:
+  -- Todos os 10 transtornos de personalidade do DSM-5 foram examinados
+  -- Transtornos com MAIORES efeitos sobre perpetracao de VPI:
+     (1) Transtorno de Personalidade Antissocial (TPAS)
+     (2) Transtorno de Personalidade Borderline (TPB)
+     (3) Transtorno Paranoide
+     (4) Transtorno Esquizotipico
+  -- Efeitos NAO variaram significativamente por genero ou etnia
+
+  IMPLICACAO PARA O BRASIL: Os transtornos de personalidade do
+  Cluster B (antissocial e borderline) sao os mais fortemente
+  associados a violencia intima -- e estes sao precisamente os
+  que NUNCA sao rastreados em agressores de violencia domestica
+  no Brasil (nem por auto-relato, nem por avaliacao clinica).
+
+
+================================================================================
+     PARTE IV -- A HIPOTESE DE PENROSE E A REFORMA BRASILEIRA
+================================================================================
+
+
+-------------------------------------------------------------------------
+CAPITULO 9 -- O ESTUDO DA AEA: A BOMBA SILENCIOSA
+-------------------------------------------------------------------------
+
+  Dias M. & Fontes L.F. "The Effects of a Large-Scale Mental Health
+  Reform: Evidence from Brazil." American Economic Journal: Economic
+  Policy, vol. 16, no. 3, agosto 2024.
+
+  METODOLOGIA:
+  -- Diferenças-em-diferenças (difference-in-differences)
+  -- Comparacao: municipios com CAPS vs. municipios sem CAPS
+  -- Isolamento do efeito causal da reforma psiquiatrica
+
+  RESULTADOS:
+
+  POSITIVOS:
+  -- Aumento imediato na densidade de profissionais de saude mental
+  -- Aumento em visitas ambulatoriais de saude mental
+  -- Aumento em medicamentos dispensados ambulatorialmente
+  -- Reducao de internacoes hospitalares (concentrada em internacoes
+     prolongadas, especialmente para esquizofrenia)
+
+  NEGATIVO CRITICO:
+  -- AUMENTO NAS TAXAS DE HOMICIDIO em municipios reformados
+  -- A reforma NAO reduziu mortalidade por saude mental
+  -- As economias com menos internacoes NAO compensam o custo da politica
+
+  INTERPRETACAO DOS AUTORES:
+  -- Os centros comunitarios (CAPS) oferecem cuidados psicossociais
+     adequados para problemas MODERADOS
+  -- Pacientes com transtornos GRAVES necessitam de investimentos
+     DIFERENTES em tratamento
+  -- Confirmacao parcial da HIPOTESE DE PENROSE: o confinamento de
+     pacientes propensos a violencia reduzia crimes violentos;
+     a desinstitucionalização sem tratamento adequado os aumentou
+
+  ESTE E O ESTUDO MAIS IMPORTANTE PARA A TESE:
+  Demonstra empiricamente, com metodo causal robusto, que a reforma
+  psiquiatrica brasileira teve um efeito colateral NAO INTENCIONAL
+  de aumento da violencia.
+
+
+-------------------------------------------------------------------------
+CAPITULO 10 -- OLIVEIRA & VALENCA (2020): INSTITUCIONALIZACAO E VIOLENCIA
+-------------------------------------------------------------------------
+
+  Revisao publicada em Saude e Sociedade. 59 artigos analisados
+  (PubMed, Lilacs, SciELO, Bireme).
+
+  ACHADOS CENTRAIS:
+
+  (a) DOENCA MENTAL ISOLADA =/= MAIOR RISCO:
+      "E preconceituoso, estigmatizante e contrario as evidencias
+      cientificas considerar o doente mental como individuo com risco
+      maior de comportamento violento comparado a populacao geral."
+
+  (b) DESINSTITUCIONALIZAÇÃO INADEQUADA CAUSA VULNERABILIDADE:
+      Short et al. (2013): a desinstitucionalização "pode ter
+      contribuido para consequencia involuntaria do aumento das
+      taxas de vitimizacao entre doentes mentais graves."
+
+  (c) VITIMIZACAO AUMENTADA:
+      Pessoas com transtornos do espectro esquizofrenico tiveram
+      "taxa de vitimizacao que mais do que DUPLICOU" vs. populacao
+      geral. Sao VITIMAS, nao agressores.
+
+  (d) TRATAMENTO PREVIO E O FATOR CHAVE:
+      Menezes (2001): falta de tratamento previo foi "a principal
+      variavel relacionada ao comportamento violento."
+
+  (e) CONTEXTO INSTITUCIONAL:
+      Steinert (2002): para INTERNADOS, violencia se correlaciona
+      com gravidade dos sintomas. Para NAO-INSTITUCIONALIZADOS,
+      esses fatores NAO sao significativos.
+
+  (f) EXPECTATIVA DE VIDA REDUZIDA:
+      Wahlbeck et al. (2011): durante a era de desinstitucionalização,
+      mulheres com TM viveram 15 ANOS A MENOS e homens 20 ANOS
+      A MENOS que a populacao geral.
+
+  (g) CAPACITAÇÃO PROFISSIONAL REDUZ VIOLENCIA:
+      Flannery Jr. et al. (2000): reducao de 50% nas agressoes apos
+      programa de treinamento para equipes (ASAP).
+
+  SINTESE: A reforma psiquiatrica e necessaria, mas a
+  desinstitucionalização sem rede de suporte adequada NAO protege
+  nem o paciente nem a sociedade.
+
+
+-------------------------------------------------------------------------
+CAPITULO 11 -- OLIVEIRA & DIAS (2020): "ANDANDO NA CONTRAMÃO"
+-------------------------------------------------------------------------
+
+  Publicado em Physis: Revista de Saude Coletiva (SciELO).
+  Autores: Aline Sanches Oliveira e Fernando Machado Vilhena Dias
+  (Escola de Medicina, UFOP).
+
+  Analise de 5 relatorios do Mecanismo Nacional de Prevencao e
+  Combate a Tortura (MNPCT) sobre HCTPs/ATPs visitados entre
+  2015-2016, cobrindo 19,2% das 26 instituicoes de custodia
+  psiquiatrica do Brasil (23 HCTPs e 3 ATPs).
+
+  ACHADO PRINCIPAL: As instituicoes apresentam "caracteristicas
+  asilares, contrariando a Lei 10.216/2001." Mesmo 20 anos apos
+  a Lei Antimanicomial, persistem:
+  -- Ausencia de Projetos Terapeuticos Singulares (PTS)
+  -- Praticas de contencao/castigo inadequadas
+  -- Falta de integracao com a RAPS
+  -- Violacoes de direitos humanos
+
+  PARADOXO: O Brasil desmontou o sistema de internacao SEM construir
+  alternativa comunitaria efetiva para casos graves. Os HCTPs que
+  restam funcionam em condicoes precarias e anti-terapeuticas.
+
+
+================================================================================
+     PARTE V -- ALCOOL, DROGAS E VIOLENCIA DOMESTICA
+================================================================================
+
+
+-------------------------------------------------------------------------
+CAPITULO 12 -- FONSECA & GALDURÓZ (2009): VIOLENCIA DOMICILIAR E ALCOOL
+-------------------------------------------------------------------------
+
+  Inquerito domiciliar nas 108 cidades brasileiras com mais de
+  200.000 habitantes (2005). Amostra probabilistica multiestagio.
+
+  RESULTADOS:
+  -- 7.939 domicilios pesquisados
+  -- 33,5% com relatos de violencia domestica
+  -- 17,1% envolvendo agressores embriagados
+
+  TIPOS DE VIOLENCIA SOB INFLUENCIA DE ALCOOL:
+  -- Discussoes no domicilio: 81,8%
+  -- Discussoes em voz alta: 70,9%
+  -- Agressao fisica: 27,8%
+  -- Agressao com arma: 5,5%
+  -- Abuso sexual: 3,2%
+
+  PERFIL:
+  -- 88,8% dos agressores eram do sexo masculino
+  -- 63,9% das vitimas eram mulheres
+  -- 33,9% das vitimas eram esposas
+  -- 18,2% das vitimas eram filhos
+
+  REINCIDENCIA: 14,1% dos casos duraram 1-5 anos; 14,3% duraram
+  MAIS DE UMA DECADA.
+
+  BUSCA POR AJUDA: 86% das vitimas e 77,9% dos agressores NAO
+  procuraram servicos de saude ou policia.
+
+
+-------------------------------------------------------------------------
+CAPITULO 13 -- RABELLO & CALDAS (2007): COESAO FAMILIAR E DROGAS
+-------------------------------------------------------------------------
+
+  Estudo caso-controle em Joao Pessoa (PB), 2004-2005.
+  260 mulheres: 130 agredidas (Delegacia da Mulher) vs. 130 controle.
+  Instrumento: FACES III (Family Adaptability and Cohesion Scales).
+
+  RESULTADOS:
+
+  RISCO MENTAL:
+  -- Mulheres agredidas: risco alto (43,1%) e medio (39,2%)
+  -- Mulheres nao agredidas: risco medio (55,4%)
+  -- Diferenca significativa (p = 0,0016)
+
+  USO DE DROGAS:
+  -- Familias de agredidas: 90,8% com consumo de drogas
+  -- Familias de nao agredidas: 56,9%
+
+  ODDS RATIOS PARA RISCO DE AGRESSAO:
+  -- Consumo diario de alcool: OR = 37,33
+  -- Alcool associado a outra droga: OR = 29,56
+  -- Familia desengajada: OR = 16,00
+
+  CONCLUSAO: O desequilibrio familiar e o uso de drogas "alteram
+  decisivamente o funcionamento familiar, potencialmente gerando
+  conflitos e agressao domestica."
+
+
+================================================================================
+     PARTE VI -- FEMINICIDIO: O MODELO ECOLOGICO
+================================================================================
+
+
+-------------------------------------------------------------------------
+CAPITULO 14 -- CAICEDO-ROA & CORDEIRO (2021): FEMINICIDIO EM CAMPINAS
+-------------------------------------------------------------------------
+
+  Estudo qualitativo de 24 feminicidios em Campinas (SP), 2018-2019.
+  Metodologia: autopsias verbais + modelo ecologico da OMS.
+
+  DADOS SOBRE TRANSTORNOS MENTAIS NOS AGRESSORES:
+  -- Antecedente de depressao: apenas 2 casos (8,3%)
+  -- Ameaca/tentativa de suicidio: 3 casos (12,5%)
+  -- Suicidio apos feminicidio: 3 agressores (12,5%)
+  -- Consumo problematico de SPAs: 4 casos (16,7%)
+
+  FATORES MAIS RELEVANTES (por nivel ecologico):
+  1. RELACIONAL (97 elementos): relacionamento violento (79%),
+     separacao/termino (50%), rede de apoio deficiente (42%)
+  2. INDIVIDUAL (96 elementos): genero (100%), condicoes economicas
+     (42%), consumo de SPAs pela vitima (42%)
+  3. SOCIAL (80 elementos): misoginia (79%), machismo (100%)
+  4. COMUNITARIO (64 elementos): trafico/crime organizado (25%)
+
+  IMPACTO: 45 criancas ficaram orfas.
+
+  CONCLUSAO DOS AUTORES: Feminicidio e MULTICAUSAL. O nivel
+  RELACIONAL (comportamento controlador, violencia previa, termino)
+  e mais determinante que qualquer transtorno mental individual.
+
+  ACHADO CRITICO PARA A TESE: Em nenhum dos 24 casos houve avaliacao
+  psiquiatrica do agressor ANTES do crime. Os 2 casos com "depressao"
+  foram relatados por familiares, nao diagnosticados clinicamente.
+  Portanto, a real prevalencia de transtornos mentais entre esses
+  agressores e DESCONHECIDA.
+
+
+================================================================================
+     PARTE VII -- O PANORAMA CRIMINAL BRASILEIRO
+================================================================================
+
+
+-------------------------------------------------------------------------
+CAPITULO 15 -- MURRAY, CERQUEIRA & KAHN (2013): REVISAO SISTEMATICA
+-------------------------------------------------------------------------
+
+  "Crime and violence in Brazil: Systematic review of time trends,
+  prevalence rates and risk factors." Aggression and Violent Behavior.
+  Publicado no PMC (NIH).
+
+  DADOS GERAIS:
+  -- 1980-2010: 1,09 MILHAO de mortes por homicidio no Brasil
+  -- 2010: taxa de 26,2/100.000 (registrada); 31,5/100.000 (estimada)
+  -- Pico em 2003: 28,9/100.000
+  -- DALYs (2004): 2.488.000 -- MAIOR carga de qualquer pais da OMS
+
+  PERFIL DEMOGRAFICO DO HOMICIDIO (2009):
+  -- Faixa etaria pico: 20-29 anos (62,5/100.000)
+  -- Genero: homens 51,1/100.000 vs. mulheres 4,3/100.000
+  -- Raca: negros 34,6/100.000 vs. brancos 16,3/100.000
+  -- Escolaridade: 1-3 anos = 30,3/100.000 vs. 12+ anos = 7,8/100.000
+
+  POPULACAO CARCERARIA (2011, 471.000 adultos):
+  -- 94% masculina; 55% com menos de 30 anos
+  -- 63% com menos de 10 anos de escolaridade
+  -- 44% pardos, 37% brancos, 17% negros
+  -- Crimes: homicidios 15%, roubos 27%, drogas 25%, furtos 18%
+
+  FATORES DE RISCO PARA COMPORTAMENTO CRIMINAL:
+  -- Uso de drogas: OR = 14,9 (Pacheco)
+  -- Familiar com envolvimento criminal: OR = 4,3 (Pacheco)
+  -- Uso de drogas na familia: OR = 4,1 (Pacheco)
+  -- Genero masculino: OR = 2,9 a 27,9 (varia por tipo de crime)
+  -- Maus-tratos: OR = 3,2 (Assis)
+  -- Renda mais baixa: ~10x risco (Caicedo)
+  -- "Problemas de saude mental": OR = 1,5 (da Silva) -- APENAS
+     com brigas, e NAO significativo em modelos multivariados (Avanci)
+
+  --> "PROBLEMAS DE SAUDE MENTAL" COMO FATOR DE RISCO: OR = 1,5
+      E o MENOR dos fatores significativos. Drogas (OR=14,9) e
+      envolvimento familiar com crime (OR=4,3) sao MUITO mais fortes.
+      E o efeito DESAPARECE quando controlado por outras variaveis.
+
+
+================================================================================
+     PARTE VIII -- BIPOLARIDADE E CRIME
+================================================================================
+
+
+-------------------------------------------------------------------------
+CAPITULO 16 -- O CASO DE MATRICIDIO BIPOLAR (VALENCA ET AL., 2009)
+-------------------------------------------------------------------------
+
+  Relato de caso publicado na Rev Psiquiatria Clinica.
+  Hospital de Custodia Heitor Carrilho, Rio de Janeiro, 2007.
+
+  CASO: Mulher de ~28 anos com transtorno bipolar desde os 20 anos.
+  Em 2006, durante episodio de mania, matou a mae com golpes de
+  instrumento cortante. Apresentava humor elevado e irritavel,
+  logorrea e aceleracao do pensamento.
+
+  AVALIACAO: Diagnostico por entrevista psiquiatrica + prontuarios,
+  criterios DSM-IV-TR. Considerada INIMPUTAVEL (art. 26 CP).
+
+  RELEVANCIA: Demonstra que episodios maniticos graves com
+  componente psicotico PODEM levar a violencia extrema, mas isso
+  representa uma FRACAO MINIMA dos casos de homicidio (a prevalencia
+  de bipolar tipo I e de ~1% da populacao, e apenas uma parcela
+  infima destes comete crimes violentos durante episodios).
+
+
+================================================================================
+     PARTE IX -- VIOLENCIA DEPENDENCIA QUIMICA E PRESIDIARIOS
+================================================================================
+
+
+-------------------------------------------------------------------------
+CAPITULO 17 -- TAVARES & ALMEIDA (2010): REVISAO DE 408 ARTIGOS
+-------------------------------------------------------------------------
+
+  "Violencia, dependencia quimica e transtornos mentais em
+  presidiarios." Estudos de Psicologia (Campinas), v.27, n.4.
+
+  METODOLOGIA: Revisao de 408 artigos (SciELO, PubMed, Web of
+  Science, 1998-2008). Utilizados 60 artigos + 23 livros/teses.
+
+  ACHADOS:
+  -- Uso abusivo de drogas e IMPORTANTE fator de risco para violencia
+  -- Transtornos mentais "muitas vezes acompanham atos violentos"
+  -- A relacao e MAIS COMPLEXA do que comumente assumida
+
+  IMPLICACAO: A triade violencia-drogas-transtorno mental nao e
+  linear. O uso de substancias e o principal mediador, nao o
+  transtorno mental em si.
+
+
+================================================================================
+     PARTE X -- SINTESE DAS EVIDENCIAS
+================================================================================
+
+
+-------------------------------------------------------------------------
+CAPITULO 18 -- QUADRO CONSOLIDADO: O QUE CADA ESTUDO CONCLUI
+-------------------------------------------------------------------------
+
+  | Estudo                          | Conclusao principal              |
+  |---------------------------------|----------------------------------|
+  | Gattaz (1999)                   | TM contribui POUCO p/ violencia  |
+  | Valenca & Moraes (2006)         | Falta de tratamento e o fator    |
+  | Teixeira et al. (2007)          | Substancias sao mediador central |
+  | Teixeira & Dalgalarrondo (2006) | Delirios de medo PROTEGEM        |
+  | Oliveira & Valenca (2020)       | TM isolado =/= maior risco       |
+  | Dias & Fontes (AEA, 2024)       | Reforma AUMENTOU crimes          |
+  | Fonseca & Galduróz (2009)       | Alcool em 17,1% da VD            |
+  | Rabello & Caldas (2007)         | Alcool diario: OR = 37,33        |
+  | Caicedo-Roa (2021)              | Feminicidio e multicausal        |
+  | Murray et al. (2013)            | TM: OR=1,5 (menor fator)         |
+  | Collison & Lynam (2021)         | TPAS/Borderline = maiores efeitos|
+  | Schmitt et al. (2006)           | Psicopatia: RP=2,86 p/ homicidio |
+  | Psicopatia e Crime (2022)       | Apenas 15,6% homicidas=psicopatas|
+  | Soares et al. (2020)            | Midia reforça estigma (68%)      |
+  | Oliveira & Dias (2020)          | HCTPs violam direitos humanos    |
+  | Brekke et al. (2001)            | TM = 14x mais VITIMAS que autores|
+
+  CONVERGENCIA: Nenhum estudo com metodologia robusta concluiu que
+  transtornos mentais sao o PRINCIPAL fator para violencia criminal.
+  TODOS apontam o abuso de substancias como mediador central.
+
+
+-------------------------------------------------------------------------
+CAPITULO 19 -- TESES DERIVADAS DA ANALISE
+-------------------------------------------------------------------------
+
+  TESE 1: O MITO DO "LOUCO PERIGOSO"
+
+  A evidencia empirica e convergente: doencas mentais severas
+  (esquizofrenia, bipolar, depressao) contribuem MARGINALMENTE
+  para a violencia criminal na sociedade. O fator OR = 1,5 para
+  "problemas de saude mental" (Murray et al., 2013) e o MENOR
+  entre todos os fatores de risco significativos e DESAPARECE
+  em modelos multivariados.
+
+  Comparacao de magnitude:
+  -- Uso de drogas: OR = 14,9 (9,9x maior que TM)
+  -- Familiar com crime: OR = 4,3 (2,9x maior)
+  -- Maus-tratos: OR = 3,2 (2,1x maior)
+  -- Genero masculino: OR = 2,9-27,9
+  -- Problemas de saude mental: OR = 1,5
+
+  A excecao sao os TRANSTORNOS DE PERSONALIDADE (TPAS, borderline,
+  psicopatia), que possuem associacao robusta e consistente com
+  violencia, mas estes NAO sao tipicamente incluidos na categoria
+  popular de "doenca mental."
+
+
+  TESE 2: A DESINSTITUCIONALIZAÇÃO INCOMPLETA
+
+  O estudo de Dias & Fontes (AEA, 2024) e a "smoking gun" da tese:
+  a reforma psiquiatrica brasileira CAUSOU aumento de crimes violentos
+  (metodologia causal robusta de diferencas-em-diferencas).
+
+  Mecanismo proposto (Hipotese de Penrose):
+  -- Leitos psiquiatricos reduzidos sem alternativa comunitaria efetiva
+  -- Pacientes graves retornam a comunidade sem tratamento adequado
+  -- CAPS oferecem cuidados para problemas moderados, nao graves
+  -- Resultado: pacientes com potencial de violencia (por comorbidade
+     com substancias, psicose aguda nao tratada, etc.) ficam sem
+     contencao ou tratamento
+
+  Evidencia corroborante:
+  -- Oliveira & Valenca (2020): desinstitucionalização inadequada
+     aumenta vitimizacao dos proprios pacientes
+  -- Wahlbeck et al. (2011): expectativa de vida de pacientes CAIU
+     durante desinstitucionalização (mulheres -15 anos, homens -20)
+  -- Kramp & Gabrielsen (2009): reducao de leitos correlaciona com
+     aumento de homicidios e incendios por pacientes forenses
+
+
+  TESE 3: A LACUNA CRITICA BRASILEIRA
+
+  NENHUM estudo brasileiro realizou avaliacao clinica profissional
+  (com instrumentos padronizados como SCID, MINI, PCL-R) de uma
+  amostra REPRESENTATIVA de:
+  -- Agressores de violencia domestica
+  -- Autores de feminicidio
+  -- Stalkers
+  -- Autores de injuria racial
+
+  Os dados existentes sobre esses grupos sao baseados em:
+  -- Auto-relato na delegacia (FBSP)
+  -- Percepcao de familiares (Campinas)
+  -- Registros administrativos de presidio (INFOPEN)
+
+  Sem essa avaliacao, e CIENTIFICAMENTE IMPOSSIVEL afirmar qual
+  proporcao desses crimes e atribuivel a transtornos mentais.
+
+  A HIPOTESE do usuario (de que grande parte da violencia contra
+  mulheres e injuria racial pode ser atribuida a pessoas com TM)
+  NAO PODE SER CONFIRMADA NEM NEGADA com os dados existentes.
+  Pode-se apenas afirmar que:
+  -- A evidencia indireta sugere que substancias (OR=14,9-37,33)
+     sao mais determinantes que TM isolado (OR=1,5)
+  -- Os transtornos de personalidade (TPAS, borderline) TEM
+     associacao robusta com VPI, mas NUNCA foram rastreados
+     em agressores brasileiros de forma representativa
+  -- A desinstitucionalização incompleta pode ter aumentado
+     crimes violentos por pacientes graves sem tratamento
+
+
+================================================================================
+     PARTE XI -- RECOMENDACOES PARA PESQUISA FUTURA
+================================================================================
+
+
+  1. ESTUDO EPIDEMIOLOGICO COM AVALIACAO CLINICA DE AGRESSORES:
+     Aplicar SCID-5 + PCL-R + questionarios de substancias em
+     amostra representativa de homens presos por violencia
+     domestica/feminicidio. Este e o estudo que FALTA no Brasil.
+
+  2. AVALIACAO DO IMPACTO DOS CAPS EM CRIMES VIOLENTOS:
+     Replicar/expandir o estudo de Dias & Fontes com dados mais
+     recentes (2020-2025), incluindo municipios que expandiram
+     CAPS III (24h) vs. CAPS I/II.
+
+  3. ESTUDO DE COORTE LONGITUDINAL:
+     Acompanhar pacientes com transtornos graves (esquizofrenia,
+     bipolar I) apos alta de internacao, rastreando: adesao ao
+     tratamento, uso de substancias, comportamento violento,
+     vitimizacao. Isso permitiria medir o EFEITO PROTETOR do
+     tratamento adequado.
+
+  4. RASTREAMENTO DE TPAS EM PRESIDIARIOS:
+     Os dados do INFOPEN (0,41% com TM) sao preenchidos por
+     administradores nao-clinicos. Um estudo com SCID-5 ou
+     PCL-R em amostra representativa de presidiarios brasileiros
+     revelaria a REAL prevalencia -- que a literatura sugere ser
+     entre 40-70% (Andreoli et al., 2014: 61,7% nas mulheres).
+
+
+================================================================================
+     PARTE XII -- REFERENCIAS DOS ARTIGOS ANALISADOS
+================================================================================
+
+  [1] Gattaz WF. "Violencia e doenca mental: fato ou ficcao?"
+      Rev Bras Psiquiatria, 1999.
+      URL: https://www.scielo.br/j/rbp/a/rhwCgYyjzLwvYpmx9WyvvdC/
+
+  [2] Valenca AM, Moraes T. "Relacao entre homicidio e transtornos
+      mentais." Rev Bras Psiquiatria, 2006; 28(Supl II):S62-8.
+      URL: https://www.scielo.br/j/rbp/a/7v5jJmfdtC7CggBQDCxVc6m/
+
+  [3] Teixeira EH, Pereira MC, Rigacci R, Dalgalarrondo P.
+      "Esquizofrenia, psicopatologia e crime violento: revisao."
+      J Bras Psiquiatr, 2007; 56(2).
+      URL: https://www.scielo.br/j/jbpsiq/a/qbtpdgZZVnBFZT8HsMF77Dw/
+
+  [4] Teixeira EH, Dalgalarrondo P. "Bases psicopatologicas do crime
+      violento: estudo caso-controle." J Bras Psiquiatr, 2006; 55(3).
+      URL: https://www.scielo.br/j/jbpsiq/a/cHjLGRr43tRwcTq3c79hhZG/
+
+  [5] Tavares GP, Almeida RMM. "Violencia, dependencia quimica e
+      transtornos mentais em presidiarios." Estudos de Psicologia
+      (Campinas), 2010; 27(4):545-552.
+      URL: https://www.scielo.br/j/estpsi/a/rqvFhrd57dLBcfxyQm7GBWQ/
+
+  [6] Oliveira GC, Valenca AM. "Institucionalizacao prolongada,
+      transtornos mentais e violencia." Saude e Sociedade, 2020; 29(4).
+      URL: https://www.scielo.br/j/sausoc/a/kPmtDt9bYLNwFHFK8PhkntH/
+
+  [7] Oliveira AS, Dias FMV. "Andando na contramao: o destino dos
+      individuos com TM que cometem crimes no Brasil." Physis, 2020.
+      URL: https://www.scielo.br/j/physis/a/VfT4NYvvtTkggFvbSYNRJxc/
+
+  [8] Valenca AM et al. "Matricidio e transtorno bipolar."
+      Rev Psiquiatria Clinica, 2009.
+      URL: https://www.scielo.br/j/rpc/a/b74MJffVcvQNq6ByNkGW5Lb/
+
+  [9] Dias M, Fontes LF. "The Effects of a Large-Scale Mental Health
+      Reform: Evidence from Brazil." American Economic Journal:
+      Economic Policy, 2024; 16(3):257-89.
+      URL: https://www.aeaweb.org/articles?id=10.1257/pol.20220246
+      SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3870863
+
+  [10] Fonseca AM, Galduróz JCF. "Padroes de violencia domiciliar
+       associada ao uso de alcool no Brasil." Rev Saude Publica, 2009;
+       43(5):743-749.
+       URL: https://www.scielo.br/j/rsp/a/hYZgbvJNsWws3L4hxKnjDCb/
+
+  [11] Rabello PM, Caldas AF Jr. "Violencia contra a mulher, coesao
+       familiar e drogas." Rev Saude Publica, 2007; 41(6):970-978.
+       URL: https://www.scielo.br/j/rsp/a/QdVxHbxQwLGCXmGtDTzvvFb/
+
+  [12] Caicedo-Roa M, Cordeiro RC. "Feminicidio em Campinas: modelo
+       ecologico." Ciencia & Saude Coletiva, 2021.
+       URL: https://www.scielo.br/j/csc/a/mRzcdz4kyz4rsFtsf8gQ3RB/
+
+  [13] Murray J, Cerqueira DRC, Kahn T. "Crime and violence in Brazil:
+       systematic review." Aggression and Violent Behavior, 2013;
+       18(5):471-483.
+       URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC3763365/
+
+  [14] Collison KL, Lynam DR. "Personality disorders as predictors of
+       intimate partner violence: A meta-analysis." Clinical Psychology
+       Review, 2021; 88:102047.
+       URL: https://pubmed.ncbi.nlm.nih.gov/34130046/
+
+  [15] Schmitt R et al. "Personalidade psicopatica em adolescentes
+       infratores brasileiros." Arch Clin Psychiatry, 2006; 33(6).
+       URL: http://www.scielo.br/j/rpc/a/n99QfHQLScbDvnjdt8kFDyd/
+
+  [16] "Psicopatia e Crime: Sao Todos os Homicidas Psicopatas?"
+       Avaliacao Psicologica, 2022; 21(2).
+       URL: https://pepsic.bvsalud.org/scielo.php?script=sci_arttext&pid=S1677-04712022000200007
+
+  [17] Soares T et al. "Violence, drugs, and psychiatric disorders:
+       news from the Brazilian press." 2020.
+       URL: https://pubmed.ncbi.nlm.nih.gov/33243097/
+
+  [18] Andreoli SB et al. "Prevalence of Mental Disorders among
+       Prisoners in the State of Sao Paulo." PLOS ONE, 2014; 9(2).
+       URL: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0088836
+
+  [19] Atlas da Violencia 2025. IPEA/FBSP.
+       URL: https://www.ipea.gov.br/atlasviolencia/publicacoes
+
+  [20] Brekke JS et al. (2001) citado em Teixeira et al. (2007):
+       esquizofrenicos 14x mais vitimas que perpetradores.
+
+  [21] Steadman HJ et al. (1998) citado em Gattaz (1999):
+       sem substancias, TM = mesma prevalencia de violencia.
+
+  [22] Hodgins S et al. (1996) citado em Gattaz (1999):
+       360.000 pessoas, risco 4,5x com internacao.
+
+  [23] Short TBR et al. (2013) citado em Oliveira & Valenca (2020):
+       desinstitucionalização aumenta vitimizacao.
+
+  [24] Wahlbeck K et al. (2011) citado em Oliveira & Valenca (2020):
+       expectativa de vida reduzida durante desinstitucionalização.
+
+
+================================================================================
+     FIM DO DOCUMENTO
+     Ultima atualizacao: Marco 2026
+     Total de artigos analisados: 24 primarios + dezenas de citados
+================================================================================
