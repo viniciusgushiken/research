@@ -1,0 +1,1159 @@
+================================================================================
+     OPERACAO LAVA JATO: PESQUISA COMPLETA
+     A Maior Investigacao de Corrupcao da Historia do Brasil
+================================================================================
+
+     Compilado: Marco 2026
+     Fontes: MPF, PF, STF, TRF-4, TCU, Agencia Brasil, Conjur,
+             CNN Brasil, Poder360, The Intercept Brasil, Gazeta do
+             Povo, Folha de Sao Paulo, entre outros veiculos e
+             orgaos oficiais.
+
+     NOTA: Este documento busca apresentar os fatos de forma
+     imparcial e jornalistica, sem tomar partido politico.
+     Argumentos de todas as partes sao apresentados.
+
+================================================================================
+                         SUMARIO EXECUTIVO
+================================================================================
+
+  A Operacao Lava Jato foi a maior investigacao de corrupcao e lavagem
+  de dinheiro ja realizada no Brasil. Deflagrada em marco de 2014 pela
+  Policia Federal em Curitiba (PR), revelou um esquema bilionario de
+  desvios na Petrobras que envolvia empreiteiras, politicos de diversos
+  partidos, doleiros e diretores da estatal.
+
+  Em numeros, a operacao:
+  - Durou quase 7 anos (marco/2014 a fevereiro/2021)
+  - Teve 79 fases operacionais
+  - Denunciou 553 pessoas
+  - Obteve 278 condenacoes
+  - Realizou 543 prisoes (preventivas e temporarias)
+  - Firmou 209 acordos de colaboracao premiada
+  - Recuperou mais de R$ 4 bilhoes aos cofres publicos
+  - Revelou propinas estimadas em R$ 7,2 bilhoes so na Petrobras
+
+  A operacao tambem gerou controversias profundas: muitas condenacoes
+  foram posteriormente anuladas pelo STF, o juiz Sergio Moro foi
+  declarado parcial, e o debate sobre seus efeitos politicos e
+  economicos permanece vivo na sociedade brasileira.
+
+
+================================================================================
+                    PARTE 1: COMO TUDO COMECOU
+================================================================================
+
+------------------------------------------------------------------------
+  1.1  ANTECEDENTES: O DOLEIRO E O POSTO DE GASOLINA
+------------------------------------------------------------------------
+
+  O nome "Lava Jato" vem de um posto de gasolina e lava-jato de
+  automoveis em Brasilia que era usado como fachada para movimentacao
+  de dinheiro ilicito. A investigacao inicial nao tinha relacao direta
+  com a Petrobras -- comecou como uma apuracao sobre doleiros (cambistas
+  ilegais de moeda estrangeira) que atuavam no Parana.
+
+  CRONOLOGIA DOS ANTECEDENTES:
+
+  2008-2013: A Policia Federal do Parana investigava Carlos Habib
+  Chater, dono de um posto de gasolina e lava-jato em Brasilia, por
+  suspeita de lavagem de dinheiro. Essa investigacao, chamada
+  inicialmente de "Operacao Lava Jato", identificou que Chater
+  mantinha relacoes com doleiros -- em particular, com Alberto Youssef.
+
+  ALBERTO YOUSSEF: Doleiro conhecido das autoridades desde os anos
+  1990. Ja havia sido investigado e preso em outras operacoes (como
+  o escandalo do Banestado). Youssef operava um esquema de cambio
+  ilegal que movimentava milhoes de reais.
+
+  A LIGACAO COM A PETROBRAS: Ao investigar Youssef, a PF descobriu
+  que ele mantinha relacoes com Paulo Roberto Costa, entao diretor de
+  Abastecimento da Petrobras (2004-2012). A policia interceptou
+  conversas e transacoes financeiras que indicavam que Costa recebia
+  propinas de empreiteiras e repassava parte a partidos politicos.
+
+  O LAND ROVER: Um dos elementos que chamou atencao dos investigadores
+  foi a compra de um Land Rover Evoque por Alberto Youssef e dado de
+  presente a Paulo Roberto Costa. Essa conexao financeira entre o
+  doleiro e o diretor da Petrobras foi o fio condutor que levou as
+  investigacoes para dentro da estatal.
+
+------------------------------------------------------------------------
+  1.2  AS PRIMEIRAS FASES (MARCO-NOVEMBRO 2014)
+------------------------------------------------------------------------
+
+  17 DE MARCO DE 2014 -- 1a FASE ("LAVA JATO"):
+  A Policia Federal deflagrou a operacao com mandados de prisao
+  temporaria e preventiva de 17 pessoas em 7 estados, incluindo
+  Alberto Youssef. O juiz responsavel era Sergio Fernando Moro,
+  titular da 13a Vara Federal Criminal de Curitiba.
+
+  20 DE MARCO DE 2014 -- 2a FASE ("BIDONE"):
+  Preso o ex-diretor de Abastecimento da Petrobras Paulo Roberto
+  Costa, com cumprimento de 6 mandados de busca e 1 de prisao
+  temporaria.
+
+  11 DE ABRIL DE 2014 -- 3a FASE ("DOLCE VITA"):
+  Cumpridos 16 mandados de busca, 3 de prisao temporaria e 6 de
+  conducao coercitiva.
+
+  11 DE JUNHO DE 2014 -- 4a FASE:
+  Paulo Roberto Costa voltou a ser preso. US$ 23 milhoes em contas
+  suas na Suica foram bloqueados.
+
+  A PRIMEIRA DELACAO -- PAULO ROBERTO COSTA:
+  Em agosto de 2014, Paulo Roberto Costa fechou acordo de delacao
+  premiada. Foi a primeira de 209 colaboracoes que se seguiriam.
+  Costa revelou a existencia de um esquema sistematico de corrupcao
+  na Petrobras que funcionava ha pelo menos uma decada.
+
+  A SEGUNDA DELACAO -- ALBERTO YOUSSEF:
+  Logo em seguida, Youssef tambem fechou acordo e confirmou o esquema,
+  detalhando a rede de doleiros que lavava o dinheiro das propinas.
+
+  NOVEMBRO DE 2014 -- 7a FASE ("JUIZO FINAL"):
+  Em 14 de novembro de 2014, a PF deflagrou a maior fase ate entao:
+  foram presos executivos de 6 grandes empreiteiras -- Camargo Correa,
+  OAS, UTC Engenharia, Galvao Engenharia, Mendes Junior e Engevix.
+  Essa fase foi o marco que transformou a Lava Jato de uma investigacao
+  sobre doleiros em uma megaoperacao contra a corrupcao corporativa
+  e politica.
+
+
+================================================================================
+                    PARTE 2: COMO FUNCIONAVA O ESQUEMA
+================================================================================
+
+------------------------------------------------------------------------
+  2.1  O MECANISMO DE CORRUPCAO NA PETROBRAS
+------------------------------------------------------------------------
+
+  O esquema revelado pela Lava Jato funcionava em tres camadas
+  interdependentes:
+
+  CAMADA 1 -- O CARTEL DE EMPREITEIRAS:
+
+  Pelo menos 24 grandes construtoras formaram um cartel para dividir
+  entre si os contratos bilionarios da Petrobras. As empresas se
+  reuniam previamente e combinavam qual delas venceria cada licitacao,
+  os precos a serem cobrados e a distribuicao dos lotes. As demais
+  participantes apresentavam propostas "de fachada" (mais caras) para
+  dar aparencia de competicao.
+
+  Empresas do cartel (conforme apurado pelo TCU):
+  - Odebrecht (hoje Novonor)
+  - Andrade Gutierrez
+  - Camargo Correa
+  - OAS
+  - UTC Engenharia
+  - Engevix (hoje Nova Participacoes)
+  - Queiroz Galvao
+  - Galvao Engenharia
+  - Mendes Junior
+  - Techint
+  - Promon
+  - MPE
+  - Setal
+  - Skanska
+  - Iesa
+  - GDK
+  - Alusa
+  - Fidens
+  - Construcap
+  - Carioca Engenharia
+  - Entre outras (24 no total)
+
+  CAMADA 2 -- OS DIRETORES DA PETROBRAS:
+
+  Para que o cartel funcionasse, era necessario que diretores da
+  Petrobras facilitassem as licitacoes fraudadas. Os diretores
+  envolvidos recebiam propinas em troca de:
+  - Indicar quais contratos seriam licitados
+  - Facilitar a aprovacao das propostas combinadas
+  - Aprovar aditivos (aumento de valores) em contratos existentes
+  - Blindar o esquema de auditorias internas
+
+  Os principais diretores investigados:
+
+  PAULO ROBERTO COSTA -- Diretor de Abastecimento (2004-2012)
+  Indicado pelo PP (Partido Progressista). Primeiro a fechar delacao.
+  Revelou que recebia propinas de 1% a 3% dos contratos sob sua alca.
+
+  NESTOR CERVERO -- Diretor de Area Internacional (2003-2008)
+  Condenado por lavagem de dinheiro e corrupcao passiva. Envolvido
+  na compra da refinaria de Pasadena (Texas) pela Petrobras.
+
+  RENATO DUQUE -- Diretor de Servicos (2003-2012)
+  Indicado pelo PT. Condenado a mais de 30 anos em diferentes acoes.
+  Considerado peca central do esquema na diretoria que mais
+  movimentava contratos.
+
+  JORGE ZELADA -- Diretor de Area Internacional (2008-2012)
+  Condenado por corrupcao passiva, lavagem de dinheiro e associacao
+  criminosa.
+
+  PEDRO BARUSCO -- Gerente executivo de Engenharia da Petrobras
+  Fechou delacao em que devolveu voluntariamente US$ 97 milhoes
+  depositados na Suica. Descreveu em detalhes o funcionamento do
+  esquema em nivel operacional.
+
+  CAMADA 3 -- O SISTEMA POLITICO:
+
+  Parte das propinas era repassada a partidos politicos e a politicos
+  individuais. Segundo as investigacoes, a indicacao de diretores da
+  Petrobras era feita por partidos da base aliada do governo em troca
+  de apoio no Congresso. Cada diretoria era "controlada" por um partido:
+
+  - Diretoria de Abastecimento: controlada pelo PP
+  - Diretoria de Servicos: controlada pelo PT
+  - Diretoria de Area Internacional: disputada por PMDB e PT
+
+  O dinheiro das propinas era destinado a:
+  - Financiamento de campanhas eleitorais (caixa 2)
+  - Enriquecimento pessoal de politicos e operadores
+  - Pagamento de apoio politico no Congresso
+
+  PERCENTUAIS DAS PROPINAS (conforme delacoes):
+  - Contratos eram superfaturados em media 3%
+  - Na Diretoria de Gas e Energia: propina de 1% a 2%
+  - Na Diretoria de Servicos: propina de 2%
+  - Metade ia para o tesoureiro do PT; outra metade para os diretores
+
+------------------------------------------------------------------------
+  2.2  OS DOLEIROS -- A LAVAGEM DO DINHEIRO
+------------------------------------------------------------------------
+
+  O dinheiro das propinas nao podia circular pelo sistema bancario
+  formal. Para isso, era utilizada uma rede de doleiros liderada por
+  Alberto Youssef e outros operadores financeiros.
+
+  COMO FUNCIONAVA A LAVAGEM:
+
+  1. As empreiteiras separavam uma parte do valor dos contratos para
+     propinas.
+  2. Esse dinheiro era entregue em especie ou transferido para
+     empresas de fachada (sem atividade real).
+  3. Os doleiros convertiam os valores em moeda estrangeira e
+     depositavam em contas no exterior (principalmente Suica,
+     Monaco, Panama e Hong Kong).
+  4. O dinheiro voltava ao Brasil "limpo", por meio de operacoes de
+     cambio fraudulentas, compra de imoveis ou investimentos em
+     nome de terceiros.
+
+  O "SETOR DE OPERACOES ESTRUTURADAS" DA ODEBRECHT:
+
+  A empreiteira Odebrecht mantinha um departamento interno dedicado
+  exclusivamente ao pagamento de propinas, conhecido como "Setor de
+  Operacoes Estruturadas" ou "Departamento de Propinas".
+
+  - Funcionou entre 2006 e 2014
+  - Movimentou R$ 10,6 bilhoes nesse periodo
+  - Utilizava um sistema proprio de comunicacao criptografada
+    (apelidado de "Drousys" e "MyWebDay")
+  - Operava em 12 paises: Brasil, Angola, Argentina, Colombia,
+    Republica Dominicana, Equador, Guatemala, Mexico, Mocambique,
+    Panama, Peru e Venezuela
+  - Propinas confessadas em 12 paises: US$ 1 bilhao (R$ 3,3 bilhoes)
+
+------------------------------------------------------------------------
+  2.3  O PAPEL DOS PARTIDOS POLITICOS
+------------------------------------------------------------------------
+
+  A Lava Jato atingiu politicos de diversos partidos. Embora o PT
+  tenha sido o partido mais associado ao escandalo na opiniao publica
+  (por estar no poder durante a maior parte do periodo investigado),
+  as investigacoes revelaram envolvimento de parlamentares e
+  dirigentes de multiplas legendas:
+
+  PARTIDOS COM POLITICOS DENUNCIADOS NA LAVA JATO:
+  - PT (Partido dos Trabalhadores)
+  - PMDB/MDB (Movimento Democratico Brasileiro)
+  - PP (Partido Progressista, hoje Progressistas)
+  - PSDB (Partido da Social Democracia Brasileira)
+  - PTB (Partido Trabalhista Brasileiro)
+  - PSD (Partido Social Democratico)
+  - PDT (Partido Democratico Trabalhista)
+  - PR (Partido da Republica, hoje PL)
+  - SD (Solidariedade)
+  - Entre outros
+
+  TOTAL: 42 politicos foram denunciados; 21 foram condenados.
+
+
+================================================================================
+                    PARTE 3: OS PRINCIPAIS ATORES
+================================================================================
+
+------------------------------------------------------------------------
+  3.1  LADO DA INVESTIGACAO E JUSTICA
+------------------------------------------------------------------------
+
+  SERGIO MORO -- Juiz Federal
+  Titular da 13a Vara Federal Criminal de Curitiba. Julgou os
+  processos da Lava Jato em primeira instancia de 2014 a 2018.
+  Tornou-se a figura publica mais associada a operacao. Em novembro
+  de 2018, aceitou o convite de Jair Bolsonaro para ser Ministro da
+  Justica e Seguranca Publica. Deixou o governo em abril de 2020,
+  apos desentendimento com Bolsonaro sobre interferencia na PF.
+  Em 2021, o STF declarou-o parcial no julgamento de Lula.
+  Elegeu-se senador pelo Parana em 2022.
+
+  DELTAN DALLAGNOL -- Procurador da Republica
+  Coordenador da forca-tarefa do MPF em Curitiba. Ficou conhecido
+  pela coletiva de imprensa com o PowerPoint que colocava Lula no
+  centro de um diagrama (setembro de 2016). Foi condenado pelo STJ
+  a pagar R$ 75 mil (corrigidos para R$ 146,8 mil) a Lula por danos
+  morais. Elegeu-se deputado federal em 2022, mas teve o mandato
+  cassado pelo TSE em 2023. Punido pelo CNMP com advertencia.
+
+  RODRIGO JANOT -- Procurador-Geral da Republica (2013-2017)
+  Responsavel por apresentar denuncias contra politicos com foro
+  privilegiado ao STF. Enviou as chamadas "listas de Janot" com
+  nomes de investigados.
+
+  TEORI ZAVASCKI -- Ministro do STF
+  Relator da Lava Jato no STF de 2014 ate sua morte em acidente
+  aereo em janeiro de 2017. Responsavel por homologar delacoes e
+  autorizar investigacoes contra politicos. Morreu em queda de aviao
+  no litoral do Rio de Janeiro em 19 de janeiro de 2017.
+
+  EDSON FACHIN -- Ministro do STF
+  Assumiu a relatoria da Lava Jato apos a morte de Teori Zavascki.
+  Responsavel pela decisao que anulou as condenacoes de Lula por
+  incompetencia da 13a Vara de Curitiba (marco de 2021).
+
+  FORCA-TAREFA DO MPF EM CURITIBA:
+  Grupo de 15 procuradores da Republica que atuou de 2014 a 2021.
+  Encerrada formalmente em fevereiro de 2021, apos decisao do
+  Procurador-Geral Augusto Aras de nao renovar o grupo.
+
+------------------------------------------------------------------------
+  3.2  LADO DOS INVESTIGADOS -- DOLEIROS E OPERADORES
+------------------------------------------------------------------------
+
+  ALBERTO YOUSSEF -- Doleiro
+  Principal operador financeiro do esquema. Ja era conhecido por
+  envolvimento no escandalo do Banestado. Preso na 1a fase. Fechou
+  acordo de delacao premiada e forneceu informacoes cruciais sobre
+  o funcionamento da rede de lavagem de dinheiro.
+
+  CARLOS HABIB CHATER -- Doleiro
+  Dono do posto de gasolina e lava-jato que deu nome a operacao.
+  Atuava como intermediario financeiro de Youssef.
+
+  JOAO SANTANA -- Marqueteiro
+  Responsavel pelas campanhas eleitorais de Dilma Rousseff (2010 e
+  2014). Preso em fevereiro de 2016. Condenado por lavagem de
+  dinheiro. Admitiu ter recebido pagamentos de caixa dois da
+  Odebrecht para campanhas do PT.
+
+------------------------------------------------------------------------
+  3.3  LADO DOS INVESTIGADOS -- EXECUTIVOS DE EMPREITEIRAS
+------------------------------------------------------------------------
+
+  MARCELO ODEBRECHT -- Presidente da Odebrecht
+  Preso em junho de 2015 na 14a fase da operacao. Condenado
+  inicialmente a 19 anos e 4 meses. Fechou acordo de delacao
+  premiada em 2016. Teve a pena reduzida pelo STF para 7 anos e
+  meio. Cumpriu pena em regime fechado, domiciliar e depois em
+  servico comunitario (no Hospital das Clinicas da USP). Terminou
+  de cumprir pena. Em maio de 2024, o ministro Dias Toffoli anulou
+  decisoes da 13a Vara contra ele, mas em setembro de 2024 a 2a
+  Turma do STF reverteu parcialmente a decisao. A empresa mudou de
+  nome para Novonor.
+
+  LEO PINHEIRO -- Presidente da OAS
+  Preso em novembro de 2014. Figura central no caso do triplex do
+  Guaruja atribuido a Lula. Sua delacao foi aceita na terceira
+  tentativa, quando passou a incriminar Lula. Em setembro de 2021,
+  escreveu carta de proprio punho admitindo que MENTIU na delacao
+  contra Lula.
+
+  OTAVIO AZEVEDO -- Presidente da Andrade Gutierrez
+  Preso em junho de 2015. A empresa fechou acordo de leniencia de
+  R$ 1 bilhao.
+
+  DALTON AVANCINI -- Presidente da Camargo Correa
+  Preso em novembro de 2014 na 7a fase. A empresa admitiu pagamento
+  de R$ 110 milhoes em propinas a diretores da Petrobras.
+
+  RICARDO PESSOA -- Presidente da UTC Engenharia
+  Preso em novembro de 2014. Fechou acordo de delacao premiada.
+
+------------------------------------------------------------------------
+  3.4  LADO DOS INVESTIGADOS -- POLITICOS
+------------------------------------------------------------------------
+
+  EDUARDO CUNHA (PMDB) -- Presidente da Camara dos Deputados
+  Figura central na crise politica de 2015-2016. Conduziu o processo
+  de impeachment de Dilma Rousseff enquanto era investigado pela Lava
+  Jato. Preso preventivamente em outubro de 2016, condenado a 15 anos
+  e 11 meses. Condenacao anulada pelo STF em 2023. Atualmente solto
+  e livre. Declarou intencao de concorrer nas eleicoes de 2026.
+
+  SERGIO CABRAL (PMDB) -- Ex-governador do Rio de Janeiro
+  Preso em novembro de 2016 em desdobramentos da Lava Jato no Rio
+  de Janeiro. Acumulou condenacoes que somaram mais de 430 anos de
+  prisao. Ficou preso de novembro de 2016 a dezembro de 2022, quando
+  obteve prisao domiciliar. Teve 3 condenacoes anuladas pelo TRF-2
+  em 2024 (eliminando 40 anos de pena). Atualmente solto.
+
+  JOSE DIRCEU (PT) -- Ex-ministro da Casa Civil
+  Ja condenado no escandalo do Mensalao (2005). Condenado na Lava
+  Jato a 30 anos e 9 meses de prisao por corrupcao, lavagem de
+  dinheiro e associacao criminosa. Cumpriu parte da pena em regime
+  fechado e domiciliar.
+
+  ANTONIO PALOCCI (PT) -- Ex-ministro da Fazenda
+  Preso em setembro de 2016 na 35a fase. Condenado a 12 anos e 2
+  meses. Fechou acordo de delacao premiada em 2018, no qual relatou
+  supostos pagamentos de propina ao PT e a Lula.
+
+  JOAO VACCARI NETO (PT) -- Ex-tesoureiro do PT
+  Preso em abril de 2015. Condenado a mais de 15 anos por corrupcao
+  passiva e lavagem de dinheiro. Acusado de receber propinas de
+  empreiteiras em nome do PT.
+
+  RENATO DUQUE (PT) -- Ex-diretor de Servicos da Petrobras
+  Indicado pelo PT para a diretoria. Condenado a mais de 30 anos
+  em diferentes acoes. Preso em novembro de 2014.
+
+  ALDEMIR BENDINE -- Ex-presidente da Petrobras e do Banco do Brasil
+  Preso em julho de 2017 na 42a fase. Condenado por corrupcao passiva.
+
+  POLITICOS DE OUTROS PARTIDOS ATINGIDOS:
+  - Senadores e deputados do PP, PMDB, PTB, PSDB, PSD, entre outros,
+    foram investigados, denunciados ou condenados.
+  - A operacao revelou que o esquema de corrupcao na Petrobras era
+    multipartidario, embora o PT tenha sido o partido com maior
+    numero de envolvidos em funcao de ter controlado o governo
+    federal durante o periodo investigado (2003-2016).
+
+
+================================================================================
+                    PARTE 4: LINHA DO TEMPO COMPLETA
+================================================================================
+
+------------------------------------------------------------------------
+  2014 -- O ANO DA REVELACAO
+------------------------------------------------------------------------
+
+  Mar 17 - 1a fase: presos Alberto Youssef e 16 outros
+  Mar 20 - 2a fase: preso Paulo Roberto Costa (ex-diretor Petrobras)
+  Abr 11 - 3a fase: operacao "Dolce Vita"
+  Jun 11 - 4a fase: Paulo Roberto Costa preso novamente;
+           US$ 23 mi bloqueados na Suica
+  Ago    - Paulo Roberto Costa fecha 1o acordo de delacao premiada
+  Nov 14 - 7a fase ("Juizo Final"): presos executivos de 6 empreiteiras
+           (Camargo Correa, OAS, UTC, Galvao, Mendes Junior, Engevix)
+  Dez    - Alberto Youssef fecha acordo de delacao
+
+------------------------------------------------------------------------
+  2015 -- A ESCALADA
+------------------------------------------------------------------------
+
+  Fev    - 10a fase: presos operadores e doleiros
+  Mar 16 - Nestor Cervero (ex-diretor Internacional) e preso
+  Abr 15 - Joao Vaccari Neto (tesoureiro do PT) e preso
+  Jun 19 - 14a fase: preso Marcelo Odebrecht (presidente da Odebrecht)
+  Jul    - Renato Duque (ex-diretor de Servicos) e preso
+  Ago    - 17a fase ("Pixuleco"): buscas em enderecos ligados a Lula
+           (primeira vez que o nome de Lula aparece formalmente)
+  Nov 25 - 21a fase: preso senador Delcidio do Amaral (PT-MS) em
+           flagrante, acusado de obstruir investigacoes -- primeira
+           prisao de um senador em exercicio desde 1889
+  Nov    - Andrade Gutierrez fecha acordo de leniencia de R$ 1 bilhao
+
+------------------------------------------------------------------------
+  2016 -- O ANO DECISIVO
+------------------------------------------------------------------------
+
+  Fev 22 - 23a fase: presos Joao Santana (marqueteiro do PT) e esposa
+  Mar 4  - 24a fase ("Aletheia"): conducao coercitiva de Lula para
+           depoimento. Polemicas sobre espetacularizacao.
+  Mar 16 - Moro divulga gravacao de telefonema entre Lula e a
+           presidente Dilma. O STF considera a divulgacao irregular
+           (Dilma tinha foro privilegiado).
+  Mar 17 - Lula e nomeado ministro da Casa Civil de Dilma. O STF
+           suspende a nomeacao por liminar.
+  Ago 31 - Dilma Rousseff sofre impeachment (por "pedaladas fiscais",
+           nao diretamente relacionado a Lava Jato, mas no contexto
+           de crise politica ampliada pela operacao)
+  Set 14 - MPF oferece denuncia contra Lula no caso do triplex
+  Set 15 - Deltan Dallagnol faz coletiva do PowerPoint, colocando
+           Lula no centro de um diagrama como "comandante maximo"
+  Out 19 - Eduardo Cunha e preso em Curitiba
+  Nov 17 - Preso Sergio Cabral, ex-governador do RJ
+  Dez    - Odebrecht fecha o maior acordo de delacao premiada da
+           historia: 77 executivos, 950 depoimentos
+
+------------------------------------------------------------------------
+  2017 -- CONDENACAO DE LULA E MEGA-DELACOES
+------------------------------------------------------------------------
+
+  Jan 19 - Morre o ministro Teori Zavascki (relator no STF) em
+           acidente aereo
+  Fev    - Edson Fachin assume a relatoria da Lava Jato no STF
+  Abr    - Delacoes da Odebrecht sao tornadas publicas. Revelacoes
+           sobre propinas em 12 paises abalam a politica brasileira.
+  Mai 17 - Divulgacao de gravacao do presidente Michel Temer com
+           Joesley Batista (dono da JBS), gerando a maior crise do
+           governo Temer
+  Jul 12 - SERGIO MORO CONDENA LULA no caso do triplex do Guaruja
+           a 9 anos e 6 meses de prisao
+  Jul 27 - 42a fase: preso Aldemir Bendine (ex-presidente Petrobras)
+  Set    - MPF denuncia Lula no caso do sitio de Atibaia
+
+------------------------------------------------------------------------
+  2018 -- PRISAO DE LULA E ELEICOES
+------------------------------------------------------------------------
+
+  Jan 24 - TRF-4 confirma condenacao de Lula por unanimidade (3x0).
+           Pena aumentada para 12 anos e 1 mes. Desembargadores:
+           Gebran Neto (relator), Leandro Paulsen e Victor Laus.
+  Abr 5  - STF nega habeas corpus de Lula por 6 votos a 5
+  Abr 7  - LULA SE ENTREGA a Policia Federal em Curitiba apos missa
+           no Sindicato dos Metalurgicos em Sao Bernardo do Campo (SP).
+           Fica preso na Superintendencia da PF no Parana.
+  Ago 15 - PT registra candidatura de Lula a presidente
+  Set 1  - TSE barra candidatura de Lula pela Lei da Ficha Limpa.
+           Fernando Haddad assume como candidato do PT.
+  Out 28 - Jair Bolsonaro vence o 2o turno contra Haddad
+  Nov 1  - Moro aceita convite de Bolsonaro para ser Ministro da
+           Justica e Seguranca Publica
+
+------------------------------------------------------------------------
+  2019 -- VAZA JATO E SOLTURA DE LULA
+------------------------------------------------------------------------
+
+  Jan 1  - Moro toma posse como Ministro da Justica
+  Fev 6  - Juiza Gabriela Hardt (substituta de Moro) condena Lula no
+           caso do sitio de Atibaia a 12 anos e 11 meses
+  Jun 9  - THE INTERCEPT BRASIL publica primeira reportagem da
+           "Vaza Jato": mensagens entre Moro e Dallagnol revelam
+           comunicacao impropria entre juiz e acusacao
+  Jun-Dez - Series de reportagens da Vaza Jato publicadas pelo
+           Intercept, Folha, Veja, El Pais e UOL
+  Nov 7  - STF decide por 6x5 que prisao apos condenacao em 2a
+           instancia e inconstitucional (antes do transito em julgado)
+  Nov 8  - LULA E SOLTO apos 580 dias preso
+  Nov 27 - TRF-4 aumenta pena do sitio de Atibaia para 17 anos,
+           1 mes e 10 dias
+
+------------------------------------------------------------------------
+  2020-2021 -- ANULACOES E FIM DA FORCA-TAREFA
+------------------------------------------------------------------------
+
+  Abr 2020 - Moro deixa o governo Bolsonaro, acusando interferencia
+             na Policia Federal
+  Fev 2021 - Forca-tarefa da Lava Jato em Curitiba e oficialmente
+             encerrada pelo PGR Augusto Aras
+  Mar 8, 2021 - Ministro Fachin ANULA todas as condenacoes de Lula
+                pela 13a Vara de Curitiba (incompetencia)
+  Mar 23, 2021 - 2a Turma do STF declara Moro PARCIAL por 3x2
+  Abr 15, 2021 - Plenario do STF confirma incompetencia de Curitiba
+                 por 8x3
+  Jun 23, 2021 - Plenario do STF confirma parcialidade de Moro
+                 por 7x4
+  Ago 2021 - Juiza de Brasilia rejeita denuncia do sitio de Atibaia
+  Set 2021 - Leo Pinheiro (OAS) admite em carta que mentiu na delacao
+             contra Lula
+  Dez 2021 - MPF reconhece prescricao do caso do triplex
+
+------------------------------------------------------------------------
+  2022-2025 -- DESDOBRAMENTOS
+------------------------------------------------------------------------
+
+  Jan 2022 - Justica do DF arquiva caso do triplex por prescricao
+  Out 2022 - Lula vence eleicao presidencial contra Bolsonaro
+             (50,9% x 49,1%)
+  Jan 2023 - Lula toma posse como 39o presidente do Brasil
+  Mai 2023 - STF anula condenacao de Eduardo Cunha (16 anos)
+  Mai 2023 - TSE cassa mandato de Deltan Dallagnol como deputado
+  Mai 2024 - Toffoli anula decisoes contra Marcelo Odebrecht
+  Set 2024 - 2a Turma do STF reverte parcialmente decisao de Toffoli
+  Dez 2025 - Dallagnol paga R$ 146,8 mil a Lula (indenizacao por
+             danos morais do PowerPoint)
+
+
+================================================================================
+                    PARTE 5: O CASO LULA -- EM DETALHES
+================================================================================
+
+------------------------------------------------------------------------
+  5.1  AS ACUSACOES
+------------------------------------------------------------------------
+
+  Lula foi alvo de multiplas acoes penais na Lava Jato. As duas
+  principais:
+
+  CASO 1 -- TRIPLEX DO GUARUJA (EDIFICIO SOLARIS):
+
+  ACUSACAO: O MPF alegava que a construtora OAS teria destinado e
+  reformado um apartamento triplex (cobertura) no Edificio Solaris,
+  no Guaruja (SP), como forma de propina ao ex-presidente Lula, em
+  troca de favorecimento em contratos da Petrobras.
+
+  DETALHES DA ACUSACAO:
+  - O triplex tinha o valor estimado de R$ 2,2 a 2,4 milhoes em
+    reformas e acabamento
+  - A propina total acusada pela OAS seria de R$ 3,7 milhoes
+  - O imovel nunca foi registrado em nome de Lula
+  - A acusacao sustentava que, embora a propriedade formal fosse da
+    OAS, o apartamento era "de fato" de Lula
+
+  ARGUMENTOS DA ACUSACAO:
+  - Delacoes de executivos da OAS (especialmente Leo Pinheiro)
+  - Planilhas internas da OAS mencionando o apartamento como
+    destinado a Lula
+  - Depoimentos de funcionarios do condominio
+  - Reformas luxuosas feitas por determinacao da OAS
+
+  ARGUMENTOS DA DEFESA:
+  - O triplex NUNCA foi registrado em nome de Lula
+  - Lula visitou o imovel apenas uma vez e nao se interessou
+  - A familia pagou parcelas de um apartamento COMUM (nao o triplex)
+    no mesmo edificio; quando o projeto mudou de maos (da cooperativa
+    BANCOOP para a OAS), o negocio nao se concretizou
+  - Em 2019, a Justica condenou BANCOOP e OAS a devolver a Lula os
+    R$ 815 mil pagos, reconhecendo que o negocio imobiliario
+    original era legitimo
+  - Nao foi demonstrado QUAL ato de oficio concreto Lula teria
+    praticado para favorecer a OAS (a condenacao se baseou em
+    "atos de oficio indeterminados")
+  - Nao havia documento, contrato, recibo ou registro que vinculasse
+    Lula ao triplex
+
+  CONDENACOES:
+  - 1a instancia (Moro, 12/jul/2017): 9 anos e 6 meses
+  - 2a instancia (TRF-4, 24/jan/2018): 12 anos e 1 mes (unanime, 3x0)
+  - Multa: R$ 670 mil
+  - Indenizacao determinada: R$ 16 milhoes
+
+  DESFECHO: Anulada pelo STF (incompetencia + parcialidade de Moro).
+  Prescrito em janeiro de 2022.
+
+
+  CASO 2 -- SITIO DE ATIBAIA (SITIO SANTA BARBARA):
+
+  ACUSACAO: O MPF alegava que as construtoras OAS e Odebrecht teriam
+  financiado reformas no sitio Santa Barbara, em Atibaia (SP),
+  utilizado pela familia Lula, como forma de propina.
+
+  DETALHES DA ACUSACAO:
+  - Reformas estimadas em R$ 800 mil a R$ 1 milhao
+  - Incluiam construcao de quadra de futebol, piscina com
+    aquecimento, churrasqueira, cozinha, entre outras benfeitorias
+  - O sitio pertencia formalmente a Fernando Bittar e Jonas Suassuna
+
+  ARGUMENTOS DA ACUSACAO:
+  - Delacoes de executivos da OAS, Odebrecht e Schahin
+  - Documentos vinculando pagamentos das reformas a empresas de
+    fachada ligadas as empreiteiras
+  - Laudos da PF indicando que a familia Lula usava o sitio com
+    mais frequencia que os proprietarios formais
+
+  ARGUMENTOS DA DEFESA:
+  - O sitio pertencia formalmente a Fernando Bittar
+  - Em maio de 2019, a propria Justica Federal autorizou Bittar a
+    vender o sitio, reconhecendo-o como proprietario
+  - Lula era frequentador, nao proprietario
+  - Mesma questao da ausencia de ato de oficio individualizado
+
+  CONDENACOES:
+  - 1a instancia (Gabriela Hardt, 06/fev/2019): 12 anos e 11 meses
+  - 2a instancia (TRF-4, 27/nov/2019): 17 anos, 1 mes e 10 dias
+
+  DESFECHO: Anulada pelo STF. Denuncia rejeitada pela Justica
+  Federal de Brasilia em agosto de 2021.
+
+
+  OUTRAS ACOES CONTRA LULA NA LAVA JATO:
+  - Caso Instituto Lula (doacoes da Odebrecht): encerrado
+  - Caso terreno do Instituto Lula: encerrado
+  - Caso BNDES/Angola: encerrado por falta de justa causa
+  - Caso Guine Equatorial: suspenso/encerrado
+  - NENHUMA dessas acoes resultou em condenacao.
+
+------------------------------------------------------------------------
+  5.2  A PRISAO DE LULA
+------------------------------------------------------------------------
+
+  DATA DA PRISAO: 7 de abril de 2018
+
+  CIRCUNSTANCIAS: Apos o TRF-4 confirmar a condenacao e o STF negar
+  habeas corpus (6x5), Lula recebeu ordem de se apresentar a PF.
+  Apos discurso no Sindicato dos Metalurgicos em Sao Bernardo do
+  Campo (SP), Lula se entregou a Policia Federal.
+
+  LOCAL: Superintendencia da Policia Federal em Curitiba (PR).
+  Lula ficou em uma sala adaptada no ultimo andar do predio.
+
+  DURACAO: 580 dias (7 de abril de 2018 a 8 de novembro de 2019)
+
+  SOLTURA: Em 7 de novembro de 2019, o STF decidiu por 6x5 que e
+  inconstitucional a prisao de condenados em segunda instancia antes
+  do transito em julgado. No dia seguinte, Lula foi solto.
+
+------------------------------------------------------------------------
+  5.3  AS DECISOES DO STF -- ANULACAO
+------------------------------------------------------------------------
+
+  DECISAO 1 -- INCOMPETENCIA DE CURITIBA:
+  DATA: 8 de marco de 2021 (decisao monocratica de Fachin)
+  CONFIRMADA PELO PLENARIO: 15 de abril de 2021 (8 votos a 3)
+
+  FUNDAMENTO: Os processos contra Lula (triplex, sitio, Instituto
+  Lula) NAO tinham relacao direta com desvios de recursos da
+  Petrobras. A competencia da 13a Vara Federal de Curitiba estava
+  vinculada a crimes relacionados a Petrobras. Portanto, os processos
+  deveriam ter tramitado na Justica Federal de Brasilia.
+
+  VOTOS A FAVOR (incompetencia): Fachin, Alexandre de Moraes,
+  Barroso, Rosa Weber, Toffoli, Lewandowski, Carmen Lucia, Gilmar
+  Mendes (8)
+  VOTOS CONTRA: Kassio Nunes Marques, Marco Aurelio, Luiz Fux (3)
+
+  CONSEQUENCIA: Lula recuperou a elegibilidade politica.
+
+
+  DECISAO 2 -- PARCIALIDADE DE MORO:
+  DATA: 23 de marco de 2021 (2a Turma, 3x2)
+  CONFIRMADA PELO PLENARIO: 23 de junho de 2021 (7x4)
+
+  FUNDAMENTO: O juiz Sergio Moro atuou de forma parcial ao julgar
+  Lula, violando o principio da imparcialidade judicial. A decisao
+  se baseou em:
+  - Mensagens da Vaza Jato mostrando comunicacao impropria entre
+    Moro e a acusacao
+  - Divulgacao irregular do grampo Lula-Dilma
+  - Conducao coercitiva desnecessaria
+  - Grampeamento dos advogados de Lula
+  - Aceitacao de cargo no governo do adversario politico de Lula
+
+  VOTOS A FAVOR (Moro parcial): Gilmar Mendes, Kassio Nunes Marques,
+  Alexandre de Moraes, Lewandowski, Toffoli, Carmen Lucia, Rosa
+  Weber (7)
+  VOTOS CONTRA: Fachin, Barroso, Marco Aurelio, Luiz Fux (4)
+
+  CONSEQUENCIA: Todos os atos decisorios de Moro nos processos de
+  Lula foram anulados, incluindo atos da fase pre-processual.
+
+------------------------------------------------------------------------
+  5.4  LULA FOI "INOCENTADO" OU "ABSOLVIDO"?
+------------------------------------------------------------------------
+
+  Esta e uma questao semantica e juridica importante:
+
+  PERSPECTIVA TECNICO-JURIDICA:
+  Lula NAO foi absolvido no merito -- nenhum juiz analisou as provas
+  e concluiu pela inocencia. O que houve foi:
+  - ANULACAO por incompetencia (jurisdicao errada)
+  - ANULACAO por parcialidade (juiz suspeito)
+  - PRESCRICAO (prazo para o Estado punir expirou)
+  - REJEICAO de denuncia (sitio: sem elementos suficientes)
+
+  PERSPECTIVA DA DEFESA:
+  A defesa sustenta que Lula foi inocentado, pois todas as acusacoes
+  foram desconstituidas. Registram 25 "vitorias judiciais".
+
+  PERSPECTIVA CRITICA:
+  Criticos argumentam que Lula se beneficiou de nulidades processuais
+  e prescricao, sem julgamento de merito sobre as provas.
+
+  FATO: Nenhum processo da Lava Jato contra Lula esta ativo.
+
+------------------------------------------------------------------------
+  5.5  SITUACAO ATUAL (MARCO 2026)
+------------------------------------------------------------------------
+
+  Lula e o atual presidente da Republica (desde 1o de janeiro de
+  2023). Nao ha processos penais ativos contra ele decorrentes da
+  Lava Jato. Todos foram encerrados por prescricao, rejeicao de
+  denuncia, falta de justa causa ou nulidade por provas ilicitas.
+
+
+================================================================================
+                    PARTE 6: A VAZA JATO
+================================================================================
+
+------------------------------------------------------------------------
+  6.1  O QUE FOI
+------------------------------------------------------------------------
+
+  Em 9 de junho de 2019, o site The Intercept Brasil, dirigido pelo
+  jornalista Glenn Greenwald, publicou a primeira de uma serie de
+  reportagens baseadas em mensagens privadas do aplicativo Telegram,
+  trocadas entre membros da forca-tarefa da Lava Jato e o juiz
+  Sergio Moro.
+
+  ORIGEM: As mensagens foram obtidas por um hacker (Walter Delgatti
+  Neto, preso em julho de 2019) que invadiu os telefones de
+  procuradores. As mensagens foram repassadas ao jornalista
+  Greenwald por intermedio de Manuela d'Avila (PCdoB).
+
+  AUTENTICIDADE: Deltan Dallagnol confirmou a autenticidade dos
+  dialogos.
+
+------------------------------------------------------------------------
+  6.2  O QUE AS MENSAGENS REVELARAM
+------------------------------------------------------------------------
+
+  a) COMUNICACAO ENTRE JUIZ E ACUSACAO:
+  Moro e Dallagnol mantinham comunicacao direta e frequente. Moro
+  teria orientado a acusacao sobre a ordem das fases da operacao,
+  sugerido testemunhas, antecipado decisoes e discutido estrategias
+  processuais. Isso violaria o principio da imparcialidade judicial,
+  que exige equidistancia do juiz em relacao as partes.
+
+  b) DUVIDAS DE DALLAGNOL SOBRE AS PROVAS:
+  Cinco dias antes de apresentar a denuncia contra Lula no caso do
+  triplex, Dallagnol expressou em conversa com colegas que a
+  acusacao era "capenga" (manca) e poderia resultar em absolvicao.
+  Reconheceu que nao era possivel provar qual porcentagem dos
+  contratos da Petrobras era destinada a Lula.
+
+  c) OCULTACAO DE PROVAS FAVORAVEIS A DEFESA:
+  Procuradores teriam omitido depoimentos de testemunhas que poderiam
+  "encaixar na tese de Lula" de que ele nao queria o triplex.
+
+  d) INTERFERENCIA ELEITORAL:
+  Procuradores teriam conspirado para impedir que Lula concedesse
+  entrevista da prisao antes das eleicoes de 2018, temendo que isso
+  ajudasse a "eleger Haddad".
+
+------------------------------------------------------------------------
+  6.3  IMPACTO JURIDICO
+------------------------------------------------------------------------
+
+  As mensagens foram o principal argumento no pedido de declaracao de
+  parcialidade de Moro. O ministro Gilmar Mendes citou extensamente
+  os dialogos como evidencia de que Moro "deixou de ser juiz para
+  orientar uma das partes do processo".
+
+  CONTROVERSIAS SOBRE A VAZA JATO:
+  - Criticos argumentam que as mensagens foram obtidas por crime
+    (invasao de dispositivo informatico) e nao deveriam ser admitidas
+  - Defensores argumentam que, tratando-se de provas de
+    irregularidades do proprio Estado, o interesse publico prevalece
+  - O STF considerou o conteudo relevante para a analise da
+    imparcialidade do juiz
+
+
+================================================================================
+                    PARTE 7: OS NUMEROS DA LAVA JATO
+================================================================================
+
+------------------------------------------------------------------------
+  7.1  ESTATISTICAS OPERACIONAIS
+------------------------------------------------------------------------
+
+  | Metrica                              | Numero           |
+  |---------------------------------------|-----------------|
+  | Fases da operacao                     | 79              |
+  | Denuncias oferecidas                  | 130             |
+  | Pessoas denunciadas                   | 553             |
+  | Condenacoes                           | 278             |
+  | Prisoes preventivas                   | 347             |
+  | Prisoes temporarias                   | 196             |
+  | Buscas e apreensoes                   | 1.644           |
+  | Conducoes coercitivas                 | 262             |
+  | Politicos denunciados                 | 42              |
+  | Politicos condenados                  | 21              |
+  | Acordos de colaboracao premiada       | 209             |
+  | Acordos de leniencia                  | 17              |
+  | Pedidos de cooperacao internacional   | 723             |
+  | Soma total das penas                  | +3.000 anos     |
+
+------------------------------------------------------------------------
+  7.2  VALORES FINANCEIROS
+------------------------------------------------------------------------
+
+  VALORES DESVIADOS (ESTIMATIVAS):
+  | Fonte                    | Valor                          |
+  |--------------------------|--------------------------------|
+  | MPF (propinas Petrobras) | R$ 7,2 bilhoes                |
+  | TCU (prejuizo do cartel) | R$ 18,6 bi (IPCA: R$ 23,8 bi) |
+  | MPF (rombo total)        | Superior a R$ 15 bilhoes       |
+  | TCU (prejuizo desde 2002)| R$ 29 bilhoes                  |
+
+  VALORES RECUPERADOS:
+  | Metrica                              | Valor            |
+  |---------------------------------------|-----------------|
+  | Devolvido aos cofres publicos         | +R$ 4 bilhoes   |
+  | Petrobras recuperou (ate 2021)        | R$ 6,17 bilhoes |
+  | Compromissos totais em acordos (TCU)  | R$ 22 bilhoes   |
+  | Acordos no STF                        | R$ 3,9 bilhoes  |
+
+  ACORDO DA ODEBRECHT (MAIOR DA HISTORIA):
+  | Metrica                    | Valor                          |
+  |----------------------------|--------------------------------|
+  | Multa global               | R$ 8,5 bilhoes                 |
+  | Brasil (80%)               | R$ 6,8 bilhoes                 |
+  | EUA - DOJ (10%)            | R$ 850 milhoes                 |
+  | Suica (10%)                | R$ 850 milhoes                 |
+  | Executivos delatores       | 77                             |
+  | Depoimentos                | 950                            |
+  | Propinas confessadas       | US$ 1 bilhao (R$ 3,3 bi)      |
+  | Setor de propinas (total)  | R$ 10,6 bilhoes (2006-2014)    |
+  | Paises envolvidos          | 12                             |
+
+------------------------------------------------------------------------
+  7.3  PERDAS DA PETROBRAS
+------------------------------------------------------------------------
+
+  | Metrica                              | Valor            |
+  |---------------------------------------|-----------------|
+  | Baixa contabil por corrupcao (2014)   | R$ 6,2 bilhoes  |
+  | Baixa contabil total                  | R$ 50,8 bilhoes |
+  | Prejuizo liquido em 2014              | R$ 21,6 bilhoes |
+  | Queda das acoes (2014-2015)           | -57%            |
+  | Contratos afetados pelo cartel        | R$ 199,6 bi     |
+  | Valores recuperados (ate 2021)        | R$ 6,17 bilhoes |
+
+
+================================================================================
+                    PARTE 8: IMPACTO ECONOMICO E POLITICO
+================================================================================
+
+------------------------------------------------------------------------
+  8.1  IMPACTO NA ECONOMIA
+------------------------------------------------------------------------
+
+  A Lava Jato coincidiu com a mais severa recessao brasileira em
+  decadas. Ha debate sobre quanto da crise se deve a operacao versus
+  outros fatores macroeconomicos (queda do preco das commodities,
+  politica fiscal expansionista, crise de confianca).
+
+  ESTUDO DO DIEESE/CUT (marco 2024):
+  (Nota: estudo encomendado pela Central Unica dos Trabalhadores,
+  que atribui os efeitos a forma de conducao da operacao)
+
+  | Metrica                              | Valor            |
+  |---------------------------------------|-----------------|
+  | Empregos destruidos (2014-2017)       | 4,44 milhoes    |
+  | Reducao do PIB (2014-2017)            | -3,6%           |
+  | Queda do PIB em 2015                  | -2%             |
+  | Queda do PIB em 2016                  | -2,5%           |
+  | Perda na construcao civil             | R$ 35,9 bilhoes |
+  | Empregos perdidos na construcao civil | 1,1 milhao      |
+  | Queda de receita das 11 construtoras  | -89% em 4 anos  |
+  | Perda em arrecadacao de impostos      | R$ 47 bilhoes   |
+  | Reducao de investimentos              | R$ 172,2 bilhoes|
+
+  Ha quem contra-argumente que a corrupcao em si causava perdas
+  maiores e que a recessao teve causas multiplas. Economistas de
+  diferentes correntes divergem sobre a atribuicao dos efeitos.
+
+------------------------------------------------------------------------
+  8.2  IMPACTO NA PETROBRAS
+------------------------------------------------------------------------
+
+  A Petrobras saiu gravemente afetada, mas realizou reformas:
+  - Criou diretoria de Compliance, Governanca e Risco
+  - Reformulou controles internos
+  - Profissionalizou indicacoes para cargos de diretoria
+  - Acoes recuperaram o patamar de fins de 2013 em outubro de 2016
+  - A empresa passou por um plano de desinvestimento que vendeu
+    ativos bilionarios para reduzir divida
+
+------------------------------------------------------------------------
+  8.3  IMPACTO POLITICO
+------------------------------------------------------------------------
+
+  - Contribuiu para o clima que levou ao impeachment de Dilma Rousseff
+  - Impediu Lula de concorrer em 2018 (preso, ficha limpa)
+  - Pavimentou a eleicao de Bolsonaro (com Moro como ministro)
+  - Gerou polarizacao extrema na sociedade brasileira
+  - Levantou debate sobre limites do poder judicial
+  - Influenciou aprovacao de leis anticorrupcao e de governanca
+
+------------------------------------------------------------------------
+  8.4  COOPERACAO INTERNACIONAL
+------------------------------------------------------------------------
+
+  A Lava Jato teve desdobramentos internacionais:
+  - DOJ (EUA): multou Odebrecht/Braskem em US$ 3,6 bilhoes
+  - Suica: bloqueou e repatriou ativos
+  - 12 paises foram afetados pelas propinas da Odebrecht
+  - Presidentes e ex-presidentes de Peru, Equador, Colombia,
+    Panama e Republica Dominicana foram investigados
+
+  POLEMICA DA COOPERACAO:
+  Posteriormente, reportagens revelaram que a cooperacao entre a
+  forca-tarefa e autoridades americanas aconteceu parcialmente fora
+  dos canais oficiais (DRCI/Ministerio da Justica), gerando criticas
+  de que os procuradores atuaram com autonomia excessiva.
+
+
+================================================================================
+                    PARTE 9: QUEM FOI PRESO E QUEM ESTA SOLTO
+================================================================================
+
+  STATUS ATUALIZADO (MARCO 2026):
+
+  INVESTIGADOS E REUS:
+
+  | Nome                   | Funcao                    | Status       |
+  |------------------------|---------------------------|-------------|
+  | Lula (PT)              | Ex-presidente             | LIVRE/Presid|
+  | Eduardo Cunha (PMDB)   | Ex-pres. Camara           | SOLTO       |
+  | Sergio Cabral (PMDB)   | Ex-governador RJ          | SOLTO       |
+  | Jose Dirceu (PT)       | Ex-ministro Casa Civil    | SOLTO       |
+  | Antonio Palocci (PT)   | Ex-ministro Fazenda       | SOLTO       |
+  | Joao Vaccari (PT)      | Ex-tesoureiro PT          | SOLTO       |
+  | Marcelo Odebrecht      | Ex-pres. Odebrecht        | LIVRE       |
+  | Leo Pinheiro           | Ex-pres. OAS              | SOLTO       |
+  | Paulo Roberto Costa    | Ex-diretor Petrobras      | SOLTO       |
+  | Renato Duque           | Ex-diretor Petrobras      | SOLTO       |
+  | Alberto Youssef        | Doleiro                   | SOLTO       |
+  | Nestor Cervero         | Ex-diretor Petrobras      | SOLTO       |
+  | Aldemir Bendine        | Ex-pres. Petrobras/BB     | SOLTO       |
+  | Joao Santana           | Marqueteiro               | SOLTO       |
+
+  OPERADORES DA JUSTICA:
+
+  | Nome                   | Funcao                    | Status       |
+  |------------------------|---------------------------|-------------|
+  | Sergio Moro            | Ex-juiz, ex-ministro      | Senador (PR)|
+  | Deltan Dallagnol       | Ex-coordenador MPF        | Mandato cass|
+  | Rodrigo Janot          | Ex-PGR                    | Aposentado  |
+
+  OBSERVACAO: A grande maioria dos condenados pela Lava Jato ja
+  cumpriu pena, obteve progressao de regime, ou teve condenacoes
+  anuladas pelo STF. Praticamente nenhum dos grandes reus permanece
+  preso em 2026.
+
+
+================================================================================
+                    PARTE 10: CRITICAS A OPERACAO -- DOS DOIS LADOS
+================================================================================
+
+------------------------------------------------------------------------
+  10.1  CRITICAS DE QUEM DEFENDE A OPERACAO
+------------------------------------------------------------------------
+
+  Defensores da Lava Jato argumentam que:
+
+  - A operacao revelou o maior esquema de corrupcao ja documentado
+    no Brasil e um dos maiores do mundo
+  - Devolveu bilhoes aos cofres publicos
+  - Mostrou que ninguem esta acima da lei, prendendo politicos e
+    empresarios poderosos
+  - Inspirou reformas de governanca na Petrobras e em estatais
+  - As anulacoes pelo STF foram "tecnicalidades" que nao apagam as
+    evidencias de corrupcao
+  - A operacao foi desmontada por interesses politicos de quem se
+    sentia ameacado
+
+------------------------------------------------------------------------
+  10.2  CRITICAS DE QUEM QUESTIONA A OPERACAO
+------------------------------------------------------------------------
+
+  Criticos da Lava Jato argumentam que:
+
+  - O juiz Moro violou principios basicos do processo penal
+    (imparcialidade, contraditorio, presuncao de inocencia)
+  - A operacao foi seletiva: concentrou-se em um partido/governo
+    enquanto poupava outros
+  - A espetacularizacao dos processos (conducoes coercitivas
+    televisionadas, vazamentos para imprensa) feriu direitos
+    fundamentais
+  - As delacoes premiadas foram usadas como instrumento de coercao:
+    investigados eram mantidos presos ate aceitarem delatar
+  - A cooperacao informal com os EUA levantou questoes de soberania
+  - O impacto economico foi desproporcional: a paralisacao de obras
+    e a destruicao de empreiteiras custou mais ao pais do que a
+    propria corrupcao investigada
+  - O uso politico da operacao (Moro como ministro de Bolsonaro)
+    confirmou suspeitas de parcialidade
+
+------------------------------------------------------------------------
+  10.3  QUESTOES DE DUE PROCESS (DEVIDO PROCESSO LEGAL)
+------------------------------------------------------------------------
+
+  Independente de posicao politica, juristas apontam diversas
+  questoes processuais problematicas:
+
+  a) CONDUCOES COERCITIVAS SEM INTIMACAO PREVIA:
+  O STF declarou inconstitucionais conducoes coercitivas sem que
+  antes o investigado tenha sido intimado a comparecer.
+
+  b) DIVULGACAO DE INTERCEPTACOES TELEFONICAS:
+  A divulgacao do grampo entre Lula e Dilma por Moro foi considerada
+  irregular pelo STF (a conversa envolvia pessoa com foro
+  privilegiado).
+
+  c) COMUNICACAO JUIZ-ACUSACAO:
+  As mensagens da Vaza Jato demonstraram comunicacao direta entre o
+  juiz e os procuradores, violando o principio acusatorio.
+
+  d) PRISAO PREVENTIVA PROLONGADA COMO COERCAO:
+  Investigados ficaram presos preventivamente por meses ate aceitarem
+  acordos de delacao, levantando questoes sobre voluntariedade das
+  colaboracoes.
+
+  e) COMPETENCIA JURISDICIONAL:
+  O STF entendeu que a 13a Vara de Curitiba julgou casos que nao
+  eram de sua competencia, comprometendo todos os atos processuais.
+
+
+================================================================================
+                    PARTE 11: O LEGADO
+================================================================================
+
+  A Operacao Lava Jato deixou um legado complexo e disputado:
+
+  LEGADOS POSITIVOS APONTADOS:
+  - Maior conscientizacao da sociedade sobre corrupcao
+  - Aprimoramento do uso de delacoes premiadas
+  - Reformas de governanca em estatais (Lei das Estatais, 2016)
+  - Fortalecimento de orgaos de controle
+  - Recuperacao de bilhoes em recursos desviados
+  - Precedente de que poderosos podem ser investigados e punidos
+
+  LEGADOS NEGATIVOS APONTADOS:
+  - Erosao de garantias processuais
+  - Politizacao da Justica
+  - Destruicao de capacidade produtiva (empreiteiras)
+  - Aprofundamento da polarizacao politica
+  - Desconfianca nas instituicoes judiciais
+  - Precedente perigoso de juizes parciais
+
+  O DEBATE CONTINUA: A Operacao Lava Jato permanece como um dos
+  episodios mais significativos e polarizadores da historia
+  contemporanea brasileira. Seu julgamento historico dependera, em
+  grande medida, da perspectiva de quem analisa -- se enfatizando o
+  combate a corrupcao ou os metodos utilizados.
+
+
+================================================================================
+                    FONTES PRINCIPAIS
+================================================================================
+
+  ORGAOS OFICIAIS:
+  - MPF: www.mpf.mp.br/grandes-casos/lava-jato/resultados
+  - STF: portal.stf.jus.br
+  - TRF-4: www.trf4.jus.br
+  - TCU: portal.tcu.gov.br
+  - PF: www.gov.br/pf
+
+  VEICULOS DE IMPRENSA:
+  - Agencia Brasil (agenciabrasil.ebc.com.br)
+  - CNN Brasil (www.cnnbrasil.com.br)
+  - Consultor Juridico - Conjur (www.conjur.com.br)
+  - Folha de Sao Paulo (www.folha.uol.com.br)
+  - Gazeta do Povo (www.gazetadopovo.com.br)
+  - Metropoles (www.metropoles.com)
+  - Poder360 (www.poder360.com.br)
+  - The Intercept Brasil (www.intercept.com.br)
+
+  FONTES ACADEMICAS E ESPECIALIZADAS:
+  - DIEESE/CUT - Estudo sobre impacto economico (marco 2024)
+  - SciELO - Artigos academicos sobre governanca corporativa
+  - Migalhas (www.migalhas.com.br) - Portal juridico
+
+
+================================================================================
+  FIM DO DOCUMENTO
+================================================================================
