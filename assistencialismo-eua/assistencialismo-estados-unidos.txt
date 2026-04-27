@@ -1,0 +1,453 @@
+================================================================================
+  PROGRAMAS ASSISTENCIAIS DOS ESTADOS UNIDOS - PESQUISA COMPLETA
+================================================================================
+
+Pesquisa realizada em abril de 2026 com dados mais recentes disponíveis.
+
+
+VISÃO GERAL
+--------------------------------------------------------------------------------
+
+O sistema de assistência social dos Estados Unidos é composto por mais de 80
+programas federais que fornecem dinheiro, alimentos, moradia, assistência
+médica, serviços sociais, treinamento e educação para americanos de baixa renda.
+
+Gasto total do governo (federal + estadual + local) em 2026:
+  - TOTAL: ~US$ 1,723 trilhão (~5,8% do PIB)
+  - Medicaid: US$ 828 bilhões
+  - Demais programas: US$ 895 bilhões
+
+
+================================================================================
+1. SNAP - Supplemental Nutrition Assistance Program (Food Stamps/Vale-Alimentação)
+================================================================================
+
+O QUE É:
+  Programa federal que fornece benefícios mensais em cartão eletrônico (EBT)
+  para compra de alimentos em supermercados e mercearias.
+
+BENEFICIÁRIOS:
+  - ~38,6 milhões de pessoas (janeiro de 2026), em ~22,7 milhões de domicílios
+  - Queda de 4,2 milhões de beneficiários entre jan/2025 (42,8 mi) e jan/2026
+
+CRITÉRIOS DE ELEGIBILIDADE:
+  - Renda bruta........: até 130% da linha de pobreza (~$2.888/mês, família de 3)
+  - Renda líquida......: até 100% da linha de pobreza
+  - Trabalho...........: Adultos 18-64 sem dependentes: mínimo 20h/semana
+                         (expandido em 2025 para incluir adultos de 55-64 anos)
+  - Cidadania..........: Cidadãos americanos ou imigrantes qualificados
+  - Ativos.............: Maioria dos estados não exige mais teste de patrimônio
+
+VALOR DO BENEFÍCIO:
+  - Varia por estado e tamanho da família
+  - Benefício médio: ~$194/pessoa/mês (2025)
+
+Fontes: USDA SNAP Eligibility, CBPP, Pew Research, Newsweek
+
+
+================================================================================
+2. MEDICAID (Seguro Saúde para Baixa Renda)
+================================================================================
+
+O QUE É:
+  Programa conjunto federal-estadual que fornece cobertura de saúde gratuita
+  ou de baixo custo para pessoas de baixa renda, incluindo crianças, gestantes,
+  idosos e pessoas com deficiência.
+
+BENEFICIÁRIOS:
+  - ~75,3 milhões de pessoas inscritas no Medicaid e CHIP (janeiro de 2026)
+  - 47,6% dos inscritos são crianças
+  - Queda de ~7,6% em FY 2025 devido ao "unwinding" pós-pandemia
+
+CRITÉRIOS DE ELEGIBILIDADE:
+  - Renda...............: Varia por estado; geralmente até 138% da linha de
+                          pobreza para adultos (em estados que expandiram)
+  - Categorias.........: Crianças, gestantes, idosos 65+, pessoas com
+                          deficiência, adultos de baixa renda
+  - Ativos (longo prazo): Limite individual de ~$2.000
+  - Renda (longo prazo).: Até $2.982/mês (solteiros); $5.964/mês (casais) em 2026
+  - Trabalho............: Novos requisitos aprovados para adultos 19-64
+                          (implementação a partir de janeiro de 2027)
+  - Cidadania...........: Cidadãos ou imigrantes qualificados com 5+ anos
+
+Fontes: Medicaid.gov, KFF Medicaid Tracker, GoodRx
+
+
+================================================================================
+3. MEDICARE (Seguro Saúde para Idosos e Pessoas com Deficiência)
+================================================================================
+
+O QUE É:
+  Programa federal de seguro saúde para pessoas com 65 anos ou mais, ou com
+  certas deficiências ou doenças renais terminais.
+
+BENEFICIÁRIOS:
+  - ~68,9 milhões de pessoas (2025)
+  - 90,1% são pessoas com 65 anos ou mais
+  - ~35 milhões inscritos no Medicare Advantage (fevereiro de 2026)
+
+CRITÉRIOS DE ELEGIBILIDADE:
+  - Idade...............: 65 anos ou mais
+  - Deficiência.........: Menos de 65 que recebem SSDI por 24 meses
+  - Doença renal terminal: Qualquer idade com ESRD ou ELA (ALS)
+  - Contribuição........: Mínimo 10 anos (40 trimestres) de contribuição
+  - Cidadania...........: Cidadãos ou residentes permanentes legais com 5+ anos
+
+PARTES DO MEDICARE:
+  - Parte A (Hospital)........: Gratuita para quem contribuiu 10+ anos
+  - Parte B (Médico)..........: Prêmio mensal de $202,90 (2026)
+  - Parte C (Medicare Advantage): Planos privados que incluem A e B
+  - Parte D (Medicamentos)....: Planos de prescrição com prêmios variáveis
+
+Fontes: Medicare.gov, KFF, SeniorLiving.org
+
+
+================================================================================
+4. SOCIAL SECURITY (Previdência Social)
+================================================================================
+
+O QUE É:
+  Sistema de seguro social que fornece benefícios de aposentadoria,
+  sobrevivência e invalidez financiados por impostos sobre a folha de pagamento.
+
+BENEFICIÁRIOS (março de 2026):
+  - ~67,6 milhões de beneficiários totais
+    - Aposentados: ~52 milhões
+    - Sobreviventes: ~5,8 milhões
+    - Deficientes (SSDI): ~8,1 milhões
+
+CRITÉRIOS DE ELEGIBILIDADE:
+  - Aposentadoria: 62 anos (benefício reduzido) ou 66-67 (benefício completo);
+                   mínimo 40 créditos de trabalho (~10 anos)
+  - SSDI (Invalidez): Incapacidade médica que impede trabalho substancial;
+                       ter contribuído tempo suficiente;
+                       renda abaixo de $1.690/mês (2026) para não-cegos
+  - Sobreviventes: Cônjuges, filhos e pais dependentes de falecidos
+
+VALORES (2026):
+  - Benefício médio de aposentadoria: ~$1.976/mês
+  - Benefício médio SSDI: ~$1.630/mês
+  - Ajuste COLA de 2,8% para 2026
+
+Fontes: SSA Monthly Snapshot, SSA COLA, SSA Disabled-Worker Stats
+
+
+================================================================================
+5. SSI - Supplemental Security Income (Renda Suplementar de Segurança)
+================================================================================
+
+O QUE É:
+  Programa federal que fornece pagamentos mensais em dinheiro para idosos,
+  cegos e pessoas com deficiência que têm renda e recursos limitados.
+  Diferente do SSDI, NÃO exige histórico de trabalho.
+
+BENEFICIÁRIOS:
+  - ~7,37 milhões de pessoas (janeiro de 2026)
+    - ~4 milhões com idade 18-64
+    - ~2,5 milhões com 65 anos ou mais
+    - ~1 milhão menores de 18 anos
+
+CRITÉRIOS DE ELEGIBILIDADE:
+  - Idade/Deficiência..: 65+ anos, ou cego, ou com deficiência comprovada
+  - Renda..............: Renda mensal limitada (critérios com exclusões)
+  - Ativos.............: Até $2.000 (individual) ou $3.000 (casal)
+  - Cidadania..........: Cidadãos americanos ou certas categorias de imigrantes
+  - Histórico trabalho.: NÃO exigido (diferente do SSDI)
+
+VALORES (2026):
+  - Individual: $994/mês
+  - Casal: $1.491/mês
+  - Muitos estados adicionam suplemento estadual
+
+Fontes: SSA SSI Federal Amounts, Nolo
+
+
+================================================================================
+6. TANF - Temporary Assistance for Needy Families (Assistência Temporária)
+================================================================================
+
+O QUE É:
+  Programa de assistência em dinheiro para famílias de baixa renda com
+  crianças. Administrado pelos estados com financiamento federal em bloco.
+
+BENEFICIÁRIOS:
+  - ~1 milhão de famílias/mês (2026)
+  - Drástica redução desde os anos 1990 (eram 5 milhões de famílias)
+
+CRITÉRIOS DE ELEGIBILIDADE:
+  - Família............: Criança menor de 18 OU gestante no 3º trimestre
+  - Renda..............: Varia por estado ($268/mês no Alabama a $2.413 no Minnesota)
+  - Trabalho...........: 30h/semana (pais solteiros); 35h/semana (dois pais)
+  - Limite temporal....: Máximo 60 meses (5 anos) vitalício com fundos federais
+  - Cidadania..........: Cidadãos ou imigrantes qualificados
+
+VALORES:
+  - Variam dramaticamente por estado: ~$170 a $1.000+/mês para família de 3
+
+Fontes: USAGov, ACF TANF, Congress.gov
+
+
+================================================================================
+7. HOUSING ASSISTANCE - Section 8 / HCV (Assistência Habitacional)
+================================================================================
+
+O QUE É:
+  Programa que subsidia o aluguel de moradia para famílias de baixa renda,
+  idosos e pessoas com deficiência no mercado privado.
+
+BENEFICIÁRIOS:
+  - ~5,25 milhões de pessoas em Housing Choice Vouchers (72,3%)
+  - ~2 milhões de pessoas em Project-Based Housing (27,7%)
+  - TOTAL: ~7,26 milhões de beneficiários
+
+CRITÉRIOS DE ELEGIBILIDADE:
+  - Renda..............: Geralmente até 50% da renda mediana da área (AMI);
+                         prioridade para até 30% AMI
+  - Família............: Famílias, idosos, veteranos, pessoas com deficiência
+  - Contribuição.......: Inquilino paga ~30% de sua renda; governo cobre o resto
+  - Cidadania..........: Cidadãos ou imigrantes com status elegível
+
+MUDANÇAS PROPOSTAS (2026):
+  - HUD propôs limites temporais (mín. 2 anos) e requisitos de trabalho
+    (até 40h/semana) para domicílios não-idosos e não-deficientes
+
+Fontes: HUD, iPropertyManagement, HUD.gov
+
+
+================================================================================
+8. EITC - Earned Income Tax Credit (Crédito Fiscal por Renda Auferida)
+================================================================================
+
+O QUE É:
+  Crédito fiscal reembolsável para trabalhadores de baixa e média renda.
+  Reduz impostos devidos e pode resultar em reembolso.
+
+BENEFICIÁRIOS:
+  - ~23,5 milhões de declarantes receberam EITC (ano fiscal 2024)
+  - Total distribuído: ~$68,5 bilhões
+  - Valor médio: $2.916
+  - Estima-se que 1 em cada 5 elegíveis NÃO reclama o crédito
+
+CRITÉRIOS DE ELEGIBILIDADE (Ano Fiscal 2025):
+  - Renda..............: Até $19.104 (sem filhos, solteiro) a
+                         $68.675 (3+ filhos, casado)
+  - Investimentos......: Renda de investimento < $11.950
+  - Cidadania..........: Cidadão ou residente permanente durante todo o ano
+  - Trabalho...........: Deve ter renda auferida (emprego ou autônomo)
+  - Idade (sem filhos).: 25-64 anos
+
+VALORES MÁXIMOS (2025):
+  - 0 filhos...: $649
+  - 1 filho....: $4.328
+  - 2 filhos...: $7.152
+  - 3+ filhos..: $8.046
+
+Fontes: IRS, Kiplinger, CBPP
+
+
+================================================================================
+9. CHILD TAX CREDIT - CTC (Crédito Fiscal por Filho)
+================================================================================
+
+O QUE É:
+  Crédito fiscal por cada filho dependente qualificado que reduz a obrigação
+  fiscal da família.
+
+BENEFICIÁRIOS:
+  - ~46 milhões de famílias recebem alguma forma do CTC anualmente
+
+CRITÉRIOS DE ELEGIBILIDADE (2025-2026):
+  - Idade do filho.....: Menor de 17 anos no final do ano fiscal
+  - Relação............: Filho(a), enteado(a), adotado(a) ou dependente
+  - Renda..............: Redução gradual acima de $200.000 (solteiros) ou
+                         $400.000 (casados)
+  - Cidadania..........: Filho deve ter número de Social Security válido
+
+VALORES (2025-2026):
+  - Até $2.200 por filho qualificado
+  - Additional Child Tax Credit (reembolsável): até $1.700/filho
+
+Fontes: IRS, Kiplinger, Bipartisan Policy Center
+
+
+================================================================================
+10. WIC - Women, Infants, and Children (Mulheres, Bebês e Crianças)
+================================================================================
+
+O QUE É:
+  Programa de nutrição suplementar que fornece alimentos nutritivos, educação
+  nutricional e referências de saúde para gestantes, mães em pós-parto,
+  lactantes, bebês e crianças até 5 anos.
+
+BENEFICIÁRIOS:
+  - ~6,7 milhões de participantes/mês (FY 2024)
+  - Inclui ~41% de todos os bebês nos EUA
+  - Crescimento por 3 anos consecutivos (FY 2022-2024)
+
+CRITÉRIOS DE ELEGIBILIDADE:
+  - Categorias.........: Gestantes, mães pós-parto (até 6 meses),
+                         lactantes (até 1 ano), bebês e crianças até 5 anos
+  - Renda..............: Até 185% da linha de pobreza federal
+  - Risco nutricional..: Determinado por profissional de saúde
+  - Residência.........: Morar no estado onde se inscreve
+  - Elegibilidade auto.: Beneficiários de Medicaid, SNAP ou TANF são elegíveis
+
+Fontes: USDA WIC Eligibility, USDA ERS
+
+
+================================================================================
+11. NATIONAL SCHOOL LUNCH PROGRAM - NSLP (Merenda Escolar)
+================================================================================
+
+O QUE É:
+  Programa federal que oferece refeições gratuitas ou a preço reduzido nas
+  escolas para crianças de famílias de baixa renda.
+
+BENEFICIÁRIOS:
+  - ~29,4 milhões de crianças participaram por dia (ano letivo 2023-2024)
+  - 21,1 milhões receberam refeição gratuita ou a preço reduzido
+
+CRITÉRIOS DE ELEGIBILIDADE:
+  - Refeição gratuita...: Renda familiar até 130% da linha de pobreza
+  - Preço reduzido......: Renda familiar entre 130% e 185% da linha de pobreza
+  - Elegibilidade auto..: Famílias que recebem SNAP, TANF ou FDPIR
+
+Fontes: USDA NSLP, School Nutrition Association, FRAC
+
+
+================================================================================
+12. PELL GRANT (Bolsa de Estudo Federal)
+================================================================================
+
+O QUE É:
+  Subsídio federal para estudantes de graduação de baixa renda que NÃO
+  precisa ser reembolsado (diferente de empréstimo estudantil).
+
+BENEFICIÁRIOS:
+  - ~6 milhões de estudantes (AY 2022-23)
+  - Total distribuído: $39 bilhões (2024-25), aumento de 24%
+
+CRITÉRIOS DE ELEGIBILIDADE:
+  - Nível educacional..: Graduação (ainda não obteve diploma)
+  - Necessidade........: Baseado no Student Aid Index (SAI) via FAFSA
+  - Matrícula..........: Inscrito em instituição elegível
+  - Cidadania..........: Cidadão americano ou imigrante elegível
+
+VALORES (2025-2026):
+  - Máximo: $7.395/ano (tempo integral)
+  - Valor varia conforme necessidade financeira e status de matrícula
+
+Fontes: StudentAid.gov, EducationData.org, BestColleges.com
+
+
+================================================================================
+13. LIHEAP - Low Income Home Energy Assistance (Assistência Energética)
+================================================================================
+
+O QUE É:
+  Programa federal que ajuda famílias de baixa renda a pagar contas de
+  energia (aquecimento e resfriamento).
+
+BENEFICIÁRIOS:
+  - ~6,7 milhões de domicílios atendidos anualmente
+
+CRITÉRIOS DE ELEGIBILIDADE:
+  - Renda..............: Geralmente até 150% da linha de pobreza OU 60% da
+                         renda mediana estadual (o que for maior)
+  - Elegibilidade auto.: Beneficiários de SNAP, SSI ou TANF
+  - Prioridade.........: Idosos, pessoas com deficiência, famílias com crianças
+
+FINANCIAMENTO:
+  - $3,7 bilhões em FY 2025
+  - ~$421,5 milhões em fundos adicionais FY 2026
+
+Fontes: ACF LIHEAP, USAGov, LIHEAP Clearinghouse
+
+
+================================================================================
+14. UNEMPLOYMENT INSURANCE - UI (Seguro-Desemprego)
+================================================================================
+
+O QUE É:
+  Programa conjunto federal-estadual que fornece benefícios semanais
+  temporários para trabalhadores que perderam emprego involuntariamente.
+
+BENEFICIÁRIOS ATUAIS:
+  - ~1,8 milhão de pessoas recebendo benefícios contínuos (abril de 2026)
+  - ~207.000 novos pedidos semanais (abril de 2026)
+
+CRITÉRIOS DE ELEGIBILIDADE:
+  - Demissão...........: Perda involuntária do emprego (não por justa causa)
+  - Histórico trabalho.: Tempo e salário suficientes no "período base"
+  - Disponibilidade....: Estar disponível e buscando ativamente emprego
+  - Registro...........: Registrar-se na agência estadual de emprego
+
+VALORES E DURAÇÃO:
+  - Duração típica: até 26 semanas (varia por estado)
+  - Valores variam: ~$235/semana a $869/semana (NY, 2025)
+  - Substituem geralmente 40-50% do salário anterior
+
+Fontes: DOL, Trading Economics, EPI
+
+
+================================================================================
+  RESUMO COMPARATIVO: TOTAL DE BENEFICIÁRIOS POR PROGRAMA
+================================================================================
+
+ #  | PROGRAMA                | BENEFICIÁRIOS (APROX.) | TIPO
+----|-------------------------|------------------------|--------------------
+ 1  | Medicaid/CHIP           | 75,3 milhões           | Saúde
+ 2  | Medicare                | 68,9 milhões           | Saúde
+ 3  | Social Security         | 67,6 milhões           | Aposent./Invalid.
+ 4  | Child Tax Credit        | ~46 milhões de famílias | Crédito fiscal
+ 5  | SNAP (Food Stamps)      | 38,6 milhões           | Alimentação
+ 6  | National School Lunch   | 29,4 milhões crianças  | Alimentação
+ 7  | EITC                    | 23,5 milhões declarant.| Crédito fiscal
+ 8  | SSDI                    | 8,1 milhões            | Renda por invalidez
+ 9  | SSI                     | 7,37 milhões           | Renda suplementar
+10  | Section 8 Housing       | 7,26 milhões           | Moradia
+11  | WIC                     | 6,7 milhões/mês        | Nutrição
+12  | LIHEAP                  | 6,7 milhões domicílios | Energia
+13  | Pell Grant              | ~6 milhões estudantes  | Educação
+14  | Unemployment Insurance  | ~1,8 milhão (contínuo) | Renda temporária
+15  | TANF                    | ~1 milhão de famílias  | Renda em dinheiro
+
+GASTO TOTAL DO GOVERNO EM ASSISTÊNCIA (FY 2026, estimado):
+  - TOTAL: ~US$ 1,723 trilhão (federal + estadual + local)
+  - Medicaid: $828 bilhões
+  - Demais programas: $895 bilhões
+
+
+================================================================================
+  OBSERVAÇÕES IMPORTANTES
+================================================================================
+
+1. SOBREPOSIÇÃO DE BENEFICIÁRIOS:
+   Muitas pessoas participam de múltiplos programas simultaneamente (ex.: uma
+   família pode receber SNAP, Medicaid e Housing Assistance ao mesmo tempo).
+   Portanto, NÃO se pode simplesmente somar os números para obter o total de
+   beneficiários únicos.
+
+2. VARIAÇÃO ESTADUAL:
+   A maioria dos programas tem regras e valores que variam significativamente
+   entre os estados. Estados como California, New York e Massachusetts tendem
+   a oferecer benefícios mais generosos, enquanto estados do Sul como Alabama
+   e Mississippi oferecem menos.
+
+3. MUDANÇAS LEGISLATIVAS RECENTES (2025-2026):
+   O "One Big Beautiful Bill Act" de 2025 introduziu mudanças significativas:
+   - Expansão de requisitos de trabalho no SNAP (55-64 anos)
+   - Aprovação de requisitos de trabalho futuros no Medicaid (a partir de 2027)
+   - Propostas de limites temporais para Section 8 Housing
+   - Novas restrições de elegibilidade para imigrantes no SNAP
+
+4. SOCIAL SECURITY vs. ASSISTENCIALISMO:
+   O Social Security e o Medicare são tecnicamente programas de SEGURO SOCIAL
+   (contributivos), não assistencialismo puro. Os trabalhadores contribuem
+   durante sua vida profissional. Já programas como SSI, SNAP e TANF são
+   "means-tested" (baseados em necessidade financeira).
+
+5. TENDÊNCIA DE QUEDA:
+   Vários programas estão experimentando redução no número de beneficiários
+   em 2025-2026 devido a mudanças legislativas e ao fim das expansões da era
+   da pandemia de COVID-19.
