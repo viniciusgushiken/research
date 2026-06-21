@@ -1,0 +1,1763 @@
+================================================================================
+LISTA COMPLETA DE EMPRESAS ESTATAIS BRASILEIRAS
+Federal, Estadual e Municipal
+Compilado em: Junho de 2026
+================================================================================
+
+LEGENDA DE PORTE:
+  G = Grande (faturamento elevado, milhares de funcionarios, listada em bolsa)
+  M = Medio (relevancia regional, centenas de funcionarios)
+  P = Pequeno (atuacao restrita, dezenas de funcionarios)
+  * = Privatizada, extinta ou em liquidacao (listada para referencia)
+
+================================================================================
+PARTE 1 - EMPRESAS ESTATAIS FEDERAIS (~46 diretas + ~150 subsidiarias)
+================================================================================
+
+--------------------------------------------------------------------------------
+1.1 SETOR FINANCEIRO (8 empresas diretas)
+--------------------------------------------------------------------------------
+
+1. Banco do Brasil S.A. (BB)
+   Fundacao: 1808 | Porte: G | Nivel: Federal
+   Sociedade de economia mista listada na B3. Maior banco publico do Brasil.
+   ~99.800 funcionarios. Atua em credito, seguros, previdencia e investimentos.
+
+2. Caixa Economica Federal (CEF)
+   Fundacao: 1861 | Porte: G | Nivel: Federal
+   Empresa publica 100% da Uniao. Agente operador do FGTS, PIS, habitacao
+   (Minha Casa Minha Vida), loterias e programas sociais. ~87.800 funcionarios.
+
+3. Banco Nacional de Desenvolvimento Economico e Social (BNDES)
+   Fundacao: 1952 | Porte: G | Nivel: Federal
+   Principal instrumento de financiamento de longo prazo do governo federal.
+   Fomento a industria, infraestrutura, exportacao e inovacao.
+
+4. Banco do Nordeste do Brasil (BNB)
+   Fundacao: 1952 | Porte: G | Nivel: Federal
+   Banco de desenvolvimento regional do Nordeste. Opera o FNE (Fundo
+   Constitucional de Financiamento do Nordeste).
+
+5. Banco da Amazonia S.A. (BASA)
+   Fundacao: 1942 | Porte: G | Nivel: Federal
+   Banco de desenvolvimento da Amazonia Legal. Opera o FNO (Fundo
+   Constitucional de Financiamento do Norte).
+
+6. Financiadora de Estudos e Projetos (FINEP)
+   Fundacao: 1967 | Porte: G | Nivel: Federal
+   Financiamento de inovacao, pesquisa cientifica e tecnologica.
+   Opera o FNDCT (Fundo Nacional de Desenvolvimento Cientifico e Tecnologico).
+
+7. Agencia Brasileira Gestora de Fundos Garantidores e Garantias (ABGF)
+   Fundacao: 2012 | Porte: M | Nivel: Federal
+   Gestao de fundos garantidores e garantias em comercio exterior,
+   infraestrutura e credito.
+
+8. Empresa Gestora de Ativos (EMGEA)
+   Fundacao: 2001 | Porte: M | Nivel: Federal
+   Gestao de ativos imobiliarios e creditos imobiliarios transferidos
+   pela Uniao (originados da extinta BNH e CEF).
+
+   SUBSIDIARIAS DO SETOR FINANCEIRO:
+   - BB Seguridade (BBSE3) - seguros e previdencia (listada B3)
+   - BB Asset Management - gestao de fundos
+   - BB DTVM - distribuidora de titulos e valores mobiliarios
+   - Ativos S.A. - recuperacao de creditos
+   - BB Tecnologia e Servicos - TI do Banco do Brasil
+   - Caixa Seguridade (CXSE3) - seguros (listada B3)
+   - Caixa Loterias - operacao de loterias
+   - Caixa Cartoes - administracao de cartoes
+   - Caixa Asset - gestao de fundos
+   - Caixa Consorcio - administracao de consorcios
+   - BNDESPAR - participacoes acionarias do BNDES
+   - FINAME - financiamento de maquinas e equipamentos
+
+--------------------------------------------------------------------------------
+1.2 SETOR DE ENERGIA E MINERACAO (8 empresas diretas)
+--------------------------------------------------------------------------------
+
+9. Petroleo Brasileiro S.A. (Petrobras)
+   Fundacao: 1953 | Porte: G | Nivel: Federal
+   Maior empresa do Brasil. Exploracao, producao, refino de petroleo e gas.
+   Listada na B3 e NYSE. ~46.500 funcionarios. Faturamento >R$ 500 bi/ano.
+
+10. Centrais Eletricas Brasileiras S.A. (Eletrobras)
+    Fundacao: 1962 | Porte: G | Nivel: Federal
+    Maior companhia de energia eletrica da America Latina. Holding controladora
+    de Furnas, CHESF, Eletronorte e CGT Eletrosul. Privatizada em 2022 (Uniao
+    manteve golden share e poder de veto).
+
+11. Pre-Sal Petroleo S.A. (PPSA)
+    Fundacao: 2013 | Porte: M | Nivel: Federal
+    Gestao dos contratos de partilha de producao do pre-sal em nome da Uniao.
+
+12. Empresa Brasileira de Participacoes em Energia Nuclear e Binacional (ENBPar)
+    Fundacao: 2021 | Porte: G | Nivel: Federal
+    Holding criada apos privatizacao da Eletrobras. Detem participacao em
+    Itaipu Binacional e controla Eletronuclear.
+
+13. Empresa de Pesquisa Energetica (EPE)
+    Fundacao: 2004 | Porte: M | Nivel: Federal
+    Planejamento energetico de longo prazo. Estudos para expansao da oferta
+    de energia eletrica, petroleo, gas e biocombustiveis. Dependente do Tesouro.
+
+14. Industrias Nucleares do Brasil S.A. (INB)
+    Fundacao: 1988 | Porte: M | Nivel: Federal
+    Monopolio de combustivel nuclear. Mineracao de uranio, producao de
+    pastilhas e elementos combustiveis para usinas nucleares.
+
+15. Nuclebrás Equipamentos Pesados S.A. (Nuclep)
+    Fundacao: 1975 | Porte: M | Nivel: Federal
+    Fabricacao de equipamentos pesados para usinas nucleares, plataformas
+    de petroleo e outros projetos industriais de grande porte.
+
+16. Servico Geologico do Brasil (CPRM)
+    Fundacao: 1969 | Porte: M | Nivel: Federal
+    Levantamentos geologicos, hidrologia, recursos minerais e mapeamento
+    geologico do territorio nacional.
+
+    SUBSIDIARIAS DO SETOR DE ENERGIA:
+    - Transpetro (Petrobras Transporte S.A.) - transporte de petroleo e derivados
+    - PBio (Petrobras Biocombustivel) - biodiesel
+    - Petrobras subsidiarias internacionais (operacoes em diversos paises)
+    - Furnas Centrais Eletricas (1957) - geracao e transmissao (pos-privatizacao Eletrobras)
+    - CHESF - Companhia Hidro Eletrica do Sao Francisco (1948)
+    - Eletronorte - Centrais Eletricas do Norte do Brasil (1973)
+    - CGT Eletrosul - Companhia de Geracao e Transmissao (1968)
+    - Eletropar - Eletrobras Participacoes
+    - Eletronuclear - usinas nucleares Angra 1, 2 e 3 (subsidiaria ENBPar)
+
+--------------------------------------------------------------------------------
+1.3 SETOR DE COMUNICACOES E TECNOLOGIA (5 empresas)
+--------------------------------------------------------------------------------
+
+17. Empresa Brasil de Comunicacao (EBC)
+    Fundacao: 2007 | Porte: M | Nivel: Federal
+    Comunicacao publica: TV Brasil, Radio Nacional, Agencia Brasil, Radioagencia
+    Nacional. Dependente do Tesouro.
+
+18. Servico Federal de Processamento de Dados (SERPRO)
+    Fundacao: 1964 | Porte: G | Nivel: Federal
+    Maior empresa de TI do governo federal. Desenvolve e opera sistemas da
+    Receita Federal (IRPF), SIAFI, RENAVAM, CNH Digital, entre outros.
+
+19. Empresa de Tecnologia e Informacoes da Previdencia (Dataprev)
+    Fundacao: 1974 | Porte: G | Nivel: Federal
+    Processamento de dados da Previdencia Social, INSS, programas sociais
+    (Bolsa Familia/Auxilio Brasil) e Big Data governamental.
+
+20. Telecomunicacoes Brasileiras S.A. (Telebras)
+    Fundacao: 1972 | Porte: M | Nivel: Federal
+    Rede privativa de comunicacao do governo federal, backbone de fibra otica
+    e programas de banda larga (ex: Programa Nacional de Banda Larga).
+
+21. Empresa Brasileira de Correios e Telegrafos (Correios/ECT)
+    Fundacao: 1969 | Porte: G | Nivel: Federal
+    Monopolio postal. Maior empregadora entre as estatais federais com
+    ~108.300 funcionarios. Servicos postais, encomendas e logistica.
+
+--------------------------------------------------------------------------------
+1.4 SETOR DE TRANSPORTES E INFRAESTRUTURA (6 empresas)
+--------------------------------------------------------------------------------
+
+22. Empresa Brasileira de Infraestrutura Aeroportuaria (Infraero)
+    Fundacao: 1973 | Porte: G | Nivel: Federal
+    Administracao de aeroportos brasileiros (varios concedidos a iniciativa
+    privada nos ultimos anos, mas ainda opera dezenas de aeroportos).
+
+23. Companhia Brasileira de Trens Urbanos (CBTU)
+    Fundacao: 1984 | Porte: M | Nivel: Federal
+    Opera trens urbanos em BH, Recife, Joao Pessoa, Natal e Maceio.
+
+24. Empresa de Trens Urbanos de Porto Alegre S.A. (Trensurb)
+    Fundacao: 1980 | Porte: M | Nivel: Federal
+    Trens metropolitanos da Regiao Metropolitana de Porto Alegre (Trensurb).
+
+25. VALEC - Engenharia, Construcoes e Ferrovias S.A.
+    Fundacao: 2008 | Porte: M | Nivel: Federal
+    Construcao e exploracao de infraestrutura ferroviaria (Ferrovia Norte-Sul,
+    Ferrovia de Integracao Oeste-Leste, entre outras).
+
+26. NAV Brasil Servicos de Navegacao Aerea S.A.
+    Fundacao: 2020 | Porte: M | Nivel: Federal
+    Servicos de navegacao aerea, controle de trafego aereo e torre de controle.
+    Criada a partir da separacao do DECEA.
+
+27. Empresa de Planejamento e Logistica S.A. (EPL)
+    Fundacao: 2012 | Porte: P | Nivel: Federal
+    Planejamento de logistica integrada de transportes e estruturacao de
+    projetos de infraestrutura de transportes.
+
+--------------------------------------------------------------------------------
+1.5 COMPANHIAS DOCAS - PORTOS FEDERAIS (7 empresas)
+--------------------------------------------------------------------------------
+
+28. Companhia das Docas do Estado da Bahia (CODEBA)
+    Fundacao: 1977 | Porte: M | Nivel: Federal
+    Administracao dos portos de Salvador, Ilheus e Aratu-Candeias.
+
+29. Companhia Docas do Para (CDP)
+    Fundacao: 1967 | Porte: M | Nivel: Federal
+    Portos de Belem, Santarem, Vila do Conde e terminais fluviais.
+
+30. Companhia Docas do Rio de Janeiro (CDRJ)
+    Fundacao: 1975 | Porte: M | Nivel: Federal
+    Portos do Rio de Janeiro, Niteroi, Angra dos Reis e Itaguai.
+
+31. Companhia Docas do Rio Grande do Norte (CODERN)
+    Fundacao: 1983 | Porte: P | Nivel: Federal
+    Porto de Natal, porto de Maceio e Terminal Salineiro de Areia Branca.
+
+32. Companhia Docas do Espirito Santo (CODESA)
+    Fundacao: 1983 | Porte: M | Nivel: Federal
+    Portos de Vitoria e Barra do Riacho (Tubarao).
+
+33. Autoridade Portuaria de Santos (APS, ex-CODESP)
+    Fundacao: 1980 | Porte: G | Nivel: Federal
+    Porto de Santos, maior porto da America Latina em movimentacao de carga.
+
+34. Companhia Docas do Ceara (CDC)
+    Fundacao: 1966 | Porte: M | Nivel: Federal
+    Porto de Fortaleza (Mucuripe e Terminal de Pecem).
+
+--------------------------------------------------------------------------------
+1.6 SETOR DE DEFESA E MILITAR (3 empresas)
+--------------------------------------------------------------------------------
+
+35. Industria de Material Belico do Brasil (IMBEL)
+    Fundacao: 1975 | Porte: M | Nivel: Federal
+    Producao de armamento, municoes e explosivos. Vinculada ao Comando
+    do Exercito. Dependente do Tesouro.
+
+36. Empresa Gerencial de Projetos Navais (Emgepron)
+    Fundacao: 1982 | Porte: M | Nivel: Federal
+    Projetos navais, construcao e exportacao de material de defesa.
+    Vinculada ao Comando da Marinha.
+
+37. Amazonia Azul Tecnologias de Defesa S.A. (Amazul)
+    Fundacao: 2012 | Porte: M | Nivel: Federal
+    Desenvolvimento de tecnologias nucleares para defesa, incluindo o
+    Programa do Submarino Nuclear. Dependente do Tesouro.
+
+--------------------------------------------------------------------------------
+1.7 SETOR AGROPECUARIO E ABASTECIMENTO (4 empresas)
+--------------------------------------------------------------------------------
+
+38. Empresa Brasileira de Pesquisa Agropecuaria (Embrapa)
+    Fundacao: 1973 | Porte: G | Nivel: Federal
+    Principal instituicao de pesquisa agropecuaria do Brasil e uma das
+    maiores do mundo. 43 centros de pesquisa. Dependente do Tesouro.
+
+39. Companhia Nacional de Abastecimento (CONAB)
+    Fundacao: 1990 | Porte: M | Nivel: Federal
+    Politica agricola e de abastecimento. Estoques reguladores, garantia
+    de precos minimos, Programa de Aquisicao de Alimentos (PAA).
+
+40. Centrais de Abastecimento de Minas Gerais S.A. (CeasaMinas)
+    Fundacao: 1972 | Porte: M | Nivel: Federal
+    Centrais de abastecimento em Minas Gerais. Controle compartilhado
+    entre Uniao e estado de Minas Gerais.
+
+41. Companhia de Entrepostos e Armazens Gerais de Sao Paulo (Ceagesp)
+    Fundacao: 1969 | Porte: G | Nivel: Federal
+    Maior central de abastecimento da America Latina. Entreposto de
+    hortifruti e armazenagem em Sao Paulo.
+
+--------------------------------------------------------------------------------
+1.8 SETOR DE SAUDE (4 empresas)
+--------------------------------------------------------------------------------
+
+42. Empresa Brasileira de Servicos Hospitalares (EBSERH)
+    Fundacao: 2011 | Porte: G | Nivel: Federal
+    Administra mais de 40 hospitais universitarios federais em todo o pais.
+    Dependente do Tesouro.
+
+43. Empresa Brasileira de Hemoderivados e Biotecnologia (Hemobras)
+    Fundacao: 2004 | Porte: M | Nivel: Federal
+    Producao de hemoderivados e medicamentos biologicos para o SUS.
+    Fabrica em Goiana/PE. Dependente do Tesouro.
+
+44. Hospital de Clinicas de Porto Alegre (HCPA)
+    Fundacao: 1970 | Porte: G | Nivel: Federal
+    Hospital universitario da UFRGS. Referencia nacional em assistencia,
+    ensino e pesquisa. Empresa publica dependente do Tesouro.
+
+45. Grupo Hospitalar Conceicao (GHC)
+    Fundacao: 1975 | Porte: G | Nivel: Federal
+    Rede de 4 hospitais em Porto Alegre (Hospital Conceicao, Cristo Redentor,
+    Crianca Conceicao e Femina). Maior rede publica hospitalar do Sul.
+
+--------------------------------------------------------------------------------
+1.9 DESENVOLVIMENTO REGIONAL E OUTROS (3 empresas)
+--------------------------------------------------------------------------------
+
+46. Companhia de Desenvolvimento dos Vales do Sao Francisco e do Parnaiba (Codevasf)
+    Fundacao: 1974 | Porte: G | Nivel: Federal
+    Desenvolvimento sustentavel dos vales do Sao Francisco, Parnaiba e
+    Itapecuru. Irrigacao, infraestrutura e projetos regionais.
+
+47. Casa da Moeda do Brasil (CMB)
+    Fundacao: 1694 | Porte: G | Nivel: Federal
+    Producao de cedulas, moedas, passaportes, selos fiscais, diplomas e
+    documentos de seguranca. Mais antiga empresa estatal do Brasil.
+
+48. Centro Nacional de Tecnologia Eletronica Avancada S.A. (Ceitec)
+    Fundacao: 2008 | Porte: P | Nivel: Federal
+    Semicondutores e chips RFID. Em processo de liquidacao/reestruturacao.
+    Dependente do Tesouro.
+
+
+================================================================================
+PARTE 2 - EMPRESAS ESTATAIS ESTADUAIS (~292 segundo Tesouro Nacional)
+================================================================================
+
+================================================================================
+REGIAO NORTE
+================================================================================
+
+--------------------------------------------------------------------------------
+2.1 ACRE (AC) - 4 ativas
+--------------------------------------------------------------------------------
+
+49. Departamento Estadual de Pavimentacao e Saneamento (DEPASA)
+    Fundacao: 2003 | Porte: P | Nivel: Estadual (AC)
+    Servicos de agua e esgoto no estado do Acre.
+
+50. ACREGAS
+    Fundacao: 2005 | Porte: P | Nivel: Estadual (AC)
+    Distribuicao de gas canalizado no Acre.
+
+51. EMATER-AC
+    Fundacao: 1976 | Porte: P | Nivel: Estadual (AC)
+    Assistencia tecnica e extensao rural.
+
+52. ACREDATA
+    Fundacao: ~1990 | Porte: P | Nivel: Estadual (AC)
+    Tecnologia da informacao do governo estadual.
+
+* Eletroacre (1965, privatizada - Energisa): distribuicao de energia.
+
+--------------------------------------------------------------------------------
+2.2 AMAPA (AP) - 4 ativas
+--------------------------------------------------------------------------------
+
+53. Companhia de Agua e Esgoto do Amapa (CAESA)
+    Fundacao: 1973 | Porte: P | Nivel: Estadual (AP)
+    Servicos de agua e esgoto no Amapa.
+
+54. Agencia de Desenvolvimento do Amapa (RURAP)
+    Fundacao: 1993 | Porte: P | Nivel: Estadual (AP)
+    Desenvolvimento rural e extensao rural.
+
+55. Agencia de Fomento do Amapa (AFAP)
+    Fundacao: 2010 | Porte: P | Nivel: Estadual (AP)
+    Fomento financeiro e microcredito.
+
+56. GASAP
+    Fundacao: ~2005 | Porte: P | Nivel: Estadual (AP)
+    Distribuicao de gas canalizado no Amapa.
+
+* CEA (1956, privatizada Equatorial 2021): distribuicao de energia.
+
+--------------------------------------------------------------------------------
+2.3 AMAZONAS (AM) - 6 ativas
+--------------------------------------------------------------------------------
+
+57. PRODAM - Processamento de Dados Amazonas S.A.
+    Fundacao: 1985 | Porte: M | Nivel: Estadual (AM)
+    Tecnologia da informacao e processamento de dados do governo do Amazonas.
+
+58. Companhia de Saneamento do Amazonas (COSAMA)
+    Fundacao: ~1970 | Porte: M | Nivel: Estadual (AM)
+    Servicos de agua e esgoto no estado do Amazonas.
+
+59. Companhia de Gas do Amazonas (CIGAS)
+    Fundacao: 2003 | Porte: M | Nivel: Estadual (AM)
+    Distribuicao de gas natural canalizado.
+
+60. Agencia de Fomento do Estado do Amazonas (AFEAM)
+    Fundacao: 1999 | Porte: M | Nivel: Estadual (AM)
+    Fomento financeiro e microcredito para desenvolvimento regional.
+
+61. Centro de Industria, Abastecimento e Meio Ambiente (CIAMA)
+    Fundacao: ~1970 | Porte: P | Nivel: Estadual (AM)
+    Desenvolvimento economico e abastecimento.
+
+62. Superintendencia de Habitacao do Amazonas (SUHAB)
+    Fundacao: ~1975 | Porte: P | Nivel: Estadual (AM)
+    Politica habitacional popular no Amazonas.
+
+* Amazonas Energia (1963, privatizada): distribuicao de energia.
+
+--------------------------------------------------------------------------------
+2.4 PARA (PA) - 7 ativas
+--------------------------------------------------------------------------------
+
+63. Banco do Estado do Para S.A. (BANPARA)
+    Fundacao: 1961 | Porte: G | Nivel: Estadual (PA)
+    Banco estadual. Um dos maiores bancos publicos estaduais do Norte.
+
+64. Companhia de Saneamento do Para (COSANPA)
+    Fundacao: 1971 | Porte: M | Nivel: Estadual (PA)
+    Servicos de agua e esgoto no estado do Para.
+
+65. PRODEPA - Empresa de Tecnologia da Informacao e Comunicacao do Para
+    Fundacao: 1976 | Porte: M | Nivel: Estadual (PA)
+    Tecnologia da informacao do governo do Para.
+
+66. EMATER-PA
+    Fundacao: 1965 | Porte: P | Nivel: Estadual (PA)
+    Assistencia tecnica e extensao rural no Para.
+
+67. Companhia de Habitacao do Estado do Para (COHAB-PA)
+    Fundacao: 1965 | Porte: P | Nivel: Estadual (PA)
+    Politica habitacional popular.
+
+68. CEASA-PA
+    Fundacao: 1972 | Porte: P | Nivel: Estadual (PA)
+    Central de abastecimento agricola.
+
+69. Nucleo de Gerenciamento de Transporte Metropolitano (NGTM)
+    Fundacao: ~2000 | Porte: P | Nivel: Estadual (PA)
+    Transporte metropolitano de Belem.
+
+--------------------------------------------------------------------------------
+2.5 RONDONIA (RO) - 3 ativas
+--------------------------------------------------------------------------------
+
+70. Companhia de Aguas e Esgotos de Rondonia (CAERD)
+    Fundacao: 1969 | Porte: M | Nivel: Estadual (RO)
+    Servicos de agua e esgoto em 37 municipios de Rondonia.
+
+71. EMATER-RO
+    Fundacao: 1975 | Porte: P | Nivel: Estadual (RO)
+    Assistencia tecnica e extensao rural.
+
+72. Sociedade de Portos e Hidrovias de Rondonia (SOPH)
+    Fundacao: ~1985 | Porte: P | Nivel: Estadual (RO)
+    Gestao de portos e hidrovias estaduais.
+
+* CERON (1968, privatizada Energisa 2018): distribuicao de energia.
+
+--------------------------------------------------------------------------------
+2.6 RORAIMA (RR) - 2 ativas
+--------------------------------------------------------------------------------
+
+73. Companhia de Aguas e Esgotos de Roraima (CAER)
+    Fundacao: 1969 | Porte: P | Nivel: Estadual (RR)
+    Servicos de agua e esgoto em Roraima.
+
+74. Companhia de Desenvolvimento de Roraima (CODESAIMA)
+    Fundacao: 1975 | Porte: P | Nivel: Estadual (RR)
+    Desenvolvimento regional e projetos economicos.
+
+* CERR (1997, extinta jul/2025): distribuicao de energia.
+
+--------------------------------------------------------------------------------
+2.7 TOCANTINS (TO) - 3 ativas
+--------------------------------------------------------------------------------
+
+75. RURALTINS
+    Fundacao: 1989 | Porte: P | Nivel: Estadual (TO)
+    Assistencia tecnica e extensao rural.
+
+76. Agencia Tocantinense de Saneamento (ATS)
+    Fundacao: ~2000 | Porte: P | Nivel: Estadual (TO)
+    Servicos de saneamento basico.
+
+77. Agencia de Tecnologia da Informacao (ATI-TO)
+    Fundacao: ~2005 | Porte: P | Nivel: Estadual (TO)
+    Tecnologia da informacao do governo estadual.
+
+* SANEATINS (1989, privatizada BRK 1998): saneamento.
+
+
+================================================================================
+REGIAO NORDESTE
+================================================================================
+
+--------------------------------------------------------------------------------
+2.8 ALAGOAS (AL) - 7 ativas
+--------------------------------------------------------------------------------
+
+78. Companhia de Saneamento de Alagoas (CASAL)
+    Fundacao: 1962 | Porte: M | Nivel: Estadual (AL)
+    Servicos de agua e esgoto em 77 municipios de Alagoas.
+
+79. ALGAS - Companhia Alagoana de Gas
+    Fundacao: 1993 | Porte: P | Nivel: Estadual (AL)
+    Distribuicao de gas canalizado em Alagoas.
+
+80. CEPAL/IOAL - Imprensa Oficial de Alagoas
+    Fundacao: 1912 | Porte: P | Nivel: Estadual (AL)
+    Imprensa oficial e publicacoes do governo estadual.
+
+81. EMATER-AL
+    Fundacao: ~1972 | Porte: P | Nivel: Estadual (AL)
+    Assistencia tecnica e extensao rural.
+
+82. AL PREV - Previdencia de Alagoas
+    Fundacao: ~2001 | Porte: M | Nivel: Estadual (AL)
+    Regime de previdencia dos servidores estaduais.
+
+83. CEASA-AL
+    Fundacao: ~1978 | Porte: P | Nivel: Estadual (AL)
+    Central de abastecimento agricola.
+
+84. SERVEAL
+    Fundacao: ~1975 | Porte: P | Nivel: Estadual (AL)
+    Servicos de engenharia para o governo estadual.
+
+* CEAL (1959, privatizada Equatorial 2019): distribuicao de energia.
+
+--------------------------------------------------------------------------------
+2.9 BAHIA (BA) - 12 ativas
+--------------------------------------------------------------------------------
+
+85. Empresa Baiana de Aguas e Saneamento (EMBASA)
+    Fundacao: 1971 | Porte: G | Nivel: Estadual (BA)
+    Maior estatal da Bahia. Servicos de agua e esgoto em centenas de municipios.
+
+86. Bahiagas - Companhia de Gas da Bahia
+    Fundacao: 1990 | Porte: M | Nivel: Estadual (BA)
+    Distribuicao de gas natural canalizado.
+
+87. Agencia de Fomento do Estado da Bahia (DESENBAHIA)
+    Fundacao: 2001 | Porte: M | Nivel: Estadual (BA)
+    Fomento financeiro e credito para desenvolvimento estadual.
+
+88. PRODEB - Companhia de Processamento de Dados da Bahia
+    Fundacao: 1973 | Porte: M | Nivel: Estadual (BA)
+    Tecnologia da informacao do governo da Bahia.
+
+89. Companhia Baiana de Pesquisa Mineral (CBPM)
+    Fundacao: 1972 | Porte: P | Nivel: Estadual (BA)
+    Pesquisa e prospeccao mineral na Bahia.
+
+90. Companhia de Engenharia Hidrica e de Saneamento da Bahia (CERB)
+    Fundacao: 1967 | Porte: M | Nivel: Estadual (BA)
+    Engenharia hidrica, perfuracao de pocos e obras de saneamento.
+
+91. Companhia de Desenvolvimento Urbano do Estado da Bahia (CONDER)
+    Fundacao: 1974 | Porte: M | Nivel: Estadual (BA)
+    Desenvolvimento urbano, planejamento e infraestrutura.
+
+92. Bahia Investimentos S.A. (BAHIAINVESTE)
+    Fundacao: 2016 | Porte: M | Nivel: Estadual (BA)
+    Gestao de ativos e participacoes do governo do estado.
+
+93. Companhia de Transportes da Bahia (CTB)
+    Fundacao: ~1980 | Porte: M | Nivel: Estadual (BA)
+    Transporte rodoviario intermunicipal.
+
+94. Companhia de Acao Regional (CAR)
+    Fundacao: 1983 | Porte: M | Nivel: Estadual (BA)
+    Desenvolvimento regional e combate a pobreza rural.
+
+95. Empresa Grafica da Bahia (EGBA)
+    Fundacao: 1969 | Porte: P | Nivel: Estadual (BA)
+    Imprensa oficial e servicos graficos.
+
+96. Bahia Pesca S.A.
+    Fundacao: ~1990 | Porte: P | Nivel: Estadual (BA)
+    Fomento a pesca e aquicultura.
+
+* COELBA (1960, privatizada Neoenergia 1997): energia.
+* BANEB (1961, privatizado Bradesco 1999): banco estadual.
+
+--------------------------------------------------------------------------------
+2.10 CEARA (CE) - 11 ativas
+--------------------------------------------------------------------------------
+
+97. Companhia de Agua e Esgoto do Ceara (CAGECE)
+    Fundacao: 1971 | Porte: G | Nivel: Estadual (CE)
+    Maior estatal do Ceara. Servicos de agua e esgoto no estado.
+
+98. Companhia de Gas do Ceara (CEGAS)
+    Fundacao: 1993 | Porte: M | Nivel: Estadual (CE)
+    Distribuicao de gas natural canalizado.
+
+99. Empresa de Tecnologia da Informacao do Ceara (ETICE)
+    Fundacao: 1997 | Porte: P | Nivel: Estadual (CE)
+    Tecnologia da informacao do governo estadual.
+
+100. Companhia de Gestao dos Recursos Hidricos do Ceara (COGERH)
+     Fundacao: 1993 | Porte: M | Nivel: Estadual (CE)
+     Gestao de recursos hidricos, acudes e barragens.
+
+101. CIPP S.A. - Complexo Industrial e Portuario do Pecem
+     Fundacao: ~2000 | Porte: M | Nivel: Estadual (CE)
+     Gestao do complexo industrial e portuario de Pecem.
+
+102. Companhia Cearense de Transportes Metropolitanos (METROFOR)
+     Fundacao: 1997 | Porte: M | Nivel: Estadual (CE)
+     Transporte metro/VLT de Fortaleza e regiao metropolitana.
+
+103. Agencia de Desenvolvimento do Estado do Ceara (ADECE)
+     Fundacao: 2011 | Porte: P | Nivel: Estadual (CE)
+     Atracao de investimentos e desenvolvimento economico.
+
+104. EMATERCE
+     Fundacao: 1967 | Porte: P | Nivel: Estadual (CE)
+     Assistencia tecnica e extensao rural.
+
+105. ZPE Ceara
+     Fundacao: ~2006 | Porte: P | Nivel: Estadual (CE)
+     Gestao da Zona de Processamento de Exportacao.
+
+106. CEASA-CE
+     Fundacao: ~1972 | Porte: P | Nivel: Estadual (CE)
+     Central de abastecimento agricola.
+
+107. CODECE
+     Fundacao: ~1980 | Porte: P | Nivel: Estadual (CE)
+     Companhia de desenvolvimento economico do Ceara.
+
+--------------------------------------------------------------------------------
+2.11 MARANHAO (MA) - 4 ativas
+--------------------------------------------------------------------------------
+
+108. Companhia de Saneamento Ambiental do Maranhao (CAEMA)
+     Fundacao: 1966 | Porte: M | Nivel: Estadual (MA)
+     Servicos de agua e esgoto no Maranhao.
+
+109. Empresa Maranhense de Administracao Portuaria (EMAP)
+     Fundacao: 2000 | Porte: M | Nivel: Estadual (MA)
+     Administracao do Porto do Itaqui, um dos maiores do Nordeste.
+
+110. MAPA (ex-EMARHP)
+     Fundacao: ~1980 | Porte: P | Nivel: Estadual (MA)
+     Gestao de recursos humanos e negocios publicos.
+
+111. Empresa Maranhense de Servicos Hospitalares (EMSERH)
+     Fundacao: ~2015 | Porte: M | Nivel: Estadual (MA)
+     Gestao de servicos hospitalares estaduais.
+
+* CEMAR (1958, privatizada Equatorial): distribuicao de energia.
+
+--------------------------------------------------------------------------------
+2.12 PARAIBA (PB) - 12 ativas
+--------------------------------------------------------------------------------
+
+112. Companhia de Agua e Esgotos da Paraiba (CAGEPA)
+     Fundacao: 1966 | Porte: G | Nivel: Estadual (PB)
+     Servicos de agua e esgoto. Maior estatal da Paraiba.
+
+113. Companhia Paraibana de Gas (PBGAS)
+     Fundacao: 1993 | Porte: M | Nivel: Estadual (PB)
+     Distribuicao de gas natural canalizado.
+
+114. Empresa Paraibana de Turismo (PBTUR)
+     Fundacao: ~1970 | Porte: P | Nivel: Estadual (PB)
+     Turismo e promocao turistica.
+
+115. Empresa Paraibana de Abastecimento e Servicos Agricolas (EMPASA)
+     Fundacao: 1979 | Porte: P | Nivel: Estadual (PB)
+     Central de abastecimento agricola.
+
+116. Companhia Estadual de Habitacao Popular (CEHAP)
+     Fundacao: ~1965 | Porte: P | Nivel: Estadual (PB)
+     Politica habitacional popular.
+
+117. Companhia de Processamento de Dados da Paraiba (CODATA)
+     Fundacao: ~1975 | Porte: P | Nivel: Estadual (PB)
+     Tecnologia da informacao do governo estadual.
+
+118. Companhia Docas da Paraiba (DOCAS-PB)
+     Fundacao: ~1970 | Porte: P | Nivel: Estadual (PB)
+     Porto de Cabedelo.
+
+119. Empresa Estadual de Pesquisa Agropecuaria (EMEPA)
+     Fundacao: ~1976 | Porte: P | Nivel: Estadual (PB)
+     Pesquisa agropecuaria.
+
+120. EMATER-PB
+     Fundacao: ~1972 | Porte: P | Nivel: Estadual (PB)
+     Assistencia tecnica e extensao rural.
+
+121. Companhia de Industrializacao do Estado da Paraiba (CINEP)
+     Fundacao: ~1968 | Porte: P | Nivel: Estadual (PB)
+     Desenvolvimento industrial e atracao de investimentos.
+
+122. Laboratorio Industrial Farmaceutico de Alagoas (LIFESA)
+     Fundacao: ~1960 | Porte: P | Nivel: Estadual (PB)
+     Producao de medicamentos para o SUS.
+
+123. Companhia de Desenvolvimento de Recursos Minerais (CDRM)
+     Fundacao: ~1976 | Porte: P | Nivel: Estadual (PB)
+     Pesquisa e prospeccao de recursos minerais.
+
+--------------------------------------------------------------------------------
+2.13 PERNAMBUCO (PE) - 15 ativas
+--------------------------------------------------------------------------------
+
+124. Companhia Pernambucana de Saneamento (COMPESA)
+     Fundacao: 1971 | Porte: G | Nivel: Estadual (PE)
+     Maior estatal de PE. Servicos de agua e esgoto no estado.
+
+125. Companhia Pernambucana de Gas (COPERGAS)
+     Fundacao: 1992 | Porte: M | Nivel: Estadual (PE)
+     Distribuicao de gas natural canalizado.
+
+126. Empresa de Turismo de Pernambuco (EMPETUR)
+     Fundacao: 1967 | Porte: P | Nivel: Estadual (PE)
+     Turismo e promocao turistica.
+
+127. Complexo Industrial Portuario de Suape (SUAPE)
+     Fundacao: 1978 | Porte: G | Nivel: Estadual (PE)
+     Um dos maiores complexos portuarios e industriais do Nordeste.
+
+128. Porto do Recife S.A.
+     Fundacao: ~1918 | Porte: M | Nivel: Estadual (PE)
+     Administracao do Porto do Recife.
+
+129. Companhia Editora de Pernambuco (CEPE)
+     Fundacao: 1968 | Porte: P | Nivel: Estadual (PE)
+     Editora e imprensa oficial do estado.
+
+130. Agencia de Desenvolvimento Economico de Pernambuco (ADEPE)
+     Fundacao: ~2012 | Porte: P | Nivel: Estadual (PE)
+     Desenvolvimento economico e atracao de investimentos.
+
+131. Agencia de Empreendedorismo de Pernambuco (AGE)
+     Fundacao: ~2015 | Porte: P | Nivel: Estadual (PE)
+     Fomento ao empreendedorismo.
+
+132. Companhia Estadual de Habitacao e Obras (CEHAB-PE)
+     Fundacao: ~1965 | Porte: P | Nivel: Estadual (PE)
+     Politica habitacional popular.
+
+133. Consorcio de Transportes Metropolitanos (CTM)
+     Fundacao: ~1990 | Porte: P | Nivel: Estadual (PE)
+     Transporte metropolitano do Recife.
+
+134. Empresa Pernambucana de Transporte Intermunicipal (EPTI)
+     Fundacao: ~2012 | Porte: P | Nivel: Estadual (PE)
+     Transporte intermunicipal.
+
+135. Instituto Agronomico de Pernambuco (IPA)
+     Fundacao: 1935 | Porte: P | Nivel: Estadual (PE)
+     Pesquisa agropecuaria.
+
+136. Laboratorio Farmaceutico do Estado de Pernambuco (LAFEPE)
+     Fundacao: 1964 | Porte: M | Nivel: Estadual (PE)
+     Producao de medicamentos para o SUS.
+
+137. Pernambuco Participacoes e Investimentos S.A. (PERPART)
+     Fundacao: ~2000 | Porte: M | Nivel: Estadual (PE)
+     Holding de participacoes do governo do estado.
+
+138. Empresa Pernambucana de Comunicacao (EPC)
+     Fundacao: ~1970 | Porte: P | Nivel: Estadual (PE)
+     Comunicacao publica e radiodifusao.
+
+--------------------------------------------------------------------------------
+2.14 PIAUI (PI) - 5 ativas
+--------------------------------------------------------------------------------
+
+139. Aguas e Esgotos do Piaui S.A. (AGESPISA)
+     Fundacao: 1966 | Porte: M | Nivel: Estadual (PI)
+     Servicos de agua e esgoto no Piaui.
+
+140. Empresa de Gestao de Recursos do Piaui (EMGERPI)
+     Fundacao: 2007 | Porte: P | Nivel: Estadual (PI)
+     Gestao de recursos e servicos publicos.
+
+141. Agencia de Fomento e Desenvolvimento do Piaui (BADESPI)
+     Fundacao: ~2005 | Porte: P | Nivel: Estadual (PI)
+     Fomento financeiro e credito.
+
+142. EMATER-PI
+     Fundacao: ~1975 | Porte: P | Nivel: Estadual (PI)
+     Assistencia tecnica e extensao rural.
+
+143. Agencia de Regulacao dos Servicos de Saneamento do Piaui (AGRESPI)
+     Fundacao: ~2015 | Porte: P | Nivel: Estadual (PI)
+     Regulacao e fiscalizacao de servicos de saneamento.
+
+* BEP (1943, privatizado 2008): banco estadual.
+* CEPISA (1962, privatizada Equatorial): distribuicao de energia.
+
+--------------------------------------------------------------------------------
+2.15 RIO GRANDE DO NORTE (RN) - 6 ativas
+--------------------------------------------------------------------------------
+
+144. Companhia de Aguas e Esgotos do Rio Grande do Norte (CAERN)
+     Fundacao: 1969 | Porte: M | Nivel: Estadual (RN)
+     Servicos de agua e esgoto no RN.
+
+145. Companhia Potiguar de Gas (POTIGAS)
+     Fundacao: 1993 | Porte: P | Nivel: Estadual (RN)
+     Distribuicao de gas natural canalizado.
+
+146. Empresa de Pesquisa Agropecuaria do RN (EMPARN)
+     Fundacao: 1978 | Porte: P | Nivel: Estadual (RN)
+     Pesquisa agropecuaria.
+
+147. Companhia Estadual de Habitacao (CEHAB-RN)
+     Fundacao: ~1965 | Porte: P | Nivel: Estadual (RN)
+     Politica habitacional popular.
+
+148. Empresa de Promocao Turistica do RN (EMPROTUR)
+     Fundacao: ~1975 | Porte: P | Nivel: Estadual (RN)
+     Turismo e promocao turistica.
+
+149. CEASA-RN
+     Fundacao: ~1975 | Porte: P | Nivel: Estadual (RN)
+     Central de abastecimento agricola.
+
+* COSERN (1962, privatizada Neoenergia 1997): distribuicao de energia.
+* DATANORTE (~1975, extinta): TI do estado.
+
+--------------------------------------------------------------------------------
+2.16 SERGIPE (SE) - 9 ativas
+--------------------------------------------------------------------------------
+
+150. Banco do Estado de Sergipe S.A. (BANESE)
+     Fundacao: 1961 | Porte: G | Nivel: Estadual (SE)
+     Banco estadual listado na B3.
+
+151. Companhia de Saneamento de Sergipe (DESO)
+     Fundacao: 1969 | Porte: M | Nivel: Estadual (SE)
+     Servicos de agua e esgoto no estado.
+
+152. Sergipe Gas S.A. (SERGAS)
+     Fundacao: 1993 | Porte: M | Nivel: Estadual (SE)
+     Distribuicao de gas natural canalizado.
+
+153. Empresa de Gestao de TI de Sergipe (EMGETIS)
+     Fundacao: ~1986 | Porte: P | Nivel: Estadual (SE)
+     Tecnologia da informacao do governo estadual.
+
+154. Companhia de Desenvolvimento Industrial e de Recursos Minerais (CODISE)
+     Fundacao: ~1970 | Porte: P | Nivel: Estadual (SE)
+     Desenvolvimento industrial e economico.
+
+155. Companhia de Desenvolvimento Economico (CODERSE)
+     Fundacao: ~2000 | Porte: P | Nivel: Estadual (SE)
+     Desenvolvimento regional.
+
+156. Companhia Estadual de Habitacao e Obras Publicas (CEHOP)
+     Fundacao: ~1965 | Porte: P | Nivel: Estadual (SE)
+     Habitacao popular e obras publicas.
+
+157. Empresa de Desenvolvimento Agropecuario de Sergipe (EMDAGRO)
+     Fundacao: ~1975 | Porte: P | Nivel: Estadual (SE)
+     Extensao rural e desenvolvimento agropecuario.
+
+158. Empresa Sergipana de Turismo (EMSETUR)
+     Fundacao: ~1970 | Porte: P | Nivel: Estadual (SE)
+     Turismo e promocao turistica.
+
+* Energisa SE (1963, privatizada): distribuicao de energia.
+
+
+================================================================================
+REGIAO CENTRO-OESTE
+================================================================================
+
+--------------------------------------------------------------------------------
+2.17 DISTRITO FEDERAL (DF) - 10 ativas
+--------------------------------------------------------------------------------
+
+159. Banco de Brasilia S.A. (BRB)
+     Fundacao: 1964 | Porte: G | Nivel: Estadual (DF)
+     Banco distrital listado na B3. Maior estatal do DF em receita.
+
+160. Companhia Energetica de Brasilia (CEB)
+     Fundacao: 1968 | Porte: G | Nivel: Estadual (DF)
+     Distribuicao de energia eletrica no Distrito Federal.
+
+161. Companhia de Saneamento Ambiental do Distrito Federal (CAESB)
+     Fundacao: 1969 | Porte: G | Nivel: Estadual (DF)
+     Servicos de agua e esgoto no Distrito Federal.
+
+162. Companhia Imobiliaria de Brasilia (TERRACAP)
+     Fundacao: 1972 | Porte: G | Nivel: Estadual (DF)
+     Gestao de terras publicas e desenvolvimento urbano de Brasilia.
+
+163. Companhia Urbanizadora da Nova Capital (NOVACAP)
+     Fundacao: 1956 | Porte: M | Nivel: Estadual (DF)
+     Urbanizacao, obras publicas e manutencao de Brasilia.
+
+164. CEASA-DF
+     Fundacao: ~1972 | Porte: M | Nivel: Estadual (DF)
+     Central de abastecimento agricola.
+
+165. Companhia de Desenvolvimento Habitacional do DF (CODHAB)
+     Fundacao: ~2007 | Porte: M | Nivel: Estadual (DF)
+     Politica habitacional popular.
+
+166. Companhia do Metropolitano do Distrito Federal (METRO-DF)
+     Fundacao: 1993 | Porte: G | Nivel: Estadual (DF)
+     Transporte metroviario do Distrito Federal.
+
+167. EMATER-DF
+     Fundacao: ~1978 | Porte: P | Nivel: Estadual (DF)
+     Assistencia tecnica e extensao rural.
+
+168. Sociedade de Transportes Coletivos de Brasilia (TCB)
+     Fundacao: ~1960 | Porte: M | Nivel: Estadual (DF)
+     Transporte coletivo por onibus.
+
+--------------------------------------------------------------------------------
+2.18 GOIAS (GO) - 11 ativas
+--------------------------------------------------------------------------------
+
+169. Saneamento de Goias S.A. (SANEAGO)
+     Fundacao: 1967 | Porte: G | Nivel: Estadual (GO)
+     Maior estatal de Goias. Agua e esgoto no estado.
+
+170. CELG Participacoes (CELGPAR)
+     Fundacao: ~2000 | Porte: M | Nivel: Estadual (GO)
+     Holding de participacoes pos-privatizacao da CELG.
+
+171. GOIASGAS
+     Fundacao: 2000 | Porte: P | Nivel: Estadual (GO)
+     Distribuicao de gas canalizado.
+
+172. Goias Fomento S.A.
+     Fundacao: 2001 | Porte: M | Nivel: Estadual (GO)
+     Agencia de fomento e microcredito.
+
+173. Agencia Goiana de Habitacao (AGEHAB)
+     Fundacao: ~1999 | Porte: P | Nivel: Estadual (GO)
+     Politica habitacional popular.
+
+174. Companhia de Desenvolvimento Economico de Goias (CODEGO)
+     Fundacao: ~1970 | Porte: P | Nivel: Estadual (GO)
+     Desenvolvimento economico e distritos industriais.
+
+175. CEASA-GO
+     Fundacao: ~1975 | Porte: P | Nivel: Estadual (GO)
+     Central de abastecimento agricola.
+
+176. Metrobus Transporte Coletivo S.A.
+     Fundacao: 1996 | Porte: M | Nivel: Estadual (GO)
+     Transporte metropolitano de Goiania (eixo onibus BRT).
+
+177. Industria Quimica do Estado de Goias (IQUEGO)
+     Fundacao: 1964 | Porte: P | Nivel: Estadual (GO)
+     Producao de medicamentos e imunobiologicos.
+
+178. Goias Telecomunicacoes
+     Fundacao: ~2010 | Porte: P | Nivel: Estadual (GO)
+     Rede de telecomunicacoes do governo estadual.
+
+179. Goias Parcerias S.A.
+     Fundacao: ~2019 | Porte: P | Nivel: Estadual (GO)
+     Gestao de PPPs e concessoes.
+
+* CELG-D (1956, privatizada Equatorial 2017): distribuicao de energia.
+
+--------------------------------------------------------------------------------
+2.19 MATO GROSSO (MT) - 7 ativas
+--------------------------------------------------------------------------------
+
+180. MT GAS
+     Fundacao: 2000 | Porte: P | Nivel: Estadual (MT)
+     Distribuicao de gas canalizado.
+
+181. Empresa Mato-Grossense de Pesquisa e Extensao Rural (EMPAER)
+     Fundacao: 1993 | Porte: P | Nivel: Estadual (MT)
+     Pesquisa agropecuaria e extensao rural.
+
+182. Companhia Matogrossense de Mineracao (METAMAT)
+     Fundacao: 1977 | Porte: P | Nivel: Estadual (MT)
+     Pesquisa e desenvolvimento mineral.
+
+183. MTI - Empresa Mato-Grossense de TI
+     Fundacao: ~2015 | Porte: P | Nivel: Estadual (MT)
+     Tecnologia da informacao do governo estadual (substitui CEPROMAT).
+
+184. MT PAR - Mato Grosso Participacoes
+     Fundacao: ~2010 | Porte: P | Nivel: Estadual (MT)
+     Holding de participacoes do governo do estado.
+
+185. CEASA-MT
+     Fundacao: ~1978 | Porte: P | Nivel: Estadual (MT)
+     Central de abastecimento agricola.
+
+186. Desenvolve MT
+     Fundacao: ~2012 | Porte: P | Nivel: Estadual (MT)
+     Agencia de fomento e desenvolvimento.
+
+* SANEMAT (~1970, em liquidacao): saneamento.
+
+--------------------------------------------------------------------------------
+2.20 MATO GROSSO DO SUL (MS) - 6 ativas
+--------------------------------------------------------------------------------
+
+187. Empresa de Saneamento de Mato Grosso do Sul (SANESUL)
+     Fundacao: 1979 | Porte: M | Nivel: Estadual (MS)
+     Servicos de agua e esgoto em 68 municipios.
+
+188. MS GAS S.A.
+     Fundacao: 2000 | Porte: P | Nivel: Estadual (MS)
+     Distribuicao de gas canalizado.
+
+189. Agencia de Habitacao Popular de MS (AGEHAB-MS)
+     Fundacao: ~2000 | Porte: P | Nivel: Estadual (MS)
+     Politica habitacional popular.
+
+190. Agencia de Desenvolvimento Agrario e Extensao Rural (AGRAER)
+     Fundacao: ~2000 | Porte: P | Nivel: Estadual (MS)
+     Extensao rural e desenvolvimento agrario.
+
+191. Agencia Estadual de Defesa Sanitaria Animal e Vegetal (IAGRO)
+     Fundacao: ~2000 | Porte: P | Nivel: Estadual (MS)
+     Defesa sanitaria animal e vegetal.
+
+192. Agencia Estadual de Gestao de Empreendimentos (AGESUL)
+     Fundacao: ~2000 | Porte: P | Nivel: Estadual (MS)
+     Gestao de obras e empreendimentos estaduais.
+
+* Energisa MS (1958, privatizada): distribuicao de energia.
+
+
+================================================================================
+REGIAO SUDESTE
+================================================================================
+
+--------------------------------------------------------------------------------
+2.21 ESPIRITO SANTO (ES) - 10 ativas
+--------------------------------------------------------------------------------
+
+193. Banco do Estado do Espirito Santo S.A. (BANESTES)
+     Fundacao: 1937 | Porte: G | Nivel: Estadual (ES)
+     Banco estadual listado na B3. Maior estatal capixaba.
+
+194. Companhia Espirito-Santense de Saneamento (CESAN)
+     Fundacao: 1967 | Porte: G | Nivel: Estadual (ES)
+     Servicos de agua e esgoto no Espirito Santo.
+
+195. Instituto de Tecnologia da Informacao e Comunicacao do ES (PRODEST)
+     Fundacao: ~1982 | Porte: P | Nivel: Estadual (ES)
+     Tecnologia da informacao do governo estadual.
+
+196. Banco de Desenvolvimento do Espirito Santo (BANDES)
+     Fundacao: 1967 | Porte: M | Nivel: Estadual (ES)
+     Banco de desenvolvimento e fomento.
+
+197. CEASA-ES
+     Fundacao: ~1975 | Porte: P | Nivel: Estadual (ES)
+     Central de abastecimento agricola.
+
+198. Companhia de Transportes Urbanos da Grande Vitoria (CETURB)
+     Fundacao: ~1980 | Porte: M | Nivel: Estadual (ES)
+     Transporte urbano da Grande Vitoria.
+
+199. Instituto Capixaba de Pesquisa e Extensao Rural (INCAPER)
+     Fundacao: ~1990 | Porte: P | Nivel: Estadual (ES)
+     Pesquisa agropecuaria e extensao rural.
+
+200. Inova Capixaba
+     Fundacao: ~2019 | Porte: P | Nivel: Estadual (ES)
+     Inovacao, PPPs e concessoes.
+
+201. PREVES - Instituto de Previdencia dos Servidores do ES
+     Fundacao: ~2004 | Porte: M | Nivel: Estadual (ES)
+     Regime de previdencia dos servidores estaduais.
+
+202. ES GAS
+     Fundacao: ~2005 | Porte: P | Nivel: Estadual (ES)
+     Distribuicao de gas canalizado.
+
+--------------------------------------------------------------------------------
+2.22 MINAS GERAIS (MG) - 13 ativas
+--------------------------------------------------------------------------------
+
+203. Companhia Energetica de Minas Gerais (CEMIG)
+     Fundacao: 1952 | Porte: G | Nivel: Estadual (MG)
+     Maior estatal mineira. Geracao, transmissao e distribuicao de energia.
+     Listada na B3 e NYSE.
+
+204. Companhia de Saneamento de Minas Gerais (COPASA)
+     Fundacao: 1963 | Porte: G | Nivel: Estadual (MG)
+     Agua e esgoto em 632 municipios. Listada na B3.
+
+205. Banco de Desenvolvimento de Minas Gerais (BDMG)
+     Fundacao: 1962 | Porte: G | Nivel: Estadual (MG)
+     Banco de desenvolvimento e fomento economico.
+
+206. Companhia de Tecnologia da Informacao de MG (PRODEMGE)
+     Fundacao: 1972 | Porte: M | Nivel: Estadual (MG)
+     Tecnologia da informacao do governo de Minas.
+
+207. Companhia de Desenvolvimento Economico de MG (CODEMGE)
+     Fundacao: 2003 | Porte: G | Nivel: Estadual (MG)
+     Desenvolvimento economico, gestao de ativos (incluindo niobio de
+     Araxa - CBMM). Geracao de receitas nao tributarias.
+
+208. MGI - Minas Gerais Participacoes S.A.
+     Fundacao: ~2010 | Porte: G | Nivel: Estadual (MG)
+     Holding de participacoes do governo do estado.
+
+209. MGS - Minas Gerais Administracao e Servicos S.A.
+     Fundacao: ~2005 | Porte: M | Nivel: Estadual (MG)
+     Terceirizacao de servicos e gestao de imoveis.
+
+210. Companhia de Habitacao de MG (COHAB-MG)
+     Fundacao: 1965 | Porte: P | Nivel: Estadual (MG)
+     Politica habitacional popular.
+
+211. Companhia Brasileira de Trens Urbanos - Metrominas
+     Fundacao: 2011 | Porte: M | Nivel: Estadual (MG)
+     Trem metropolitano de Belo Horizonte.
+
+212. Empresa de Pesquisa Agropecuaria de Minas Gerais (EPAMIG)
+     Fundacao: 1974 | Porte: P | Nivel: Estadual (MG)
+     Pesquisa agropecuaria.
+
+213. EMATER-MG
+     Fundacao: 1970 | Porte: M | Nivel: Estadual (MG)
+     Assistencia tecnica e extensao rural.
+
+214. Empresa Mineira de Comunicacao (EMC)
+     Fundacao: ~1970 | Porte: P | Nivel: Estadual (MG)
+     Comunicacao publica e radiodifusao.
+
+215. GASMIG - Companhia de Gas de Minas Gerais
+     Fundacao: 1986 | Porte: M | Nivel: Estadual (MG)
+     Distribuicao de gas canalizado (subsidiaria da CEMIG).
+
+--------------------------------------------------------------------------------
+2.23 RIO DE JANEIRO (RJ) - 12 ativas
+--------------------------------------------------------------------------------
+
+216. Companhia Estadual de Aguas e Esgotos (CEDAE)
+     Fundacao: 1975 | Porte: G | Nivel: Estadual (RJ)
+     Agua e esgoto (distribuicao parcialmente concedida a Aegea e Iguá em 2021).
+
+217. Loteria do Estado do Rio de Janeiro (LOTERJ)
+     Fundacao: 1940 | Porte: M | Nivel: Estadual (RJ)
+     Loteria estadual. Importante fonte de arrecadacao.
+
+218. Agencia de Fomento do Estado do Rio de Janeiro (AGERIO)
+     Fundacao: 2011 | Porte: M | Nivel: Estadual (RJ)
+     Fomento financeiro e credito.
+
+219. Companhia Fluminense de Securitizacao (CFSEC)
+     Fundacao: ~2017 | Porte: M | Nivel: Estadual (RJ)
+     Securitizacao de creditos do governo do estado.
+
+220. RioTrilhos - Concessionaria Rio de Trilhos
+     Fundacao: ~2014 | Porte: M | Nivel: Estadual (RJ)
+     Transporte sobre trilhos (SuperVia e sistemas de trens).
+
+221. Imprensa Oficial do Estado do RJ (IOERJ)
+     Fundacao: ~1808 | Porte: P | Nivel: Estadual (RJ)
+     Imprensa oficial e publicacoes do governo.
+
+222. Companhia de Desenvolvimento Industrial do RJ (CODIN)
+     Fundacao: ~1969 | Porte: P | Nivel: Estadual (RJ)
+     Desenvolvimento industrial e atracao de investimentos.
+
+223. Companhia de Desenvolvimento Rodoviario e Terminal (CODERTE)
+     Fundacao: ~1975 | Porte: P | Nivel: Estadual (RJ)
+     Rodovias e terminais rodoviarios.
+
+224. Centro de Tecnologia da Informacao e Comunicacao do RJ (PRODERJ)
+     Fundacao: 1975 | Porte: P | Nivel: Estadual (RJ)
+     Tecnologia da informacao do governo estadual.
+
+225. Companhia Estadual de Habitacao do RJ (CEHAB-RJ)
+     Fundacao: ~1962 | Porte: P | Nivel: Estadual (RJ)
+     Politica habitacional popular.
+
+226. Companhia de Turismo do Estado do RJ (TURISRIO)
+     Fundacao: ~1970 | Porte: P | Nivel: Estadual (RJ)
+     Turismo e promocao turistica.
+
+227. RIOPREV - Fundo Unico de Previdencia Social do RJ
+     Fundacao: ~2000 | Porte: G | Nivel: Estadual (RJ)
+     Regime de previdencia dos servidores estaduais.
+
+* BANERJ (1946, privatizado Itau 1997): banco estadual.
+
+--------------------------------------------------------------------------------
+2.24 SAO PAULO (SP) - 10 ativas (+3 recentemente privatizadas/extintas)
+--------------------------------------------------------------------------------
+
+228. Companhia do Metropolitano de Sao Paulo (METRO-SP)
+     Fundacao: 1968 | Porte: G | Nivel: Estadual (SP)
+     Transporte metroviario na Regiao Metropolitana de Sao Paulo.
+
+229. Companhia Paulista de Trens Metropolitanos (CPTM)
+     Fundacao: 1992 | Porte: G | Nivel: Estadual (SP)
+     Trens metropolitanos: 260 km de linhas, 2,2 milhoes de passageiros/dia.
+
+230. Companhia de Desenvolvimento Habitacional e Urbano (CDHU)
+     Fundacao: 1949 | Porte: G | Nivel: Estadual (SP)
+     Maior programa habitacional estadual do pais.
+
+231. Companhia de Processamento de Dados do Estado de SP (PRODESP)
+     Fundacao: 1969 | Porte: M | Nivel: Estadual (SP)
+     Tecnologia da informacao do governo estadual.
+
+232. Companhia Ambiental do Estado de Sao Paulo (CETESB)
+     Fundacao: 1968 | Porte: M | Nivel: Estadual (SP)
+     Controle ambiental e fiscalizacao. Referencia nacional.
+
+233. Desenvolve SP - Agencia de Fomento do Estado de Sao Paulo S.A.
+     Fundacao: 2009 | Porte: M | Nivel: Estadual (SP)
+     Fomento financeiro e credito para empresas.
+
+234. Instituto de Pesquisas Tecnologicas do Estado de SP (IPT)
+     Fundacao: 1899 | Porte: M | Nivel: Estadual (SP)
+     Pesquisa tecnologica, certificacao e inovacao.
+
+235. Companhia Docas de Sao Sebastiao
+     Fundacao: 1893 | Porte: M | Nivel: Estadual (SP)
+     Administracao do Porto de Sao Sebastiao.
+
+236. Companhia Paulista de Parcerias (CPP)
+     Fundacao: ~2005 | Porte: P | Nivel: Estadual (SP)
+     Gestao de PPPs e concessoes.
+
+237. Companhia Paulista de Securitizacao (CPSEC)
+     Fundacao: ~2015 | Porte: P | Nivel: Estadual (SP)
+     Securitizacao de creditos do estado.
+
+* SABESP (1973, privatizada jul/2024): saneamento - maior da America Latina.
+* EMAE (1998, privatizada 2024/2025): energia e agua.
+* EMTU (1986, extinta out/2025): transporte metropolitano.
+
+
+================================================================================
+REGIAO SUL
+================================================================================
+
+--------------------------------------------------------------------------------
+2.25 PARANA (PR) - 12 ativas
+--------------------------------------------------------------------------------
+
+238. Companhia Paranaense de Energia (COPEL)
+     Fundacao: 1954 | Porte: G | Nivel: Estadual (PR)
+     Geracao, transmissao e distribuicao de energia. Listada na B3 e NYSE.
+     Privatizada em 2023 (governo manteve golden share com poder de veto).
+
+239. Companhia de Saneamento do Parana (SANEPAR)
+     Fundacao: 1963 | Porte: G | Nivel: Estadual (PR)
+     Agua e esgoto em 345 municipios. Listada na B3.
+
+240. Companhia de TI e Comunicacao do Parana (CELEPAR)
+     Fundacao: 1964 | Porte: M | Nivel: Estadual (PR)
+     Tecnologia da informacao do governo do Parana.
+
+241. Companhia Paranaense de Gas (COMPAGAS)
+     Fundacao: 1994 | Porte: M | Nivel: Estadual (PR)
+     Distribuicao de gas natural (governo detem 51% das acoes).
+
+242. Fomento Parana
+     Fundacao: 1997 | Porte: M | Nivel: Estadual (PR)
+     Agencia de fomento e microcredito.
+
+243. Companhia de Habitacao do Parana (COHAPAR)
+     Fundacao: 1965 | Porte: M | Nivel: Estadual (PR)
+     Politica habitacional popular.
+
+244. CEASA-PR
+     Fundacao: ~1975 | Porte: P | Nivel: Estadual (PR)
+     Central de abastecimento agricola.
+
+245. Companhia de Desenvolvimento Agropecuario do Parana (CODAPAR)
+     Fundacao: ~1972 | Porte: P | Nivel: Estadual (PR)
+     Desenvolvimento agropecuario e armazenagem.
+
+246. Administracao dos Portos de Paranagua e Antonina (APPA)
+     Fundacao: 1947 | Porte: G | Nivel: Estadual (PR)
+     Porto de Paranagua, um dos maiores do Brasil em exportacao de graos.
+
+247. Estrada de Ferro Parana Oeste S.A. (FERROESTE)
+     Fundacao: 1988 | Porte: M | Nivel: Estadual (PR)
+     Ferrovia no Oeste do Parana (em concessao).
+
+248. Instituto de Tecnologia do Parana (TECPAR)
+     Fundacao: 1940 | Porte: M | Nivel: Estadual (PR)
+     Pesquisa tecnologica e producao de vacinas veterinarias.
+
+249. Banco Regional de Desenvolvimento do Extremo Sul (BRDE)
+     Fundacao: 1961 | Porte: G | Nivel: Estadual (PR/SC/RS)
+     Banco de desenvolvimento regional tri-estadual (Parana, Santa Catarina
+     e Rio Grande do Sul). Caso unico de estatal compartilhada.
+
+--------------------------------------------------------------------------------
+2.26 RIO GRANDE DO SUL (RS) - 8 ativas
+--------------------------------------------------------------------------------
+
+250. Banco do Estado do Rio Grande do Sul S.A. (BANRISUL)
+     Fundacao: 1928 | Porte: G | Nivel: Estadual (RS)
+     Banco estadual listado na B3. Maior estatal gaucha em receita.
+
+251. Companhia de Processamento de Dados do RS (PROCERGS)
+     Fundacao: 1972 | Porte: M | Nivel: Estadual (RS)
+     Tecnologia da informacao do governo do RS.
+
+252. Badesul Desenvolvimento S.A.
+     Fundacao: 1973 | Porte: M | Nivel: Estadual (RS)
+     Agencia de fomento e desenvolvimento.
+
+253. Companhia Riograndense de Mineracao (CRM)
+     Fundacao: 1969 | Porte: P | Nivel: Estadual (RS)
+     Mineracao de carvao mineral.
+
+254. CEASA-RS
+     Fundacao: ~1972 | Porte: P | Nivel: Estadual (RS)
+     Central de abastecimento agricola.
+
+255. Empresa Gaucha de Rodovias (EGR)
+     Fundacao: 2012 | Porte: M | Nivel: Estadual (RS)
+     Gestao de rodovias estaduais.
+
+256. Portos RS
+     Fundacao: ~2015 | Porte: P | Nivel: Estadual (RS)
+     Gestao dos portos estaduais.
+
+257. EMATER-RS/ASCAR
+     Fundacao: 1955 | Porte: M | Nivel: Estadual (RS)
+     Assistencia tecnica e extensao rural.
+
+(BRDE listado no Parana - compartilhado entre PR, SC e RS)
+
+* CEEE (1943, privatizada Equatorial/CPFL 2021-2023): energia.
+* CORSAN (1966, privatizada Aegea 2023): saneamento.
+* SULGAS (1993, privatizada Compass/Cosan 2022): gas.
+(RS arrecadou R$ 8,7 bilhoes com privatizacoes 2021-2023)
+
+--------------------------------------------------------------------------------
+2.27 SANTA CATARINA (SC) - 11 ativas
+--------------------------------------------------------------------------------
+
+258. Centrais Eletricas de Santa Catarina S.A. (CELESC)
+     Fundacao: 1955 | Porte: G | Nivel: Estadual (SC)
+     Distribuicao de energia eletrica. Holding listada na B3.
+
+259. Companhia Catarinense de Aguas e Saneamento (CASAN)
+     Fundacao: 1970 | Porte: G | Nivel: Estadual (SC)
+     Servicos de agua e esgoto em Santa Catarina.
+
+260. SC Gas Energia S.A. (SCGAS)
+     Fundacao: 1994 | Porte: M | Nivel: Estadual (SC)
+     Distribuicao de gas natural. 2a maior por numero de municipios
+     atendidos no Brasil. Concessao ate 2044.
+
+261. Empresa de Pesquisa Agropecuaria e Extensao Rural de SC (EPAGRI)
+     Fundacao: 1991 | Porte: M | Nivel: Estadual (SC)
+     Pesquisa agropecuaria e extensao rural. Referencia nacional.
+
+262. Companhia Integrada de Desenvolvimento Agricola de SC (CIDASC)
+     Fundacao: 1975 | Porte: M | Nivel: Estadual (SC)
+     Defesa sanitaria animal e vegetal, desenvolvimento agricola.
+
+263. Agencia de Fomento do Estado de SC (BADESC)
+     Fundacao: 1962 | Porte: M | Nivel: Estadual (SC)
+     Banco de fomento ao desenvolvimento.
+
+264. Centro de Informatica e Automacao do Estado de SC (CIASC)
+     Fundacao: 1975 | Porte: P | Nivel: Estadual (SC)
+     Tecnologia da informacao do governo catarinense.
+
+265. CEASA-SC
+     Fundacao: ~1975 | Porte: P | Nivel: Estadual (SC)
+     Central de abastecimento agricola.
+
+266. Porto de Imbituba S.A. (via SCPar)
+     Fundacao: 2012 | Porte: M | Nivel: Estadual (SC)
+     Porto publico sob gestao estadual.
+
+267. Porto de Sao Francisco do Sul (via SCPar)
+     Fundacao: ~2000 | Porte: M | Nivel: Estadual (SC)
+     Porto publico sob gestao estadual.
+
+268. SC Participacoes e Parcerias S.A. (SCPar)
+     Fundacao: 2005 | Porte: G | Nivel: Estadual (SC)
+     Holding de participacoes do governo. Controla portos e outros ativos.
+
+(BRDE listado no Parana - compartilhado entre PR, SC e RS)
+
+
+================================================================================
+PARTE 3 - EMPRESAS ESTATAIS MUNICIPAIS (principais capitais e municipios)
+================================================================================
+
+Nota: Nao existe cadastro centralizado de empresas estatais municipais.
+A lista abaixo cobre as principais empresas das maiores cidades do Brasil.
+
+--------------------------------------------------------------------------------
+3.1 SAO PAULO/SP - 12 empresas
+--------------------------------------------------------------------------------
+
+269. SPTrans - Sao Paulo Transporte S.A.
+     Fundacao: ~1995 | Porte: G | Nivel: Municipal (Sao Paulo/SP)
+     Gestao do transporte por onibus na cidade. Maior sistema de transporte
+     por onibus do Brasil.
+
+270. CET - Companhia de Engenharia de Trafego
+     Fundacao: 1976 | Porte: G | Nivel: Municipal (Sao Paulo/SP)
+     Engenharia de trafego, sinalizacao e fiscalizacao de transito.
+
+271. COHAB-SP - Companhia Metropolitana de Habitacao
+     Fundacao: 1965 | Porte: G | Nivel: Municipal (Sao Paulo/SP)
+     Politica habitacional popular do municipio.
+
+272. PRODAM-SP - Empresa de Tecnologia da Informacao e Comunicacao
+     Fundacao: 1971 | Porte: G | Nivel: Municipal (Sao Paulo/SP)
+     Tecnologia da informacao da prefeitura.
+
+273. SP Obras
+     Fundacao: ~2010 | Porte: G | Nivel: Municipal (Sao Paulo/SP)
+     Gestao de obras e infraestrutura municipal.
+
+274. SP Urbanismo
+     Fundacao: ~2010 | Porte: M | Nivel: Municipal (Sao Paulo/SP)
+     Planejamento e desenvolvimento urbano.
+
+275. SPTuris - Sao Paulo Turismo S.A.
+     Fundacao: ~1977 | Porte: M | Nivel: Municipal (Sao Paulo/SP)
+     Turismo, eventos e gestao do Anhembi Parque.
+
+276. SPCine
+     Fundacao: 2013 | Porte: P | Nivel: Municipal (Sao Paulo/SP)
+     Fomento ao cinema e audiovisual.
+
+277. SP Negocios
+     Fundacao: ~2014 | Porte: P | Nivel: Municipal (Sao Paulo/SP)
+     Promocao de investimentos e negocios internacionais.
+
+278. Servico Funerario do Municipio de SP (SFMSP)
+     Fundacao: ~1958 | Porte: M | Nivel: Municipal (Sao Paulo/SP)
+     Servicos funerarios e administracao de cemiterios.
+
+279. SP Desenvolvimento e Ativos (SPDA)
+     Fundacao: ~2018 | Porte: M | Nivel: Municipal (Sao Paulo/SP)
+     Gestao de ativos e participacoes da prefeitura.
+
+280. SPCEC - SP Companhia de Emissao de Creditos
+     Fundacao: ~2020 | Porte: P | Nivel: Municipal (Sao Paulo/SP)
+     Securitizacao de creditos municipais.
+
+--------------------------------------------------------------------------------
+3.2 RIO DE JANEIRO/RJ - 7 empresas
+--------------------------------------------------------------------------------
+
+281. COMLURB - Companhia Municipal de Limpeza Urbana
+     Fundacao: 1975 | Porte: G | Nivel: Municipal (Rio de Janeiro/RJ)
+     Maior empresa de limpeza urbana da America Latina. Coleta de lixo,
+     varrição e limpeza de logradouros.
+
+282. RioLuz - Companhia Municipal de Energia e Iluminacao
+     Fundacao: ~1980 | Porte: M | Nivel: Municipal (Rio de Janeiro/RJ)
+     Iluminacao publica e manutencao.
+
+283. RioTur - Empresa de Turismo do Municipio do RJ
+     Fundacao: ~1972 | Porte: M | Nivel: Municipal (Rio de Janeiro/RJ)
+     Turismo, eventos e organizacao do Carnaval.
+
+284. RioFilme
+     Fundacao: 1992 | Porte: P | Nivel: Municipal (Rio de Janeiro/RJ)
+     Fomento ao cinema e audiovisual.
+
+285. IplanRio - Empresa Municipal de Informatica
+     Fundacao: ~1980 | Porte: M | Nivel: Municipal (Rio de Janeiro/RJ)
+     Tecnologia da informacao da prefeitura.
+
+286. Rio-Urbe - Empresa Municipal de Urbanizacao
+     Fundacao: ~1975 | Porte: M | Nivel: Municipal (Rio de Janeiro/RJ)
+     Urbanizacao e obras publicas.
+
+287. MultiRio - Empresa Municipal de Multimidia
+     Fundacao: 1993 | Porte: P | Nivel: Municipal (Rio de Janeiro/RJ)
+     Producao de conteudo multimidia educacional.
+
+--------------------------------------------------------------------------------
+3.3 BELO HORIZONTE/MG - 6 empresas
+--------------------------------------------------------------------------------
+
+288. BHTrans - Empresa de Transportes e Transito de BH S.A.
+     Fundacao: 1991 | Porte: G | Nivel: Municipal (Belo Horizonte/MG)
+     Gestao do transporte publico e transito.
+
+289. Prodabel - Empresa de Informatica e Informacao de BH
+     Fundacao: 1974 | Porte: M | Nivel: Municipal (Belo Horizonte/MG)
+     Tecnologia da informacao da prefeitura.
+
+290. Urbel - Companhia Urbanizadora e de Habitacao de BH
+     Fundacao: ~1983 | Porte: M | Nivel: Municipal (Belo Horizonte/MG)
+     Urbanizacao e habitacao popular em vilas e favelas.
+
+291. Belotur - Empresa Municipal de Turismo
+     Fundacao: ~1996 | Porte: P | Nivel: Municipal (Belo Horizonte/MG)
+     Turismo e eventos.
+
+292. PBH Ativos
+     Fundacao: ~2017 | Porte: M | Nivel: Municipal (Belo Horizonte/MG)
+     Gestao de PPPs e securitizacao de creditos.
+
+293. Sudecap - Superintendencia de Desenvolvimento da Capital
+     Fundacao: 1965 | Porte: M | Nivel: Municipal (Belo Horizonte/MG)
+     Obras de infraestrutura, drenagem e pavimentacao.
+
+--------------------------------------------------------------------------------
+3.4 PORTO ALEGRE/RS - 5 empresas ativas
+--------------------------------------------------------------------------------
+
+294. PROCEMPA - Companhia de Processamento de Dados de Porto Alegre
+     Fundacao: 1977 | Porte: M | Nivel: Municipal (Porto Alegre/RS)
+     Tecnologia da informacao da prefeitura.
+
+295. DMAE - Departamento Municipal de Agua e Esgotos
+     Fundacao: 1961 | Porte: G | Nivel: Municipal (Porto Alegre/RS)
+     Servicos de agua e esgoto do municipio (autarquia/empresa).
+
+296. DMLU - Departamento Municipal de Limpeza Urbana
+     Fundacao: ~1975 | Porte: M | Nivel: Municipal (Porto Alegre/RS)
+     Limpeza urbana e coleta de residuos.
+
+297. EPTC - Empresa Publica de Transporte e Circulacao
+     Fundacao: ~1998 | Porte: M | Nivel: Municipal (Porto Alegre/RS)
+     Gestao de transporte e circulacao.
+
+298. DEMHAB - Departamento Municipal de Habitacao
+     Fundacao: ~1965 | Porte: M | Nivel: Municipal (Porto Alegre/RS)
+     Politica habitacional popular.
+
+* Carris (privatizada 2021): transporte por onibus.
+
+--------------------------------------------------------------------------------
+3.5 CURITIBA/PR - 3 empresas
+--------------------------------------------------------------------------------
+
+299. URBS - Urbanizacao de Curitiba S.A.
+     Fundacao: 1963 | Porte: G | Nivel: Municipal (Curitiba/PR)
+     Gestao do transporte publico (BRT referencia mundial) e transito.
+
+300. COHAB-CT - Companhia de Habitacao Popular de Curitiba
+     Fundacao: 1965 | Porte: M | Nivel: Municipal (Curitiba/PR)
+     Politica habitacional popular.
+
+301. FCC - Fundacao Cultural de Curitiba
+     Fundacao: 1973 | Porte: P | Nivel: Municipal (Curitiba/PR)
+     Cultura, eventos e patrimonio historico.
+
+--------------------------------------------------------------------------------
+3.6 CAMPINAS/SP - 3 empresas
+--------------------------------------------------------------------------------
+
+302. EMDEC - Empresa Municipal de Desenvolvimento de Campinas
+     Fundacao: 1977 | Porte: M | Nivel: Municipal (Campinas/SP)
+     Transporte publico e transito.
+
+303. SANASA - Sociedade de Abastecimento de Agua e Saneamento S.A.
+     Fundacao: 1974 | Porte: G | Nivel: Municipal (Campinas/SP)
+     Servicos de agua e esgoto. Uma das maiores empresas municipais
+     de saneamento do Brasil.
+
+304. COHAB Campinas
+     Fundacao: ~1965 | Porte: M | Nivel: Municipal (Campinas/SP)
+     Politica habitacional popular.
+
+--------------------------------------------------------------------------------
+3.7 SALVADOR/BA - 2 empresas
+--------------------------------------------------------------------------------
+
+305. CTS - Companhia de Transporte de Salvador
+     Fundacao: ~2013 | Porte: M | Nivel: Municipal (Salvador/BA)
+     Transporte publico e metro de Salvador.
+
+306. SALTUR - Empresa Salvador Turismo
+     Fundacao: ~1979 | Porte: P | Nivel: Municipal (Salvador/BA)
+     Turismo, eventos e organizacao do Carnaval.
+
+--------------------------------------------------------------------------------
+3.8 RECIFE/PE - 3 empresas
+--------------------------------------------------------------------------------
+
+307. CTTU - Autarquia de Transito e Transporte Urbano
+     Fundacao: ~1998 | Porte: M | Nivel: Municipal (Recife/PE)
+     Transito e transporte urbano.
+
+308. EMLURB - Empresa de Manutencao e Limpeza Urbana
+     Fundacao: ~1980 | Porte: M | Nivel: Municipal (Recife/PE)
+     Limpeza urbana, manutencao e obras viarias.
+
+309. URB - Empresa de Urbanizacao do Recife
+     Fundacao: ~1975 | Porte: M | Nivel: Municipal (Recife/PE)
+     Urbanizacao e infraestrutura urbana.
+
+--------------------------------------------------------------------------------
+3.9 FORTALEZA/CE - 2 empresas
+--------------------------------------------------------------------------------
+
+310. ETUFOR - Empresa de Transporte Urbano de Fortaleza
+     Fundacao: ~1998 | Porte: M | Nivel: Municipal (Fortaleza/CE)
+     Gestao do transporte por onibus.
+
+311. EMLURB - Empresa Municipal de Limpeza e Urbanizacao
+     Fundacao: ~1980 | Porte: M | Nivel: Municipal (Fortaleza/CE)
+     Limpeza urbana e urbanizacao.
+
+--------------------------------------------------------------------------------
+3.10 BRASILIA/DF (empresas distritais ja listadas na secao estadual)
+--------------------------------------------------------------------------------
+Nota: O DF acumula competencias estaduais e municipais, portanto
+suas estatais ja constam na secao 2.17 (Distrito Federal).
+
+--------------------------------------------------------------------------------
+3.11 OUTROS MUNICIPIOS (exemplos selecionados)
+--------------------------------------------------------------------------------
+
+312. SAAE - Servico Autonomo de Agua e Esgoto (diversos municipios)
+     Porte: P-M | Nivel: Municipal
+     Centenas de municipios brasileiros possuem SAAEs (autarquias/empresas
+     municipais de agua e esgoto). Exemplos: SAAE Sorocaba, SAAE Volta Redonda,
+     SAAE Guarulhos, SAAE Itabira, entre muitos outros.
+
+313. COHAB - Companhias de Habitacao (diversos municipios)
+     Porte: P-M | Nivel: Municipal
+     Varias capitais e cidades medias possuem COHABs municipais:
+     COHAB Londrina, COHAB Bauru, COHAB Santos, COHAB Goiania,
+     COHAB Manaus, entre outras.
+
+314. Empresas de TI municipais (diversos)
+     Porte: P | Nivel: Municipal
+     ICI Curitiba, EMPREL Recife, Inform Aracaju, entre outras.
+
+315. Empresas de transito e transporte (diversos)
+     Porte: P-M | Nivel: Municipal
+     AMC Fortaleza, SMT Guarulhos, SETTRANS Uberlandia, etc.
+
+
+================================================================================
+PARTE 4 - RESUMO ESTATISTICO
+================================================================================
+
+TOTAIS POR NIVEL:
+--------------------------------------------------------------------------------
+| Nivel                     | Ativas      | Privatizadas/Extintas | Total Aprox.|
+|---------------------------|-------------|----------------------|-------------|
+| Federal (controle direto) | ~46         | -                    | ~46         |
+| Federal (subsidiarias)    | ~150+       | -                    | ~150+       |
+| Estadual                  | ~230+       | ~25+                 | ~292        |
+| Municipal (mapeadas)      | ~47+        | ~2+                  | ~50+        |
+| Municipal (estimativa)    | centenas    | -                    | centenas    |
+--------------------------------------------------------------------------------
+| TOTAL GERAL (estimativa)  |                                     | ~500-600+   |
+================================================================================
+
+TOTAIS POR ESTADO (estatais estaduais ativas):
+--------------------------------------------------------------------------------
+| Estado                | Ativas | Maior Estatal                               |
+|-----------------------|--------|---------------------------------------------|
+| Pernambuco (PE)       | ~15    | COMPESA (saneamento)                        |
+| Minas Gerais (MG)     | ~13    | CEMIG (energia, B3/NYSE)                    |
+| Distrito Federal (DF) | ~10    | BRB (banco, B3)                             |
+| Bahia (BA)            | ~12    | EMBASA (saneamento)                         |
+| Paraiba (PB)          | ~12    | CAGEPA (saneamento)                         |
+| Parana (PR)            | ~12    | COPEL (energia, B3/NYSE - priv. 2023)       |
+| Santa Catarina (SC)   | ~11    | CELESC (energia, B3)                        |
+| Rio de Janeiro (RJ)   | ~12    | CEDAE (saneamento)                          |
+| Goias (GO)            | ~11    | SANEAGO (saneamento)                        |
+| Ceara (CE)            | ~11    | CAGECE (saneamento)                         |
+| Sao Paulo (SP)        | ~10    | METRO-SP (transporte)                       |
+| Espirito Santo (ES)   | ~10    | BANESTES (banco, B3)                        |
+| Sergipe (SE)          | ~9     | BANESE (banco, B3)                          |
+| Alagoas (AL)          | ~7     | CASAL (saneamento)                          |
+| Rio Grande do Sul (RS)| ~8     | BANRISUL (banco, B3)                        |
+| Mato Grosso (MT)      | ~7     | EMPAER (agropecuaria)                       |
+| Para (PA)             | ~7     | BANPARA (banco)                             |
+| Mato Grosso Sul (MS)  | ~6     | SANESUL (saneamento)                        |
+| Amazonas (AM)         | ~6     | PRODAM (TI)                                 |
+| Piaui (PI)            | ~5     | AGESPISA (saneamento)                       |
+| Rio Grande Norte (RN) | ~6     | CAERN (saneamento)                          |
+| Maranhao (MA)         | ~4     | CAEMA (saneamento)                          |
+| Acre (AC)             | ~4     | DEPASA (saneamento)                         |
+| Amapa (AP)            | ~4     | CAESA (saneamento)                          |
+| Rondonia (RO)         | ~3     | CAERD (saneamento)                          |
+| Tocantins (TO)        | ~3     | RURALTINS (extensao rural)                  |
+| Roraima (RR)          | ~2     | CAER (saneamento)                           |
+--------------------------------------------------------------------------------
+
+PRINCIPAIS SETORES DE ATUACAO:
+--------------------------------------------------------------------------------
+| Setor                     | Federal | Estadual | Municipal | Total Aprox. |
+|---------------------------|---------|----------|-----------|--------------|
+| Financeiro/Bancos         | 8+12    | 17       | -         | ~37          |
+| Energia/Eletricidade      | 8+9     | ~5       | -         | ~22          |
+| Agua e Saneamento         | -       | ~22      | centenas  | centenas     |
+| Tecnologia da Informacao  | 3       | ~13      | ~10+      | ~26+         |
+| Transporte                | 6       | ~12      | ~15+      | ~33+         |
+| Portos                    | 7       | ~8       | -         | ~15          |
+| Agropecuaria/Rural        | 2       | ~20+     | -         | ~22+         |
+| Gas Canalizado            | -       | ~16      | -         | ~16          |
+| Habitacao                 | -       | ~15      | ~10+      | ~25+         |
+| Saude                     | 4       | ~2       | -         | ~6           |
+| Defesa/Militar            | 3       | -        | -         | 3            |
+| Abastecimento (CEASAs)    | 2       | ~15      | -         | ~17          |
+| Turismo                   | -       | ~6       | ~5+       | ~11+         |
+| Mineracao                 | 1       | ~4       | -         | ~5           |
+| Farmaceutico              | 1       | ~4       | -         | ~5           |
+| Imprensa Oficial          | -       | ~4       | -         | ~4           |
+| Loterias                  | -       | ~1       | -         | ~1           |
+| Holdings/Participacoes    | 1       | ~8       | ~2+       | ~11+         |
+| Desenvolvimento Regional  | 1       | ~10      | -         | ~11          |
+| Comunicacao               | 1       | ~2       | ~2        | ~5           |
+| Limpeza Urbana            | -       | -        | ~5+       | ~5+          |
+--------------------------------------------------------------------------------
+
+
+================================================================================
+PARTE 5 - PRIVATIZACOES RECENTES (2017-2025)
+================================================================================
+
+| Empresa        | Estado | Ano  | Comprador           | Valor Aprox.     |
+|----------------|--------|------|---------------------|------------------|
+| CELG-D         | GO     | 2017 | Equatorial          | R$ 2,19 bi       |
+| CERON          | RO     | 2018 | Energisa            | (incorporada)    |
+| CEAL           | AL     | 2019 | Equatorial          | R$ 793 mi        |
+| CEA            | AP     | 2021 | Equatorial          | R$ 50,3 mi       |
+| Carris (POA)   | RS     | 2021 | Mob Transporte      | (concessao)      |
+| CEEE           | RS     | 2021-23 | Equatorial/CPFL  | R$ 2,7 bi        |
+| Eletrobras     | Fed    | 2022 | Mercado (OPA)       | R$ 33,7 bi       |
+| SULGAS         | RS     | 2022 | Compass/Cosan       | R$ 927 mi        |
+| CORSAN         | RS     | 2023 | Aegea Saneamento    | R$ 4,1 bi        |
+| COPEL          | PR     | 2023 | Mercado (OPA)       | R$ 5,1 bi*       |
+| SABESP         | SP     | 2024 | Equatorial (lider)  | R$ 14,8 bi       |
+| EMAE           | SP     | 2024-25 | (desestatizacao) | -                |
+| EMTU           | SP     | 2025 | (extinta)           | -                |
+| CERR           | RR     | 2025 | (extinta)           | -                |
+*COPEL: governo manteve golden share com poder de veto.
+
+
+================================================================================
+PARTE 6 - NOTAS METODOLOGICAS
+================================================================================
+
+1. DEFINICOES:
+   - "Empresa publica": 100% capital publico
+   - "Sociedade de economia mista": capital publico + privado (estado com maioria)
+   - "Dependente": depende de aportes do Tesouro para custeio
+   - "Independente": gera receita propria suficiente
+
+2. LIMITACOES:
+   - Estatais municipais: nao ha cadastro centralizado; estimativa de centenas
+     de empresas em todo o pais (SAAEs, COHABs, empresas de transito, etc.)
+   - Autarquias e fundacoes nao foram incluidas (apenas empresas publicas e
+     sociedades de economia mista)
+   - Empresas em liquidacao podem nao estar totalmente mapeadas
+   - Datas de fundacao aproximadas (~) quando fontes divergem
+
+3. FONTES PRINCIPAIS:
+   - Ministerio da Gestao e Inovacao - SEST (panoramadasestatais.gestao.gov.br)
+   - Relatorio Agregado das Empresas Estatais Federais 2025
+   - Tesouro Nacional - Raio-X das Empresas dos Estados (tesouro.github.io/empresas-estados)
+   - Tesouro Transparente (tesourotransparente.gov.br)
+   - Dados Abertos do Governo Federal (dados.gov.br)
+   - Wikipedia - Lista de Empresas Estatais do Brasil
+   - Portais oficiais dos governos estaduais e municipais
+   - Boletim das Empresas Estatais Federais
+   - AESBE - Associacao das Empresas de Saneamento Basico Estaduais
+
+================================================================================
+Fim do documento
+================================================================================
