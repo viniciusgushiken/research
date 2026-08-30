@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>DOU - Março de 2026</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">Diário Oficial da União - Seção 1</p>
+        <h1>Março de 2026</h1>
+      </div>
+      <div class="source-note">
+        <span id="sourceRange">Carregando...</span>
+        <span id="sourceTotal"></span>
+      </div>
+    </header>
+
+    <main>
+      <section class="metrics" aria-label="Resumo do período">
+        <article>
+          <span class="metric-label">Atos publicados</span>
+          <strong id="metricTotal">-</strong>
+        </article>
+        <article>
+          <span class="metric-label">Média diária</span>
+          <strong id="metricAverage">-</strong>
+        </article>
+        <article>
+          <span class="metric-label">Dia mais movimentado</span>
+          <strong id="metricPeak">-</strong>
+        </article>
+        <article>
+          <span class="metric-label">Retificações com troca explícita</span>
+          <strong id="metricPairs">-</strong>
+        </article>
+      </section>
+
+      <section class="workbench">
+        <aside class="filters" aria-label="Filtros">
+          <div class="filter-group">
+            <label for="search">Busca</label>
+            <input id="search" type="search" placeholder="Órgão, assunto, portaria..." />
+          </div>
+
+          <div class="filter-grid">
+            <div class="filter-group">
+              <label for="themeFilter">Categoria da mudança</label>
+              <select id="themeFilter"></select>
+            </div>
+            <div class="filter-group">
+              <label for="domainFilter">Área</label>
+              <select id="domainFilter"></select>
+            </div>
+            <div class="filter-group">
+              <label for="typeFilter">Tipo de ato</label>
+              <select id="typeFilter"></select>
+            </div>
+            <div class="filter-group">
+              <label for="ministryFilter">Órgão principal</label>
+              <select id="ministryFilter"></select>
+            </div>
+            <div class="filter-group">
+              <label for="dateFilter">Data</label>
+              <select id="dateFilter"></select>
+            </div>
+            <div class="filter-group">
+              <label for="sortOrder">Ordenação</label>
+              <select id="sortOrder">
+                <option value="date-desc">Mais recentes</option>
+                <option value="date-asc">Mais antigos</option>
+                <option value="theme">Categoria</option>
+                <option value="ministry">Órgão</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="toggles">
+            <label><input id="onlyPairs" type="checkbox" /> Apenas retificações com “Onde se lê / Leia-se”</label>
+          </div>
+
+          <div class="chart-block">
+            <div class="section-heading">
+              <h2>Volume por dia</h2>
+              <button id="clearFilters" type="button">Limpar</button>
+            </div>
+            <div id="dailyChart" class="bars"></div>
+          </div>
+
+          <div class="chart-block">
+            <h2>Principais órgãos</h2>
+            <div id="ministryChart" class="rank-list"></div>
+          </div>
+        </aside>
+
+        <section class="results" aria-label="Resultados">
+          <div class="results-head">
+            <div>
+              <p id="resultCount" class="result-count">-</p>
+              <h2>Mudanças e atos encontrados</h2>
+            </div>
+            <div id="activeChips" class="chips"></div>
+          </div>
+
+          <div id="themeSummary" class="theme-summary"></div>
+          <div id="records" class="records"></div>
+        </section>
+      </section>
+    </main>
+
+    <dialog id="detailDialog">
+      <article class="modal">
+        <button id="closeDialog" class="icon-button" type="button" aria-label="Fechar">×</button>
+        <p id="detailMeta" class="eyebrow"></p>
+        <h2 id="detailTitle"></h2>
+        <div id="detailTags" class="chips"></div>
+        <div id="detailChanges"></div>
+        <p id="detailText"></p>
+        <a id="detailPdf" href="#" target="_blank" rel="noreferrer">Abrir página no DOU</a>
+      </article>
+    </dialog>
+
+    <script src="app.js"></script>
+  </body>
+</html>

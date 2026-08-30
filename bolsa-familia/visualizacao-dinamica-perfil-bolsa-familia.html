@@ -1,0 +1,841 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Bolsa Familia: dinamica e perfil dos beneficiarios</title>
+  <style>
+    :root {
+      --bg: #f0f3ef;
+      --panel: #ffffff;
+      --ink: #202625;
+      --muted: #61706b;
+      --line: #d7ded9;
+      --green: #18785b;
+      --blue: #2f6f9b;
+      --red: #b8453d;
+      --gold: #b77518;
+      --violet: #6957a8;
+      --soft-green: #dceee7;
+      --soft-blue: #dceaf3;
+      --soft-red: #f5dedb;
+      --soft-gold: #f4e7cf;
+      --soft-violet: #e6e2f4;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--ink);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.35;
+    }
+
+    main {
+      width: min(1240px, calc(100% - 32px));
+      margin: 0 auto;
+      padding: 34px 0 44px;
+    }
+
+    header {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 24px;
+      align-items: end;
+      border-bottom: 2px solid var(--line);
+      padding-bottom: 22px;
+    }
+
+    h1 {
+      margin: 0;
+      max-width: 920px;
+      font-size: clamp(2rem, 4.3vw, 5rem);
+      line-height: .95;
+      letter-spacing: 0;
+    }
+
+    h2 {
+      margin: 0 0 14px;
+      font-size: 1.1rem;
+      letter-spacing: 0;
+    }
+
+    h3 {
+      margin: 0;
+      font-size: .95rem;
+    }
+
+    p {
+      margin: 0;
+    }
+
+    .subtitle {
+      margin-top: 16px;
+      max-width: 820px;
+      color: var(--muted);
+      font-size: 1.05rem;
+    }
+
+    .source-box {
+      min-width: 270px;
+      max-width: 320px;
+      background: var(--panel);
+      border: 1px solid var(--line);
+      padding: 14px 16px;
+    }
+
+    .source-box strong {
+      display: block;
+      color: var(--green);
+      font-size: 1.55rem;
+      line-height: 1;
+    }
+
+    .source-box span {
+      display: block;
+      margin-top: 8px;
+      color: var(--muted);
+      font-size: .9rem;
+    }
+
+    .metric-grid {
+      display: grid;
+      grid-template-columns: repeat(6, 1fr);
+      gap: 12px;
+      margin: 22px 0;
+    }
+
+    .metric,
+    section {
+      background: var(--panel);
+      border: 1px solid var(--line);
+    }
+
+    .metric {
+      min-height: 132px;
+      padding: 14px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+
+    .metric .label {
+      color: var(--muted);
+      font-size: .78rem;
+      text-transform: uppercase;
+      letter-spacing: .05em;
+    }
+
+    .metric .value {
+      margin-top: 8px;
+      font-size: clamp(1.45rem, 2.2vw, 2.35rem);
+      line-height: 1;
+      font-weight: 800;
+    }
+
+    .metric .note {
+      margin-top: 10px;
+      color: var(--muted);
+      font-size: .84rem;
+    }
+
+    section {
+      padding: 18px;
+    }
+
+    .grid-main {
+      display: grid;
+      grid-template-columns: 1.2fr .8fr;
+      gap: 18px;
+    }
+
+    .split {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 18px;
+      margin-top: 18px;
+    }
+
+    .wide {
+      margin-top: 18px;
+    }
+
+    .chart {
+      overflow-x: auto;
+      padding-bottom: 4px;
+    }
+
+    svg {
+      display: block;
+      width: 100%;
+      min-width: 720px;
+      height: auto;
+    }
+
+    .axis,
+    .grid-line {
+      stroke: #c8d2cc;
+      stroke-width: 1;
+    }
+
+    .line-families {
+      fill: none;
+      stroke: var(--blue);
+      stroke-width: 4;
+      stroke-linejoin: round;
+      stroke-linecap: round;
+    }
+
+    .dot {
+      fill: var(--blue);
+      stroke: #fff;
+      stroke-width: 2;
+    }
+
+    .axis-label,
+    .year-label,
+    .small-label {
+      fill: var(--muted);
+      font-size: 12px;
+    }
+
+    .legend {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px 18px;
+      margin-top: 12px;
+      color: var(--muted);
+      font-size: .9rem;
+    }
+
+    .legend span {
+      display: inline-flex;
+      gap: 8px;
+      align-items: center;
+    }
+
+    .swatch {
+      width: 12px;
+      height: 12px;
+      display: inline-block;
+      background: var(--blue);
+    }
+
+    .swatch.green {
+      background: var(--green);
+    }
+
+    .swatch.red {
+      background: var(--red);
+    }
+
+    .swatch.gold {
+      background: var(--gold);
+    }
+
+    .reservoir {
+      display: grid;
+      grid-template-columns: 1fr 1.05fr 1fr;
+      gap: 14px;
+      align-items: stretch;
+    }
+
+    .flow-column {
+      display: grid;
+      gap: 10px;
+    }
+
+    .flow-item {
+      min-height: 72px;
+      padding: 11px 12px;
+      border-left: 5px solid var(--green);
+      background: var(--soft-green);
+    }
+
+    .flow-item.out {
+      border-color: var(--red);
+      background: var(--soft-red);
+    }
+
+    .flow-item strong,
+    .reservoir-core strong,
+    .event strong {
+      display: block;
+      font-size: .93rem;
+    }
+
+    .flow-item span,
+    .reservoir-core span,
+    .event span {
+      display: block;
+      margin-top: 5px;
+      color: var(--muted);
+      font-size: .84rem;
+    }
+
+    .reservoir-core {
+      min-height: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      gap: 14px;
+      padding: 18px;
+      text-align: center;
+      border: 2px solid var(--blue);
+      background: var(--soft-blue);
+    }
+
+    .reservoir-core .big {
+      display: block;
+      font-size: clamp(2.2rem, 5vw, 4.8rem);
+      line-height: .9;
+      font-weight: 900;
+      color: var(--blue);
+    }
+
+    .bar-list {
+      display: grid;
+      gap: 10px;
+    }
+
+    .bar-row {
+      display: grid;
+      grid-template-columns: 112px 1fr 72px;
+      gap: 10px;
+      align-items: center;
+      font-size: .9rem;
+    }
+
+    .bar-track {
+      height: 18px;
+      background: #e7eee9;
+      border: 1px solid var(--line);
+    }
+
+    .bar-fill {
+      height: 100%;
+      background: var(--green);
+    }
+
+    .bar-fill.blue {
+      background: var(--blue);
+    }
+
+    .bar-fill.red {
+      background: var(--red);
+    }
+
+    .bar-fill.gold {
+      background: var(--gold);
+    }
+
+    .bar-fill.violet {
+      background: var(--violet);
+    }
+
+    .profile-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 12px;
+    }
+
+    .profile-card {
+      border: 1px solid var(--line);
+      padding: 14px;
+      min-height: 150px;
+      background: #f8faf8;
+    }
+
+    .profile-card .big {
+      display: block;
+      margin: 10px 0 6px;
+      font-size: 2.1rem;
+      line-height: 1;
+      font-weight: 850;
+      color: var(--green);
+    }
+
+    .profile-card p {
+      color: var(--muted);
+      font-size: .87rem;
+    }
+
+    .donut-row {
+      display: grid;
+      grid-template-columns: 190px 1fr;
+      gap: 18px;
+      align-items: center;
+    }
+
+    .donut {
+      width: 172px;
+      aspect-ratio: 1;
+      border-radius: 50%;
+      background:
+        conic-gradient(
+          var(--green) 0 42.2%,
+          var(--blue) 42.2% 79.8%,
+          var(--gold) 79.8% 100%
+        );
+      position: relative;
+      margin: auto;
+    }
+
+    .donut::after {
+      content: "";
+      position: absolute;
+      inset: 36px;
+      border-radius: 50%;
+      background: var(--panel);
+      border: 1px solid var(--line);
+    }
+
+    .timeline {
+      display: grid;
+      gap: 10px;
+    }
+
+    .event {
+      padding: 11px 12px;
+      border-left: 5px solid var(--blue);
+      background: var(--soft-blue);
+    }
+
+    .event.green {
+      border-color: var(--green);
+      background: var(--soft-green);
+    }
+
+    .event.red {
+      border-color: var(--red);
+      background: var(--soft-red);
+    }
+
+    .event.gold {
+      border-color: var(--gold);
+      background: var(--soft-gold);
+    }
+
+    .event.violet {
+      border-color: var(--violet);
+      background: var(--soft-violet);
+    }
+
+    .table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: .9rem;
+    }
+
+    .table th,
+    .table td {
+      padding: 8px 6px;
+      border-bottom: 1px solid var(--line);
+      text-align: left;
+      white-space: nowrap;
+    }
+
+    .table th {
+      color: var(--muted);
+      font-size: .76rem;
+      text-transform: uppercase;
+      letter-spacing: .04em;
+    }
+
+    .table td:nth-child(2),
+    .table td:nth-child(3),
+    .table td:nth-child(4) {
+      text-align: right;
+    }
+
+    .note {
+      margin-top: 12px;
+      color: var(--muted);
+      font-size: .84rem;
+    }
+
+    .positive {
+      color: var(--green);
+      font-weight: 700;
+    }
+
+    .negative {
+      color: var(--red);
+      font-weight: 700;
+    }
+
+    @media (max-width: 1050px) {
+      .metric-grid,
+      .profile-grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+
+      .grid-main,
+      .split,
+      .reservoir,
+      .donut-row,
+      header {
+        grid-template-columns: 1fr;
+      }
+
+      .source-box {
+        max-width: none;
+      }
+    }
+
+    @media (max-width: 640px) {
+      main {
+        width: min(100% - 22px, 1240px);
+        padding-top: 22px;
+      }
+
+      .metric-grid,
+      .profile-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .bar-row {
+        grid-template-columns: 88px 1fr 66px;
+      }
+    }
+
+    @media print {
+      body {
+        background: #fff;
+      }
+
+      main {
+        width: 100%;
+        padding: 0;
+      }
+
+      section,
+      .metric,
+      .source-box {
+        break-inside: avoid;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <div>
+        <h1>Bolsa Familia: dinamica de entrada, saida e perfil</h1>
+        <p class="subtitle">Visualizacao baseada nos documentos sobre rotatividade do programa e perfil dos beneficiarios. O painel separa o "por que entra e sai" do "quem recebe".</p>
+      </div>
+      <div class="source-box">
+        <strong>2003-2026</strong>
+        <span>Base: dinamica-entrada-saida-bolsa-familia.md e perfil-beneficiarios-bolsa-familia.md.</span>
+      </div>
+    </header>
+
+    <div class="metric-grid">
+      <article class="metric">
+        <div class="label">Estoque atual</div>
+        <div class="value">18,84 mi</div>
+        <div class="note">familias em fev/2026</div>
+      </article>
+      <article class="metric">
+        <div class="label">Pessoas atendidas</div>
+        <div class="value">~49 mi</div>
+        <div class="note">patamar estimado em 2026</div>
+      </article>
+      <article class="metric">
+        <div class="label">Saida em 10 anos</div>
+        <div class="value positive">60,7%</div>
+        <div class="note">estudo FGV/MDS 2014-2024</div>
+      </article>
+      <article class="metric">
+        <div class="label">Jovens 15-17</div>
+        <div class="value positive">71,25%</div>
+        <div class="note">deixaram o programa em 10 anos</div>
+      </article>
+      <article class="metric">
+        <div class="label">Titulares mulheres</div>
+        <div class="value">83,91%</div>
+        <div class="note">responsaveis familiares em nov/2025</div>
+      </article>
+      <article class="metric">
+        <div class="label">Criancas e jovens</div>
+        <div class="value">48%</div>
+        <div class="note">do publico atendido</div>
+      </article>
+    </div>
+
+    <div class="grid-main">
+      <section>
+        <h2>Evolucao do estoque de familias</h2>
+        <div class="chart" aria-label="Linha historica de familias beneficiarias">
+          <svg viewBox="0 0 860 390" role="img">
+            <line class="grid-line" x1="70" y1="320" x2="812" y2="320"></line>
+            <line class="grid-line" x1="70" y1="240" x2="812" y2="240"></line>
+            <line class="grid-line" x1="70" y1="161" x2="812" y2="161"></line>
+            <line class="grid-line" x1="70" y1="81" x2="812" y2="81"></line>
+            <line class="axis" x1="70" y1="320" x2="812" y2="320"></line>
+            <line class="axis" x1="70" y1="70" x2="70" y2="320"></line>
+            <text class="axis-label" x="28" y="324">0</text>
+            <text class="axis-label" x="22" y="244">7 mi</text>
+            <text class="axis-label" x="18" y="165">14 mi</text>
+            <text class="axis-label" x="18" y="85">21 mi</text>
+
+            <path class="line-families" d="M70 307 L132 229 L194 195 L256 172 L318 161 L380 172 L442 163 L504 154 L566 155 L628 73 L690 84 L752 108 L812 106"></path>
+            <g>
+              <circle class="dot" cx="70" cy="307" r="5"></circle>
+              <circle class="dot" cx="132" cy="229" r="5"></circle>
+              <circle class="dot" cx="194" cy="195" r="5"></circle>
+              <circle class="dot" cx="256" cy="172" r="5"></circle>
+              <circle class="dot" cx="318" cy="161" r="5"></circle>
+              <circle class="dot" cx="380" cy="172" r="5"></circle>
+              <circle class="dot" cx="442" cy="163" r="5"></circle>
+              <circle class="dot" cx="504" cy="154" r="5"></circle>
+              <circle class="dot" cx="566" cy="155" r="5"></circle>
+              <circle class="dot" cx="628" cy="73" r="5"></circle>
+              <circle class="dot" cx="690" cy="84" r="5"></circle>
+              <circle class="dot" cx="752" cy="108" r="5"></circle>
+              <circle class="dot" cx="812" cy="106" r="5"></circle>
+            </g>
+            <g>
+              <text class="year-label" x="58" y="346">2003</text>
+              <text class="year-label" x="120" y="346">2003*</text>
+              <text class="year-label" x="182" y="346">2006</text>
+              <text class="year-label" x="244" y="346">2011</text>
+              <text class="year-label" x="306" y="346">2014</text>
+              <text class="year-label" x="368" y="346">2017</text>
+              <text class="year-label" x="430" y="346">2020</text>
+              <text class="year-label" x="492" y="346">COVID</text>
+              <text class="year-label" x="554" y="346">2021</text>
+              <text class="year-label" x="616" y="346">2023</text>
+              <text class="year-label" x="678" y="346">2024</text>
+              <text class="year-label" x="740" y="346">2025</text>
+              <text class="year-label" x="800" y="346">2026</text>
+            </g>
+            <text class="small-label" x="606" y="62">21,7 mi</text>
+            <text class="small-label" x="756" y="96">18,84 mi</text>
+          </svg>
+        </div>
+        <div class="legend">
+          <span><i class="swatch"></i>Familias beneficiarias nos pontos citados pelos documentos</span>
+        </div>
+        <p class="note">A serie combina marcos historicos e dados recentes. 2003* marca a unificacao de programas preexistentes. O salto 2021-2023 reflete Auxilio Brasil, COVID-19 e relancamento do Bolsa Familia; a queda posterior reflete pente-fino e saidas por renda.</p>
+      </section>
+
+      <section>
+        <h2>Fases do programa</h2>
+        <div class="timeline">
+          <div class="event green">
+            <strong>2003-2014: expansao de cobertura</strong>
+            <span>Unificacao de programas e busca de familias elegiveis ainda fora da rede.</span>
+          </div>
+          <div class="event blue">
+            <strong>2014-2020: estabilidade com choques</strong>
+            <span>Crise economica aumenta demanda; revisoes e filas limitam o crescimento liquido.</span>
+          </div>
+          <div class="event gold">
+            <strong>2020-2023: expansao extraordinaria</strong>
+            <span>COVID-19, Auxilio Emergencial, Auxilio Brasil e novo desenho de beneficios.</span>
+          </div>
+          <div class="event red">
+            <strong>2024-2026: contracao e limpeza da base</strong>
+            <span>Queda de 21,7 mi para 18,84 mi familias, por pente-fino e superacao de renda.</span>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <section class="wide">
+      <h2>O mecanismo: entrada, permanencia e saida</h2>
+      <div class="reservoir">
+        <div class="flow-column">
+          <div class="flow-item">
+            <strong>Expansao de cobertura</strong>
+            <span>Elegiveis que ja existiam, mas ainda nao estavam cadastrados.</span>
+          </div>
+          <div class="flow-item">
+            <strong>Choques economicos</strong>
+            <span>Crise 2014-2016 e COVID-19 empurraram familias para a pobreza.</span>
+          </div>
+          <div class="flow-item">
+            <strong>Volatilidade de renda</strong>
+            <span>Trabalho informal faz familias oscilarem acima e abaixo da linha.</span>
+          </div>
+          <div class="flow-item">
+            <strong>Novos lares</strong>
+            <span>Jovens de familias pobres formam domicilios proprios.</span>
+          </div>
+        </div>
+        <div class="reservoir-core">
+          <div>
+            <span class="big">18,84 mi</span>
+            <strong>familias no estoque em fev/2026</strong>
+            <span>O tamanho do programa e resultado liquido entre entradas continuas, saidas bem-sucedidas e exclusoes administrativas.</span>
+          </div>
+          <div>
+            <strong>Regra de Protecao</strong>
+            <span>Quem melhora a renda pode manter 50% do beneficio por ate 2 anos, reduzindo a perda abrupta.</span>
+          </div>
+        </div>
+        <div class="flow-column">
+          <div class="flow-item out">
+            <strong>Superacao de renda</strong>
+            <span>1,3 mi familias sairam em 2024 por melhora de renda.</span>
+          </div>
+          <div class="flow-item out">
+            <strong>Pente-fino cadastral</strong>
+            <span>Cruzamento de dados, cadastros desatualizados e irregularidades.</span>
+          </div>
+          <div class="flow-item out">
+            <strong>Condicionalidades</strong>
+            <span>Descumprimento reiterado existe, mas e escala minoritaria.</span>
+          </div>
+          <div class="flow-item out">
+            <strong>Saida de longo prazo</strong>
+            <span>60-70% deixam o programa em estudos de 10 a 14 anos.</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <div class="split">
+      <section>
+        <h2>Saida de beneficiarios: evidencias de mobilidade</h2>
+        <div class="bar-list">
+          <div class="bar-row"><span>Media geral</span><div class="bar-track"><div class="bar-fill green" style="width: 60.7%"></div></div><strong>60,7%</strong></div>
+          <div class="bar-row"><span>15-17 anos</span><div class="bar-track"><div class="bar-fill green" style="width: 71.25%"></div></div><strong>71,25%</strong></div>
+          <div class="bar-row"><span>11-14 anos</span><div class="bar-track"><div class="bar-fill green" style="width: 68.8%"></div></div><strong>68,8%</strong></div>
+          <div class="bar-row"><span>0-4 anos</span><div class="bar-track"><div class="bar-fill green" style="width: 41.26%"></div></div><strong>41,26%</strong></div>
+          <div class="bar-row"><span>Coorte 2005</span><div class="bar-track"><div class="bar-fill blue" style="width: 64.1%"></div></div><strong>64,1%</strong></div>
+          <div class="bar-row"><span>Mercado formal</span><div class="bar-track"><div class="bar-fill gold" style="width: 45%"></div></div><strong>45%</strong></div>
+        </div>
+        <p class="note">As quatro primeiras linhas sao do estudo FGV/MDS 2014-2024. "Coorte 2005" mede criancas beneficiarias que nao estavam mais no CadUnico em 2019; "mercado formal" e o acesso desses jovens ao emprego formal entre 2015-2019.</p>
+      </section>
+
+      <section>
+        <h2>Motivos de saida em 2024-2025</h2>
+        <div class="bar-list">
+          <div class="bar-row"><span>Superacao renda</span><div class="bar-track"><div class="bar-fill green" style="width: 40%"></div></div><strong>~40%</strong></div>
+          <div class="bar-row"><span>Pente-fino</span><div class="bar-track"><div class="bar-fill red" style="width: 60%"></div></div><strong>~60%</strong></div>
+          <div class="bar-row"><span>Renda 2024</span><div class="bar-track"><div class="bar-fill green" style="width: 65%"></div></div><strong>1,3 mi</strong></div>
+          <div class="bar-row"><span>Revisao</span><div class="bar-track"><div class="bar-fill red" style="width: 100%"></div></div><strong>~2 mi</strong></div>
+        </div>
+        <p class="note">Em anos normais, a superacao de renda tende a pesar mais. Em anos com revisao cadastral intensiva, o pente-fino domina o volume de saidas.</p>
+      </section>
+    </div>
+
+    <section class="wide">
+      <h2>Perfil dos beneficiarios</h2>
+      <div class="profile-grid">
+        <div class="profile-card">
+          <h3>Mulheres no publico</h3>
+          <span class="big">58,2%</span>
+          <p>Meninas e mulheres somavam cerca de 32 milhoes de pessoas atendidas em 2024.</p>
+        </div>
+        <div class="profile-card">
+          <h3>Mulheres titulares</h3>
+          <span class="big">83,91%</span>
+          <p>Responsaveis familiares em nov/2025; desenho prioriza a mulher como titular.</p>
+        </div>
+        <div class="profile-card">
+          <h3>Pretos e pardos</h3>
+          <span class="big">73%</span>
+          <p>Aproximadamente 39,6 milhoes de pessoas no recorte de 2024.</p>
+        </div>
+        <div class="profile-card">
+          <h3>Criancas e adolescentes</h3>
+          <span class="big">~34 mi</span>
+          <p>Inclui 9,4 mi de 0 a 6 anos e 24,86 mi de 7 a 18 anos.</p>
+        </div>
+      </div>
+    </section>
+
+    <div class="split">
+      <section>
+        <h2>Arranjos familiares</h2>
+        <div class="donut-row">
+          <div class="donut" aria-label="Grafico de rosca com arranjos familiares"></div>
+          <div class="bar-list">
+            <div class="bar-row"><span>Mae solo</span><div class="bar-track"><div class="bar-fill green" style="width: 42.2%"></div></div><strong>42,2%</strong></div>
+            <div class="bar-row"><span>Casal filhos</span><div class="bar-track"><div class="bar-fill blue" style="width: 37.6%"></div></div><strong>37,6%</strong></div>
+            <div class="bar-row"><span>Outros</span><div class="bar-track"><div class="bar-fill gold" style="width: 20.2%"></div></div><strong>20,2%</strong></div>
+            <div class="bar-row"><span>Unipessoais</span><div class="bar-track"><div class="bar-fill red" style="width: 20%"></div></div><strong>~4 mi</strong></div>
+          </div>
+        </div>
+        <p class="note">O documento destaca que familias unipessoais cresceram 73% entre 2021 e 2022, o que motivou regras cadastrais mais rigorosas.</p>
+      </section>
+
+      <section>
+        <h2>Distribuicao regional das familias</h2>
+        <div class="bar-list">
+          <div class="bar-row"><span>Nordeste</span><div class="bar-track"><div class="bar-fill green" style="width: 100%"></div></div><strong>9,46 mi</strong></div>
+          <div class="bar-row"><span>Sudeste</span><div class="bar-track"><div class="bar-fill blue" style="width: 63.4%"></div></div><strong>~6,0 mi</strong></div>
+          <div class="bar-row"><span>Norte</span><div class="bar-track"><div class="bar-fill gold" style="width: 28.0%"></div></div><strong>2,65 mi</strong></div>
+          <div class="bar-row"><span>Sul</span><div class="bar-track"><div class="bar-fill violet" style="width: 16.1%"></div></div><strong>~1,52 mi</strong></div>
+          <div class="bar-row"><span>Centro-Oeste</span><div class="bar-track"><div class="bar-fill red" style="width: 12.1%"></div></div><strong>~1,14 mi</strong></div>
+        </div>
+        <p class="note">Dados de dezembro de 2024. O Nordeste concentra cerca de 45,4% das familias beneficiarias.</p>
+      </section>
+    </div>
+
+    <div class="split">
+      <section>
+        <h2>Economia e trabalho</h2>
+        <div class="bar-list">
+          <div class="bar-row"><span>Novos empregos BF</span><div class="bar-track"><div class="bar-fill green" style="width: 75.5%"></div></div><strong>75,5%</strong></div>
+          <div class="bar-row"><span>CadUnico no CAGED</span><div class="bar-track"><div class="bar-fill blue" style="width: 98.87%"></div></div><strong>98,87%</strong></div>
+          <div class="bar-row"><span>Ocupacao 14+</span><div class="bar-track"><div class="bar-fill gold" style="width: 58.6%"></div></div><strong>58,6%</strong></div>
+          <div class="bar-row"><span>Desocupacao</span><div class="bar-track"><div class="bar-fill red" style="width: 4.2%"></div></div><strong>4,2%</strong></div>
+        </div>
+        <p class="note">O documento usa esses dados como evidencia contra a hipotese de "efeito preguica".</p>
+      </section>
+
+      <section>
+        <h2>Condicionalidades e beneficios</h2>
+        <table class="table">
+          <thead>
+            <tr>
+              <th>Item</th>
+              <th>Valor/Meta</th>
+              <th>Resultado</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr><td>Piso por familia</td><td>R$ 600</td><td>garantido</td></tr>
+            <tr><td>Renda cidadania</td><td>R$ 142</td><td>por pessoa</td></tr>
+            <tr><td>Primeira infancia</td><td>R$ 150</td><td>0 a 6 anos</td></tr>
+            <tr><td>Variavel familiar</td><td>R$ 50</td><td>7 a 18 anos, gestantes e nutrizes</td></tr>
+            <tr><td>Vacinacao</td><td>-</td><td class="positive">98,99%</td></tr>
+            <tr><td>Nutricao</td><td>-</td><td class="positive">98,81%</td></tr>
+            <tr><td>Pre-natal</td><td>-</td><td class="positive">99,9%</td></tr>
+          </tbody>
+        </table>
+      </section>
+    </div>
+
+    <section class="wide">
+      <h2>Sintese operacional</h2>
+      <table class="table">
+        <thead>
+          <tr>
+            <th>Pergunta</th>
+            <th>Resposta dos documentos</th>
+            <th>Numero-chave</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td>O programa gera dependencia?</td><td>Maioria sai em 10-14 anos; contexto estrutural limita uma minoria.</td><td class="positive">60-70% saem</td></tr>
+          <tr><td>Por que cresce?</td><td>Cobertura, crises, volatilidade de renda, novas familias e reajuste de criterios.</td><td>6 fatores</td></tr>
+          <tr><td>Por que caiu desde 2023?</td><td>Pente-fino, superacao de renda e ajuste orcamentario.</td><td class="negative">-13,2%</td></tr>
+          <tr><td>Quem recebe?</td><td>Predominio de mulheres, criancas/adolescentes, pretos/pardos e Nordeste.</td><td>83,91% titulares mulheres</td></tr>
+          <tr><td>Qual o papel fiscal?</td><td>Programa focalizado com custo menor que regimes universais amplos.</td><td>~1,4% do PIB</td></tr>
+          <tr><td>Qual o retorno economico?</td><td>Transferencia com alto multiplicador local e sobre o PIB.</td><td>R$ 1,78 por R$ 1</td></tr>
+        </tbody>
+      </table>
+      <p class="note">Os dados foram extraidos dos dois documentos markdown locais. Algumas grandezas sao arredondadas porque as fontes originais citadas nos documentos usam meses, recortes e programas diferentes.</p>
+    </section>
+  </main>
+</body>
+</html>

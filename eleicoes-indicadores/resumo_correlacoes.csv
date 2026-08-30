@@ -1,0 +1,12 @@
+relacao,periodo,r_bruto,r_parcial_controle_base,interpretacao,significancia_p05_r0381
+var_desemprego -> var_voto_PT,2014-2018,0.022,,sem relacao (esperado negativo p/ voto economico),nao
+var_renda_real -> var_voto_PT,2014-2018,-0.311,,"SINAL ERRADO: onde renda foi melhor, PT foi mais punido",nao
+var_homicidios -> var_voto_PT,2014-2018,-0.203,,"fraco, direcao esperada",nao
+nivel_PT_2014 -> var_voto_PT,2014-2018,0.454,,PT resistiu onde ja era forte (regiao/identidade),SIM
+dummy_Nordeste -> var_voto_PT,2014-2018,0.693,,regiao domina: NE puniu muito menos,SIM
+var_desemprego -> var_voto_Bolsonaro,2018-2022,-0.315,-0.60 (| base),sinal economico: emprego melhora -> incumbente sobe; SOBREVIVE ao controle,borderline/SIM apos controle
+var_renda_real -> var_voto_Bolsonaro,2018-2022,0.342,0.024 (| base),premio da renda DESAPARECE ao controlar ponto de partida,nao
+var_homicidios -> var_voto_Bolsonaro,2018-2022,-0.183,,"fraco, direcao esperada",nao
+var_idhm_2010_2022 -> var_voto_Bolsonaro,2018-2022,0.611,,confundido com regiao (NE teve maior ganho de IDHM),SIM mas confundido
+nivel_Bolsonaro_2018 -> var_voto_Bolsonaro,2018-2022,-0.626,,REVERSAO A MEDIA: caiu mais onde era mais forte,SIM
+dummy_Nordeste -> var_voto_Bolsonaro,2018-2022,0.527,,regiao domina: Bolsonaro so cresceu no N/NE,SIM

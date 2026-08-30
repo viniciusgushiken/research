@@ -1,0 +1,189 @@
+================================================================================
+  FATURAMENTO (RECEITA LÍQUIDA) DAS EMPRESAS LISTADAS NA B3 EM 2025
+  Pesquisa compilada em 02/06/2026
+================================================================================
+
+1. DADO AGREGADO PRINCIPAL
+================================================================================
+
+Receita líquida consolidada de TODAS as companhias listadas na B3:
+
+  Ano 2023: R$ 5,13 trilhões
+  Ano 2024: R$ 5,62 trilhões (crescimento de 9,38%)
+  Ano 2025: ~R$ 6,0 a 6,2 trilhões (estimativa baseada em dados trimestrais)
+
+  Fonte: Economatica - Análise Econômico-Financeira das Companhias Listadas na B3
+
+O dado consolidado oficial para o ano completo de 2025 ainda não foi publicado
+pela Economatica ou pela B3 em formato agregado até a data desta pesquisa.
+A estimativa é baseada nos seguintes dados trimestrais confirmados:
+
+  - 1T25: R$ 1,39 trilhão (crescimento de 9,36% vs 1T24)
+  - 2T25: R$ 780 bilhões (crescimento de 7,1% vs 2T24) *parcial, excluía
+    Petrobras e Suzano em algumas amostras
+  - Crescimento médio de receita das empresas: ~7-9% ao longo de 2025
+
+Número de empresas listadas na B3: ~339 a 358
+
+================================================================================
+
+2. CONVERSÃO PARA DÓLARES (USD)
+================================================================================
+
+Taxa de câmbio média 2025: 1 USD = 5,59 BRL
+(Fontes: exchange-rates.org, x-rates.com)
+
+  Receita líquida consolidada estimada em 2025:
+  ┌──────────────────────────────────────────────────────────────────────────┐
+  │  R$ 6,0 trilhões  →  USD 1,07 trilhão  (cenário conservador)          │
+  │  R$ 6,15 trilhões →  USD 1,10 trilhão  (cenário base)                 │
+  │  R$ 6,2 trilhões  →  USD 1,11 trilhão  (cenário otimista)             │
+  │                                                                        │
+  │  MELHOR ESTIMATIVA: ~USD 1,07 a 1,10 trilhão                          │
+  └──────────────────────────────────────────────────────────────────────────┘
+
+Para referência: O último dado confirmado (2024) é de R$ 5,62 trilhões,
+equivalente a ~USD 1,01 trilhão (câmbio médio 2024 de ~5,58).
+
+================================================================================
+
+3. TOP 10 EMPRESAS POR RECEITA LÍQUIDA EM 2025
+================================================================================
+
+Fonte: Elos Ayta Consultoria / Bora Investir (B3) / TrendsCE
+
+  Pos | Empresa            | Receita 2025    | Receita em USD
+  ----|--------------------|-----------------|-----------------
+   1  | Petrobras          | R$ 497,5 bi     | USD 89,0 bi
+   2  | JBS                | R$ 480,0 bi     | USD 85,9 bi
+   3  | Itaú Unibanco      | R$ 350,7 bi     | USD 62,7 bi
+   4  | Banco do Brasil    | R$ 304,3 bi     | USD 54,4 bi
+   5  | Bradesco           | R$ 233,3 bi     | USD 41,7 bi
+   6  | Vale               | R$ 213,5 bi     | USD 38,2 bi
+   7  | Vibra Energia      | ~R$ 210 bi*     | ~USD 37,6 bi*
+   8  | Raízen             | ~R$ 190 bi*     | ~USD 34,0 bi*
+   9  | Marfrig            | ~R$ 170 bi*     | ~USD 30,4 bi*
+  10  | Santander Brasil   | R$ 161,3 bi     | USD 28,9 bi
+
+  * Valores estimados com base no posicionamento no ranking
+    (dados exatos não disponíveis publicamente para estas empresas)
+
+  Subtotal Top 10:     ~R$ 2,81 trilhões  (~USD 503 bilhões)
+  % do total da B3:    ~46%
+
+================================================================================
+
+4. LUCRO LÍQUIDO AGREGADO EM 2025
+================================================================================
+
+  1º semestre 2025 (todas as empresas B3):
+    R$ 244 bilhões (crescimento de 39% vs 1S24)
+    Fonte: Investidor10
+
+  3º trimestre 2025 (todas as empresas B3):
+    R$ 79 bilhões
+    Fonte: Investidor10
+
+  Top 10 mais lucrativas (ano completo 2025):
+    R$ 288,6 bilhões (crescimento de 37,2% vs 2024)
+    Fonte: Elos Ayta Consultoria
+
+  Lucro geral cresceu 18% em 2025 para todas as listadas.
+  Fonte: LinkedIn News / múltiplas fontes
+
+  Ranking de lucro líquido 2025 (Top 10):
+
+  Pos | Empresa           | Lucro 2025     | Lucro em USD
+  ----|-------------------|----------------|---------------
+   1  | Petrobras         | R$ 110,1 bi    | USD 19,7 bi
+   2  | Itaú Unibanco     | R$ 45,7 bi     | USD 8,2 bi
+   3  | Bradesco          | R$ 24,6 bi     | USD 4,4 bi
+   4  | Banco do Brasil   | R$ 17,6 bi     | USD 3,1 bi
+   5  | Suzano            | R$ 13,4 bi     | USD 2,4 bi
+   6  | BTG Pactual       | ~R$ 13 bi*     | ~USD 2,3 bi*
+   7  | Itaúsa            | ~R$ 12 bi*     | ~USD 2,1 bi*
+   8  | Santander Brasil  | ~R$ 11 bi*     | ~USD 2,0 bi*
+   9  | Vale              | ~R$ 10 bi*     | ~USD 1,8 bi*
+  10  | Ambev             | ~R$ 10 bi*     | ~USD 1,8 bi*
+
+  * Valores aproximados com base em dados parciais
+
+  Petrobras sozinha representou 38,2% do lucro das 10 maiores.
+
+================================================================================
+
+5. CONTEXTO ADICIONAL
+================================================================================
+
+  - PIB do Brasil em 2025: ~R$ 12,5 trilhões (~USD 2,24 trilhões)
+  - Receita B3-listadas / PIB: ~49-50%
+  - Valor de mercado total da B3 (dez/2025): ~R$ 5,5-6,0 trilhões
+  - Ibovespa 2025: +33,95% (32 recordes de alta)
+
+  Ranking Exame Melhores e Maiores 2025 (dados de 2024):
+    1.000 maiores empresas do Brasil: R$ 9,7 trilhões em receita
+    (inclui empresas listadas E não-listadas)
+
+  Os setores dominantes em receita na B3:
+    1. Bancos/Financeiro: ~R$ 2,1 trilhões
+    2. Energia/Petróleo: ~R$ 1,6 trilhão
+    3. Alimentos/Frigoríficos: ~R$ 800 bilhões
+    4. Mineração/Siderurgia: ~R$ 400 bilhões
+
+================================================================================
+
+6. METODOLOGIA E RESSALVAS
+================================================================================
+
+  - A receita dos bancos inclui receitas de intermediação financeira, que
+    seguem padrão contábil diferente de empresas não-financeiras. Isso pode
+    inflar o total quando comparado com métricas de "faturamento" tradicionais.
+
+  - Os dados das posições 7-9 do ranking de receita (Vibra, Raízen, Marfrig)
+    são estimativas baseadas no posicionamento relativo, pois os valores
+    exatos não estavam disponíveis nas fontes consultadas.
+
+  - A estimativa de R$ 6,0-6,2 trilhões para 2025 é baseada na projeção
+    da taxa de crescimento observada no 1T25 (~9,4%) e no 2T25 (~7,1%)
+    sobre a base confirmada de R$ 5,62 trilhões de 2024.
+
+  - Taxa de câmbio usada: USD/BRL médio de 2025 = 5,59
+    (variou entre 5,27 e 6,31 ao longo do ano)
+
+================================================================================
+
+7. FONTES
+================================================================================
+
+  [1] Economatica - Análise Econômico-Financeira das Companhias Listadas na B3
+      https://www.economatica.com/blog/analise-economico-financeira-das-companhias-listadas-na-b3-comparativo-2024-x-2023-e-1t25-x-1t24/
+
+  [2] Bora Investir (B3) - Ranking de Receitas
+      https://borainvestir.b3.com.br/noticias/empresas/veja-ranking-das-maiores-empresas-brasileiras-em-receita-petrobras-e-jbs-lideram/
+
+  [3] TrendsCE - Ranking Receita B3 2025
+      https://www.trendsce.com.br/2026/03/30/quais-empresas-lideram-o-ranking-de-receita-da-b3-em-2025/
+
+  [4] Exame - Lucro das maiores empresas da B3
+      https://exame.com/invest/mercados/lucro-das-maiores-empresas-da-b3-cresce-37-e-vai-a-r-289-bi-em-2025/
+
+  [5] Bora Investir (B3) - Petrobras puxa lucros
+      https://borainvestir.b3.com.br/noticias/empresas/petrobras-puxa-salto-dos-lucros-na-b3-em-2025-e-amplia-concentracao-entre-gigantes-veja-ranking/
+
+  [6] Investidor10 - Lucro 1º semestre 2025
+      https://investidor10.com.br/noticias/empresas-da-b3-lucraram-r-244-bi-no-1-semestre-de-2025-veja-os-maiores-lucros-115260/
+
+  [7] Investidor10 - Lucro 3T25
+      https://investidor10.com.br/noticias/empresas-da-b3-lucraram-r-79-bi-no-3t25-veja-os-maiores-lucros-116868/
+
+  [8] Exame - Melhores e Maiores 2025
+      https://exame.com/revista-exame/crescimento-na-turbulencia/
+
+  [9] PwC - Balanços empresas de capital aberto 2024
+      https://www.pwc.com.br/pt/sala-de-imprensa/release/balancos-em-empresas-brasileiras-de-capital-aberto-em-2024-mostram-aumento-medio-de-receita-de-7-7-porcento-e-ganho-de-margem-operacional-de-14-pontos-percentuais.html
+
+  [10] Exchange Rates - USD/BRL 2025
+       https://www.exchange-rates.org/exchange-rate-history/usd-brl-2025
+
+  [11] Traders - 10 empresas mais lucrativas
+       https://www.traders.com.br/blog/posts/petrobras-itau-e-mais-as-10-empresas-mais-lucrativas-da-b3-em-2025

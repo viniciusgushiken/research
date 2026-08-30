@@ -1,0 +1,238 @@
+Pesquisa: Subsidios do Governo Federal brasileiro a empresas privadas e setores economicos (2020-2025)
+Data da pesquisa: 28/04/2026
+
+ESCOPO
+
+Esta pesquisa considera "subsidios" em sentido amplo, conforme a definicao usada pelo Ministerio do Planejamento e Orcamento (MPO): beneficios tributarios, financeiros e crediticios.
+
+Nem todo subsidio listado e transferencia direta para empresas privadas. Muitos operam como reducao de tributos, credito publico com condicoes favorecidas, equalizacao de juros/precos ou assuncao de passivos. Alguns tem beneficiarios finais pessoas fisicas ou consumidores, mas passam por empresas privadas, setores produtivos, bancos, incorporadoras, produtores rurais, instituicoes de ensino, entidades ou operadores economicos.
+
+Categorias consideradas:
+
+1. Subsidios/beneficios tributarios
+   - Renuncias fiscais, isencoes, aliquota zero, reducoes de base de calculo, deducoes, creditos presumidos, regimes especiais e tratamentos tributarios diferenciados.
+
+2. Subsidios/beneficios financeiros
+   - Desembolsos explicitos, subvenções economicas, equalizacoes de juros/precos e assuncao de dividas pela Uniao.
+
+3. Subsidios/beneficios crediticios
+   - Recursos da Uniao em fundos, programas ou linhas de credito com retorno inferior ao custo de captacao do governo federal.
+
+
+TAMANHO TOTAL DOS SUBSIDIOS FEDERAIS
+
+Valores correntes aproximados. As series podem ser revisadas por mudancas metodologicas e reestimacoes oficiais.
+
+Ano    Tributarios       Financeiros       Crediticios       Total aproximado
+2020   ~R$ 321-329 bi    ~R$ 17 bi         ~R$ 9 bi          ~R$ 347-355 bi
+2021   ~R$ 372 bi        R$ 22,5 bi        R$ 30,5 bi        ~R$ 425 bi
+2022   ~R$ 480 bi        ~R$ 28 bi         ~R$ 92-95 bi      ~R$ 603 bi
+2023   R$ 541,1 bi       R$ 44,1 bi        R$ 82,8 bi        R$ 668 bi
+2024   R$ 563,5 bi       R$ 65,0 bi        R$ 49,8 bi        R$ 678 bi
+2025   ~R$ 544,5 bi      financeiros+crediticios: ~R$ 134,3 bi  ~R$ 678,8 bi
+
+Observacoes:
+
+- Em 2024, o total de subsidios da Uniao foi de R$ 678 bilhoes, equivalente a 5,78% do PIB.
+- Em 2024, os beneficios tributarios responderam por 83,1% do total.
+- Para 2025, a Receita Federal estimou gastos tributarios de R$ 544,47 bilhoes.
+- Para 2025, o TCU registrou previsao de R$ 134,3 bilhoes em beneficios financeiros e crediticios.
+
+
+PRINCIPAIS SUBSIDIOS EM 2024
+
+Valores nominais em R$ bilhoes, conforme OSU 2025 / 9a edicao, referente ao ano-base 2024.
+
+Beneficio / programa                                                Tipo          Valor 2024
+SIMPLES Nacional                                                    Tributario    R$ 118,2 bi
+Agricultura e Agroindustria                                         Tributario    R$ 77,2 bi
+Rendimentos Isentos e Nao Tributaveis - IRPF                        Tributario    R$ 57,7 bi
+Entidades Sem Fins Lucrativos - Imunes / Isentas                    Tributario    R$ 43,8 bi
+Deducoes do Rendimento Tributavel - IRPF                            Tributario    R$ 38,3 bi
+Fundo de Compensacao das Variacoes Salariais - FCVS                 Financeiro    R$ 33,0 bi
+Zona Franca de Manaus e Areas de Livre Comercio                     Tributario    R$ 27,6 bi
+Fundos Constitucionais de Financiamento - FNE, FNO e FCO            Crediticio    R$ 23,7 bi
+Desenvolvimento Regional                                            Tributario    R$ 23,6 bi
+Poupanca e Titulos de Credito - Setor Imobiliario e Agronegocio     Tributario    R$ 23,3 bi
+Fundo de Financiamento ao Estudante do Ensino Superior - FIES        Crediticio    R$ 20,7 bi
+Beneficios do Trabalhador                                           Tributario    R$ 20,2 bi
+Medicamentos, Produtos Farmaceuticos e Equipamentos Medicos         Tributario    R$ 19,5 bi
+PERSE - Programa Emergencial de Retomada do Setor de Eventos        Tributario    R$ 17,7 bi
+Desoneracao da Folha de Salarios                                    Tributario    R$ 15,8 bi
+Minha Casa Minha Vida - MCMV                                        Financeiro    R$ 12,9 bi
+Desoneracao da Folha dos Municipios                                 Tributario    R$ 10,6 bi
+Pesquisas Cientificas e Inovacao Tecnologica                        Tributario    R$ 9,2 bi
+MEI - Microempreendedor Individual                                  Tributario    R$ 8,2 bi
+Fundo de Amparo ao Trabalhador - FAT                                Crediticio    R$ 7,7 bi
+Financiamentos Habitacionais                                        Tributario    R$ 6,5 bi
+Informatica e Automacao                                             Tributario    R$ 6,4 bi
+Setor Automotivo                                                    Tributario    R$ 5,5 bi
+PRONAF - equalizacao                                                Financeiro    R$ 5,0 bi
+Programa MOVER                                                      Tributario    R$ 4,4 bi
+Operacoes de Investimento Rural e Agroindustrial                    Financeiro    R$ 2,8 bi
+FNDCT - financiamento                                               Crediticio    R$ 2,7 bi
+FDNE - financiamento                                                Crediticio    R$ 1,8 bi
+FDA - financiamento                                                 Crediticio    R$ 1,7 bi
+FNDCT - equalizacao e subvencoes                                    Financeiro    R$ 1,1 bi
+Emprestimos da Uniao ao BNDES                                       Crediticio    R$ 1,0 bi
+Fundo da Marinha Mercante - FMM                                     Crediticio    -R$ 10,9 bi
+
+Nota sobre FMM: o valor negativo em 2024 indica reversao/ganho apurado na metodologia de beneficio crediticio, nao uma despesa positiva naquele ano.
+
+
+MAPA DOS PRINCIPAIS SUBSIDIOS POR MODALIDADE
+
+1. Beneficios tributarios
+
+- SIMPLES Nacional.
+- MEI.
+- Agricultura e agroindustria.
+- Zona Franca de Manaus e Areas de Livre Comercio.
+- Desenvolvimento regional, incluindo incentivos ligados a Sudam, Sudene e Centro-Oeste.
+- Poupanca, LCI, LCA e titulos de credito imobiliario e do agronegocio.
+- PERSE - Programa Emergencial de Retomada do Setor de Eventos.
+- Desoneracao da folha de salarios.
+- Desoneracao da folha dos municipios.
+- Setor automotivo, Rota 2030 e Programa MOVER.
+- Pesquisas cientificas e inovacao tecnologica, incluindo Lei do Bem.
+- Informatica e automacao.
+- PADIS - semicondutores.
+- Medicamentos, produtos farmaceuticos e equipamentos medicos.
+- Livros.
+- Entidades imunes/isentas e entidades filantropicas.
+- Beneficios do trabalhador.
+- Financiamentos habitacionais.
+- Combustiveis, relevante em 2022 e 2023, extinto/zerado em 2024.
+- Regimes especiais de infraestrutura, industria, comercio exterior e energia, como Reidi, Reporto, Repetro e regimes correlatos.
+
+2. Beneficios financeiros
+
+- FCVS - Fundo de Compensacao das Variacoes Salariais.
+- Minha Casa Minha Vida - MCMV.
+- PRONAF - equalizacao.
+- Operacoes de investimento rural e agroindustrial.
+- Subvencao a consumidores de energia eletrica da subclasse baixa renda.
+- FNDCT - equalizacao e subvencoes.
+- PROEX - equalizacao.
+- Subvencao economica ao premio do seguro rural.
+- Garantia e sustentacao de precos agricolas.
+- Funcafe - equalizacao.
+- Programa de Sustentacao do Investimento - PSI, em saldos/residuais.
+- PESA e securitizacao agricola.
+
+3. Beneficios crediticios
+
+- Fundos Constitucionais de Financiamento: FNE, FNO e FCO.
+- FIES.
+- FAT.
+- Emprestimos da Uniao ao BNDES.
+- Fundo da Marinha Mercante - FMM.
+- FNDCT - financiamento.
+- FDNE - financiamento.
+- FDA - financiamento.
+- FDCO - financiamento.
+- Fundo de Garantia a Exportacao - FGE.
+- PRONAF - financiamento.
+- PROEX - financiamento.
+- Funcafe - financiamento.
+- Banco da Terra / Fundo de Terras.
+- Programas legados como PROER, RECOOP e outros fundos/programas com impacto residual.
+
+
+LEITURA HISTORICA 2020-2025
+
+2020:
+- O patamar de subsidios estava abaixo do observado em 2022-2025.
+- Havia queda importante de subsidios crediticios em relacao ao passado, em parte associada a mudancas como a TLP, reducao de subsidios implicitos em emprestimos ao BNDES e queda de programas como PSI.
+
+2021:
+- Os subsidios voltam a crescer.
+- Beneficios tributarios ficam em torno de R$ 372 bilhoes.
+- Financeiros e crediticios somam aproximadamente R$ 53 bilhoes.
+
+2022:
+- Forte alta dos subsidios totais, chegando a cerca de R$ 603 bilhoes.
+- Destaques: alta de beneficios crediticios, FIES, FAT, Fundos Constitucionais, renuncias associadas a combustiveis e aumento de beneficios tributarios ligados a poupanca, LCI e LCA.
+- O subsidio tributario sobre combustiveis foi estimado em aproximadamente R$ 29,9 bilhoes em 2022.
+
+2023:
+- Total de aproximadamente R$ 668 bilhoes.
+- Beneficios tributarios: R$ 541,1 bilhoes.
+- Beneficios financeiros: R$ 44,1 bilhoes.
+- Beneficios crediticios: R$ 82,8 bilhoes.
+- MCMV volta a crescer fortemente, passando de R$ 0,7 bilhao em 2022 para R$ 9,3 bilhoes em 2023.
+- FCVS tambem cresce, chegando a R$ 14,7 bilhoes.
+- PERSE chega a R$ 15,6 bilhoes.
+- Combustiveis ainda aparecem com R$ 31,2 bilhoes.
+
+2024:
+- Total de R$ 678 bilhoes, ou 5,78% do PIB.
+- Beneficios tributarios: R$ 563,5 bilhoes.
+- Beneficios financeiros: R$ 65,0 bilhoes.
+- Beneficios crediticios: R$ 49,8 bilhoes.
+- FCVS salta para R$ 33,0 bilhoes.
+- MCMV sobe para R$ 12,9 bilhoes.
+- PERSE sobe para R$ 17,7 bilhoes.
+- Desoneracao da folha dos municipios surge como novo beneficio de R$ 10,6 bilhoes.
+- Combustiveis cai para zero.
+- Beneficios crediticios caem, especialmente FMM e FAT.
+
+2025:
+- Ha previsao, nao fechamento completo equivalente ao OSU 2024.
+- Receita Federal estima gastos tributarios de R$ 544,47 bilhoes, equivalentes a 4,40% do PIB e 19,72% das receitas administradas pela RFB.
+- TCU registra previsao de R$ 134,3 bilhoes para beneficios financeiros e crediticios.
+- Total estimado: aproximadamente R$ 678,8 bilhoes.
+- Maiores grupos tributarios previstos para 2025:
+  - Comercio e servico: 23,63% dos gastos tributarios.
+  - Agricultura: 17,61%.
+  - Saude: 16,23%.
+  - Industria: 10,30%.
+  - Trabalho: 9,74%.
+- Principais gastos tributarios previstos:
+  - Simples Nacional: 22,22%.
+  - Agricultura e agroindustria: 15,25%.
+  - Rendimentos isentos e nao tributaveis - IRPF: 10,46%.
+  - Entidades sem fins lucrativos imunes/isentas: 8,36%.
+  - Deducoes de rendimentos tributaveis - IRPF: 6,38%.
+
+
+PONTOS DE ATENCAO
+
+- A maior parte dos subsidios federais nao aparece como gasto direto na peca principal do Orcamento Geral da Uniao.
+- Subsidios tributarios reduzem a arrecadacao potencial, mas nao aparecem como despesa executada.
+- Subsidios crediticios podem nao afetar diretamente o resultado primario no momento da concessao, mas impactam o custo da divida e a solvencia do Estado.
+- Muitos beneficios tem baixa transparencia sobre beneficiarios finais por CNPJ.
+- O TCU observou que, em 2025, quase metade das renuncias deve se concentrar no Sudeste, o que pode entrar em tensao com o objetivo constitucional de reducao de desigualdades regionais.
+- Alguns beneficios sao regressivos ou concentrados em renda mais alta, especialmente certas deducoes e rendimentos isentos de IRPF, conforme avaliacoes citadas pelo MPO.
+- Beneficios como PERSE, desoneracao da folha, combustiveis, MOVER/Rota 2030 e Zona Franca sao particularmente relevantes para avaliacao setorial.
+
+
+FONTES PRINCIPAIS
+
+1. Ministerio do Planejamento e Orcamento - Subsídios
+https://www.gov.br/planejamento/pt-br/assuntos/avaliacao-de-politicas-publicas/subsidios
+
+2. Ministerio do Planejamento e Orcamento - Orcamento de Subsidios da Uniao (OSU)
+https://www.gov.br/planejamento/pt-br/assuntos/avaliacao-de-politicas-publicas/orcamento-de-subsidios-da-uniao-osu
+
+3. MPO - OSU 2025 / 9a edicao, com dados de 2003 a 2024
+https://www.gov.br/planejamento/pt-br/assuntos/avaliacao-de-politicas-publicas/arquivos/orcamento-de-subsidios-da-uniao/orcamento-de-subsidios-da-uniao-9a-edicao.pdf
+
+4. MPO - OSU 2024 / 8a edicao, com dados de 2003 a 2023
+https://www.gov.br/planejamento/pt-br/assuntos/avaliacao-de-politicas-publicas/arquivos/orcamento-de-subsidios-da-uniao/orcamento-de-subsidios-da-uniao-8a-edicao.pdf
+
+5. MPO - OSU 2023 / 7a edicao, com dados de 2003 a 2022
+https://www.gov.br/planejamento/pt-br/assuntos/avaliacao-de-politicas-publicas-1/arquivos/orcamento-de-subsidios-da-uniao/orcamento-de-subsidios-da-uniao-7a-edicao.pdf
+
+6. Receita Federal - Gastos Tributarios (Bases Efetivas)
+https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/relatorios/renuncia/gastos-tributarios-bases-efetivas
+
+7. Receita Federal - Gastos Tributarios (Previsao PLOA)
+https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/relatorios/renuncia/gastos-tributarios-ploa
+
+8. Receita Federal - DGT PLOA 2025 - Base conceitual
+https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/relatorios/renuncia/gastos-tributarios-ploa/dgt-previsao-ploa-2025-base-conceitual.pdf/%40%40download/file
+
+9. TCU - Analise do PLOA 2025 / Acordao 1180/2025
+https://pesquisa.apps.tcu.gov.br/documento/acordao-completo/%2A/NUMACORDAO%253A1180%2520ANOACORDAO%253A2025/DTRELEVANCIA%2520desc%252C%2520NUMACORDAOINT%2520desc/0
+

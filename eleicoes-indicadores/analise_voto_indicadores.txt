@@ -1,0 +1,322 @@
+================================================================================
+O ELEITOR BRASILEIRO VOTA PELO BOLSO? VOTO ECONÔMICO/RETROSPECTIVO
+NOS ESTADOS X DESEMPENHO SOCIOECONÔMICO (2014 → 2018 → 2022)
+================================================================================
+Pesquisa e análise de dados | Nível: estados (27 UFs) e presidência
+Recorte: 2º turno das eleições presidenciais de 2014, 2018 e 2022
+Data: agosto/2026
+
+--------------------------------------------------------------------------------
+0. A PERGUNTA
+--------------------------------------------------------------------------------
+"Os estados trocam de candidato conforme melhora ou piora o desempenho
+socioeconômico? Quando a vida melhora, o eleitor mantém o incumbente; quando
+piora, muda o voto? O voto é um termômetro do progresso nas métricas?"
+
+Isso é o que a ciência política chama de VOTO ECONÔMICO ou VOTO RETROSPECTIVO:
+a hipótese de que o eleitor premia o governante quando os indicadores melhoram e
+o pune quando pioram. Testamos essa hipótese com dados reais, estado por estado.
+
+--------------------------------------------------------------------------------
+1. RESPOSTA CURTA (RESUMO EXECUTIVO)
+--------------------------------------------------------------------------------
+NÃO — no agregado estadual, o voto brasileiro NÃO é um termômetro do desempenho
+socioeconômico local. A hipótese do voto econômico "puro" é, em grande parte,
+REJEITADA pelos dados. Existe apenas um resíduo fraco e de segunda ordem.
+
+Três achados sustentam isso:
+
+(1) O QUE MAIS EXPLICA a mudança de voto de um estado NÃO é a sua economia, e sim
+    (a) a IDENTIDADE REGIONAL/PARTIDÁRIA (Nordeste vs. resto) e
+    (b) a REVERSÃO À MÉDIA (o incumbente cai mais justamente onde estava mais forte).
+    Essas duas variáveis têm correlação forte e estatisticamente significativa
+    (|r| entre 0,53 e 0,69). Nenhum indicador econômico chega perto disso.
+
+(2) O "PRÊMIO" ECONÔMICO É QUASE ILUSÓRIO. No período Bolsonaro (2018→2022), a
+    correlação bruta entre melhora da renda e ganho de voto do incumbente parecia
+    existir (r = +0,34), mas EVAPORA (para +0,02) quando controlamos o ponto de
+    partida. Ou seja: o que parecia "recompensa por renda" era, na verdade,
+    reversão à média disfarçada. Só o DESEMPREGO mantém algum sinal econômico
+    genuíno após controles (parcial ≈ -0,60): onde o desemprego caiu mais,
+    o incumbente resistiu um pouco melhor.
+
+(3) O PARADOXO QUE RESPONDE À PERGUNTA: em 2018→2022 o desemprego caiu em 26 dos
+    27 estados (quase todo o país "melhorou" nesse indicador), e MESMO ASSIM
+    Bolsonaro PERDEU voto em 17 estados. Ele só cresceu em 9 — TODOS no
+    Norte/Nordeste, a região mais pobre, onde o Auxílio Brasil (R$ 600) teve maior
+    peso relativo e onde ele partia da base mais baixa. Já os estados MAIS RICOS,
+    SEGUROS E PRÓSPEROS (SP, DF, Sul), onde a vida objetivamente NÃO piorou,
+    foram os que MAIS abandonaram o incumbente. Isso é o oposto do voto econômico.
+
+Conclusão: o eleitorado estadual não "troca de candidato pelo desempenho das
+métricas". Ele se move por identidade regional, ciclo político nacional e, no
+máximo, por um efeito de bolso pontual (transferência de renda) na margem.
+
+--------------------------------------------------------------------------------
+2. METODOLOGIA E FONTES
+--------------------------------------------------------------------------------
+DESENHO: comparamos, para cada uma das 27 UFs, a VARIAÇÃO do voto do bloco
+incumbente entre duas eleições com a VARIAÇÃO dos indicadores socioeconômicos
+durante o mandato correspondente. Dois "experimentos naturais":
+
+  • PERÍODO A — 2014 → 2018 (teste de PUNIÇÃO):
+    Incumbente = PT (Dilma reeleita em 2014; recessão de 2015-16; impeachment;
+    Temer; Haddad como herdeiro do PT em 2018). Variável de voto:
+    Δvoto_PT = %Haddad(2018, 2ºturno) − %Dilma(2014, 2ºturno).
+    A economia DESABOU no período: era o cenário ideal para o eleitor "punir".
+
+  • PERÍODO B — 2018 → 2022 (teste de RECOMPENSA):
+    Incumbente = Jair Bolsonaro (2018-2022). Variável de voto:
+    Δvoto_Bolsonaro = %Bolsonaro(2022, 2ºturno) − %Bolsonaro(2018, 2ºturno).
+    Cenário misto: pandemia + recuperação do emprego + inflação + Auxílio Brasil.
+
+INDICADORES (por UF): taxa de desocupação (desemprego), taxa de homicídios
+por 100 mil hab., rendimento domiciliar per capita (deflacionado a preços reais),
+IDHM e extrema pobreza. Foram escolhidos por (a) cobrir renda, trabalho,
+segurança e desenvolvimento humano e (b) terem série anual comparável por estado.
+
+RENDA REAL: os valores de renda são nominais; convertidos a variação real pelo
+IPCA nacional acumulado (~26% em 2014-2018; ~27% em 2018-2022). Como o deflator
+é o mesmo para todos os estados, a CORRELAÇÃO renda×voto independe do deflator
+(ele afeta só o nível "ganhou/perdeu", não o ranking entre estados).
+
+MÉTODO ESTATÍSTICO: correlação de Pearson entre os 27 estados; e correlações
+PARCIAIS para isolar o efeito econômico "líquido" controlando confundidores
+(nível inicial de apoio e dummy de região). Com n=27 (gl=25), os limiares de
+significância do r são: |r|>0,323 (p<0,10); |r|>0,381 (p<0,05); |r|>0,487 (p<0,01).
+
+FONTES: TSE (resultados por UF, compilados via Wikipédia/TSE); IBGE/PNAD Contínua
+(desemprego e renda domiciliar per capita); Atlas da Violência IPEA/FBSP
+(homicídios); PNUD/FJP/IPEA (IDHM); IBGE/Banco Mundial (extrema pobreza).
+Ver seção 9 (links) e os arquivos .csv que acompanham esta análise.
+
+--------------------------------------------------------------------------------
+3. VISÃO GERAL DOS DADOS
+--------------------------------------------------------------------------------
+Resultado nacional (2º turno, % votos válidos):
+  2014: Dilma (PT) 51,64%  x  Aécio (PSDB) 48,36%   → PT reeleito
+  2018: Bolsonaro (PSL) 55,13%  x  Haddad (PT) 44,87% → alternância, anti-PT
+  2022: Lula (PT) 50,90%  x  Bolsonaro (PL) 49,10%   → alternância, anti-incumbente
+
+Movimento médio do voto entre estados:
+  • Δvoto_PT 2014→2018:      média −7,95 pp (PT caiu em 25 dos 27 estados)
+  • Δvoto_Bolsonaro 2018→22: média −3,14 pp (caiu em 17; subiu em 9; ~empate em 1)
+
+Ou seja: em ambos os ciclos houve uma ONDA NACIONAL contra o incumbente. A
+pergunta é se essa onda foi MODULADA pela economia de cada estado. Resposta: quase
+nada — ela foi modulada por região e pelo tamanho da vantagem prévia.
+
+--------------------------------------------------------------------------------
+4. PERÍODO A — 2014→2018: O ELEITOR PUNIU A RECESSÃO? (em grande parte, NÃO
+   pela economia local; SIM por região)
+--------------------------------------------------------------------------------
+Entre 2014 e 2018 o Brasil viveu a pior recessão de sua história recente: o
+desemprego SUBIU em todos os 27 estados (ex.: SP 7,4%→13,2%; RJ 6,9%→14,8%;
+PE 8,2%→16,2%). Era o laboratório perfeito para o voto econômico: se o eleitor
+pune quem administra colapso, o PT deveria perder MAIS onde a economia piorou MAIS.
+
+Correlações (Δindicador × Δvoto_PT), n=27:
+  • Δdesemprego × Δvoto_PT  = +0,022  → NENHUMA relação (esperado: negativo)
+  • Δrenda real × Δvoto_PT  = −0,311  → SINAL ERRADO! Onde a renda foi RELATIVAMENTE
+                                        melhor, o PT foi MAIS punido, não menos.
+  • Δhomicídios × Δvoto_PT  = −0,203  → fraco, direção plausível, não significativo
+
+O que realmente previu a queda do PT:
+  • Nível de voto do PT em 2014 × Δvoto_PT = +0,454 (p<0,05): o PT resistiu onde já
+    era forte (Nordeste) e desabou onde era fraco (Norte, Sudeste, Sul, C-Oeste).
+  • Dummy Nordeste × Δvoto_PT = +0,693 (p<0,01): a região explica MUITO mais que
+    qualquer indicador econômico. O Nordeste puniu pouco (BA até +2,5 pp; PB +0,7;
+    SE +0,5); o Norte puniu muito (RO −17,3; AM −15,3; AC −13,5) — apesar de a
+    recessão ter atingido as duas regiões.
+
+Leitura: a derrota do PT em 2018 foi um fenômeno NACIONAL e IDENTITÁRIO
+(onda anti-PT pós-Lava Jato/impeachment), não uma resposta calibrada à dor
+econômica de cada estado. Se fosse voto econômico, o Nordeste — que sofreu tanto
+quanto o resto — teria punido na mesma intensidade. Não puniu.
+
+Ranking (do que mais puniu ao que menos puniu o PT), com contexto econômico:
+  UF  Região        Δvoto_PT  Δdesemp  Δrenda_real%
+  RJ  Sudeste       −22,89    +7,9     +12,4   (renda subiu, puniu MAIS — anti-econômico)
+  RO  Norte         −17,33    +5,5     +15,9
+  AM  Norte         −15,29    +5,2     −15,1
+  ...
+  SP  Sudeste        −3,66    +5,8     +5,2
+  BA  Nordeste       +2,53    +6,8     −4,2    (renda caiu, mas AUMENTOU voto no PT)
+  PB  Nordeste       +0,72    +2,4     +4,5
+  SE  Nordeste       +0,53    +7,6     −5,1
+(tabela completa em analise_variacao_voto_vs_indicadores.csv)
+
+--------------------------------------------------------------------------------
+5. PERÍODO B — 2018→2022: O ELEITOR RECOMPENSOU A MELHORA? (sinais "certos",
+   mas fracos; e some ao controlar o ponto de partida)
+--------------------------------------------------------------------------------
+No mandato Bolsonaro, o quadro é misto, mas em vários indicadores houve melhora
+de 2018 (auge da crise) para 2022 (recuperação):
+  • Desemprego CAIU em 26 dos 27 estados (só PB subiu levemente).
+  • Homicídios caíram na maioria dos estados.
+  • Renda nominal subiu em todos; em termos REAIS, subiu em ~10 e caiu em ~17
+    (a inflação de 2021-22 corroeu ganhos em muitos estados).
+
+Correlações (Δindicador × Δvoto_Bolsonaro), n=27:
+  • Δdesemprego × Δvoto_Bolso = −0,315  → direção CERTA (emprego melhora→incumbente
+                                          sobe), mas fraca / borderline (p≈0,10)
+  • Δrenda real × Δvoto_Bolso = +0,342  → direção CERTA, mas NÃO significativa (p≈0,10)
+  • Δhomicídios × Δvoto_Bolso = −0,183  → fraco, direção plausível
+  • ΔIDHM(2010-22) × Δvoto_Bolso = +0,611 → forte, MAS confundido por região
+                                          (o NE teve o maior ganho de IDHM e é onde
+                                          Bolsonaro cresceu — não é efeito causal)
+
+O TESTE DECISIVO — correlações parciais (isolando o efeito econômico líquido):
+  • Renda real × Δvoto_Bolso, controlando o NÍVEL de Bolsonaro em 2018:
+        0,342 → 0,024   → o "prêmio da renda" DESAPARECE. Era reversão à média.
+  • Desemprego × Δvoto_Bolso, controlando o nível de 2018:
+        −0,315 → −0,60  → SOBREVIVE e até fortalece. Há aqui um sinal econômico real:
+                          entre estados com apoio inicial parecido, os que mais
+                          reduziram o desemprego seguraram melhor o incumbente.
+  • Renda real × Δvoto_Bolso, controlando região (Nordeste): 0,342 → 0,191 (some a força)
+  • Desemprego × Δvoto_Bolso, controlando região:            −0,315 → −0,557 (persiste)
+
+Confundidores que DOMINAM a explicação:
+  • Nível de Bolsonaro em 2018 × Δvoto_Bolso = −0,626 (p<0,01): REVERSÃO À MÉDIA.
+    Ele caiu mais exatamente onde vencera por mais (SP −12,7; RJ −11,4; DF −11,2;
+    MG −8,4; RS −6,9; SC −6,7) e cresceu onde perdera feio em 2018 (RR +4,5;
+    MA +2,1; AL +1,2; CE +1,1; AP +1,2).
+  • Dummy Nordeste × Δvoto_Bolso = +0,527 (p<0,01): o crescimento de Bolsonaro foi
+    um fenômeno REGIONAL (N/NE), não uma resposta à melhora econômica difusa.
+
+Variação média do voto de Bolsonaro por região (2018→2022):
+    Nordeste     : +0,20 pp   (cresceu na região mais pobre)
+    Norte        : −0,63 pp
+    Centro-Oeste : −6,26 pp
+    Sul          : −6,52 pp
+    Sudeste      : −9,39 pp   (despencou na região mais rica)
+
+Ranking (da maior queda ao maior ganho de Bolsonaro), com contexto econômico:
+  UF  Região        Δvoto_Bolso Δdesemp Δhomic  Δrenda_real%
+  SP  Sudeste        −12,73     −4,1    +0,0    −10,9   (desemprego caiu MUITO, mas ABANDONOU)
+  RJ  Sudeste        −11,42     −1,5    −11,5   −8,1
+  DF  Centro-Oeste   −11,18     −1,0    −6,9    −6,8
+  MG  Sudeste         −8,39     −3,1    −2,1    −8,9
+  ...
+  CE  Nordeste        +1,14     −2,2    −19,9   −3,3
+  AP  Norte           +1,16     −7,0    −5,3    +8,1
+  AL  Nordeste        +1,24     −4,6    −6,5    +3,1
+  MA  Nordeste        +2,12     −3,2    +1,5    +5,9
+  RR  Norte           +4,53     −8,1    −35,8   −18,8  (renda real DESABOU, mas votou MAIS)
+(tabela completa em analise_variacao_voto_vs_indicadores.csv)
+
+--------------------------------------------------------------------------------
+6. O PARADOXO CENTRAL (a resposta direta à sua dúvida)
+--------------------------------------------------------------------------------
+Você perguntou: "em 2022, quais estados melhoraram as condições de vida?
+Continuaram votando no Bolsonaro? Onde melhorou, mudou o voto?"
+
+O caso mais eloquente é o NORDESTE. Sob Bolsonaro, no Nordeste:
+   • o desemprego caiu em todos os 9 estados;
+   • os homicídios caíram forte (CE −19,9; SE −15,9; RN −17,1);
+   • a renda nominal e o IDHM subiram;
+   • o Auxílio Brasil de R$ 600 chegou com peso relativo enorme (região mais pobre).
+E MESMO ASSIM o Nordeste votou 66% a 77% em LULA, rejeitando o incumbente. Bolsonaro
+só não caiu ali (ficou estável/+0,2 pp) — mas de uma base já muito baixa.
+
+Simetricamente, SÃO PAULO: o desemprego caiu 4,1 pp (13,2%→9,1%), os homicídios
+seguiram os menores do país (8,2), nada colapsou objetivamente — e ainda assim SP
+tirou 12,7 pp de Bolsonaro. A melhora das métricas NÃO comprou lealdade; a piora
+NÃO existiu e mesmo assim o voto migrou.
+
+Conclusão do paradoxo: onde a vida "melhorou mais" (Nordeste), o incumbente foi
+rejeitado; onde a vida seguia boa (Sudeste/Sul), o incumbente foi abandonado. O
+voto NÃO acompanhou o sinal socioeconômico local. Ele acompanhou clivagens de
+identidade e o pêndulo político nacional.
+
+--------------------------------------------------------------------------------
+7. POR QUE O VOTO NÃO É UM TERMÔMETRO SOCIOECONÔMICO? (mecanismos)
+--------------------------------------------------------------------------------
+(a) IDENTIDADE REGIONAL/PARTIDÁRIA CONSOLIDADA. O "lulismo" no Nordeste e o
+    antipetismo no Sul/Sudeste/C-Oeste funcionam como identidade estável, pouco
+    sensível a métricas de curto prazo. É o fator #1 (|r|~0,5-0,7).
+
+(b) REVERSÃO À MÉDIA / ONDA NACIONAL. Cada eleição tem uma maré nacional (anti-PT
+    em 2018; anti-Bolsonaro em 2022) que comprime os extremos: o incumbente cede
+    onde estava saturado e recupera onde estava no fundo — independentemente da
+    economia local (|r|~0,6).
+
+(c) PROBLEMA DE ATRIBUIÇÃO. O eleitor nem sempre credita ao PRESIDENTE o que
+    acontece no seu estado (há governador, prefeitura, preços globais de commodities,
+    pandemia). Desemprego e renda locais dependem de fatores que fogem ao Planalto.
+
+(d) EFEITO-BOLSO PONTUAL (o resíduo que existe). O único sinal econômico que
+    sobrevive aos controles é a transferência direta de renda / emprego: o Auxílio
+    Brasil ajuda a explicar a leve melhora de Bolsonaro no N/NE, e a redução do
+    desemprego tem correlação parcial robusta. É voto econômico — mas de 2ª ordem,
+    concentrado em transferências tangíveis, não em indicadores macro difusos.
+
+(e) TEMAS NÃO-ECONÔMICOS. Costumes, religião, segurança pública percebida,
+    democracia/institucionalidade, gestão da pandemia (700 mil mortes) e rejeição
+    pessoal pesaram fortemente em 2022, sobretudo nos estados ricos e urbanos.
+
+--------------------------------------------------------------------------------
+8. RESSALVAS METODOLÓGICAS (leia antes de generalizar)
+--------------------------------------------------------------------------------
+• FALÁCIA ECOLÓGICA: correlação entre estados NÃO é comportamento individual. Um
+  estado que melhora e vota contra o incumbente não prova que os indivíduos que
+  melhoraram trocaram de voto. Para isso seriam necessários dados de painel/survey.
+• n PEQUENO: 27 unidades, 2 janelas comparáveis, 3 eleições. Poder estatístico
+  limitado; correlações de 0,3 são sugestivas, não conclusivas.
+• DISTORÇÕES DE 2020-2021: Auxílio Emergencial derrubou artificialmente a pobreza
+  em 2020 e a inflação de 2021 corroeu renda — por isso a extrema pobreza foi usada
+  como CONTEXTO, não como variável central do período.
+• IDHM PÓS-2010: as estimativas anuais de IDHM são modeladas (o dado "duro" é
+  censitário, 2010); tratamos ΔIDHM como referencial, e ele é confundido por região.
+• RENDA REAL: deflacionada por IPCA nacional; deflatores estaduais reais diferem
+  (mas isso não afeta as correlações, só os níveis).
+• CAUSALIDADE: tudo aqui é correlacional. Não isola choques simultâneos (pandemia,
+  commodities, Lava Jato, candidaturas específicas).
+
+--------------------------------------------------------------------------------
+9. CONCLUSÃO
+--------------------------------------------------------------------------------
+O eleitor brasileiro, no nível dos estados, NÃO se comporta como um "voto
+econômico puro". As métricas socioeconômicas locais são, na melhor das hipóteses,
+um preditor fraco e de segunda ordem da mudança de voto — e, no caso da renda em
+2018→2022, o aparente prêmio some ao controlar o ponto de partida. O que governa a
+mudança de voto de um estado é, em ordem de importância:
+   1º) IDENTIDADE REGIONAL/PARTIDÁRIA (Nordeste petista vs. resto antipetista);
+   2º) REVERSÃO À MÉDIA e a MARÉ NACIONAL de cada eleição;
+   3º) um EFEITO-BOLSO residual (transferências de renda, emprego), tangível e local.
+
+Respondendo diretamente: NÃO — os estados não "trocam de candidato conforme o
+desempenho econômico-social melhora ou piora". Em 2018 a recessão foi geral, mas a
+punição ao PT seguiu a região, não a dor econômica. Em 2022 quase todo estado
+melhorou no emprego e o incumbente ainda assim caiu na maioria; ele só cresceu na
+região mais pobre — puxado por transferência de renda e pela base baixa, não por
+"melhora de indicadores". O voto é muito mais uma expressão de PERTENCIMENTO e de
+CICLO POLÍTICO NACIONAL do que um placar do progresso socioeconômico local.
+
+--------------------------------------------------------------------------------
+10. ARQUIVOS E FONTES
+--------------------------------------------------------------------------------
+ARQUIVOS DESTA PESQUISA (pasta eleicoes-indicadores/):
+  • eleicoes_presidenciais_2turno_por_estado.csv — votação por UF (2014/18/22)
+  • indicadores_socioeconomicos_por_estado.csv  — desemprego, homicídios, renda,
+                                                    IDHM e extrema pobreza por UF
+  • analise_variacao_voto_vs_indicadores.csv     — Δvoto × Δindicadores (A e B)
+  • resumo_correlacoes.csv                        — correlações e parciais
+  • analise_voto_indicadores.txt                  — este documento
+
+FONTES PRIMÁRIAS:
+  • TSE — Resultados por UF (2º turno):
+    https://pt.wikipedia.org/wiki/Resultados_da_eleição_presidencial_no_Brasil_em_2014
+    https://pt.wikipedia.org/wiki/Resultados_da_eleição_presidencial_no_Brasil_em_2018
+    https://pt.wikipedia.org/wiki/Resultados_da_eleição_presidencial_no_Brasil_em_2022
+  • IBGE/PNAD Contínua — desemprego e rendimento domiciliar per capita por UF:
+    https://agenciadenoticias.ibge.gov.br/ (releases PNAD Contínua anual)
+    https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_taxa_de_desemprego
+    https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_renda_per_capita
+  • Atlas da Violência (IPEA/FBSP) — homicídios por 100 mil hab.:
+    https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_taxa_de_homic%C3%ADdios
+  • PNUD/FJP/IPEA — IDHM:
+    https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_IDH
+  • IBGE/Banco Mundial — extrema pobreza:
+    https://pt.wikipedia.org/wiki/Lista_de_unidades_federativas_do_Brasil_por_incid%C3%AAncia_da_pobreza
+================================================================================

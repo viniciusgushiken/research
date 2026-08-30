@@ -1,0 +1,768 @@
+================================================================================
+PESQUISA APROFUNDADA: GREVE NAS UNIVERSIDADES PÚBLICAS DE SÃO PAULO (2026)
+================================================================================
+Data da pesquisa: 11 de maio de 2026
+Universidades envolvidas: USP, UNESP e UNICAMP
+
+================================================================================
+ÍNDICE
+================================================================================
+1. CONTEXTO E ORIGENS DA GREVE
+2. PESSOAS E ENTIDADES ENVOLVIDAS
+3. PAUTAS, REIVINDICAÇÕES E ARGUMENTOS DOS ESTUDANTES E FUNCIONÁRIOS
+4. ARGUMENTOS E POSIÇÃO DAS REITORIAS
+5. FACULDADES E INSTITUTOS QUE APOIAM OU REJEITAM A GREVE
+6. LINHA DO TEMPO: ANTECEDENTES (ANTES DA GREVE)
+7. LINHA DO TEMPO: DURANTE A GREVE
+8. SITUAÇÃO ATUAL (11 DE MAIO DE 2026)
+9. FONTES
+
+================================================================================
+1. CONTEXTO E ORIGENS DA GREVE
+================================================================================
+
+A greve nas universidades públicas estaduais de São Paulo em 2026 é um
+movimento que envolve funcionários técnico-administrativos, estudantes e, em
+menor grau, docentes das três universidades estaduais paulistas: USP
+(Universidade de São Paulo), UNESP (Universidade Estadual Paulista) e UNICAMP
+(Universidade Estadual de Campinas).
+
+1.1. O ESTOPIM: A GACE (GRATIFICAÇÃO POR ATIVIDADES COMPLEMENTARES ESTRATÉGICAS)
+----------------------------------------------------------------------------------
+
+O evento que desencadeou a crise foi a aprovação, pelo Conselho Universitário
+(CO) da USP, em 31 de março de 2026, da chamada GACE — Gratificação por
+Atividades Complementares Estratégicas. A GACE estabelece o pagamento mensal
+adicional de R$ 4.500,00 destinado exclusivamente a docentes em regime de
+dedicação integral à docência e à pesquisa (RDIDP) que apresentassem projetos
+em áreas consideradas estratégicas pela reitoria, como:
+
+  - Oferta de disciplinas em inglês
+  - Ações de extensão universitária
+  - Projetos de internacionalização
+  - Outras atividades definidas como prioritárias
+
+O pagamento seria por até 24 meses, podendo ser renovado.
+
+A principal insatisfação estava no fato de a GACE ter sido proposta SOMENTE
+para docentes, excluindo os cerca de 13.000 funcionários técnico-administrativos
+da universidade. Para o SINTUSP (Sindicato dos Trabalhadores da USP) e as
+demais entidades sindicais, isso representou uma quebra da isonomia nos
+reajustes salariais e benefícios, princípio historicamente respeitado nas
+negociações trabalhistas da universidade.
+
+1.2. CONTEXTO MAIS AMPLO
+----------------------------------------------------------------------------------
+
+A greve não se limita à questão da GACE. Há um acúmulo de insatisfações que
+remontam a anos anteriores:
+
+  - Defasagem salarial acumulada: O Fórum das Seis calcula que, desde maio de
+    2012, os servidores das universidades estaduais paulistas acumulam uma perda
+    salarial que demandaria um reajuste de 15,97% para recomposição.
+
+  - Precarização da permanência estudantil: Estudantes denunciam deterioração
+    das condições de moradia no CRUSP (Conjunto Residencial da USP), com
+    infiltrações, mofo, vazamentos de gás, cozinhas sem iluminação e estruturas
+    deterioradas. Nos restaurantes universitários ("bandejões"), há relatos de
+    larvas, plásticos, pedras e vidros encontrados na comida.
+
+  - Ameaça aos espaços estudantis: Em março de 2026, a Comissão de Orçamento e
+    Patrimônio (COP) da USP elaborou uma minuta que pretendia retirar de centros
+    acadêmicos e organizações discentes a autonomia para gerir espaços em que
+    atuam e auferir receitas. Em 7 de abril, 75 entidades estudantis publicaram
+    nota conjunta contra a proposta.
+
+  - Nova gestão: O reitor Aluísio Augusto Cotrim Segurado e a vice-reitora
+    Liedi Legi Bariani Bernucci tomaram posse em 25 de janeiro de 2026, com
+    mandato até 2030. A aprovação da GACE foi um dos primeiros atos polêmicos
+    da nova gestão.
+
+  - Reforma tributária e incerteza orçamentária: As universidades estaduais
+    paulistas recebem 9,57% da arrecadação do ICMS. Com a reforma tributária
+    substituindo esse imposto até 2033, há incerteza sobre a manutenção do
+    financiamento.
+
+  - Na UNICAMP, há ainda a questão da autarquização da área da saúde: em
+    dezembro de 2025, o Conselho Universitário aprovou um novo modelo de gestão
+    para a área da saúde da universidade, que passaria a ser vinculada à
+    Secretaria Estadual de Saúde para fins orçamentários, embora permanecesse
+    ligada à UNICAMP no campo do ensino. Estudantes e trabalhadores temem perda
+    de controle sobre serviços, piora das condições de trabalho e impactos no
+    atendimento hospitalar.
+
+================================================================================
+2. PESSOAS E ENTIDADES ENVOLVIDAS
+================================================================================
+
+2.1. REITORIAS E ADMINISTRAÇÃO
+----------------------------------------------------------------------------------
+
+USP:
+  - Reitor: Aluísio Augusto Cotrim Segurado (empossado em 25/01/2026)
+  - Vice-Reitora: Liedi Legi Bariani Bernucci
+  - Pró-Reitoria de Graduação: responsável pelo comunicado de manutenção do
+    calendário acadêmico
+  - Coordenadoria de Administração Geral (Codage): Adriana Marotti de Mello e
+    Adriana Cristina Ferreira Caldana (coordenadoras)
+
+UNICAMP:
+  - Reitor: Antonio José de Almeida Meirelles
+  - A reitoria afirma manter "diálogo contínuo com entidades estudantis"
+
+UNESP:
+  - Reitoria agendou reunião para 11 de maio de 2026
+
+CRUESP (Conselho de Reitores das Universidades Estaduais Paulistas):
+  - Órgão que reúne os três reitores para negociações salariais unificadas
+  - Sede na Reitoria da UNESP (para reunião de 11/05/2026)
+
+2.2. ENTIDADES SINDICAIS E REPRESENTATIVAS (FÓRUM DAS SEIS)
+----------------------------------------------------------------------------------
+
+O Fórum das Seis é a articulação que reúne as entidades sindicais e estudantis
+das três universidades estaduais paulistas e do Centro Paula Souza. As
+principais entidades são:
+
+  - SINTUSP — Sindicato dos Trabalhadores da USP
+  - ADUSP — Associação dos Docentes da USP
+  - DCE-Livre "Alexandre Vannucchi Leme" — Diretório Central dos Estudantes da USP
+  - STU — Sindicato dos Trabalhadores da UNICAMP
+  - ADunicamp — Associação dos Docentes da UNICAMP
+  - ADUNESP — Associação dos Docentes da UNESP
+  - DCEs da UNESP e UNICAMP
+
+Há 25 anos os DCEs (Diretórios Centrais de Estudantes) compõem o Fórum, e a
+Pauta Unificada inclui a demanda por permanência estudantil.
+
+2.3. OUTRAS ENTIDADES QUE MANIFESTARAM APOIO À GREVE
+----------------------------------------------------------------------------------
+
+  - CSP-Conlutas (Central Sindical e Popular)
+  - Centrais sindicais (CUT, CTB e outras) — emitiram nota de apoio
+  - UNE (União Nacional dos Estudantes) — apoio
+  - UEE-SP (União Estadual dos Estudantes de São Paulo) — apoio
+  - ANDES-SN (Sindicato Nacional dos Docentes das Instituições de Ensino
+    Superior) — acompanhamento e cobertura
+  - Organização Comunista Internacionalista / Esquerda Marxista
+  - Diário Causa Operária
+
+2.4. GOVERNO DO ESTADO
+----------------------------------------------------------------------------------
+
+  - Governador Tarcísio de Freitas: criticou a greve estudantil, declarando
+    "Não entra na minha cabeça a greve dos estudantes", classificando o
+    movimento como tendo "caráter político" e representando "perda de
+    oportunidade" para os alunos. Defendeu a "autonomia universitária" para
+    distribuição e alocação de recursos financeiros.
+
+2.5. OUTROS ENVOLVIDOS
+----------------------------------------------------------------------------------
+
+  - Vereador Adrilles Jorge (União-SP): provocou confronto com estudantes em
+    ato no dia 11 de maio
+  - Influenciador Robson Fuinha: acompanhou Adrilles Jorge no ato
+
+================================================================================
+3. PAUTAS, REIVINDICAÇÕES E ARGUMENTOS DOS ESTUDANTES E FUNCIONÁRIOS
+================================================================================
+
+3.1. PAUTAS DOS FUNCIONÁRIOS TÉCNICO-ADMINISTRATIVOS (USP — SINTUSP)
+----------------------------------------------------------------------------------
+
+  a) Isonomia salarial: compensação equivalente à GACE dos docentes, no valor
+     de aproximadamente R$ 1.600,00 mensais incorporados ao salário
+  b) Recomposição salarial: reajuste de 15,97% para recuperar o poder de compra
+     dos salários de maio/2012
+  c) Abono de horas não trabalhadas em "pontes" de feriados e recesso de fim
+     de ano
+  d) Melhoria das condições de trabalho dos terceirizados: condições de
+     deslocamento análogas às dos servidores da USP
+  e) Contratação de pessoal para repor vagas
+
+  ** RESULTADO: Os funcionários aceitaram acordo com a reitoria em 23 de abril
+  de 2026, após 9 dias de greve (14 a 23 de abril), conquistando:
+    - Bonificação de ~R$ 1.600 mensais (equiparação à GACE)
+    - Compromisso de formalizar juridicamente o abono de "pontes"
+    - Intenção de implementar soluções de transporte para terceirizados
+
+3.2. PAUTAS DOS ESTUDANTES (USP — DCE-LIVRE)
+----------------------------------------------------------------------------------
+
+  a) AUMENTO DO PAPFE (Programa de Apoio à Permanência e Formação Estudantil):
+     - Valor atual do auxílio integral: R$ 885,00/mês
+     - Valor atual do auxílio parcial (com moradia): R$ 330,00/mês
+     - Proposta da reitoria: reajuste pelo IPC-FIPE → integral para R$ 912/mês
+     - Reivindicação dos estudantes: equiparação ao salário mínimo paulista →
+       R$ 1.804,00/mês
+     * 17.587 estudantes recebem o PAPFE na USP
+
+  b) MELHORIA DOS RESTAURANTES UNIVERSITÁRIOS (BANDEJÕES):
+     - Denúncias de larvas, plásticos, pedras e vidros na comida
+     - Fim da privatização dos bandejões
+     - Expansão do serviço: café da manhã com proteína, almoço e jantar de
+       segunda a sexta, além de café e almoço nos fins de semana
+     - Melhoria das instalações dos campi do interior
+
+  c) MORADIA ESTUDANTIL (CRUSP):
+     - Denúncias de infiltrações, mofo, vazamentos de gás, cozinhas sem
+       iluminação e estruturas deterioradas
+     - Ampliação das vagas de moradia
+     - Manutenção e reforma das instalações
+
+  d) DEFESA DOS ESPAÇOS ESTUDANTIS:
+     - Contra a minuta da COP que restringia autonomia dos centros acadêmicos
+     - A minuta previa obrigações de prestação de contas e permitia revogação
+       do uso dos espaços pela universidade
+     * A reitoria REVOGOU a minuta após pressão estudantil (abril de 2026)
+
+  e) TRANSPORTE:
+     - Aprovação do BUSP (Passe Livre USP) — linha gratuita de ônibus
+       conectando áreas-chave do campus e transporte intercampi
+
+  f) CONTRATAÇÃO DE PROFESSORES:
+     - "Gatilho automático" para reposição de todas as vagas docentes
+       resultantes de aposentadorias, falecimentos ou exonerações
+     - Revogação do "processo competitivo" pelo qual contratações docentes são
+       subordinadas à aprovação de projetos pelas unidades
+
+  g) COTAS PARA TRANS E INDÍGENAS:
+     - Discussão de políticas de admissão e grupos de trabalho sobre retenção
+
+  h) FIM DA JORNADA 6×1 PARA TERCEIRIZADOS
+
+3.3. PAUTAS DA UNESP
+----------------------------------------------------------------------------------
+
+  - Falta de professores
+  - Atrasos nos auxílios estudantis
+  - Dificuldades de permanência
+  - Precarização das condições de ensino, pesquisa e extensão
+  - Cortes orçamentários pelo Governo Tarcísio
+  - Apenas 10 campi possuem restaurantes universitários subsidiados
+  - 6 campi possuem cafeterias com ~5.000 refeições/dia, insuficientes
+
+3.4. PAUTAS DA UNICAMP
+----------------------------------------------------------------------------------
+
+  - Contra a autarquização da área da saúde (aprovada pelo Conselho
+    Universitário em dezembro de 2025)
+  - Moradia estudantil
+  - Transporte
+  - Serviços de saúde
+  - Condições estruturais dos campi
+  - Permanência estudantil
+
+3.5. PAUTA SALARIAL UNIFICADA (FÓRUM DAS SEIS × CRUESP)
+----------------------------------------------------------------------------------
+
+  - Reivindicação: recomposição do poder de compra dos salários de maio/2012,
+    estimada em 15,97% (mais a inflação de abril/2026)
+  - Proposta do CRUESP (4 de maio de 2026): reajuste de 3,47%, baseado no
+    IPC-FIPE acumulado de maio/2025 a abril/2026
+  - IMPASSE: as categorias consideram o reajuste insuficiente
+
+================================================================================
+4. ARGUMENTOS E POSIÇÃO DAS REITORIAS
+================================================================================
+
+4.1. POSIÇÃO DO REITOR DA USP (ALUÍSIO SEGURADO)
+----------------------------------------------------------------------------------
+
+  a) "Agenda política": O reitor afirmou que identifica uma "agenda política"
+     dentro do movimento grevista, posição que provocou forte reação dos
+     estudantes, que negam instrumentalização partidária.
+
+  b) Negociações encerradas: Após três reuniões (totalizando ~20 horas),
+     incluindo a reunião de 28/04 (quase 6 horas com 5 administradores e 24
+     delegados estudantis), a reitoria declarou as negociações "encerradas",
+     alegando:
+       - Que já havia atendido diversas demandas
+       - Que criou 7 grupos de trabalho para questões específicas
+       - Que os estudantes insistiam em demandas "inviáveis"
+       - Que havia "participantes externos" nas mobilizações
+
+  c) Propostas apresentadas pela reitoria:
+     - Reajuste do PAPFE pelo IPC-FIPE (de R$ 885 para R$ 912 — aumento de
+       R$ 27, ou ~3%)
+     - Criação de bolsa exclusiva para calouros economicamente vulneráveis
+     - Ampliação do PUB-USP (Programa Unificado de Bolsas)
+     - Grupo de trabalho para espaços estudantis (120 dias, com 6 docentes,
+       6 estudantes e 2 assessores jurídicos)
+     - Expansão dos restaurantes universitários (café, almoço e jantar)
+     - Grupo de trabalho para cotas trans e indígenas
+     - Planejamento de linha de ônibus gratuita (BUSP)
+
+  d) Calendário acadêmico mantido: A Pró-Reitoria de Graduação VETOU qualquer
+     alteração no calendário acadêmico. Aulas, provas, registros de presença
+     e prazos de notas continuam normalmente. Não é permitida mudança de
+     formato presencial para remoto, nem substituição por conteúdo gravado.
+
+  e) Sobre a ocupação da reitoria: A USP denunciou "escalada de violência" e
+     acionou forças de segurança. Após a desocupação pela PM, a USP declarou
+     "não ter sido comunicada previamente" sobre a ação policial.
+
+  f) Recusa de demandas-chave:
+     - Recusou o "gatilho automático" de reposição docente
+     - Recusou a revogação do "processo competitivo" para contratação
+
+4.2. ARGUMENTO CENTRAL DAS REITORIAS PARA NÃO CEDER
+----------------------------------------------------------------------------------
+
+  - Equilíbrio orçamentário: O CRUESP reafirmou compromisso de "preservar o
+    poder aquisitivo dos salários sem comprometer o equilíbrio orçamentário e
+    financeiro das universidades"
+  - Orçamento destinado a auxílios, bolsas, moradia, restaurantes, esporte e
+    saúde estudantil na USP para 2026: R$ 461 milhões
+  - Incerteza quanto ao financiamento futuro (reforma tributária e ICMS)
+  - Autonomia universitária: O governador Tarcísio reforçou que "a universidade
+    tem autonomia para fazer a distribuição e alocação de recursos"
+
+4.3. POSIÇÃO DA UNICAMP
+----------------------------------------------------------------------------------
+
+  - Afirma manter "diálogo contínuo com entidades estudantis"
+  - Declara que "estudos continuam sobre a pauta para viabilizar melhorias
+    dentro das possibilidades orçamentárias"
+
+4.4. POSIÇÃO DA UNESP
+----------------------------------------------------------------------------------
+
+  - Confirmou conhecimento das mobilizações
+  - Agendou reunião para 11 de maio de 2026
+
+================================================================================
+5. FACULDADES E INSTITUTOS QUE APOIAM OU REJEITAM A GREVE
+================================================================================
+
+5.1. USP — FACULDADES E INSTITUTOS QUE ADERIRAM À GREVE
+----------------------------------------------------------------------------------
+
+A paralisação estudantil chegou a TODAS as 43 escolas, faculdades e institutos
+da USP, na capital e no interior. Segundo o DCE-Livre, 105 cursos deliberaram
+pela paralisação. Entre as unidades que aprovaram adesão:
+
+  CAPITAL (São Paulo — Campus Butantã e outros):
+  - Faculdade de Filosofia, Letras e Ciências Humanas (FFLCH) — uma das
+    primeiras a aderir
+  - Escola de Comunicações e Artes (ECA)
+  - Escola Politécnica (Poli)
+  - Instituto de Física (IF)
+  - Instituto de Química (IQ)
+  - Instituto de Psicologia (IP)
+  - Instituto de Geociências (IGc)
+  - Instituto Oceanográfico (IO)
+  - Instituto de Relações Internacionais (IRI)
+  - Instituto de Ciências Biomédicas (ICB)
+  - Faculdade de Ciências Farmacêuticas (FCF)
+  - Faculdade de Educação (FE)
+  - Escola de Enfermagem (EE)
+  - Faculdade de Arquitetura, Urbanismo e Design (FAU)
+  - Escola de Artes, Ciências e Humanidades (EACH — Campus Leste)
+
+  INTERIOR:
+  - Faculdades nos campi de Ribeirão Preto, São Carlos, Piracicaba, Bauru e
+    Lorena também aderiram
+
+5.2. USP — FACULDADES QUE CRITICARAM A OCUPAÇÃO DA REITORIA
+----------------------------------------------------------------------------------
+
+Após a ocupação do prédio da reitoria em 7 de maio, algumas unidades emitiram
+notas públicas CONTRA a ocupação:
+
+  - Faculdade de Medicina (FMUSP): declarou que divergências precisam ser
+    "conduzidas por meio do debate institucional"
+  - Faculdade de Direito (FD/Largo São Francisco): reconheceu o direito ao
+    protesto como legítimo, mas enfatizou que "nenhuma reivindicação, por mais
+    relevante que seja, autoriza práticas de violência, intimidação e
+    vandalismo ao patrimônio público"
+  - Outras unidades também se manifestaram contra a forma (ocupação), embora
+    não necessariamente contra as pautas
+
+  ** IMPORTANTE: Após a desocupação violenta pela PM em 10/05, a situação se
+  inverteu parcialmente — unidades que haviam criticado a ocupação passaram a
+  criticar a ação policial, e algumas que tinham desmobilizado reconsideraram
+  a retomada da greve.
+
+5.3. POSIÇÃO DOS DOCENTES (ADUSP)
+----------------------------------------------------------------------------------
+
+  - Em assembleia realizada em 10 de maio, docentes da USP votaram por
+    SUSPENDER sua própria paralisação, mas REAFIRMARAM apoio às demandas
+    estudantis
+  - A assembleia aprovou:
+    * Continuação da mobilização por meio de campanhas
+    * Divulgação de dados sobre perdas de professores
+    * Envio de carta à reitoria com avaliação das políticas de contratação
+  - A ADUSP apoia as demandas de contratação docente e permanência estudantil
+
+5.4. UNICAMP — CURSOS QUE ADERIRAM
+----------------------------------------------------------------------------------
+
+Até 11 de maio de 2026, pelo menos 16 dos 69 cursos da UNICAMP aprovaram
+greve, incluindo:
+  - Arquitetura e Urbanismo
+  - Biologia
+  - Artes Cênicas
+  - Engenharia de Alimentos
+  - Outros cursos em deliberação
+
+  A decisão por indicativo de greve geral foi aprovada em assembleia na
+  quinta-feira (7 de maio), que reuniu mais de mil estudantes.
+
+5.5. UNESP — MOBILIZAÇÃO
+----------------------------------------------------------------------------------
+
+  - Estado de mobilização e paralisação estadual aprovados
+  - Campus de Rio Claro: greve em 3 cursos (Geografia, Física e Educação
+    Física), impactando mais de 600 estudantes
+  - Assembleia marcada para 12 de maio para decidir greve total do campus
+  - Outros campi em processo de deliberação
+
+================================================================================
+6. LINHA DO TEMPO: ANTECEDENTES (ANTES DA GREVE)
+================================================================================
+
+25 DE JANEIRO DE 2026
+  - Posse do reitor Aluísio Augusto Cotrim Segurado e da vice-reitora Liedi
+    Bernucci na USP (mandato até 2030)
+
+DEZEMBRO DE 2025
+  - Conselho Universitário da UNICAMP aprova o projeto de autarquização da
+    área da saúde, gerando protestos de trabalhadores e estudantes
+
+MARÇO DE 2026 (data exata não especificada)
+  - Comissão de Orçamento e Patrimônio (COP) da USP elabora minuta que pretende
+    regularizar a ocupação de espaços por entidades estudantis, retirando
+    autonomia dos centros acadêmicos
+
+25 DE MARÇO DE 2026
+  - SINTUSP denuncia: "Reitoria lança proposta de gratificação para docentes e
+    NENHUMA proposta para os funcionários" — referência à proposta da GACE
+
+31 DE MARÇO DE 2026
+  - Conselho Universitário da USP aprova a GACE (Gratificação por Atividades
+    Complementares Estratégicas) — R$ 4.500/mês exclusivamente para docentes.
+    Este é considerado o ESTOPIM DA GREVE.
+
+7 DE ABRIL DE 2026
+  - DCE-Livre "Alexandre Vannucchi Leme" publica nota conjunta de 75 entidades
+    estudantis contra a minuta da COP sobre espaços estudantis
+
+9 DE ABRIL DE 2026
+  - Assembleia geral do SINTUSP aprova por unanimidade a greve a partir de
+    14 de abril
+
+10 DE ABRIL DE 2026
+  - Fiscalizações sanitárias realizadas nos restaurantes universitários da USP
+
+================================================================================
+7. LINHA DO TEMPO: DURANTE A GREVE
+================================================================================
+
+--- FASE 1: GREVE UNIFICADA (FUNCIONÁRIOS + ESTUDANTES) ---
+
+14 DE ABRIL DE 2026 (TERÇA-FEIRA) — INÍCIO DA GREVE
+  - Funcionários técnico-administrativos da USP (SINTUSP) iniciam greve por
+    tempo indeterminado
+  - Estudantes realizam paralisação simultânea
+  - A paralisação atinge múltiplas unidades e serviços da universidade
+  - Mais de 105 cursos deliberam pela paralisação no primeiro dia
+
+15 DE ABRIL DE 2026 (QUARTA-FEIRA)
+  - Assembleia no Vão da FFLCH: DCE-Livre da USP aprova GREVE UNIFICADA POR
+    TEMPO INDETERMINADO, com maioria de votos
+
+16 DE ABRIL DE 2026 (QUINTA-FEIRA)
+  - Jornal do Campus publica reportagem sobre a assembleia estudantil
+  - Greve de estudantes cresce e chega a 15 faculdades e institutos
+
+17 DE ABRIL DE 2026
+  - USP apresenta proposta para encerrar greve de funcionários
+
+MEADOS DE ABRIL
+  - Reitoria revoga a minuta da COP sobre espaços estudantis, atendendo a uma
+    das demandas estudantis
+
+--- FASE 2: ACORDO COM FUNCIONÁRIOS, ESTUDANTES MANTÊM GREVE ---
+
+23 DE ABRIL DE 2026
+  - Reitoria e SINTUSP assinam acordo para encerramento da greve dos
+    funcionários após 9 dias de paralisação
+  - Termos do acordo:
+    * Bonificação de ~R$ 1.600/mês (equiparação à GACE)
+    * Compromisso de estudar formalização jurídica para abono de "pontes"
+    * Intenção de implementar soluções de transporte para terceirizados
+  - Funcionários retomam atividades
+
+24-25 DE ABRIL DE 2026
+  - Estudantes AMPLIAM a greve, agora com pautas próprias de permanência
+    estudantil
+  - Greve estudantil passa a ser o centro do movimento
+
+28 DE ABRIL DE 2026
+  - Reunião de quase 6 horas entre reitoria e representantes estudantis
+  - Participantes: 5 administradores seniores + 24 delegados estudantis
+  - Reitoria apresenta diversas propostas (ver seção 4.1.c)
+  - Estudantes consideram as propostas insuficientes, especialmente o reajuste
+    do PAPFE (de R$ 885 para R$ 912 — apenas R$ 27 de aumento)
+
+29 DE ABRIL DE 2026
+  - Fórum das Seis protocola Pauta Unificada 2026 junto ao CRUESP
+
+--- FASE 3: RUPTURA DAS NEGOCIAÇÕES ---
+
+4 DE MAIO DE 2026 (DOMINGO)
+  - Reunião do CRUESP: proposta de reajuste salarial de 3,47% para docentes e
+    servidores de USP, UNESP e UNICAMP (baseado no IPC-FIPE)
+  - Ato/vigília do Fórum das Seis na sede do CRUESP
+  - Reitoria da USP declara encerradas as negociações com estudantes
+  - Reitoria apresenta "proposta final" para o PAPFE: reajuste de ~3% pelo
+    IPC-FIPE
+
+5 DE MAIO DE 2026 (SEGUNDA-FEIRA)
+  - DCE da UNESP anuncia estado de mobilização e paralisação estadual
+  - Reitor Aluísio Segurado endurece posição e acusa movimento de "motivação
+    política"
+  - Pró-Reitoria de Graduação veta qualquer alteração no calendário acadêmico
+
+6 DE MAIO DE 2026 (TERÇA-FEIRA)
+  - Assembleia geral convocada pelo DCE da USP para deliberar sobre próximos
+    passos
+  - Estudantes da UNESP e UNICAMP debatem adesão à greve
+  - Decisão de ocupar a reitoria é aprovada
+
+--- FASE 4: OCUPAÇÃO E DESOCUPAÇÃO DA REITORIA ---
+
+7 DE MAIO DE 2026 (QUARTA-FEIRA)
+  - Na tarde: estudantes ocupam o prédio da reitoria da USP no campus Butantã
+  - Manifestantes derrubam portão de metal e duas portas de vidro
+  - Cerca de 150 pessoas ocupam o saguão da reitoria
+  - DCE-Livre organiza o movimento e classifica a ocupação como "pacífica"
+  - Estudantes formam "cordão humano" bloqueando acesso à reitoria
+  - Na UNICAMP: assembleia com mais de mil estudantes aprova indicativo de
+    greve geral
+
+8 DE MAIO DE 2026 (QUINTA-FEIRA)
+  - Manifestantes decidem MANTER a ocupação
+  - Faculdades de Medicina e Direito da USP emitem notas contra a ocupação
+  - Outros institutos também se posicionam
+
+9 DE MAIO DE 2026 (SEXTA-FEIRA)
+  - PM cerca a reitoria da USP
+  - Corte de água e luz no prédio ocupado
+  - USP aciona forças de segurança
+
+10 DE MAIO DE 2026 (SÁBADO/DOMINGO — MADRUGADA)
+  - Por volta das 4h15 da madrugada: POLÍCIA MILITAR DESOCUPA A REITORIA
+  - Cerca de 50 policiais militares participam da operação
+  - Uso de bombas de efeito moral, gás lacrimogêneo e cassetetes
+  - Tropa de Choque cerca o prédio enquanto ocupantes dormiam
+  - Formação de "corredor polonês" na saída do prédio
+  - FERIDOS: DCE reporta 6 feridos transportados ao pronto-socorro do Rio
+    Pequeno; 2 liberados, 4 hospitalizados (1 com fratura no nariz). PM nega
+    feridos.
+  - DETIDOS: 4 pessoas levadas ao 7º Distrito Policial; liberadas após
+    procedimento por dano ao patrimônio e invasão
+  - APREENSÕES: PM alega ter encontrado drogas, facas, estiletes, lâminas e
+    bastões
+  - POLÊMICA: DCE questiona legalidade da operação — não haveria ordem judicial
+    autorizando a evacuação
+  - USP declara "não ter sido comunicada previamente" sobre a ação policial
+  - USP afirma que "lamenta os acontecimentos" durante o processo de
+    reintegração
+
+  - Assembleia da ADUSP (docentes): votam por suspender paralisação docente,
+    mas reafirmam apoio a estudantes
+
+  - Fórum das Seis emite nota: "Desocupação policial na madrugada, violência e
+    desrespeito aos estudantes: esse não é o caminho para a Universidade
+    pública, reitor Aluísio!"
+  - CSP-Conlutas emite nota: "Todo repúdio à desocupação violenta da reitoria
+    da USP pela PM do governo Tarcísio"
+  - CartaCapital publica: "'Parecia cena de ditadura': PM agride estudantes em
+    ocupação da reitoria da USP"
+
+--- FASE 5: AMPLIAÇÃO DO MOVIMENTO ---
+
+11 DE MAIO DE 2026 (SEGUNDA-FEIRA) — DIA ATUAL
+  - ATO UNIFICADO de estudantes da USP, UNICAMP e UNESP em frente à sede
+    da Reitoria da UNESP / CRUESP, Praça da República, centro de São Paulo
+  - Professores e funcionários das três universidades também participam
+  - CONFRONTO COM BOLSONARISTAS: O vereador Adrilles Jorge (União-SP) e o
+    influenciador Robson Fuinha chegam ao ato e começam a filmar estudantes.
+    Estudantes gritam "vai trabalhar". Jorge responde: "Eu que pago a
+    universidade de vocês". Empurrões e confronto. PM dispara bombas de gás
+    lacrimogêneo para separar os grupos.
+  - Na UNICAMP: 16 dos 69 cursos já aderiram à greve (Arquitetura e Urbanismo,
+    Biologia, Artes Cênicas, Engenharia de Alimentos e outros)
+  - Na UNESP: mobilização avança em múltiplos campi (Rio Claro com 3 cursos
+    parados)
+  - Centrais sindicais emitem nota de apoio à greve dos estudantes da USP
+
+================================================================================
+8. SITUAÇÃO ATUAL (11 DE MAIO DE 2026)
+================================================================================
+
+  - GREVE ESTUDANTIL NA USP: mantida por tempo indeterminado, com 105+ cursos
+    em paralisação. Reitoria considera negociações encerradas. Calendário
+    acadêmico mantido sem alterações.
+
+  - GREVE NA UNICAMP: em expansão, com 16 dos 69 cursos aderindo. Pautas
+    incluem autarquização da saúde e permanência estudantil.
+
+  - GREVE NA UNESP: em estado de mobilização e paralisação, com campus de
+    Rio Claro como referência. Assembleia em 12/05 pode decidir greve total.
+
+  - FUNCIONÁRIOS DA USP: GREVE ENCERRADA desde 23/04, com acordo assinado.
+
+  - DOCENTES DA USP: Paralisação suspensa, mas apoio reafirmado. Mobilização
+    por meio de campanhas.
+
+  - NEGOCIAÇÃO SALARIAL UNIFICADA: Impasse entre Fórum das Seis (demanda
+    15,97%) e CRUESP (oferta 3,47%).
+
+  - TENSÃO POLÍTICA: Desocupação violenta da reitoria pela PM gerou repercussão
+    nacional e potencialmente fortaleceu o movimento. Confronto com
+    bolsonaristas no ato de 11/05 elevou ainda mais a tensão.
+
+  - GOVERNADOR TARCÍSIO: Posiciona-se contra a greve, defendendo autonomia
+    universitária e classificando movimento como "político".
+
+================================================================================
+9. FONTES
+================================================================================
+
+ADUSP (Associação dos Docentes da USP):
+  - "Primeiro dia de greve dos(as) funcionários(as) e paralisação de estudantes
+    afetam toda a USP" — https://adusp.org.br/universidade/greve-sintusp/
+  - "Nesta terça (14), funcionários(as) técnico-administrativos(as) da USP
+    entram em greve" — https://adusp.org.br/universidade/greve-usp/
+  - "Reitoria cede, atende às reivindicações dos(as) funcionários(as)"
+    — https://adusp.org.br/universidade/greve-sintusp-3/
+
+SINTUSP (Sindicato dos Trabalhadores da USP):
+  - "É Greve! Assembleia aprova greve a partir de 14 de abril"
+    — https://www.sintusp.org.br/2026/04/09/e-greve-assembleia-aprova-greve-a-partir-de-14-de-abril/
+  - "Nota do Fórum das Seis – Desocupação policial na madrugada"
+    — https://www.sintusp.org.br/2026/05/10/nota-do-forum-das-seis-desocupacao-policial-na-madrugada-violencia-e-desrespeito-aos-estudantes-esse-nao-e-o-caminho-para-a-universidade-publica-reitor-aluisio/
+  - "Pauta Unificada 2026"
+    — https://www.sintusp.org.br/2026/04/29/pauta-unificada-2026/
+
+Jornal da USP:
+  - "Reitoria e Sintusp assinam acordo pelo final da greve"
+    — https://jornal.usp.br/comunicados/reitoria-e-sintusp-assinam-acordo-pelo-final-da-greve-dos-servidores-tecnicos-e-administrativos/
+  - "Comunicado da Reitoria sobre reunião com estudantes"
+    — https://jornal.usp.br/comunicados/comunicado-da-reitoria-sobre-reuniao-com-estudantes/
+  - "Cruesp propõe reajuste salarial de 3,47%"
+    — https://jornal.usp.br/comunicados/cruesp-propoe-reajuste-salarial-de-347-aos-servidores-da-usp-unesp-e-unicamp/
+
+Jornal do Campus:
+  - "Assembleia estudantil define estado de greve na USP"
+    — https://www.jornaldocampus.usp.br/index.php/2026/04/assembleia-estudantil-define-estado-de-greve-na-usp/
+
+Agência Brasil:
+  - "Após acordo com reitoria, funcionários da USP encerram greve"
+    — https://agenciabrasil.ebc.com.br/educacao/noticia/2026-04/apos-acordo-com-reitoria-funcionarios-da-usp-encerram-greve
+  - "PM retira estudantes da reitoria da USP"
+    — https://agenciabrasil.ebc.com.br/educacao/noticia/2026-05/policia-militar-desocupa-estudantes-da-reitoria-da-usp
+
+CNN Brasil:
+  - "Greve nas estaduais avança com impasse entre alunos e reitorias"
+    — https://www.cnnbrasil.com.br/nacional/sudeste/sp/sao-paulo-greve-nas-estaduais-avanca-com-impasse-entre-alunos-e-reitorias/
+  - "Funcionários da USP entram em acordo com reitoria e encerram greve"
+    — https://www.cnnbrasil.com.br/educacao/funcionarios-da-usp-entram-em-acordo-com-reitoria-e-encerram-greve/
+  - "Polícia Militar usa bombas e gás para desocupar reitoria da USP"
+    — https://www.cnnbrasil.com.br/nacional/sudeste/sp/policia-militar-usa-bombas-e-gas-para-desocupar-reitoria-da-usp/
+
+Metrópoles:
+  - "Greve na USP tem 104 cursos parados contra precarização"
+    — https://www.metropoles.com/sao-paulo/greve-usp-104-cursos-parados
+  - "Estudantes da USP decretam greve por tempo indeterminado"
+    — https://www.metropoles.com/sao-paulo/estudantes-da-usp-decretam-greve-por-tempo-indeterminado
+  - "USP mantém aulas, provas e presença mesmo com greve estudantil"
+    — https://www.metropoles.com/sao-paulo/usp-greve-mantem-aulas-sp
+  - "Alunos da Unesp e Unicamp discutem paralisação após greve na USP"
+    — https://www.metropoles.com/sao-paulo/alunos-unesp-unicamp-greve-usp
+  - "Tarcísio: 'Não entra na minha cabeça a greve dos estudantes'"
+    — https://www.metropoles.com/sao-paulo/tarcisio-nao-entra-cabeca-greve-usp
+  - "USP diz não ter sido comunicada sobre desocupação da Reitoria pela PM"
+    — https://www.metropoles.com/sao-paulo/usp-desocupacao-da-reitoria-pela-pm
+
+Poder360:
+  - "Trabalhadores da USP aceitam acordo após 9 dias de greve"
+    — https://www.poder360.com.br/poder-educacao/trabalhadores-da-usp-aceitam-acordo-apos-9-dias-de-greve/
+  - "PM usa gás para retirar estudantes da reitoria da USP"
+    — https://www.poder360.com.br/poder-brasil/pm-usa-gas-para-retirar-estudantes-da-reitoria-da-usp/
+  - "Institutos da USP criticam ocupação da reitoria por estudantes"
+    — https://www.poder360.com.br/poder-educacao/institutos-da-usp-criticam-ocupacao-da-reitoria-por-estudantes/
+  - "Grevistas de Unesp, USP e Unicamp têm confronto com bolsonaristas"
+    — https://www.poder360.com.br/poder-educacao/grevistas-de-unesp-usp-e-unicamp-tem-confronto-com-bolsonaristas/
+  - "Greve na USP continua após impasse sobre gratificação"
+    — https://www.poder360.com.br/poder-educacao/greve-na-usp-continua-apos-impasse-sobre-gratificacao/
+
+Brasil de Fato:
+  - "Estudantes da USP em greve ocupam reitoria"
+    — https://www.brasildefato.com.br/2026/05/07/estudantes-da-usp-em-greve-ocupam-reitoria/
+
+CartaCapital:
+  - "'Parecia cena de ditadura': PM agride estudantes em ocupação da reitoria"
+    — https://www.cartacapital.com.br/educacao/parecia-cena-de-ditadura-pm-agride-estudantes-em-ocupacao-da-reitoria-da-usp/
+  - "Decisão sobre gratificação a professores deflagra greve"
+    — https://www.cartacapital.com.br/educacao/decisao-sobre-gratificacao-a-professores-deflagra-greve-e-pressiona-reitoria-da-usp/
+
+Diário do Grande ABC:
+  - "Em greve, estudantes da USP bloqueiam reitoria com cordão humano"
+    — https://www.dgabc.com.br/Noticia/4318069/em-greve-estudantes-da-usp-bloqueiam-reitoria-com-cordao-humano-e-cobram-novas-negociacoes
+  - "Greve dos estudantes avança na Unicamp; 16 dos 69 cursos aderem"
+    — https://www.dgabc.com.br/Noticia/4318609/greve-dos-estudantes-avanca-na-unicamp-apos-paralisacao-na-usp-16-dos-69-cursos-aderem
+
+SBT News:
+  - "Reitores de USP, Unesp e Unicamp se reúnem sob temor de greve unificada"
+    — https://sbtnews.sbt.com.br/noticia/brasil/reitores-de-usp-unesp-e-unicamp-se-reunem-sob-temor-de-greve-unificada
+
+Revista Oeste:
+  - "USP encerra negociação da greve com estudantes"
+    — https://revistaoeste.com/brasil/usp-encerra-negociacao-com-estudantes-em-greve/
+
+ISTOÉ:
+  - "Após paralisação na USP, Unesp e Unicamp avaliam entrar em greve"
+    — https://istoe.com.br/apos-paralisacao-na-usp-unesp-e-unicamp-avaliam-entrar-em-greve
+
+Band:
+  - "Bombas, gás e feridos: o que se sabe sobre desocupação da Reitoria da USP"
+    — https://www.band.com.br/noticias/bora-brasil/ultimas/bombas-gas-e-feridos-o-que-se-sabe-sobre-desocupacao-da-reitoria-da-usp-202605111120
+
+CSP-Conlutas:
+  - "Todo repúdio à desocupação violenta da reitoria da USP"
+    — https://cspconlutas.org.br/n/20333/todo-repudio-a-desocupacao-violenta-da-reitoria-da-usp-pela-pm-do-governo-tarcisio
+
+ANDES-SN:
+  - "Docentes da USP suspendem paralisação e reafirmam apoio a estudantes"
+    — https://www.andes.org.br/conteudos/noticia/docentes-da-uSP-suspendem-paralisacao-e-reafirmam-apoio-a-estudantes1
+  - "Docentes da USP mantêm paralisação em apoio à greve estudantil"
+    — https://www.andes.org.br/conteudos/noticia/docentes-da-uSP-mantem-paralisacao-em-apoio-a-greve-estudantil1
+
+Correio Braziliense:
+  - "Estudantes da USP aprovam greve unificada com funcionários"
+    — https://www.correiobraziliense.com.br/euestudante/ensino-superior/2026/04/7399375-estudantes-da-usp-aprovam-greve-greve-unificada-com-funcionarios.html
+
+Faculdade de Direito da USP:
+  - "Nota da Diretoria sobre a greve de alunos"
+    — https://direito.usp.br/noticia/3c26c4d7dfa3-nota-da-diretoria-da-faculdade-de-direito-da-usp-a-comunidade-academica-e-a-sociedade-sobre-a-greve-de-alunos
+
+ADunicamp:
+  - "Fórum das Seis critica gratificação na USP"
+    — https://www.adunicamp.org.br/forum-das-seis/forum-das-seis-critica-gratificacao-na-usp-e-destaca-mobilizacao-na-campanha-salarial-2026/
+
+JC Rio Claro:
+  - "Greve na Unesp de Rio Claro atinge cursos e mobiliza alunos"
+    — https://www.jornalcidade.net/rc/greve-na-unesp-de-rio-claro/290027/
+
+CTB (Central dos Trabalhadores e Trabalhadoras do Brasil):
+  - "Nota das Centrais Sindicais — Apoio à greve dos estudantes da USP"
+    — https://www.ctb.org.br/2026/05/11/nota-das-centrais-sindicais-apoio-a-greve-dos-estudantes-da-universidade-de-sao-paulo-usp/
+
+================================================================================
+FIM DO DOCUMENTO
+================================================================================

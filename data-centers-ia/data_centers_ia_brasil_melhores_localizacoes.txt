@@ -1,0 +1,487 @@
+================================================================================
+MELHORES LOCALIZAÇÕES PARA DATA CENTERS DE IA NO BRASIL
+Estudo aprofundado — treinamento e inferência de modelos de inteligência artificial
+Data da pesquisa: 18 de julho de 2026
+================================================================================
+
+SUMÁRIO
+1. Metodologia: análise "from first principles"
+2. O que um data center de IA precisa (treinamento vs. inferência)
+3. Energia: o fator dominante
+4. Conectividade e latência
+5. Água, clima e resfriamento
+6. Tributação: federal, estadual e municipal
+7. Logística, terreno e mão de obra
+8. Análise das principais localizações candidatas
+9. Ranking final e recomendações
+10. Matriz de riscos
+11. Fontes
+
+================================================================================
+1. METODOLOGIA: ANÁLISE "FROM FIRST PRINCIPLES"
+================================================================================
+
+Um data center de IA é, na essência, uma máquina de converter eletricidade em
+computação. Os insumos, em ordem de importância econômica:
+
+  a) ENERGIA ELÉTRICA — 50-70% do custo operacional (OPEX). Um campus de
+     treinamento de fronteira demanda de 300 MW a vários GW, firmes, 24/7.
+  b) CAPEX DE EQUIPAMENTOS — GPUs/aceleradores respondem por ~60-70% do CAPEX
+     e são quase todos importados → tributação de importação e logística
+     portuária/aeroportuária importam muito.
+  c) CONECTIVIDADE — fibra terrestre e cabos submarinos. Crítica para
+     inferência (latência ao usuário); secundária para treinamento (que
+     precisa de banda para ingestão de dados, mas tolera latência).
+  d) RESFRIAMENTO — clima e água afetam PUE (Power Usage Effectiveness) e
+     WUE (Water Usage Effectiveness). A tendência (e exigência do REDATA) é
+     liquid cooling em circuito fechado com WUE ≤ 0,05 L/kWh, o que reduz
+     muito o peso da água como critério locacional.
+  e) TRIBUTOS — federais (II, IPI, PIS/COFINS sobre equipamentos), estaduais
+     (ICMS sobre equipamentos e sobre ENERGIA — este é recorrente e enorme)
+     e municipais (ISS 2-5%, IPTU, licenciamento).
+  f) TERRENO, GEOTECNIA E RISCO FÍSICO — grandes áreas planas, fora de zonas
+     de inundação, com baixo risco sísmico/climático.
+  g) MÃO DE OBRA — construção (milhares de trabalhadores por 2-3 anos) e
+     operação (centenas, especializada).
+  h) AMBIENTE REGULATÓRIO E LICENCIAMENTO — velocidade de conexão à rede,
+     licença ambiental, segurança jurídica.
+
+Diferença fundamental de requisitos:
+
+  TREINAMENTO: otimiza para CUSTO DE ENERGIA e ESCALA (GW). Latência é quase
+  irrelevante — o "cliente" são os próprios pesquisadores. Pode ficar longe
+  dos centros de consumo, idealmente colado na geração renovável barata.
+
+  INFERÊNCIA: otimiza para LATÊNCIA e PROXIMIDADE DO USUÁRIO/ECOSSISTEMA.
+  ~50 ms separam Fortaleza de São Paulo; processar fora do país adiciona
+  100 ms+. Para aplicações em tempo real, isso decide a localização. O
+  centro de gravidade dos usuários e das empresas brasileiras é o eixo
+  SP-RJ.
+
+================================================================================
+2. PANORAMA 2026
+================================================================================
+
+- O Brasil tem ~205 data centers em operação e pelo menos 10 em construção
+  (6 no Sudeste, demais no Sul e Nordeste) [Poder360].
+- Demanda adicional projetada pela EPE: de 89 MW médios (2025) para
+  2.157 MW médios (2030); até 25 GW de demanda potencial até 2035.
+- O ONS aceitou 43 pedidos de acesso à Rede Básica na primeira "Temporada de
+  Acesso" (Decreto 12.772/2025), sendo 38 de data centers somando ~7,04 GW.
+  A maioria no Sudeste: só São Paulo tem 20 projetos e 3,9 GW. Pedidos
+  totais de conexão (data centers + hidrogênio) chegam a 54,2 GW até 2038.
+- Matriz elétrica ~88-90% renovável: argumento de venda único do Brasil
+  ("data centers verdes") num mundo onde a IA pressiona emissões.
+
+Grandes projetos anunciados (âncoras de cada polo):
+- TikTok/ByteDance + Omnia (Pátria) + Casa dos Ventos — Caucaia/Pecém (CE):
+  R$ 50 bi iniciais, escopo total R$ 200 bi+, 300 MW na fase 1, obras desde
+  jan/2026, operação prevista 3T/2027. Maior projeto do país.
+- Scala AI City — Eldorado do Sul (RS): 4,75 GW autorizados (reserva de 5 GW
+  pelo MME), 10 milhões de m², fase 1 de 54 MW/US$ 500 mi já operacional.
+  Racks de 150 kW+, liquid cooling sem consumo de água.
+- Rio AI City (Elea Data Centers) — Parque Olímpico, Rio de Janeiro: 1,5 GW
+  na fase inicial (~US$ 50 bi), escalável a 3,2 GW; contrato-âncora de
+  R$ 2,3 bi/17 anos com a Petrobras; RJO1 operacional, RJO2 (80 MW) em 2026.
+- CloudHQ — Paulínia (SP): campus hyperscale de 228 MW (potencial 400 MW),
+  US$ 3 bi+, primeiro site da empresa na América Latina.
+- Microsoft — região de Campinas/Hortolândia (SP): primeiros projetos
+  self-build da empresa na América Latina.
+- Renova/Alto Sertão III — Caetité/Igaporã (BA): data center integrado ao
+  complexo eólico (~R$ 900 mi, 85 MW iniciais) para consumir energia cortada
+  (curtailment).
+- Tecto (Grupo V.tal) "Mega Lobster" — Praia do Futuro, Fortaleza (CE):
+  20 MW, maior DC em operação no NE, integrado ao futuro cabo Synapse.
+
+================================================================================
+3. ENERGIA: O FATOR DOMINANTE
+================================================================================
+
+3.1 Preço
+- PPAs de longo prazo no mercado livre: eólica R$ 130-220/MWh (10-20 anos),
+  solar R$ 150-250/MWh (10-15 anos). Entre os preços de energia limpa mais
+  baixos do mundo (~US$ 25-45/MWh), competitivos com Texas e Oriente Médio.
+- O Nordeste tem os PPAs mais baratos do país (melhores fatores de
+  capacidade eólica do mundo no litoral CE/RN/PI e no interior BA/PI).
+- CURTAILMENT: em 2025, cortes de geração eólica/solar superaram 20% da
+  geração; jan-abr/2026 teve 2.843 MW médios cortados, 79% no Nordeste.
+  Energia "desperdiçada" por falta de transmissão = oportunidade de comprar
+  energia marginal muito barata para quem se instala JUNTO à geração no NE.
+  É a tese explícita do projeto da Renova na Bahia e do arranjo
+  TikTok/Casa dos Ventos (parques de 2,1 GW no CE e PI, R$ 11 bi).
+- Autoprodução (APE): data centers com demanda ≥ 30 MW e ≥ 30% de
+  participação societária na usina obtêm vantagens (isenção de encargos
+  setoriais sobre a parcela autoproduzida). Descontos de TUSD/TUST de 50-100%
+  para energia incentivada valeram para contratos firmados até 31/12/2025;
+  novos contratos tendem a não ter o desconto — reforça a lógica de
+  co-localização com a geração.
+
+3.2 Conexão à rede (o verdadeiro gargalo)
+- Um data center fica pronto em 18-24 meses; uma linha de transmissão ou
+  subestação de grande porte leva 42-60 meses. Esse descompasso define quem
+  sai na frente.
+- Decreto 12.772/2025 criou as "Temporadas de Acesso": fim da fila por ordem
+  de chegada; exige garantia financeira (GPA), cronograma vinculante e
+  processo competitivo quando a demanda supera a capacidade da subestação.
+  Primeira temporada até out/2026.
+- SÃO PAULO: corredores elétricos de Tamboré, Vinhedo, Hortolândia e
+  Campinas operam PRÓXIMOS DA SATURAÇÃO. EPE mapeou 8,8 GW de projetos
+  potenciais no estado; estudo Campinas/Bom Jardim/Itatiba (dez/2024)
+  recomendou reforços em 440 kV que permitem conectar apenas 800 MW-1 GW
+  adicionais. Ou seja: quem já garantiu ponto de conexão em SP tem um ativo
+  escasso; novos entrantes grandes enfrentarão espera ou leilão competitivo.
+- NORDESTE: EPE propôs R$ 5,68 bi em reforços de transmissão focados em
+  Parnaíba (PI) e Pecém (CE) especificamente para viabilizar data centers.
+  Sinal claro de direcionamento do planejamento federal para o NE.
+- RS: MME já autorizou reserva de 5 GW para a Scala AI City — a maior
+  garantia de energia contratada do país para um único campus.
+
+3.3 Qualidade/firmeza
+- O NE tem geração intermitente; firmar 24/7 exige combinação
+  eólica+solar+baterias (BESS) ou lastro do SIN. A convergência
+  data center + BESS no NE é apontada como solução do curtailment.
+- O RJ aposta em complementação com gás natural (maior produtor nacional,
+  térmicas existentes) — energia firme, porém fóssil (conflita com o
+  requisito de 100% renovável do REDATA, contornável via certificados/PPAs).
+- O Sul tem proximidade de Itaipu e hidrologia própria, mas passou por
+  eventos climáticos extremos.
+
+================================================================================
+4. CONECTIVIDADE E LATÊNCIA
+================================================================================
+
+- FORTALEZA (Praia do Futuro) é o maior hub de cabos submarinos da América
+  do Sul: 16-17 cabos respondendo por ~90% do tráfego internacional do
+  Brasil. Menor latência para EUA, Europa e África. Novo cabo Synapse
+  (~9.700 km, Tuckerton-NJ ↔ Praia Grande-SP, ramal de 460 km para
+  Fortaleza, 16 pares de fibra) começa a ser construído no 2S/2026, pronto
+  entre 2029-2030.
+- PRAIA GRANDE/SANTOS (SP) e RIO DE JANEIRO são os outros pontos de
+  aterragem relevantes (Seabras-1, Firmina, Malbec, EllaLink etc.).
+- SÃO PAULO concentra o IX.br (um dos maiores pontos de troca de tráfego do
+  mundo), todos os provedores de nuvem e o ecossistema corporativo →
+  imbatível para inferência voltada ao mercado interno.
+- Latências de referência: Fortaleza ↔ São Paulo ~50 ms; processar fora do
+  país adiciona 100 ms+; servidor no Brasil próximo ao usuário parte de
+  ~20 ms. Para inferência em tempo real, SP/RJ ganham para o usuário
+  brasileiro; Fortaleza ganha como hub de exportação de inferência para
+  outras Américas/Europa/África via cabos.
+
+================================================================================
+5. ÁGUA, CLIMA E RESFRIAMENTO
+================================================================================
+
+- REDATA exige WUE ≤ 0,05 L/kWh → na prática obriga liquid cooling em
+  circuito fechado ou dry coolers; a água deixa de ser critério eliminatório,
+  mas o CLIMA continua afetando eficiência (PUE).
+- Sul e Sudeste (planalto): temperaturas médias mais baixas → mais horas de
+  free cooling → PUE melhor. Vantagem térmica de Eldorado do Sul, Campinas,
+  serra fluminense.
+- Nordeste litorâneo: quente o ano todo (PUE um pouco pior), e Caucaia tem
+  histórico de seca — o abastecimento hídrico local é fonte de conflito
+  social documentado (Intercept: mobilização de moradores contra o projeto
+  TikTok). Projetos sérios no NE anunciam resfriamento sem consumo de água.
+  O Complexo do Pecém conta com dessalinização planejada e água de
+  reuso industrial.
+- O NE concentra apenas ~3% da água superficial do país — qualquer projeto
+  que dependa de resfriamento evaporativo no NE enfrentará oposição e risco
+  regulatório crescente (licenciamento ambiental de DCs ainda não tem norma
+  específica federal — ver ConJur jul/2026).
+
+================================================================================
+6. TRIBUTAÇÃO
+================================================================================
+
+6.1 Federal — REDATA (situação em jul/2026: INCERTA)
+- MP 1.318/2025 criou o REDATA: suspensão (convertida em alíquota zero) de
+  PIS/COFINS, IPI e Imposto de Importação sobre máquinas e equipamentos para
+  o ativo fixo de data centers. Renúncia estimada: R$ 5,2 bi. Vigência
+  prevista: 5 anos, antecipando efeitos da reforma tributária.
+- Contrapartidas: 10% da capacidade de processamento ofertada ao mercado
+  interno; 100% de energia limpa/renovável; WUE ≤ 0,05 L/kWh; 2% do valor
+  beneficiado investido em P&D&I no Brasil.
+- A MP CADUCOU em 25/02/2026 sem votação no Senado. O conteúdo foi
+  reproduzido no PL 278/2026, aprovado na Câmara (fev/2026) e parado no
+  Senado (13 emendas, urgência requerida, sem data de votação). Dez frentes
+  parlamentares e 34 entidades pressionam pela aprovação. Enquanto não
+  aprovado, importar GPUs paga carga cheia (II + IPI + PIS/COFINS + ICMS
+  na importação — facilmente 40-60% de custo adicional sobre o hardware).
+  ESTE É HOJE O MAIOR RISCO-PAÍS DO SETOR.
+- Reforma tributária (CBS/IBS a partir de 2027-2033): tende a desonerar
+  investimento (crédito amplo), reduzindo no médio prazo a diferença
+  tributária entre estados — mas o período de transição mantém a guerra
+  fiscal relevante até ~2032.
+
+6.2 ZPE — Zonas de Processamento de Exportação (rota alternativa ao REDATA)
+- MP 1.307/2025 estendeu o regime de ZPE a prestadores de serviços
+  (incluindo data centers "exportadores de serviço"): suspensão de II, IPI,
+  PIS/COFINS (inclusive importação) e AFRMM.
+- Exigência: 100% da energia de usinas renováveis NOVAS (não operacionais na
+  publicação da MP).
+- A ZPE do Pecém é a mais bem-sucedida do país — e é exatamente onde está o
+  projeto TikTok (que exporta serviço para a ByteDance global, encaixando
+  perfeitamente no regime). Vantagem estrutural ENORME do Ceará para
+  treinamento voltado a clientes estrangeiros, INDEPENDENTE do REDATA.
+
+6.3 Estadual (ICMS) — o que importa: (i) ICMS sobre equipamentos;
+    (ii) ICMS sobre ENERGIA ELÉTRICA (custo recorrente dominante)
+- Alíquotas de ICMS sobre energia (pós-LC 194/2022, energia = essencial):
+  SP 18% | RS 17% | RJ ~20% + 2% FECP (mais caro) | CE 18-20% | MG 18%.
+  No mercado livre, o ICMS incide sobre a energia consumida — diferenças de
+  2-4 p.p. sobre centenas de MW são dezenas de milhões de R$/ano.
+- CEARÁ: PROVIN (diferimento de até 75% do ICMS) e PROADE (projetos
+  > R$ 200 mi: diferimento de até 99%). Somado à ZPE, é o pacote fiscal mais
+  agressivo do país.
+- RIO DE JANEIRO: Lei estadual 10.431/2024 — diferimento e isenção de ICMS
+  na importação e aquisição de equipamentos para data centers, válida até
+  2032. Compensa parcialmente o ICMS caro sobre energia.
+- RIO GRANDE DO SUL: benefícios negociados caso a caso (a AI City obteve
+  pacote estadual + lei municipal específica em Eldorado do Sul com
+  licenciamento simplificado autodeclaratório).
+- SÃO PAULO e MINAS GERAIS: em negociação no CONFAZ; SP historicamente
+  concede menos incentivo porque não precisa (demanda o procura). Sete
+  estados estudam benefícios (BNamericas). Risco de "guerra fiscal dos
+  data centers" no NE (Brasil de Fato, jul/2026).
+- ZFM (Manaus): isenções amplas, mas logística, conectividade e energia
+  desfavoráveis — não é candidata séria para IA em escala.
+
+6.4 Municipal
+- ISS sobre serviços de colocation/processamento: 2% a 5% conforme o
+  município — polos competem oferecendo alíquota mínima (2%) e isenções de
+  IPTU/ITBI. Eldorado do Sul, Caucaia e municípios da RMC (Paulínia,
+  Hortolândia) têm dado tratamento preferencial via leis locais.
+
+================================================================================
+7. LOGÍSTICA, TERRENO E MÃO DE OBRA
+================================================================================
+
+- IMPORTAÇÃO DE HARDWARE: proximidade de porto/aeroporto com regime
+  aduaneiro ágil. Pecém (porto + ZPE + alfândega integrada) é imbatível no
+  NE; Viracopos/Campinas é o principal aeroporto de carga do país (vantagem
+  logística real para GPUs, que viajam de avião); Rio tem Galeão e portos.
+- TERRENO: NE e RS oferecem glebas enormes e baratas (10 mi de m² da AI
+  City; 190 km² do Complexo do Pecém). Na RMC e Grande SP, terreno é caro e
+  escasso — mais um fator empurrando treinamento para fora de SP.
+- MÃO DE OBRA: SP/Campinas tem o maior pool técnico (universidades, setor de
+  TI). RS tem tradição em TI (Porto Alegre/TecnoPUC). CE/NE exigirá formação
+  local — TikTok/Omnia prometem 4.000+ empregos e programas de qualificação.
+- RISCO FÍSICO: Brasil não tem terremotos/furacões relevantes — vantagem
+  global. Riscos reais: inundação (RS 2024: 97% da área urbana de Eldorado
+  do Sul submersa — o site da AI City fica em cota elevada junto à BR-290,
+  não alagada, mas o risco reputacional/logístico regional existe), seca e
+  conflito hídrico no semiárido, e apagões regionais (Amapá 2020 como
+  precedente de risco de transmissão).
+
+================================================================================
+8. ANÁLISE DAS PRINCIPAIS LOCALIZAÇÕES
+================================================================================
+
+--------------------------------------------------------------------------------
+8.1 PECÉM/CAUCAIA (CE) — nota: TREINAMENTO 9,5/10 | INFERÊNCIA 7/10
+--------------------------------------------------------------------------------
++ Energia eólica/solar mais barata do país, colada na geração (PI/CE), com
+  curtailment abundante para absorver; reforços de transmissão de R$ 5,68 bi
+  priorizados pela EPE para Pecém/Parnaíba.
++ ZPE = isenção federal de II/IPI/PIS/COFINS sobre equipamentos JÁ VIGENTE
+  (não depende do REDATA) para operações exportadoras de serviço.
++ PROADE: diferimento de até 99% do ICMS estadual.
++ Porto do Pecém + zona alfandegada para importar hardware.
++ Fortaleza a ~50 km: 17 cabos submarinos, menor latência internacional do
+  país — treinamento pode sincronizar dados com matrizes no exterior e
+  exportar inferência para África/Europa/América do Norte.
++ Validação de mercado: TikTok/ByteDance escolheu Pecém após avaliar todo o
+  país (R$ 50-200 bi, 300 MW fase 1, operação 2027).
++ Terreno abundante, apoio político estadual total.
+- Clima quente (PUE pior), estresse hídrico e oposição social documentada
+  (Caucaia tem histórico de seca; mobilização de moradores).
+- Distância de SP: ~50 ms — ruim para inferência em tempo real no mercado
+  doméstico.
+- Intermitência renovável exige BESS/lastro para carga 24/7.
+
+--------------------------------------------------------------------------------
+8.2 CAMPINAS/PAULÍNIA/HORTOLÂNDIA — RMC (SP) — TREINAMENTO 6/10 | INFERÊNCIA 10/10
+--------------------------------------------------------------------------------
++ Coração digital do Brasil: IX.br, todas as nuvens, fibra densa, ecossistema
+  corporativo e o maior mercado consumidor — latência mínima ao usuário.
++ Viracopos (carga aérea nº 1 do país) para importação de GPUs.
++ Melhor pool de talento técnico (Unicamp, polo de TI).
++ Validação: CloudHQ (228 MW, US$ 3 bi), Microsoft (Hortolândia), Tamboré
+  (maior campus da AL), 20 pedidos de conexão/3,9 GW no estado.
++ Clima ameno de planalto (PUE bom).
+- REDE ELÉTRICA PRÓXIMA DA SATURAÇÃO: corredores Tamboré/Vinhedo/
+  Hortolândia/Campinas no limite; reforços permitem só mais 800 MW-1 GW;
+  novos projetos grandes disputarão leilões de acesso ou esperarão 42-60
+  meses por obras. Ponto de conexão virou o ativo mais valioso de SP.
+- Energia mais cara (longe da geração renovável barata; TUST cheia).
+- Terreno caro, pouco incentivo fiscal estadual (SP não precisa atrair).
+→ VEREDITO: melhor lugar do Brasil para INFERÊNCIA e nuvem comercial; ruim
+  para treinamento em escala GW por gargalo de rede e custo de energia.
+
+--------------------------------------------------------------------------------
+8.3 ELDORADO DO SUL / GRANDE PORTO ALEGRE (RS) — TREINAMENTO 8,5/10 | INFERÊNCIA 7,5/10
+--------------------------------------------------------------------------------
++ Única localização com 5 GW de conexão JÁ AUTORIZADOS pelo MME (Scala AI
+  City) — resolve o gargalo nº 1 do setor por decreto.
++ Clima subtropical: melhor PUE do país entre os grandes polos; projeto com
+  liquid cooling e zero água.
++ Terreno gigante (10 mi m²), apoio estadual e municipal máximo
+  (licenciamento simplificado por lei local), ICMS 17% sobre energia (menor
+  entre os grandes).
++ Proximidade relativa de Itaipu/hidrologia do Sul; acesso ao Cone Sul
+  (Argentina, Uruguai, Chile) para inferência regional.
++ Porto Alegre tem tradição de TI e universidades fortes.
+- Risco climático reputacional: enchente de 2024 devastou o município (o
+  site em si está em cota elevada e não alagou, mas cadeias logísticas e a
+  cidade-entorno são vulneráveis).
+- Licenciamento autodeclaratório e falta de consulta pública geram
+  contestação social/jurídica (Intercept, MP-RS) — risco de judicialização.
+- Sem cabo submarino próprio relevante; latência a SP ~15-20 ms (aceitável).
+- Energia local não é a mais barata (eólica do NE é ~30% mais barata).
+
+--------------------------------------------------------------------------------
+8.4 RIO DE JANEIRO (Parque Olímpico + Duque de Caxias) — TREIN. 7/10 | INFER. 9/10
+--------------------------------------------------------------------------------
++ Rio AI City (Elea): 1,5→3,2 GW planejados, âncora Petrobras (R$ 2,3 bi/
+  17 anos), apoio total da prefeitura; RJO1 já opera.
++ Segundo maior mercado consumidor; cabos submarinos aterrando na cidade;
+  latência excelente para o eixo SP-RJ.
++ Lei 10.431/2024: isenção/diferimento de ICMS sobre equipamentos até 2032.
++ Gás natural abundante (Bacia de Santos/Campos) como energia FIRME para
+  complementar renovável — único polo com essa opção em escala.
+- ICMS sobre energia mais caro do país (~20% + 2% FECP).
+- Risco de segurança pública e custo Brasil carioca (percepção de
+  investidores).
+- Gás conflita com exigência de 100% renovável do REDATA (contornável com
+  PPAs certificados, como faz a Elea).
+
+--------------------------------------------------------------------------------
+8.5 FORTALEZA — PRAIA DO FUTURO (CE) — TREINAMENTO 6/10 | INFERÊNCIA 8,5/10 (internacional)
+--------------------------------------------------------------------------------
++ Hub de cabos: 17 sistemas, ~90% do tráfego internacional; ramal do Synapse
+  (2029-30) reforça. Latência imbatível para fora do país.
++ Tecto/V.tal Mega Lobster (20 MW) já opera; edge natural do Norte/NE
+  (60 mi+ de pessoas com latência < 20 ms).
+- Espaço urbano limitado para escala GW (por isso o treinamento vai para
+  Pecém, a 50 km, e Fortaleza fica com interconexão/edge).
+
+--------------------------------------------------------------------------------
+8.6 INTERIOR DO NORDESTE — Caetité/Igaporã (BA) e Parnaíba (PI) — TREIN. 7,5/10 | INFER. 4/10
+--------------------------------------------------------------------------------
++ Tese "consumir o curtailment na tomada da usina": Renova/Alto Sertão III
+  (R$ 900 mi, 85 MW iniciais) reduz em até 50% o corte dos parques
+  envolvidos. Energia marginal quase gratuita.
++ EPE priorizou Parnaíba (PI) nos R$ 5,68 bi de reforços de transmissão.
++ Terreno irrelevante de barato; sol/vento de classe mundial.
+- Longe de tudo: fibra limitada (resolvível), mão de obra escassa, sem
+  porto próximo (BA interior).
+- Modelo promissor para treinamento tolerante a interrupção (batch/spot) e
+  mineração de eficiência, não para carga crítica 24/7 sem BESS pesado.
+
+--------------------------------------------------------------------------------
+8.7 OUTROS
+--------------------------------------------------------------------------------
+- PARANÁ (Curitiba/CIC): bom clima, Itaipu, incentivos em discussão, aposta
+  em gás também; candidato secundário sólido, sem projeto-âncora GW ainda.
+- PERNAMBUCO (Petrolina): piloto de DC sustentável (R$ 20 mi) — escala
+  pequena, relevante como edge do São Francisco (energia Sobradinho+solar).
+- PARAÍBA (Campina Grande): expansão de R$ 250 mi (HostDime) — nicho
+  regional.
+- SANTA CATARINA: mercado de colocation regional, sem vocação GW.
+- MANAUS/ZFM: incentivos amplos, mas inviável para IA em escala (energia,
+  clima, conectividade, logística).
+
+================================================================================
+9. RANKING FINAL E RECOMENDAÇÕES
+================================================================================
+
+PARA TREINAMENTO (custo de energia + escala + CAPEX de importação):
+  1º PECÉM/CAUCAIA (CE) — melhor combinação do país: energia renovável mais
+     barata + ZPE (isenção federal vigente sem depender do REDATA) + PROADE
+     (ICMS ~zero) + porto + hub de cabos a 50 km + transmissão priorizada
+     pela EPE. A escolha do TikTok não foi acaso. Mitigar: BESS para
+     firmeza, resfriamento sem água, programa social/hídrico robusto.
+  2º ELDORADO DO SUL (RS) — os 5 GW autorizados são um atalho de 4-5 anos
+     na fila de conexão; melhor clima; risco = enchentes no entorno e
+     contestação do licenciamento. Para quem precisa de escala JÁ, é a
+     opção mais executável.
+  3º INTERIOR NE (Caetité-BA / Parnaíba-PI) — a energia mais barata em
+     termos absolutos (curtailment), para cargas de treinamento flexíveis;
+     exige apetite pioneiro.
+  4º RIO DE JANEIRO — se a prioridade for energia FIRME (gás + renovável
+     certificada) e âncoras corporativas (Petrobras).
+
+PARA INFERÊNCIA (latência + mercado + ecossistema):
+  1º CAMPINAS/GRANDE SP — imbatível para o mercado doméstico; a restrição é
+     conseguir ponto de conexão (quem tem, tem ouro). Ideal para clusters
+     de inferência de 50-200 MW, não para campi de treinamento GW.
+  2º RIO DE JANEIRO (Rio AI City) — segundo mercado, cabos, incentivo de
+     ICMS em equipamentos, energia firme.
+  3º FORTALEZA — hub de inferência para exportação (Américas/Europa/África)
+     e edge do Norte-Nordeste.
+  4º PORTO ALEGRE/ELDORADO — edge do Cone Sul.
+
+ESTRATÉGIA ÓTIMA (portfólio, como fazem os hyperscalers):
+  - TREINAMENTO em Pecém (ou Eldorado do Sul se o prazo de conexão mandar),
+  - INFERÊNCIA em Campinas/SP + Rio,
+  - EDGE internacional em Fortaleza,
+  interligados por fibra própria/contratada (SP↔Fortaleza ~50 ms é
+  irrelevante para sincronizar pesos de modelo entre treino e serving).
+
+CONDICIONANTES DE TIMING (jul/2026):
+  - Acompanhar o PL 278/2026 (REDATA) no Senado — sem ele, a rota ZPE
+    (Pecém) fica ainda MAIS vantajosa em relação ao resto do país.
+  - Prazo de 29/05/2026 (encerrado) e 1ª Temporada de Acesso até out/2026:
+    quem não entrou, espera a próxima temporada — pontos de conexão
+    existentes valem prêmio.
+  - Reforma tributária (2027-2033) reduzirá gradualmente a guerra fiscal —
+    os incentivos estaduais valem mais AGORA do que valerão em 2030.
+
+================================================================================
+10. MATRIZ DE RISCOS POR LOCALIZAÇÃO
+================================================================================
+
+RISCO                      | CE/Pecém | SP/RMC | RS/Eldorado | RJ | NE interior
+---------------------------|----------|--------|-------------|----|-----------
+Conexão à rede (prazo)     | Médio    | ALTO   | Baixo (5GW) | Médio | Médio
+Custo de energia           | BAIXO    | Alto   | Médio       | Alto  | MUITO BAIXO
+Firmeza/intermitência      | Alto*    | Baixo  | Médio       | BAIXO (gás) | Alto*
+Água/conflito hídrico      | Alto     | Baixo  | Baixo       | Baixo | Médio
+Clima físico (inundação)   | Baixo    | Baixo  | ALTO (entorno) | Médio | Baixo
+Latência ao mercado BR     | Alto     | BAIXO  | Médio       | BAIXO | Alto
+Latência internacional     | BAIXO    | Médio  | Alto        | Médio | Alto
+Incerteza fiscal federal   | BAIXO (ZPE) | Alto (REDATA) | Alto (REDATA) | Alto | Alto
+Licença social/judicial    | Médio-Alto | Baixo | Médio-Alto | Médio | Baixo
+Mão de obra especializada  | Médio    | BAIXO  | Baixo-Médio | Baixo | ALTO
+(*) mitigável com BESS/PPA firmado
+
+================================================================================
+11. FONTES PRINCIPAIS
+================================================================================
+- Poder360 — Brasil chega a 205 data centers; funcionamento do DC do TikTok
+- Governo do Ceará — Data center TikTok R$ 200 bi, o maior do Brasil
+- InvestNews — O quebra-cabeça do data center do TikTok no Ceará
+- Data Centre Magazine / Portal RS — Scala AI City: autorização de 5 GW (MME)
+- Elea Data Centers / Exame — Rio AI City (1,5→3,2 GW, US$ 50 bi)
+- DCD — CloudHQ Paulínia 228 MW; principais projetos de 2025; ONS autoriza
+  43 pedidos de acesso
+- pv-magazine / Agência iNFRA / Cenário Energia — 7 GW de data centers
+  aceitos pelo ONS; Temporadas de Acesso (Decreto 12.772/2025)
+- EPowerBay / XP — Data centers em SP podem chegar antes das obras de
+  transmissão; saturação Tamboré/Vinhedo/Hortolândia/Campinas
+- Meio Norte — EPE: R$ 5,68 bi em transmissão para Piauí e Ceará
+- Brasil BESS / eixos / Engie — Curtailment >20% da geração; 79% no NE;
+  BESS + data centers
+- Câmara/Senado/PwC/Lefosse/TAGD — MP 1.318/2025 (REDATA), caducidade em
+  25/02/2026, PL 278/2026 no Senado
+- Mattos Filho / Tozzini Freire — MP 1.307/2025 (ZPEs para data centers)
+- ALERJ — Lei 10.431/2024 (incentivos RJ)
+- BNamericas — Sete estados estudando incentivos
+- Clarke/Lux/Auren — Preços de PPA e regras de autoprodução/TUST
+- Movimento Econômico (Cirion) — Latência 50 ms NE↔SP
+- Olhar Digital / Diário do Nordeste / URB News — Fortaleza: 17 cabos, ~90%
+  do tráfego; cabo Synapse (2029-30); Tecto Mega Lobster
+- Intercept Brasil — Conflitos sociais em Caucaia e Eldorado do Sul
+- Brasil de Fato / Observatório das Metrópoles — Críticas ao licenciamento
+  da AI City; guerra fiscal no NE
+- UNIFESP/UNESP/ConJur — Debate hídrico-ambiental e licenciamento
+================================================================================

@@ -1,0 +1,709 @@
+================================================================================
+   BOLSA FAMÍLIA: ENTRADAS E SAÍDAS DO PROGRAMA (2015-2025)
+   Pesquisa compilada com base em dados oficiais do MDS, SENARC,
+   Portal de Dados Abertos, Agência Brasil, TCU e fontes jornalísticas
+================================================================================
+
+NOTA METODOLÓGICA:
+- O governo brasileiro não publica sistematicamente um relatório anual consolidado
+  com o número exato de "entradas" e "saídas" do Bolsa Família. Os dados abaixo
+  foram extraídos de boletins da SENARC, reportagens baseadas em dados oficiais do
+  MDS (Ministério do Desenvolvimento Social), Portal da Transparência e séries
+  históricas do VIS DATA 3 (SAGICAD/Ministério da Cidadania).
+- "Entradas" referem-se a novas concessões de benefício no ano.
+- "Saídas" incluem: cancelamentos por revisão cadastral, desligamentos voluntários,
+  superação da linha de renda, descumprimento de condicionalidades, falecimento,
+  e exclusões por pente-fino/averiguação cadastral.
+- De nov/2021 a mar/2023, o programa foi substituído pelo "Auxílio Brasil".
+- Valores de "total de famílias" referem-se ao mês de dezembro de cada ano, salvo
+  quando indicado.
+
+================================================================================
+                         FONTES PRINCIPAIS
+================================================================================
+
+[1] Portal de Dados Abertos - dados.gov.br/dados/conjuntos-dados/bolsa-familia
+[2] VIS DATA 3 (SAGICAD) - aplicacoes.cidadania.gov.br/vis/data3/
+[3] CECAD 2.0 - cecad.cidadania.gov.br/agregado/index4.php
+[4] Agência Pública - "Lula acerta sobre corte de Temer no Bolsa Família" (2018)
+[5] Brasil de Fato - "Bolsa Família completa 15 anos" (out/2018)
+[6] Núcleo Jornalismo - "O que sabemos sobre o enxugamento do Bolsa Família" (2020)
+[7] Agência Brasil / Agência Gov - Notas oficiais do MDS (2022-2025)
+[8] Correio Braziliense - "Pente-fino susta 3,7 milhões" (jan/2024)
+[9] Poder360 - "Bolsa Família termina 3o ano de Lula com 2,1 milhões a menos" (2025)
+[10] Revista Oeste - "Bolsa Família termina 2025 com 2 milhões a menos" (dez/2025)
+[11] CNN Brasil - "Superação de renda tira 1,3 milhão do Bolsa Família em 2024"
+[12] MDS/SENARC - Boletins mensais do Bolsa Família e Cadastro Único
+[13] Exame - "Governo prepara novo pente-fino no Bolsa Família em 2025"
+[14] InfoMoney - "Bolsa Família termina 2025 com fila de espera" (dez/2025)
+[15] Brasil de Fato - "Em um ano, Bolsonaro exclui 1 milhão de beneficiários" (jan/2020)
+[16] MDS/SENARC - "Balanço do Bolsa Família e Cadastro Único em 2018" (dez/2018)
+[17] Poder360 - "Lula corta mais e Bolsa Família vai ao menor nível em 3 anos" (jul/2025)
+[18] MDS - Nota oficial gov.br: "Bolsa Família inicia pagamentos de março
+     a 14,52 milhões de famílias" (mar/2020)
+[19] Agência Gov - "Mais de 1,3 milhão de famílias deixaram Bolsa Família
+     em 2024 por melhorar a renda" (jan/2025)
+[20] Exame - "O que explica a saída de 1 milhão de beneficiários" (2025)
+[21] VIS DATA 3/SAGICAD - "Pessoas beneficiárias no Programa Bolsa Família"
+     (série oficial: PBF até out/2021 e PBF a partir de mar/2023)
+[22] VIS DATA 3/SAGICAD - "Pessoas beneficiárias do Programa Auxílio Brasil"
+     (série oficial: nov/2021 a fev/2023)
+[23] VIS DATA 3/SAGICAD - "Programa Auxílio Brasil com o Benefício
+     Extraordinário - quantidade total de famílias e valores"
+[24] Gov.br/Secom/MDS - "Bolsa Família chega a 18,7 milhões de beneficiários
+     a partir desta quarta" (dez/2025)
+[25] TCU - "Auditoria no Auxílio Brasil constata desvio do público-alvo
+     do programa" (dez/2022)
+
+================================================================================
+                    DADOS ANO A ANO (2015 - 2025)
+================================================================================
+
+------------------------------------------------------------------------
+2015 (Governo Dilma Rousseff - PT)
+------------------------------------------------------------------------
+
+Total de famílias beneficiárias (dezembro): ~13,9 milhões
+Total de pessoas beneficiadas (dezembro): 47.368.956
+Valor total transferido no ano: R$ 27,6 bilhões
+Valor médio do benefício: ~R$ 167
+
+ENTRADAS (novas concessões estimadas): ~2,0 a 2,5 milhões de famílias
+  - Fluxo regular de inclusão de famílias do Cadastro Único que passaram
+    a atender os critérios do programa.
+
+SAÍDAS (cancelamentos/desligamentos estimados): ~2,2 a 2,7 milhões de famílias
+  - Queda de ~1,3% em relação a 2014 (quando havia ~14,1 milhões).
+  - Motivos: superação de renda, não atualização cadastral,
+    descumprimento de condicionalidades.
+
+CONTEXTO:
+  - O país enfrentava grave crise econômica e política.
+  - Apesar da crise, houve leve redução no número de beneficiários.
+  - Processo de impeachment de Dilma iniciado em dezembro de 2015.
+
+Fontes: [4], [5], [12], [21]
+
+------------------------------------------------------------------------
+2016 (Governo Dilma/Temer - MDB assume em agosto)
+------------------------------------------------------------------------
+
+Total de famílias beneficiárias (dezembro): ~13,5 milhões
+Total de pessoas beneficiadas (dezembro): 45.964.936
+Valor total transferido no ano: R$ 28,5 bilhões
+
+ENTRADAS (novas concessões): ~2,5 milhões de famílias (estimativa)
+  - Inclusões regulares ao longo do ano.
+
+SAÍDAS (cancelamentos/desligamentos): ~2,9 milhões de famílias (estimativa)
+  - EVENTO PRINCIPAL: Operação Pente-Fino (a partir de novembro de 2016)
+    * Maior auditoria já realizada na história do programa.
+    * Encontrou irregularidades em 1,1 milhão de ~13,9 milhões de benefícios.
+    * 469 mil benefícios cancelados imediatamente.
+    * 654 mil benefícios bloqueados para verificação.
+    * Total impactado: ~1,1 milhão de famílias.
+  - Redução líquida de ~400 mil famílias no ano (de 13,9 mi para 13,5 mi).
+
+CONTEXTO:
+  - Michel Temer assume a presidência após impeachment de Dilma em agosto.
+  - Governo inicia política de austeridade e revisão de gastos sociais.
+  - Pente-fino anunciado como medida de combate a fraudes.
+
+Fontes: [4], [5], [12], [21]
+
+------------------------------------------------------------------------
+2017 (Governo Michel Temer - MDB)
+------------------------------------------------------------------------
+
+Total de famílias beneficiárias (dezembro): ~13,8 milhões
+Total de pessoas beneficiadas (dezembro): 44.479.667
+Valor total transferido no ano: R$ 29 bilhões
+Valor médio do benefício: ~R$ 178
+
+ENTRADAS (novas concessões): ~2,8 a 3,5 milhões de famílias (estimativa)
+  - Forte inclusão no segundo semestre para compensar os cortes do pente-fino.
+  - Programa recuperou de 12,7 milhões (julho) para 13,8 milhões (dezembro).
+  - Somente no 2º semestre: ~1,1 milhão de novas inclusões líquidas.
+
+SAÍDAS (cancelamentos/desligamentos): ~2,5 a 3,2 milhões de famílias (estimativa)
+  - Continuação dos efeitos do Pente-Fino de 2016.
+  - ~1,67 milhão de cancelamentos por averiguação/revisão cadastral.
+  - ~35 mil desligamentos voluntários (0,25% do total).
+  - Em abril de 2018, foram cancelados 671 mil benefícios (efeito residual de 2017).
+  - Redução de 3% no número médio de beneficiários em relação a 2016.
+
+MOVIMENTAÇÃO MENSAL (dados parciais):
+  - Fevereiro: 13,6 milhões
+  - Julho: 12,7 milhões (ponto mais baixo - efeito do pente-fino)
+  - Dezembro: 13,8 milhões (recuperação)
+
+CONTEXTO:
+  - Efeito pleno do pente-fino iniciado em nov/2016.
+  - Queda abrupta no 1º semestre, seguida de recuperação.
+  - Governo realizou inclusões para compensar os cortes excessivos.
+
+Fontes: [4], [5], [6], [12], [21]
+
+------------------------------------------------------------------------
+2018 (Governo Michel Temer / Transição para Bolsonaro)
+------------------------------------------------------------------------
+
+Total de famílias beneficiárias (dezembro): ~14,0 milhões
+Total de pessoas beneficiadas (dezembro): 43.785.440
+Cadastro Único: ~74 milhões de brasileiros (~37% da população)
+Orçamento total no ano: R$ 29,9 bilhões
+Valor médio do benefício (novembro): R$ 187,32 (maior patamar histórico até então)
+
+REAJUSTE DE BENEFÍCIOS EM 2018:
+  - Benefício Básico: de R$ 85 para R$ 89 (+4,71%)
+  - Benefício Variável: de R$ 39 para R$ 41 (+5,13%)
+  - Benefício Variável Adolescente: de R$ 46 para R$ 48 (+4,35%)
+
+ENTRADAS (novas concessões): ~2,5 a 3,0 milhões de famílias (estimativa)
+  - Continuidade do fluxo de inclusão.
+  - Estabilidade no programa ao longo do ano.
+
+SAÍDAS (cancelamentos/desligamentos): ~2,5 a 3,0 milhões de famílias (estimativa)
+  - AVERIGUAÇÃO CADASTRAL: 5.440.713 famílias convocadas; 3.493.121
+    atualizaram cadastro ou foram excluídas.
+  - REVISÃO CADASTRAL: 3.997.142 famílias elegíveis para revisão;
+    2.280.621 completaram atualização ou foram excluídas.
+  - Programa se manteve relativamente estável ao longo do ano.
+
+CONDICIONALIDADES (out-nov/2018):
+  - Educação: 13,1 milhões de crianças acompanhadas (93,8% de cobertura);
+    95% cumpriram as exigências de frequência escolar.
+  - Saúde (1º semestre): 5,7 milhões de crianças monitoradas;
+    99% vacinadas; 366 mil gestantes identificadas.
+
+DADOS AGREGADOS (jul/2016 a ago/2018 - dados oficiais do MDS):
+  - Total de entradas no período: 5,9 milhões de famílias
+  - Total de saídas no período: 6,0 milhões de famílias
+  - Saldo líquido: -100 mil famílias (mais saídas que entradas)
+  - Isso equivale a uma média mensal de ~230 mil entradas e ~230 mil saídas.
+
+CONTEXTO:
+  - Ano eleitoral (eleição de Jair Bolsonaro em outubro).
+  - Programa estabilizado após turbulências do pente-fino.
+  - Pobreza extrema cresceu 11,2% entre 2016 e 2017.
+  - SENARC publicou balanço positivo do programa no final do ano.
+
+Fontes: [4], [5], [12], [16], [21]
+
+------------------------------------------------------------------------
+2019 (Governo Jair Bolsonaro - PL)
+------------------------------------------------------------------------
+
+Total de famílias beneficiárias (novembro): 13,19 milhões
+Total de famílias beneficiárias (dezembro): ~13,2 milhões (estimativa)
+  * Nota: Dados de dezembro de 2019 não foram divulgados oficialmente
+    de forma separada pelo governo Bolsonaro.
+Total de pessoas beneficiadas (dezembro): 40.831.596
+Valor médio do benefício: ~R$ 190
+
+ENTRADAS (novas concessões): Em declínio acentuado ao longo do ano
+  - Média de ~220 mil famílias/mês entrando no programa até maio.
+  - Em junho, inclusões despencaram para apenas ~2.500 novas famílias
+    (governo congelou novas concessões).
+  - Fila de espera oficial informada: média de ~494 mil famílias.
+  - Fila de espera real (estimativas): ~700 mil a 1 milhão de famílias.
+
+SAÍDAS (cancelamentos/desligamentos): ~1 milhão de beneficiários no ano
+  - Queda constante ao longo do ano:
+    * Janeiro: 13,76 milhões
+    * Fevereiro: 13,91 milhões
+    * Março: 14,11 milhões
+    * Abril: 14,13 milhões
+    * Maio: 14,34 milhões (pico do ano)
+    * Junho: 14,07 milhões
+    * Julho: 13,84 milhões
+    * Agosto: 13,83 milhões
+    * Setembro: 13,54 milhões
+    * Outubro: 13,51 milhões
+    * Novembro: 13,19 milhões
+  - Queda de 7,3% em 12 meses (até novembro).
+  - Queda de 4,1% só entre janeiro e novembro de 2019.
+  - Redução líquida de ~1,15 milhão de famílias (de mai a nov).
+  - Programa retornou ao patamar de 2010 (~13 milhões de famílias).
+
+CONTEXTO:
+  - Governo Bolsonaro restringiu acesso ao programa.
+  - Congelamento de novas concessões a partir de junho.
+  - Orçamento reduzido em R$ 2,5 bilhões em relação a 2019.
+  - Fila de espera crescente mas não oficialmente divulgada de forma
+    transparente (governo alegava que "fila estava zerada").
+  - Redução contínua no número de beneficiários ao longo do ano.
+  - O governo alegou que a redução decorria de melhora econômica.
+
+Fontes: [6], [12], [15], [21]
+
+------------------------------------------------------------------------
+2020 (Governo Jair Bolsonaro - Pandemia COVID-19)
+------------------------------------------------------------------------
+
+Total de famílias beneficiárias (março): 14,52 milhões (dado oficial MDS)
+Total de famílias beneficiárias (dezembro): ~14,2 milhões
+Total de pessoas beneficiadas (dezembro): 43.591.597 (no Bolsa Família)
+  * Nota: Paralelamente, o Auxílio Emergencial atingiu 68,3 milhões de pessoas.
+
+ENTRADAS (novas concessões): ~1,2 milhão de famílias (inclusão emergencial)
+  - Governo anunciou inclusão de 1,2 milhão de famílias como medida de
+    combate aos efeitos da pandemia (março/2020).
+  - Total passou de ~13,2 mi (dez/2019) para ~14,52 mi (mar/2020).
+  - Ao longo do ano, o número oscilou e fechou em ~14,2 mi em dezembro.
+
+SAÍDAS (cancelamentos/desligamentos): Reduzidas
+  - Processos de averiguação e revisão cadastral foram SUSPENSOS durante
+    a pandemia (Portarias do MDS).
+  - Não foram realizadas coletas de frequência escolar no 1º período.
+  - Condicionalidades de saúde também foram flexibilizadas.
+  - Saídas mínimas (apenas por falecimento ou solicitação voluntária).
+  - Em dezembro, 1,5 milhão de contas sociais digitais foram abertas
+    para beneficiários (NIS finais 9 e 0).
+
+CONTEXTO:
+  - Pandemia de COVID-19 levou à criação do Auxílio Emergencial (R$ 600).
+  - Beneficiários do Bolsa Família receberam o Auxílio Emergencial quando
+    este era mais vantajoso (Bolsa Família ficava suspenso temporariamente).
+  - Inclusão emergencial de famílias vulneráveis.
+  - 68,3 milhões de pessoas receberam ao menos uma parcela do Auxílio
+    Emergencial (56,1% da população).
+  - Propostas legislativas para aumentar Bolsa Família em 50% durante
+    a pandemia foram debatidas na Câmara dos Deputados.
+
+Fontes: [7], [12], [18], [21]
+
+------------------------------------------------------------------------
+2021 (Governo Jair Bolsonaro - Transição para Auxílio Brasil)
+------------------------------------------------------------------------
+
+Total de famílias beneficiárias:
+  - Bolsa Família (até outubro): ~14,6 milhões
+  - Auxílio Brasil (novembro-dezembro): ~14,6 a 17,0 milhões
+Total de pessoas beneficiadas:
+  - Bolsa Família (outubro): 44.161.076
+  - Auxílio Brasil (dezembro): 43.592.846
+Valor do benefício: R$ 400 mínimo (Auxílio Brasil, a partir de novembro)
+
+ENTRADAS (novas concessões): ~2,5 a 3,0 milhões de famílias
+  - Inclusão de 2,5 milhões de famílias que estavam na fila do Bolsa Família
+    quando da migração para o Auxílio Brasil.
+  - Total saltou de ~14,6 mi para ~17,0 mi com a inclusão da fila.
+
+SAÍDAS (cancelamentos/desligamentos): Relativamente baixas
+  - Processos de revisão cadastral ainda parcialmente suspensos.
+  - Fila de espera atingiu recorde de 2,8 milhões de famílias em dezembro
+    (pré-habilitados aguardando inclusão).
+
+CONTEXTO:
+  - Em novembro de 2021, Bolsa Família foi oficialmente extinto e
+    substituído pelo Auxílio Brasil (Lei nº 14.284/2021).
+  - Todas as famílias do Bolsa Família foram automaticamente migradas.
+  - Valor mínimo aumentado de ~R$ 190 para R$ 400.
+  - Decisão vista como estratégia eleitoral do governo Bolsonaro.
+
+Fontes: [7], [9], [12], [21], [22]
+
+------------------------------------------------------------------------
+2022 (Governo Jair Bolsonaro - Auxílio Brasil)
+------------------------------------------------------------------------
+
+Total de famílias beneficiárias (dezembro): ~21,6 milhões (recorde)
+Total de pessoas beneficiadas (dezembro): 55.263.465
+Valor mínimo do benefício: R$ 600 (a partir de agosto)
+Desembolso mensal: de R$ 3,7 bi (jan) a R$ 13 bi (dez)
+
+ENTRADAS (novas concessões): ~7,0 milhões de famílias no ano
+  - Janeiro 2022: inclusão de 3 milhões de novas famílias (zerando a fila).
+    Total: 17,5 milhões.
+  - Agosto 2022: inclusão de 2,2 milhões de novas famílias.
+    Total: 20,2 milhões.
+  - Dezembro 2022: 21,6 milhões (recorde histórico).
+  - Pelo menos 3 milhões dos 7 milhões de novos beneficiários foram
+    incluídos nos 3 meses anteriores à eleição (jul-set/2022).
+  - Expansão total no ano: ~7 milhões de novas famílias incluídas.
+  - Total acumulado no mandato Bolsonaro: +7,5 milhões de famílias.
+
+SAÍDAS (cancelamentos/desligamentos): Mínimas
+  - Praticamente sem revisão cadastral ou pente-fino durante o ano.
+  - Governo priorizou expansão em ano eleitoral.
+  - Processos de averiguação seguiam suspensos em grande parte.
+
+CONTEXTO:
+  - Ano eleitoral (eleição de Lula em outubro).
+  - Governo Bolsonaro elevou o valor para R$ 600 (PEC Kamikaze).
+  - Expansão massiva do programa, com inclusão de famílias sem
+    verificação rigorosa.
+  - Críticas de que a expansão gerou inclusão de famílias irregulares.
+  - Desembolso saltou de R$ 3,7 bi/mês (jan) para R$ 13 bi/mês (dez).
+  - O pico foi mais forte em famílias do que em pessoas: entre dez/2021 e
+    dez/2022, o Auxílio Brasil passou de 43,59 mi para 55,26 mi pessoas
+    (+26,8%), enquanto o número de famílias saltou de ~14,5 mi para
+    ~21,6 mi (+48,8%). Isso indica queda do tamanho médio das famílias
+    beneficiárias e é compatível com o forte aumento de cadastros
+    unipessoais apontado pelo MDS e pelo TCU.
+
+Fontes: [7], [9], [12], [22], [23], [25]
+
+------------------------------------------------------------------------
+2023 (Governo Lula - PT - Retorno do Bolsa Família)
+------------------------------------------------------------------------
+
+Total de famílias beneficiárias (dezembro): ~21,06 milhões
+Total de pessoas beneficiadas (dezembro): 55.742.366
+Valor mínimo do benefício: R$ 600
+Valor médio: ~R$ 678
+Investimento federal anual: R$ 168 bilhões (maior da história)
+Desembolso mensal: até R$ 15 bi (junho - recorde)
+
+ENTRADAS (novas concessões): ~2,85 milhões de famílias
+  - Busca ativa retomada pelo governo: 2,85 milhões de famílias incluídas
+    desde março de 2023 (quando o Bolsa Família foi relançado).
+  - 4,4 milhões de famílias identificadas como elegíveis mas fora do programa.
+  - Inclusão focada em famílias em extrema pobreza.
+
+SAÍDAS (cancelamentos/desligamentos): ~3,7 milhões de benefícios afetados
+  - EVENTO PRINCIPAL: Grande Pente-Fino de 2023
+    * 17 milhões de cadastros identificados como desatualizados ou inconsistentes.
+    * 8,7 milhões de benefícios bloqueados (podem ser reativados após regularização).
+    * 3,7 milhões de benefícios efetivamente cancelados.
+    * 1,8 milhão de famílias unipessoais suspensas por recebimento indevido.
+    * 366,3 mil cancelamentos formais registrados oficialmente.
+  - O governo esclareceu que "bloqueio" ≠ "cancelamento": muitas famílias
+    regularizaram a situação e voltaram a receber.
+  - Saldo líquido no ano: programa se manteve em ~21 milhões
+    (compensação entre inclusões e exclusões).
+
+CONTEXTO:
+  - Bolsa Família retornou em março de 2023 (substituindo Auxílio Brasil).
+  - Governo iniciou ampla revisão cadastral herdada da expansão de 2022.
+  - Maior média de beneficiários da história do programa.
+  - Maior investimento federal da história: R$ 168 bilhões no ano.
+  - Benefício médio quase 4x maior que em 2018.
+
+Fontes: [7], [8], [12], [21]
+
+------------------------------------------------------------------------
+2024 (Governo Lula - PT)
+------------------------------------------------------------------------
+
+Total de famílias beneficiárias (dezembro): ~20,8 milhões
+Total de pessoas beneficiadas (dezembro): 54.370.242
+  - 16,7 milhões de crianças (0 a 11 anos)
+  - 7,6 milhões de adolescentes (12 a 17 anos)
+Investimento federal anual: R$ 168,3 bilhões
+
+ENTRADAS (novas concessões): ~2,0 milhões de famílias
+  - Continuação da busca ativa.
+  - Total acumulado 2023-2024: 4,8 milhões de famílias incluídas.
+
+SAÍDAS (cancelamentos/desligamentos): ~3,0 milhões de famílias
+  - 1,3 milhão de famílias desligadas por superação de renda
+    (acima de meio salário mínimo per capita).
+  - Continuação do processo de averiguação cadastral.
+  - Total acumulado 2023-2024: 6,9 milhões de famílias descredenciadas.
+  - 325 mil famílias excluídas entre dezembro de 2024 e janeiro de 2025.
+  - 2,7 milhões de famílias entraram em "regra de proteção"
+    (aumento de renda, em transição).
+
+RESULTADO LÍQUIDO:
+  - Redução de ~1,2% em relação a 2023 (de 21,06 mi para 20,8 mi).
+  - Saldo negativo de ~260 mil famílias.
+
+CONTEXTO:
+  - Governo manteve processo de qualificação do cadastro.
+  - Foco em retirar famílias que não atendem mais aos critérios.
+  - Programa ampliou alcance sem gastar mais que no ano anterior.
+  - Suspensão de averiguação cadastral no RS (enchentes de maio/2024).
+
+Fontes: [7], [9], [11], [12], [21]
+
+------------------------------------------------------------------------
+2025 (Governo Lula - PT)
+------------------------------------------------------------------------
+
+Total de famílias beneficiárias (dezembro): ~18,7 milhões
+Total de pessoas beneficiadas (dezembro): ~48,8 milhões (estimativa)
+  * Nota: a nota oficial de dez/2025 informa 35,8 milhões de pessoas
+    pretas/pardas, equivalentes a 73,29% do público atendido; isso implica
+    aproximadamente 48,8 milhões de pessoas no total. O texto oficial
+    também informa 18,7 milhões de famílias, mas não explicita no corpo da
+    nota o total individual exato.
+Valor médio do benefício: R$ 691,37
+Desembolso mensal (dezembro): R$ 12,7 bilhões
+Fila de espera (novembro): 987,6 mil famílias
+Fila de espera (dezembro): 503,5 mil famílias
+
+Orçamento autorizado: R$ 158,6 bilhões (vs R$ 168,2 bi gastos em 2024)
+
+ENTRADAS (novas concessões): Dados parciais
+  - Inclusões regulares ao longo do ano, em ritmo menor que 2023-2024.
+  - Fila de pré-habilitados (abril/2025): 473 mil famílias.
+
+SAÍDAS (cancelamentos/desligamentos): ~2,1 milhões de famílias no ano
+  - Jan-set/2025: mais de 1,4 milhão de famílias excluídas.
+  - 325 mil famílias perderam benefício por novas regras de renda
+    (dez/2024 a jan/2025).
+  - 101 mil famílias excluídas por novas regras em vigor a partir de junho.
+  - Jun-jul/2025: 855 mil famílias removidas (MAIOR REDUÇÃO MENSAL DA
+    HISTÓRIA DO PROGRAMA), sendo:
+    * 536 mil famílias que completaram 24 meses na Regra de Proteção.
+    * 385 mil famílias que ultrapassaram renda per capita de R$ 759.
+  - Set/2025: 122 mil benefícios cortados (pente-fino intensificado).
+  - Foco especial em famílias unipessoais (~4 milhões de beneficiários),
+    com suspeita de 400 a 500 mil cadastros irregulares.
+    * Universo revisado: 1,3 milhão de unipessoais (18-49 anos).
+  - Nova "Regra de Proteção" (Portaria nº 1.084) em vigor desde junho/2025.
+
+TOTAL ACUMULADO DESDE 2023: 8,6 milhões de famílias excluídas do programa.
+
+MOVIMENTAÇÃO MENSAL (dados parciais):
+  - Janeiro: ~20,5 milhões
+  - Março: ~20,5 milhões
+  - Julho: 19,6 milhões (após maior corte mensal da história)
+  - Outubro: ~18,9 milhões
+  - Dezembro: 18,7 milhões
+
+RESULTADO LÍQUIDO:
+  - Redução de 20,8 mi (jan) para 18,7 mi (dez): queda de 2,1 milhões.
+  - Menor contingente desde 2021.
+  - Quando Lula assumiu: 21,9 milhões de famílias (2,3 mi a mais que jul/2025).
+  - Redução acumulada de 2,9 milhões de famílias desde a posse de Lula
+    em relação ao pico de 21,6 milhões (dez/2022).
+
+CONTEXTO:
+  - Novo pente-fino com foco em famílias unipessoais.
+  - Novas regras mais restritivas (Portaria nº 1.084/MDS).
+  - Programa termina o ano com fila de espera e orçamento congelado para 2026.
+  - Governo alega que reduções refletem melhora econômica e combate a fraudes.
+  - Bolsa Família pagou R$ 1,5 bi a estrangeiros em 2024 (dado revelado em 2025).
+
+Fontes: [9], [10], [13], [14], [17], [20], [24]
+
+================================================================================
+              TABELA RESUMO: TOTAL DE FAMÍLIAS (DEZEMBRO)
+================================================================================
+
+  ANO     | FAMÍLIAS (DEZ)  | VARIAÇÃO ANUAL  | PROGRAMA
+  --------|-----------------|-----------------|------------------
+  2015    | ~13,9 milhões   |  -1,3%          | Bolsa Família
+  2016    | ~13,5 milhões   |  -2,9%          | Bolsa Família
+  2017    | ~13,8 milhões   |  +2,2%          | Bolsa Família
+  2018    | ~14,0 milhões   |  +1,4%          | Bolsa Família
+  2019    | ~13,2 milhões*  |  -5,0%          | Bolsa Família
+  2020    | ~14,2 milhões   |  +7,6%          | Bolsa Família
+  2021    | ~14,6 milhões** | +2,8%           | Auxílio Brasil
+  2022    | ~21,6 milhões   | +47,9%          | Auxílio Brasil
+  2023    | ~21,1 milhões   |  -2,3%          | Bolsa Família
+  2024    | ~20,8 milhões   |  -1,4%          | Bolsa Família
+  2025    | ~18,7 milhões   | -10,1%          | Bolsa Família
+
+  * Dado de novembro/2019 (13,19 mi); dezembro não divulgado separadamente.
+  ** Programa migrou para Auxílio Brasil em novembro/2021.
+
+================================================================================
+       TABELA RESUMO: PESSOAS ATENDIDAS PELO PROGRAMA (DEZEMBRO)
+================================================================================
+
+  ANO     | PESSOAS ATENDIDAS | PESSOAS/FAMÍLIA* | PROGRAMA        | FONTE
+  --------|-------------------|------------------|-----------------|--------
+  2015    | 47.368.956        | ~3,4             | Bolsa Família   | [21]
+  2016    | 45.964.936        | ~3,4             | Bolsa Família   | [21]
+  2017    | 44.479.667        | ~3,2             | Bolsa Família   | [21]
+  2018    | 43.785.440        | ~3,1             | Bolsa Família   | [21]
+  2019    | 40.831.596        | ~3,1             | Bolsa Família   | [21]
+  2020    | 43.591.597        | ~3,1             | Bolsa Família   | [21]
+  2021    | 43.592.846        | ~3,0             | Auxílio Brasil  | [22]
+  2022    | 55.263.465        | ~2,6             | Auxílio Brasil  | [22]
+  2023    | 55.742.366        | ~2,6             | Bolsa Família   | [21]
+  2024    | 54.370.242        | ~2,6             | Bolsa Família   | [21]
+  2025    | ~48,8 milhões**   | ~2,6             | Bolsa Família   | [24]
+
+  * Razão aproximada, calculada com os totais de famílias arredondados da
+  tabela anterior. Para 2021, foi usado o total oficial de famílias do
+  Auxílio Brasil em dez/2021 (14.519.216) publicado no VIS DATA.
+  ** Estimativa derivada da nota oficial de dez/2025: 35,8 milhões de
+  pessoas pretas/pardas correspondiam a 73,29% do público atendido.
+
+  LEITURA PRINCIPAL:
+  - O pico de famílias ocorreu em 2022 (~21,6 mi), mas o pico de pessoas
+    aparece em 2023 (55.742.366). Isso ocorre porque a expansão de 2022
+    teve forte crescimento de famílias menores/unipessoais.
+  - De dez/2021 a dez/2022, o número de pessoas atendidas cresceu 11,67 mi
+    (+26,8%), enquanto o número de famílias cresceu cerca de 7,1 mi
+    (+48,8%). A diferença reforça que o pico de 2022 deve ser analisado
+    em conjunto com composição familiar, não apenas pelo estoque de famílias.
+
+================================================================================
+         TABELA RESUMO: ENTRADAS E SAÍDAS ESTIMADAS (POR ANO)
+================================================================================
+
+  ANO     | ENTRADAS (est.) | SAÍDAS (est.)   | SALDO LÍQUIDO
+  --------|-----------------|-----------------|------------------
+  2015    | ~2,0-2,5 mi     | ~2,2-2,7 mi     | ~ -200 mil
+  2016    | ~2,5 mi         | ~2,9 mi         | ~ -400 mil
+  2017    | ~2,8-3,5 mi     | ~2,5-3,2 mi     | ~ +300 mil
+  2018    | ~2,5-3,0 mi     | ~2,5-3,0 mi     | ~ +100 mil
+  2019    | ~1,5-2,0 mi     | ~2,2-2,7 mi     | ~ -700 mil
+  2020    | ~1,5-2,0 mi     | ~0,5-0,8 mi     | ~ +1,0 mi
+  2021    | ~3,0-3,5 mi     | ~0,6-1,0 mi     | ~ +2,5 mi***
+  2022    | ~7,0-8,0 mi     | ~0,5-1,0 mi     | ~ +7,0 mi
+  2023    | ~2,85 mi        | ~3,7 mi         | ~ -500 mil
+  2024    | ~2,0 mi         | ~3,0 mi         | ~ -300 mil
+  2025    | ~1,0-1,5 mi     | ~2,5-3,0 mi     | ~ -2,1 mi
+
+  *** Inclui absorção da fila de espera na migração para Auxílio Brasil.
+
+  NOTA: As estimativas de entradas e saídas para os anos 2015-2018 baseiam-se
+  no dado oficial de que entre jul/2016 e ago/2018, 5,9 milhões de famílias
+  entraram e 6,0 milhões saíram do programa (fonte: MDS/SENARC via Brasil de
+  Fato). Para os demais anos, as estimativas foram derivadas da variação do
+  total de beneficiários e de dados parciais divulgados pelo governo.
+
+================================================================================
+              PRINCIPAIS EVENTOS QUE IMPACTARAM O PROGRAMA
+================================================================================
+
+2016 - PENTE-FINO DE TEMER
+  - Maior auditoria da história do programa.
+  - 1,1 milhão de irregularidades encontradas.
+  - 469 mil cancelamentos + 654 mil bloqueios.
+  - No total, 5,2 milhões de pessoas afetadas pelo pente-fino (2016-2018).
+
+2017 - VALE DO PENTE-FINO
+  - Programa caiu para 12,7 milhões de famílias em julho (menor desde 2011).
+  - Recuperação no 2º semestre com novas inclusões.
+  - 1,67 milhão de cancelamentos por revisão cadastral.
+
+2019 - ENXUGAMENTO BOLSONARO
+  - Redução constante ao longo do ano (de 14,34 mi em maio para 13,19 mi em nov).
+  - Fila de espera crescente e não divulgada.
+  - Governo alegava que saídas refletiam melhora econômica.
+
+2020 - PANDEMIA COVID-19
+  - Inclusão emergencial de 1,2 milhão de famílias.
+  - Suspensão de revisão cadastral e condicionalidades.
+  - Auxílio Emergencial (R$ 600) alcançou 68,3 milhões de pessoas.
+
+2021 - MIGRAÇÃO PARA AUXÍLIO BRASIL
+  - Bolsa Família extinto em novembro.
+  - Auxílio Brasil criado com valor mínimo de R$ 400.
+  - Inclusão de 2,5 milhões de famílias da fila de espera.
+
+2022 - EXPANSÃO ELEITORAL
+  - Programa saltou de ~14,6 mi para ~21,6 mi famílias (+47,9%).
+  - Valor elevado para R$ 600 (PEC Kamikaze).
+  - 7,5 milhões de novas famílias incluídas no mandato Bolsonaro.
+  - Críticas de inclusão sem verificação rigorosa.
+
+2023 - RETORNO DO BOLSA FAMÍLIA + GRANDE PENTE-FINO
+  - Programa relançado em março com R$ 600 + adicionais por criança.
+  - Busca ativa incluiu 2,85 milhões de famílias.
+  - Pente-fino identificou 17 milhões de cadastros inconsistentes.
+  - 3,7 milhões de benefícios cancelados.
+  - Maior média de beneficiários da história (~21 mi).
+
+2024 - QUALIFICAÇÃO CONTINUADA
+  - 1,3 milhão de famílias saíram por superação de renda.
+  - 2 milhões de novas inclusões.
+  - 6,9 milhões de famílias descredenciadas no acumulado 2023-2024.
+  - 2,7 milhões em "regra de proteção" (transição).
+
+2025 - REDUÇÃO E NOVAS REGRAS
+  - Programa caiu de 20,8 mi para 18,7 mi famílias (-2,1 mi).
+  - Novo pente-fino focado em famílias unipessoais.
+  - Portaria nº 1.084 trouxe regras mais restritivas (junho/2025).
+  - Fila de espera de ~500 mil a ~1 milhão de famílias.
+  - Orçamento congelado para 2026.
+
+================================================================================
+                    OBSERVAÇÕES FINAIS
+================================================================================
+
+1. ROTATIVIDADE NATURAL: O Bolsa Família possui alta rotatividade natural.
+   Mesmo em períodos de estabilidade, centenas de milhares de famílias entram
+   e saem mensalmente. Dado oficial: entre jul/2016 e ago/2018 (25 meses),
+   5,9 mi entraram e 6,0 mi saíram, o que indica uma movimentação mensal
+   média de ~230 mil famílias em cada direção.
+
+2. LIMITAÇÃO DOS DADOS: O governo brasileiro não publica um relatório anual
+   consolidado com o número exato de concessões e cancelamentos por ano.
+   Os dados de "entradas" e "saídas" apresentados neste documento são, em
+   grande parte, estimativas baseadas na variação do estoque de beneficiários
+   e em dados parciais divulgados em reportagens e boletins oficiais.
+
+3. DADOS OFICIAIS DISPONÍVEIS: Para dados mensais detalhados, consultar:
+   - VIS DATA 3: aplicacoes.cidadania.gov.br/vis/data3/
+   - CECAD 2.0: cecad.cidadania.gov.br/agregado/index4.php
+   - Portal de Dados Abertos: dados.gov.br/dados/conjuntos-dados/bolsa-familia
+   - Portal da Transparência: portaldatransparencia.gov.br
+
+4. EMANCIPAÇÃO: Em 20 anos de Bolsa Família (2003-2023), 64% dos
+   beneficiários iniciais conseguiram sair do Cadastro Único por
+   ascensão socioeconômica.
+
+5. DUPLICIDADE AUXÍLIO EMERGENCIAL: Em 2020 e 2021, muitos beneficiários
+   do Bolsa Família receberam o Auxílio Emergencial quando este era mais
+   vantajoso, ficando com o Bolsa Família suspenso temporariamente.
+
+================================================================================
+              DADOS COMPLEMENTARES: ORÇAMENTO ANUAL
+================================================================================
+
+  ANO     | ORÇAMENTO/GASTO ANUAL        | GASTO MENSAL MÉDIO
+  --------|------------------------------|--------------------
+  2015    | R$ 27,6 bilhões             | R$ 2,3 bi
+  2016    | R$ 28,5 bilhões             | R$ 2,4 bi
+  2017    | R$ 29,0 bilhões             | R$ 2,4 bi
+  2018    | R$ 29,9 bilhões             | R$ 2,5 bi
+  2019    | R$ 32,0 bilhões (previsto)  | R$ 2,7 bi
+  2020    | ~R$ 34 bilhões (estimativa) | R$ 2,8 bi
+  2021    | ~R$ 35 bilhões (estimativa) | R$ 2,9 bi
+  2022    | ~R$ 90-100 bilhões          | R$ 7,8 bi (média)
+  2023    | R$ 168 bilhões              | R$ 14,0 bi (média)
+  2024    | R$ 168,3 bilhões            | R$ 14,0 bi (média)
+  2025    | R$ 158,6 bilhões (autoriz.) | R$ 12,7 bi (dez)
+
+  Nota: O salto de 2021 para 2022 deve-se ao aumento do valor mínimo
+  de ~R$ 190 para R$ 400 e depois R$ 600, além da expansão do número
+  de beneficiários.
+
+================================================================================
+          DADOS COMPLEMENTARES: VALOR MÉDIO DO BENEFÍCIO
+================================================================================
+
+  ANO     | VALOR MÉDIO POR FAMÍLIA/MÊS
+  --------|-----------------------------
+  2015    | ~R$ 167
+  2016    | ~R$ 176
+  2017    | ~R$ 178
+  2018    | R$ 187,32 (nov/2018 - recorde até então)
+  2019    | ~R$ 190
+  2020    | ~R$ 190 (+ Auxílio Emergencial de R$ 600 quando mais vantajoso)
+  2021    | R$ 400 (a partir de nov, com Auxílio Brasil)
+  2022    | R$ 607,14 (média) / R$ 600 mínimo (a partir de ago)
+  2023    | ~R$ 678 (média) / R$ 600 mínimo
+  2024    | ~R$ 680 (média) / R$ 600 mínimo
+  2025    | R$ 691,37 (média) / R$ 600 mínimo
+
+================================================================================
+          DADOS COMPLEMENTARES: FILA DE ESPERA (PRÉ-HABILITADOS)
+================================================================================
+
+  ANO/MÊS          | FAMÍLIAS NA FILA
+  ------------------|------------------
+  2019 (média)      | ~494 mil a ~700 mil (dado controverso)
+  Dez/2021          | 2,8 milhões (recorde histórico)
+  Jan/2022          | Fila "zerada" (3 mi incluídos)
+  Jul/2022          | 1,6 milhão
+  2023              | Fila reduzida (busca ativa)
+  Abr/2025          | 473 mil
+  Nov/2025          | 987,6 mil
+  Dez/2025          | 503,5 mil
+
+================================================================================
+  Pesquisa compilada em: abril de 2026
+  Dados mais recentes: dezembro de 2025
+  Atualização: dados complementares adicionados (orçamento, valor médio,
+  fila de espera, evolução mensal detalhada de 2019 e 2025)
+================================================================================

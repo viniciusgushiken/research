@@ -1,0 +1,656 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Bolsa Familia: entradas e saidas 2015-2025</title>
+  <style>
+    :root {
+      --ink: #1f2523;
+      --muted: #5f6d68;
+      --line: #d6ded9;
+      --panel: #ffffff;
+      --bg: #eef2ee;
+      --green: #167a57;
+      --red: #b43d35;
+      --blue: #2d6f99;
+      --gold: #b77813;
+      --soft-green: #dff0e8;
+      --soft-red: #f5dedb;
+      --soft-blue: #dbeaf3;
+      --soft-gold: #f6ead2;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--ink);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.35;
+    }
+
+    main {
+      width: min(1180px, calc(100% - 32px));
+      margin: 0 auto;
+      padding: 34px 0 42px;
+    }
+
+    header {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 24px;
+      align-items: end;
+      padding-bottom: 22px;
+      border-bottom: 2px solid var(--line);
+    }
+
+    h1 {
+      margin: 0;
+      max-width: 850px;
+      font-size: clamp(2rem, 4vw, 4.7rem);
+      line-height: .95;
+      letter-spacing: 0;
+    }
+
+    .subtitle {
+      max-width: 760px;
+      margin: 16px 0 0;
+      color: var(--muted);
+      font-size: 1.05rem;
+    }
+
+    .stamp {
+      min-width: 210px;
+      padding: 14px 16px;
+      border: 1px solid var(--line);
+      background: var(--panel);
+    }
+
+    .stamp strong {
+      display: block;
+      font-size: 1.7rem;
+      line-height: 1;
+      color: var(--green);
+    }
+
+    .stamp span {
+      display: block;
+      margin-top: 6px;
+      color: var(--muted);
+      font-size: .9rem;
+    }
+
+    .metric-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 14px;
+      margin: 22px 0;
+    }
+
+    .metric {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      padding: 16px;
+      min-height: 132px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+
+    .metric .label {
+      color: var(--muted);
+      font-size: .88rem;
+      text-transform: uppercase;
+      letter-spacing: .04em;
+    }
+
+    .metric .value {
+      margin-top: 12px;
+      font-size: clamp(1.65rem, 2.8vw, 2.8rem);
+      line-height: 1;
+      font-weight: 800;
+    }
+
+    .metric .note {
+      margin-top: 10px;
+      color: var(--muted);
+      font-size: .88rem;
+    }
+
+    .layout {
+      display: grid;
+      grid-template-columns: 1.25fr .75fr;
+      gap: 18px;
+    }
+
+    section {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      padding: 18px;
+    }
+
+    h2 {
+      margin: 0 0 14px;
+      font-size: 1.12rem;
+      letter-spacing: 0;
+    }
+
+    .chart {
+      overflow-x: auto;
+      padding-bottom: 4px;
+    }
+
+    svg {
+      display: block;
+      width: 100%;
+      min-width: 720px;
+      height: auto;
+    }
+
+    .axis,
+    .grid-line {
+      stroke: #c8d2cc;
+      stroke-width: 1;
+    }
+
+    .axis-label,
+    .year-label,
+    .small-label {
+      fill: var(--muted);
+      font-size: 12px;
+    }
+
+    .line-stock {
+      fill: none;
+      stroke: var(--blue);
+      stroke-width: 4;
+      stroke-linejoin: round;
+      stroke-linecap: round;
+    }
+
+    .dot-stock {
+      fill: var(--blue);
+      stroke: #fff;
+      stroke-width: 2;
+    }
+
+    .bar-in {
+      fill: var(--green);
+    }
+
+    .bar-out {
+      fill: var(--red);
+    }
+
+    .legend {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px 18px;
+      margin-top: 12px;
+      color: var(--muted);
+      font-size: .9rem;
+    }
+
+    .legend span {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .swatch {
+      width: 12px;
+      height: 12px;
+      display: inline-block;
+      background: var(--blue);
+    }
+
+    .swatch.green {
+      background: var(--green);
+    }
+
+    .swatch.red {
+      background: var(--red);
+    }
+
+    .timeline {
+      display: grid;
+      gap: 10px;
+    }
+
+    .event {
+      border-left: 5px solid var(--blue);
+      background: #f7faf8;
+      padding: 11px 12px;
+    }
+
+    .event strong {
+      display: block;
+      font-size: .98rem;
+    }
+
+    .event span {
+      display: block;
+      margin-top: 4px;
+      color: var(--muted);
+      font-size: .88rem;
+    }
+
+    .event.red {
+      border-color: var(--red);
+      background: var(--soft-red);
+    }
+
+    .event.green {
+      border-color: var(--green);
+      background: var(--soft-green);
+    }
+
+    .event.gold {
+      border-color: var(--gold);
+      background: var(--soft-gold);
+    }
+
+    .event.blue {
+      border-color: var(--blue);
+      background: var(--soft-blue);
+    }
+
+    .split {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 18px;
+      margin-top: 18px;
+    }
+
+    .wide {
+      margin-top: 18px;
+    }
+
+    .people-panel {
+      display: grid;
+      grid-template-columns: 1.15fr .85fr;
+      gap: 18px;
+      align-items: start;
+    }
+
+    .people-bars {
+      display: grid;
+      gap: 8px;
+    }
+
+    .people-row {
+      display: grid;
+      grid-template-columns: 54px 1fr 96px;
+      gap: 10px;
+      align-items: center;
+      font-size: .9rem;
+    }
+
+    .people-track {
+      height: 18px;
+      background: #e7eee9;
+      border: 1px solid var(--line);
+    }
+
+    .people-fill {
+      height: 100%;
+      background: var(--blue);
+    }
+
+    .table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: .92rem;
+    }
+
+    .table th,
+    .table td {
+      padding: 8px 6px;
+      border-bottom: 1px solid var(--line);
+      text-align: left;
+      white-space: nowrap;
+    }
+
+    .table th {
+      color: var(--muted);
+      font-size: .78rem;
+      text-transform: uppercase;
+      letter-spacing: .04em;
+    }
+
+    .table td:nth-child(2),
+    .table td:nth-child(3),
+    .table td:nth-child(4),
+    .table td:nth-child(5) {
+      text-align: right;
+    }
+
+    .positive {
+      color: var(--green);
+      font-weight: 700;
+    }
+
+    .negative {
+      color: var(--red);
+      font-weight: 700;
+    }
+
+    .budget-bars {
+      display: grid;
+      gap: 10px;
+    }
+
+    .budget-row {
+      display: grid;
+      grid-template-columns: 54px 1fr 78px;
+      gap: 10px;
+      align-items: center;
+      font-size: .9rem;
+    }
+
+    .budget-track {
+      height: 16px;
+      background: #e7eee9;
+      border: 1px solid var(--line);
+    }
+
+    .budget-fill {
+      height: 100%;
+      background: var(--gold);
+    }
+
+    .footnote {
+      margin: 18px 0 0;
+      color: var(--muted);
+      font-size: .85rem;
+    }
+
+    @media (max-width: 900px) {
+      header,
+      .layout,
+      .split,
+      .people-panel,
+      .metric-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .metric {
+        min-height: 110px;
+      }
+
+      main {
+        width: min(100% - 22px, 1180px);
+        padding-top: 22px;
+      }
+    }
+
+    @media print {
+      body {
+        background: #fff;
+      }
+
+      main {
+        width: 100%;
+        padding: 0;
+      }
+
+      section,
+      .metric,
+      .stamp {
+        break-inside: avoid;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <div>
+        <h1>Bolsa Familia: entradas e saidas do programa</h1>
+        <p class="subtitle">Evolucao de familias beneficiarias, pessoas atendidas, rotatividade estimada e eventos que moldaram o Bolsa Familia e o Auxilio Brasil entre 2015 e 2025.</p>
+      </div>
+      <div class="stamp">
+        <strong>2015-2025</strong>
+        <span>Pesquisa compilada em abril de 2026 com dados oficiais, boletins e reportagens citadas no arquivo-base.</span>
+      </div>
+    </header>
+
+    <div class="metric-grid">
+      <article class="metric">
+        <div class="label">Pico de familias</div>
+        <div class="value">21,6 mi</div>
+        <div class="note">familias em dez/2022, durante o Auxilio Brasil</div>
+      </article>
+      <article class="metric">
+        <div class="label">Pico de pessoas</div>
+        <div class="value">55,7 mi</div>
+        <div class="note">pessoas atendidas em dez/2023</div>
+      </article>
+      <article class="metric">
+        <div class="label">Salto de pessoas em 2022</div>
+        <div class="value positive">+11,7 mi</div>
+        <div class="note">alta entre dez/2021 e dez/2022</div>
+      </article>
+      <article class="metric">
+        <div class="label">Pessoas em dez/2025</div>
+        <div class="value negative">~48,8 mi</div>
+        <div class="note">estimativa derivada da nota oficial do MDS</div>
+      </article>
+    </div>
+
+    <div class="layout">
+      <section>
+        <h2>Total de familias beneficiarias em dezembro</h2>
+        <div class="chart" aria-label="Grafico de linha com total de familias por ano">
+          <svg viewBox="0 0 820 390" role="img">
+            <line class="grid-line" x1="70" y1="320" x2="780" y2="320"></line>
+            <line class="grid-line" x1="70" y1="244" x2="780" y2="244"></line>
+            <line class="grid-line" x1="70" y1="168" x2="780" y2="168"></line>
+            <line class="grid-line" x1="70" y1="92" x2="780" y2="92"></line>
+            <line class="axis" x1="70" y1="320" x2="780" y2="320"></line>
+            <line class="axis" x1="70" y1="70" x2="70" y2="320"></line>
+            <text class="axis-label" x="28" y="324">12 mi</text>
+            <text class="axis-label" x="28" y="248">15 mi</text>
+            <text class="axis-label" x="28" y="172">18 mi</text>
+            <text class="axis-label" x="28" y="96">21 mi</text>
+
+            <path class="line-stock" d="M70 271 L141 281 L212 273 L283 268 L354 288 L425 263 L496 253 L567 75 L638 89 L709 96 L780 149"></path>
+            <g>
+              <circle class="dot-stock" cx="70" cy="271" r="5"></circle>
+              <circle class="dot-stock" cx="141" cy="281" r="5"></circle>
+              <circle class="dot-stock" cx="212" cy="273" r="5"></circle>
+              <circle class="dot-stock" cx="283" cy="268" r="5"></circle>
+              <circle class="dot-stock" cx="354" cy="288" r="5"></circle>
+              <circle class="dot-stock" cx="425" cy="263" r="5"></circle>
+              <circle class="dot-stock" cx="496" cy="253" r="5"></circle>
+              <circle class="dot-stock" cx="567" cy="75" r="5"></circle>
+              <circle class="dot-stock" cx="638" cy="89" r="5"></circle>
+              <circle class="dot-stock" cx="709" cy="96" r="5"></circle>
+              <circle class="dot-stock" cx="780" cy="149" r="5"></circle>
+            </g>
+            <g>
+              <text class="year-label" x="58" y="346">2015</text>
+              <text class="year-label" x="129" y="346">2016</text>
+              <text class="year-label" x="200" y="346">2017</text>
+              <text class="year-label" x="271" y="346">2018</text>
+              <text class="year-label" x="342" y="346">2019</text>
+              <text class="year-label" x="413" y="346">2020</text>
+              <text class="year-label" x="484" y="346">2021</text>
+              <text class="year-label" x="555" y="346">2022</text>
+              <text class="year-label" x="626" y="346">2023</text>
+              <text class="year-label" x="697" y="346">2024</text>
+              <text class="year-label" x="768" y="346">2025</text>
+            </g>
+            <text class="small-label" x="578" y="64">21,6 mi</text>
+            <text class="small-label" x="724" y="138">18,7 mi</text>
+          </svg>
+        </div>
+        <div class="legend">
+          <span><i class="swatch"></i>Familias beneficiarias no fim do ano</span>
+        </div>
+      </section>
+
+      <section>
+        <h2>Eventos de maior impacto</h2>
+        <div class="timeline">
+          <div class="event red">
+            <strong>2016-2017: pente-fino de Temer</strong>
+            <span>1,1 milhao de irregularidades encontradas; 469 mil cancelamentos imediatos e 654 mil bloqueios.</span>
+          </div>
+          <div class="event green">
+            <strong>2020: pandemia e inclusao emergencial</strong>
+            <span>1,2 milhao de familias incluidas e revisoes cadastrais suspensas.</span>
+          </div>
+          <div class="event gold">
+            <strong>2021-2022: Auxilio Brasil</strong>
+            <span>Migracao do programa, piso de R$ 400 e depois R$ 600; total chega a 21,6 milhoes de familias e 55,26 milhoes de pessoas.</span>
+          </div>
+          <div class="event blue">
+            <strong>2023: retorno do Bolsa Familia</strong>
+            <span>Busca ativa inclui 2,85 milhoes; revisao cadastral afeta milhoes de cadastros.</span>
+          </div>
+          <div class="event red">
+            <strong>2025: novas regras e reducao</strong>
+            <span>Queda de cerca de 2,1 milhoes de familias, com foco em unipessoais e regra de protecao.</span>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <section class="wide">
+      <h2>Pessoas atendidas em dezembro</h2>
+      <div class="people-panel">
+        <div class="people-bars" aria-label="Barras com pessoas atendidas por ano">
+          <div class="people-row"><span>2015</span><div class="people-track"><div class="people-fill" style="width: 85.0%"></div></div><strong>47,37 mi</strong></div>
+          <div class="people-row"><span>2016</span><div class="people-track"><div class="people-fill" style="width: 82.5%"></div></div><strong>45,96 mi</strong></div>
+          <div class="people-row"><span>2017</span><div class="people-track"><div class="people-fill" style="width: 79.8%"></div></div><strong>44,48 mi</strong></div>
+          <div class="people-row"><span>2018</span><div class="people-track"><div class="people-fill" style="width: 78.6%"></div></div><strong>43,79 mi</strong></div>
+          <div class="people-row"><span>2019</span><div class="people-track"><div class="people-fill" style="width: 73.3%"></div></div><strong>40,83 mi</strong></div>
+          <div class="people-row"><span>2020</span><div class="people-track"><div class="people-fill" style="width: 78.2%"></div></div><strong>43,59 mi</strong></div>
+          <div class="people-row"><span>2021</span><div class="people-track"><div class="people-fill" style="width: 78.2%"></div></div><strong>43,59 mi</strong></div>
+          <div class="people-row"><span>2022</span><div class="people-track"><div class="people-fill" style="width: 99.1%"></div></div><strong>55,26 mi</strong></div>
+          <div class="people-row"><span>2023</span><div class="people-track"><div class="people-fill" style="width: 100%"></div></div><strong>55,74 mi</strong></div>
+          <div class="people-row"><span>2024</span><div class="people-track"><div class="people-fill" style="width: 97.5%"></div></div><strong>54,37 mi</strong></div>
+          <div class="people-row"><span>2025</span><div class="people-track"><div class="people-fill" style="width: 87.6%"></div></div><strong>~48,8 mi</strong></div>
+        </div>
+        <div class="timeline">
+          <div class="event blue">
+            <strong>Fonte principal: VIS DATA/SAGICAD</strong>
+            <span>Serie oficial de pessoas beneficiarias no PBF e no Auxilio Brasil; dezembro e o mes de referencia para comparacao anual.</span>
+          </div>
+          <div class="event gold">
+            <strong>2022: pico de familias, nao de pessoas</strong>
+            <span>As pessoas sobem 26,8% contra cerca de 48,8% nas familias, indicando mais lares menores e unipessoais.</span>
+          </div>
+          <div class="event red">
+            <strong>2025 ainda e estimado</strong>
+            <span>A nota de dez/2025 informa 35,8 mi de pessoas pretas/pardas, 73,29% do total, implicando cerca de 48,8 mi pessoas.</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <div class="split">
+      <section>
+        <h2>Entradas e saidas estimadas por ano</h2>
+        <div class="chart" aria-label="Barras de entradas e saidas estimadas">
+          <svg viewBox="0 0 820 390" role="img">
+            <line class="grid-line" x1="70" y1="320" x2="780" y2="320"></line>
+            <line class="grid-line" x1="70" y1="249" x2="780" y2="249"></line>
+            <line class="grid-line" x1="70" y1="178" x2="780" y2="178"></line>
+            <line class="grid-line" x1="70" y1="107" x2="780" y2="107"></line>
+            <line class="axis" x1="70" y1="320" x2="780" y2="320"></line>
+            <text class="axis-label" x="36" y="324">0</text>
+            <text class="axis-label" x="22" y="253">2 mi</text>
+            <text class="axis-label" x="22" y="182">4 mi</text>
+            <text class="axis-label" x="22" y="111">6 mi</text>
+
+            <rect class="bar-in" x="83" y="240" width="20" height="80"></rect>
+            <rect class="bar-out" x="106" y="232" width="20" height="88"></rect>
+            <rect class="bar-in" x="147" y="231" width="20" height="89"></rect>
+            <rect class="bar-out" x="170" y="217" width="20" height="103"></rect>
+            <rect class="bar-in" x="211" y="204" width="20" height="116"></rect>
+            <rect class="bar-out" x="234" y="219" width="20" height="101"></rect>
+            <rect class="bar-in" x="275" y="222" width="20" height="98"></rect>
+            <rect class="bar-out" x="298" y="222" width="20" height="98"></rect>
+            <rect class="bar-in" x="339" y="258" width="20" height="62"></rect>
+            <rect class="bar-out" x="362" y="233" width="20" height="87"></rect>
+            <rect class="bar-in" x="403" y="258" width="20" height="62"></rect>
+            <rect class="bar-out" x="426" y="297" width="20" height="23"></rect>
+            <rect class="bar-in" x="467" y="205" width="20" height="115"></rect>
+            <rect class="bar-out" x="490" y="292" width="20" height="28"></rect>
+            <rect class="bar-in" x="531" y="53" width="20" height="267"></rect>
+            <rect class="bar-out" x="554" y="293" width="20" height="27"></rect>
+            <rect class="bar-in" x="595" y="219" width="20" height="101"></rect>
+            <rect class="bar-out" x="618" y="188" width="20" height="132"></rect>
+            <rect class="bar-in" x="659" y="249" width="20" height="71"></rect>
+            <rect class="bar-out" x="682" y="213" width="20" height="107"></rect>
+            <rect class="bar-in" x="723" y="276" width="20" height="44"></rect>
+            <rect class="bar-out" x="746" y="222" width="20" height="98"></rect>
+
+            <text class="year-label" x="83" y="346">2015</text>
+            <text class="year-label" x="147" y="346">2016</text>
+            <text class="year-label" x="211" y="346">2017</text>
+            <text class="year-label" x="275" y="346">2018</text>
+            <text class="year-label" x="339" y="346">2019</text>
+            <text class="year-label" x="403" y="346">2020</text>
+            <text class="year-label" x="467" y="346">2021</text>
+            <text class="year-label" x="531" y="346">2022</text>
+            <text class="year-label" x="595" y="346">2023</text>
+            <text class="year-label" x="659" y="346">2024</text>
+            <text class="year-label" x="723" y="346">2025</text>
+          </svg>
+        </div>
+        <div class="legend">
+          <span><i class="swatch green"></i>Entradas estimadas</span>
+          <span><i class="swatch red"></i>Saidas estimadas</span>
+        </div>
+      </section>
+
+      <section>
+        <h2>Saldos e orcamento</h2>
+        <table class="table">
+          <thead>
+            <tr>
+              <th>Ano</th>
+              <th>Familias</th>
+              <th>Pessoas</th>
+              <th>Saldo</th>
+              <th>Programa</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr><td>2015</td><td>13,9 mi</td><td>47,37 mi</td><td class="negative">-0,2 mi</td><td>BF</td></tr>
+            <tr><td>2016</td><td>13,5 mi</td><td>45,96 mi</td><td class="negative">-0,4 mi</td><td>BF</td></tr>
+            <tr><td>2017</td><td>13,8 mi</td><td>44,48 mi</td><td class="positive">+0,3 mi</td><td>BF</td></tr>
+            <tr><td>2018</td><td>14,0 mi</td><td>43,79 mi</td><td class="positive">+0,1 mi</td><td>BF</td></tr>
+            <tr><td>2019</td><td>13,2 mi</td><td>40,83 mi</td><td class="negative">-0,7 mi</td><td>BF</td></tr>
+            <tr><td>2020</td><td>14,2 mi</td><td>43,59 mi</td><td class="positive">+1,0 mi</td><td>BF</td></tr>
+            <tr><td>2021</td><td>14,6 mi</td><td>43,59 mi</td><td class="positive">+2,5 mi</td><td>AB</td></tr>
+            <tr><td>2022</td><td>21,6 mi</td><td>55,26 mi</td><td class="positive">+7,0 mi</td><td>AB</td></tr>
+            <tr><td>2023</td><td>21,1 mi</td><td>55,74 mi</td><td class="negative">-0,5 mi</td><td>BF</td></tr>
+            <tr><td>2024</td><td>20,8 mi</td><td>54,37 mi</td><td class="negative">-0,3 mi</td><td>BF</td></tr>
+            <tr><td>2025</td><td>18,7 mi</td><td>~48,8 mi</td><td class="negative">-2,1 mi</td><td>BF</td></tr>
+          </tbody>
+        </table>
+
+        <h2 style="margin-top: 20px;">Gasto anual aproximado</h2>
+        <div class="budget-bars">
+          <div class="budget-row"><span>2015</span><div class="budget-track"><div class="budget-fill" style="width: 16.4%"></div></div><strong>R$ 27,6 bi</strong></div>
+          <div class="budget-row"><span>2018</span><div class="budget-track"><div class="budget-fill" style="width: 17.8%"></div></div><strong>R$ 29,9 bi</strong></div>
+          <div class="budget-row"><span>2022</span><div class="budget-track"><div class="budget-fill" style="width: 56.5%"></div></div><strong>R$ 95 bi</strong></div>
+          <div class="budget-row"><span>2023</span><div class="budget-track"><div class="budget-fill" style="width: 99.8%"></div></div><strong>R$ 168 bi</strong></div>
+          <div class="budget-row"><span>2024</span><div class="budget-track"><div class="budget-fill" style="width: 100%"></div></div><strong>R$ 168,3 bi</strong></div>
+          <div class="budget-row"><span>2025</span><div class="budget-track"><div class="budget-fill" style="width: 94.2%"></div></div><strong>R$ 158,6 bi</strong></div>
+        </div>
+      </section>
+    </div>
+
+    <p class="footnote">Notas: valores de entradas e saidas sao estimativas do arquivo-base, pois nao ha relatorio anual consolidado de concessoes e cancelamentos. Pessoas atendidas sao integrantes das familias beneficiarias, nao pagamentos individuais separados. BF = Bolsa Familia; AB = Auxilio Brasil. Valores de familias e pessoas referem-se a dezembro; 2025 em pessoas e estimado a partir da nota oficial do MDS.</p>
+  </main>
+</body>
+</html>
