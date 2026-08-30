@@ -60,7 +60,7 @@ A produção de um chip tem ~8 camadas. Abaixo, onde o Brasil está **forte (�
 | 4 | **Projeto de circuito (design/IP)** | 🟢🟡 | Chipus, Instituto Eldorado, CTI Renato Archer, IDEA!, SMDH + ~22 design houses (CI-Brasil) | Analógico/mixed-signal forte; digital de alto desempenho é incipiente |
 | 5 | **Ferramentas de projeto (EDA)** | 🔴 | Uso de Synopsys/Cadence/Siemens (licenças estrangeiras) | Dependência + risco de controle de exportação |
 | 6 | **Encapsulamento e teste (OSAT/back-end)** | 🟢 | **HT Micron** (até 360 mi chips/ano, sala limpa 7.500 m²), **Smart Modular** (Atibaia, >150 mi CIs/ano), Brasil Componentes (Multilaser) | **Maior força real**; ainda sem packaging avançado 2.5D/chiplet |
-| 7 | **Memória (DRAM/HBM)** | 🟡→🔴 | Smart encapsula DDR4 16 Gbit no Brasil (mas o die vem de fora); **HBM inexistente** | HBM é o gargalo global mais crítico |
+| 7 | **Memória (DRAM/LPDRAM/Flash — CI e módulo)** | 🟡 | **Zilia Technologies** (ex-Smart Modular do Brasil) produz CIs de DRAM, LPDRAM e Flash e módulos em Atibaia/SP e Manaus/AM; roadmap DDR5/LPDDR5. **Die (front-end) ainda importado; HBM inexistente** | Sem fab de die de memória; HBM é o gargalo global mais crítico |
 | 8 | **Talento / P&D** | 🟢🟡 | CI-Brasil/Softex, Unicamp (CCS), USP (LSI), UFRGS (GME/LME), UFMG, UFCG, UFPE, UFRN, UFSC | Volume insuficiente; fuga de cérebros |
 
 **Leitura estratégica do mapa:**
@@ -106,7 +106,7 @@ Vantagem para o Brasil: **cada chiplet pode vir de um nó/foundry diferente**, a
 | Nó de fabricação | 22 nm (1ª versão) → 12/16 nm FinFET (versão comercial) — foundry estrangeira |
 | Arquitetura | SoC: cluster RISC-V (RVV) + NPU matriz sistólica + extensão matricial |
 | Desempenho-alvo | 20–80 TOPS (INT8) |
-| Memória | LPDDR5X (importada, mas **encapsulada com o die no Brasil** via SiP na HT Micron) — **evita HBM de propósito** |
+| Memória | LPDDR5X — die importado, mas **CI/módulo produzido no Brasil pela Zilia** (que já tem roadmap LPDDR5) e co-encapsulado via SiP na HT Micron — **evita HBM de propósito** |
 | Potência | 5–25 W (envelope de borda) |
 | Packaging | SiP / Fan-out na **HT Micron (São Leopoldo)** — este é o "made in Brazil" |
 | Prazo | Primeiro tapeout MPW em ~18 meses; produção em ~3 anos |
@@ -117,7 +117,7 @@ Vantagem para o Brasil: **cada chiplet pode vir de um nó/foundry diferente**, a
 | Aplicação | Inferência de LLM/visão em datacenter; nuvem soberana; PBIA/supercomputador nacional |
 | Arquitetura | **Chiplets**: 1–4 chiplets de compute (5–7 nm) + chiplet de I/O + memória de alta banda |
 | Desempenho-alvo | Centenas de TOPS a poucos PFLOPS (INT8/FP8) por pacote |
-| Memória | HBM3E (importada) **ou** bancos LPDDR5X largos (rota de contingência sem HBM) |
+| Memória | HBM3E (importada) **ou** bancos LPDDR5X largos (rota de contingência sem HBM, com CI/módulo pela Zilia) |
 | Interconexão | UCIe entre chiplets; PCIe Gen5/CXL e formato OAM para o host |
 | Packaging | 2.5D com interposer — meta de médio prazo da HT Micron (parceria com a matriz coreana Hana Micron) |
 | Prazo | 3–6 anos (depende de escala de compra do Estado) |
@@ -170,7 +170,7 @@ Aproveita o pivô já aprovado da CEITEC para **carbeto de silício (SiC)** — 
 
 ### 6.4 Encapsulamento, teste e montagem — a MAIOR força brasileira 🟢
 - **HT Micron (São Leopoldo/RS)** — JV Hana Micron (Coreia) + Parit; **único parque de encapsulamento e teste de semicondutores em escala da América Latina**; sala limpa de 7.500 m², capacidade de até 360 mi chips/ano; já domina **SiP (System-in-Package)** para IoT (chip iMCP-HT32SX) e lançou nova linha de encapsulamento/teste com apoio da Finep. **É aqui que o Malagueta vira "made in Brazil".** A conexão com a Hana Micron abre caminho para subir a escada rumo ao packaging avançado (fan-out, 2.5D).
-- **Smart Modular Technologies (Atibaia/SP + Manaus)** — complexo de encapsulamento de memórias, 550 funcionários, >150 mi CIs/ano; **encapsula DRAM DDR4 16 Gbit no Brasil** e produz SSDs em Manaus (R$ 150 mi). Parceiro de memória/módulo.
+- **Zilia Technologies (Atibaia/SP + Manaus/AM)** — **ex-Smart Modular do Brasil**, rebatizada em dez/2023 como empresa nacional; **pioneira e líder na produção de CIs de memória DRAM, LPDRAM e Flash e de módulos no Brasil** (uMCP, eMCP, UFS, eMMC, LPDRAM, DRAM IC, Flash IC, SSDs). Encapsula DRAM DDR4 16 Gbit no país e tem roadmap para **DDR5 e LPDDR5**; expansão anunciada (R$ 143 mi de ampliação, ~R$ 475 mi em máquinas, apoio BNDES Mais Inovação), mirando exportação. **Ressalva técnica:** produz o CI/módulo (back-end de alto valor — encapsulamento e montagem do *die*); a fabricação do *die* de memória (front-end) segue importada. Ainda assim, é **o parceiro nacional que torna viável o LPDDR5X "montado no Brasil" do Malagueta-E**.
 - **Brasil Componentes (Grupo Multilaser)** — empresa 100% nacional de encapsulamento de CIs.
 
 ### 6.5 Talento e P&D 🟢🟡
@@ -288,7 +288,7 @@ Unicamp (Centro de Componentes e Semicondutores), USP (Laboratório de Sistemas 
 - Arquitetura de chip de inferência: [Medium — RISC-V AI/ML inference](https://medium.com/@jonah_27996/risc-vs-open-source-innovation-advantage-in-ai-ml-inference-workloads-a4b70eec5400), [Tandfonline — NN inference engine RISC-V](https://www.tandfonline.com/doi/full/10.1080/23335777.2025.2584291), [Design&Reuse — chiplet revolution](https://www.design-reuse.com/news/202529865-the-chiplet-revolution-how-advanced-packaging-and-ucie-are-redefining-ai-hardware-in-2025/)
 - Custos de foundry/tapeout: [Silicon Analysts](https://siliconanalysts.com/guide/foundry-engagement), [VLSI Shuttle — MPW](https://www.vlsishuttle.com/en/learn/mpw-guide)
 - Packaging avançado / HBM / LPDDR: [Marvell](https://www.marvell.com/company/newsroom/marvell-delivers-advanced-packaging-platform-custom-ai-accelerators.html), [Semiconductor Engineering — memória para aceleradores](https://semiengineering.com/choosing-the-right-memory-solution-for-ai-accelerators/), [Wevolver — HBM](https://www.wevolver.com/article/what-is-hbm-high-bandwidth-memory-deep-dive-into-architecture-packaging-and-applications)
-- Memória/OSAT no Brasil: [SMART Modular](https://smartmodular.com.br/blog/a-smart-modular-technologies-comeca-a-produzir-no-brasil-circuitos-integrados-dram-do-tipo-ddr4-de-ultima-geracao-de-16gbit/), [Plano Brasil Semicondutores (MDIC)](https://www.gov.br/mdic/pt-br/assuntos/sdic/setor-automotivo/PlanoBrasilSemicondutores.pdf)
+- Memória/OSAT no Brasil (Zilia, ex-Smart Modular): [Zilia Technologies](https://ziliatech.com/en/), [Times Brasil/CNBC — expansão R$ 143 mi](https://timesbrasil.com.br/brasil/zilia-technologies-amplia-producao-de-semicondutores-no-brasil-com-investimento-de-r-143-milhoes/), [Teletime/Telesíntese — mercado externo](https://telesintese.com.br/apos-expansao-local-zilia-mira-mercado-externo-de-semicondutores/), [Investing/Reuters — R$ 650 mi](https://br.investing.com/news/technology-news/fabricante-de-semicondutores-zilia-anuncia-investimento-de-r650-mi-ate-o-final-de-2025-1272948), [SMART Modular — DRAM DDR4 16 Gbit](https://smartmodular.com.br/blog/a-smart-modular-technologies-comeca-a-produzir-no-brasil-circuitos-integrados-dram-do-tipo-ddr4-de-ultima-geracao-de-16gbit/), [Plano Brasil Semicondutores (MDIC)](https://www.gov.br/mdic/pt-br/assuntos/sdic/setor-automotivo/PlanoBrasilSemicondutores.pdf)
 - PBIA e energia/data centers: [PBIA — MCTI](https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/transformacaodigital/plano-brasileiro-de-inteligencia-artificial), [Claro Próximo Nível — R$ 23 bi](https://proximonivel.claro.com.br/pbia-brasil-aporta-r-23-bilhoes-em-investimentos-em-ia/), [CNN Brasil — energia e data centers](https://www.cnnbrasil.com.br/infra/energia-renovavel-e-data-centers-a-vantagem-competitiva-do-brasil/), [Câmara dos Deputados](https://www.camara.leg.br/noticias/1196158-matriz-de-energia-limpa-e-renovavel-torna-o-brasil-atraente-para-instalacao-de-data-centers/)
 - Edge AI / agronegócio: [IT Forum — agro movido a chips](https://itforum.com.br/colunas/algoritmo-agro-chips/), [Computer Weekly — edge-to-satellite](https://www.computerweekly.com/br/reportagen/Como-a-arquitetura-Edge-to-Satellite-redefine-a-TI-do-agro-e-da-logistica-no-Brasil)
 - Referência OpenAI Jalapeño: [OpenAI](https://openai.com/index/openai-broadcom-jalapeno-inference-chip/), [TechCrunch](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/), [DataCenterDynamics](https://www.datacenterdynamics.com/en/news/openai-building-first-custom-ai-inference-chip-with-tsmc-and-broadcom-report/)
